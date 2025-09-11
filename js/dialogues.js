@@ -1016,6 +1016,28 @@ function updateTranslationVisibility() {
     }
 }
 
+// Função para alternar modo fullscreen
+function toggleFullscreen() {
+    const dialogueContainer = document.querySelector('.dialogue-container');
+    const fullscreenBtn = document.getElementById('fullscreen-toggle-btn');
+    
+    if (!dialogueContainer || !fullscreenBtn) return;
+    
+    const isFullscreen = dialogueContainer.classList.contains('mobile-fullscreen');
+    
+    if (isFullscreen) {
+        // Sair do fullscreen
+        dialogueContainer.classList.remove('mobile-fullscreen');
+        fullscreenBtn.classList.remove('active');
+        document.body.style.overflow = 'auto';
+    } else {
+        // Entrar no fullscreen
+        dialogueContainer.classList.add('mobile-fullscreen');
+        fullscreenBtn.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+}
+
 // 🔥 ATUALIZADO: Função updateVolume unificada
 function updateVolume(volume) {
     appConfig.volume = volume;
@@ -1203,6 +1225,18 @@ function setupEventListeners() {
             this.style.transform = 'scale(0.92)';
         });
         domElements.translateToggleBtn.addEventListener('touchend', function() {
+            this.style.transform = 'scale(1)';
+        });
+    }
+    
+    // Fullscreen toggle button
+    const fullscreenBtn = document.getElementById('fullscreen-toggle-btn');
+    if (fullscreenBtn) {
+        fullscreenBtn.addEventListener('click', toggleFullscreen);
+        fullscreenBtn.addEventListener('touchstart', function() {
+            this.style.transform = 'scale(0.92)';
+        });
+        fullscreenBtn.addEventListener('touchend', function() {
             this.style.transform = 'scale(1)';
         });
     }
@@ -1480,6 +1514,7 @@ function updateDialogueTranslations(langCode) {
 window.loadDialogue = loadDialogue;
 window.playPhrase = playPhrase;
 window.toggleTranslationMode = toggleTranslationMode;
+window.toggleFullscreen = toggleFullscreen;
 window.toggleMute = toggleMute;
 window.loadMoreThemes = loadMoreThemes;
 window.showLessThemes = showLessThemes;

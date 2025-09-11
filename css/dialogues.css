@@ -15,10 +15,21 @@
     
     /* Cores específicas para componentes */
     --chat-bg: #6495ED;
-    --chat-bubble-user: #F0F8FF;
-    --chat-bubble-other: #f1f3ff;
+    --chat-bubble-user: #ffffff;
+    --chat-bubble-other: #f8fafc;
+    --chat-bubble-user-modern: #d1ffff;
+    --chat-bubble-other-modern: #f8fafc;
     --chat-text: var(--text);
+    --chat-text-user: #0f172a;
+    --chat-text-other: #374151;
     --chat-time: var(--text-light);
+    
+    /* Cores específicas para histórias (padronização com stories.css) */
+    --story-bg: #f0f8ff;
+    --story-paragraph: #ffffff;
+    --story-text: var(--text);
+    --story-highlight: #fff3cd;
+    --story-border: rgba(67, 97, 238, 0.1);
 }
 
 * {
@@ -83,13 +94,13 @@ body {
 
 /* Dialogue area */
 .dialogue-container {
-    background: var(--chat-bg);
+    background: var(--story-bg);
     border-radius: 16px;
     padding: 0;
     margin: 3rem 0;
     overflow: hidden;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 8px 32px rgba(240, 248, 255, 0.2);
+    border: 1px solid rgba(240, 248, 255, 0.3);
 }
 
 .dialogue-title {
@@ -111,7 +122,7 @@ body {
 
 #dialogue-content {
     padding: 1.5rem;
-    height: 500px;
+    height: 600px;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -129,11 +140,13 @@ body {
     animation: fadeIn 0.3s ease-out;
     cursor: pointer;
     transition: transform 0.2s, box-shadow 0.2s;
+    background: transparent;
+    border: 1px solid transparent;
 }
 
 .message:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(22, 163, 74, 0.3);
 }
 
 @keyframes fadeIn {
@@ -143,18 +156,20 @@ body {
 
 .message-user {
     align-self: flex-end;
-    background-color: var(--chat-bubble-user);
-    color: var(--chat-text);
+    background-color: var(--chat-bubble-user-modern) !important;
+    color: var(--chat-text-user) !important;
     border-bottom-right-radius: 4px;
-    border: 1px solid rgba(67, 97, 238, 0.2);
+    border: 2px solid rgba(156, 163, 175, 0.4) !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1) !important;
 }
 
 .message-other {
     align-self: flex-start;
-    background-color: var(--chat-bubble-other);
-    color: var(--chat-text);
+    background-color: var(--chat-bubble-other-modern) !important;
+    color: var(--chat-text-other) !important;
     border-bottom-left-radius: 4px;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 2px solid rgba(156, 163, 175, 0.4) !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1) !important;
 }
 
 .message-info {
@@ -193,12 +208,13 @@ body {
 
 /* Media player */
 .media-player {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(248, 250, 252, 0.95);
     border-radius: 16px;
     padding: 1.5rem;
     margin: 1.5rem 2rem 2rem;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(240, 248, 255, 0.4);
     backdrop-filter: blur(10px);
+    box-shadow: 0 4px 20px rgba(240, 248, 255, 0.25);
 }
 
 .player-controls {
@@ -230,6 +246,27 @@ body {
 #pause-btn,
 #stop-btn {
     display: none;
+}
+
+/* Fullscreen button styles */
+#fullscreen-toggle-btn {
+    background: var(--primary);
+    transition: all 0.3s ease;
+}
+
+#fullscreen-toggle-btn:hover {
+    background: var(--secondary);
+    transform: scale(1.1);
+}
+
+#fullscreen-toggle-btn.active {
+    background: var(--secondary);
+    transform: scale(1.05);
+}
+
+/* Ícone do fullscreen muda quando ativo */
+#fullscreen-toggle-btn.active i::before {
+    content: "\f066"; /* fa-compress */
 }
 
 /* Button visibility is controlled by JavaScript */
@@ -353,8 +390,8 @@ body {
 
 /* Highlight effects */
 .message.highlighted {
-    background-color: rgba(240,255,255, 0.9) !important;
-    box-shadow: 0 0 0 2px rgba(240,255,255, 1) !important;
+    background-color: rgba(173,255,47, 0.5) !important;
+    box-shadow: 0 0 0 2px rgba(173,255,47, 1) !important;
     transform: scale(1.02);
     position: relative;
     z-index: 1;
@@ -667,54 +704,588 @@ body {
     background: rgba(67, 97, 238, 0.2);
 }
 
-/* Responsive styles */
-@media (max-width: 768px) {
+/* ============================================
+   RESPONSIVE STYLES - DISPOSITIVOS ESPECÍFICOS
+   ============================================ */
+
+/* iPhone SE, iPhone 5/5s (320px) */
+@media (max-width: 375px) {
     .dialogue-container {
-        margin: 1rem 0;
+        margin: 0.3rem 0;
+    }
+    
+    #dialogue-content {
+        padding: 1rem;
+        height: 420px;
+        gap: 12px;
+    }
+    
+    .message {
+        padding: 12px 16px;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        max-width: 85%;
     }
     
     .media-player {
-        margin: 1rem;
-        padding: 1rem;
-    }
-    
-    .player-controls {
-        gap: 15px;
+        margin: 0.3rem;
+        padding: 0.6rem;
     }
     
     .player-btn {
-        width: 48px;
-        height: 48px;
-        font-size: 1rem;
-    }
-    
-    .theme-grid {
-        grid-template-columns: 1fr;
-        gap: 1rem;
-    }
-    
-    .theme-controls {
-        flex-direction: column;
-        align-items: center;
+        width: 40px;
+        height: 40px;
+        font-size: 0.8rem;
     }
 }
 
-@media (max-width: 480px) {
-    .page-title {
-        font-size: 1.5rem;
+/* iPhone 12 mini, iPhone 13 mini (390px) */
+@media (min-width: 376px) and (max-width: 414px) {
+    .dialogue-container {
+        margin: 0.4rem 0;
     }
     
-    .dialogue-title {
-        font-size: 1.1rem;
-        padding: 1rem;
+    #dialogue-content {
+        padding: 1.2rem;
+        height: 450px;
+        gap: 14px;
+    }
+    
+    .message {
+        padding: 14px 18px;
+        font-size: 0.95rem;
+        line-height: 1.55;
+        max-width: 82%;
+    }
+    
+    .media-player {
+        margin: 0.4rem;
+        padding: 0.7rem;
+    }
+    
+    .player-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 0.85rem;
+    }
+}
+
+/* iPhone 12/13/14, Samsung Galaxy S21 (390px-428px) */
+@media (min-width: 415px) and (max-width: 480px) {
+    .dialogue-container {
+        margin: 0.5rem 0;
+    }
+    
+    #dialogue-content {
+        padding: 1.4rem;
+        height: 480px;
+        gap: 15px;
+    }
+    
+    .message {
+        padding: 15px 19px;
+        font-size: 0.98rem;
+        line-height: 1.58;
+        max-width: 80%;
+    }
+    
+    .media-player {
+        margin: 0.45rem;
+        padding: 0.75rem;
+    }
+    
+    .player-btn {
+        width: 43px;
+        height: 43px;
+        font-size: 0.88rem;
+    }
+}
+
+/* Tablets pequenos e dispositivos grandes (481px-768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .dialogue-container {
+        margin: 0.5rem 0;
+    }
+    
+    #dialogue-content {
+        padding: 1.5rem;
+        height: 500px;
+        gap: 16px;
+    }
+    
+    .message {
+        padding: 16px 20px;
+        font-size: 1rem;
+        line-height: 1.6;
+        max-width: 80%;
+    }
+    
+    .media-player {
+        margin: 0.5rem;
+        padding: 0.8rem;
     }
     
     .player-btn {
         width: 44px;
         height: 44px;
+        font-size: 0.9rem;
     }
     
-    .volume-control {
-        display: none;
+    /* Estilos para desktop no modo fullscreen */
+    @media (min-width: 769px) {
+        .dialogue-container.mobile-fullscreen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 9999;
+            margin: 0;
+            padding: 0;
+            background: var(--story-bg);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            width: 100vw;
+            max-width: 100vw;
+            box-sizing: border-box;
+        }
+        
+        .dialogue-container.mobile-fullscreen #dialogue-content {
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 1rem;
+        }
+        
+        .dialogue-container.mobile-fullscreen .dialogue-title {
+            flex-shrink: 0;
+            font-size: 1.8rem;
+            padding: 2rem;
+            margin: 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            position: relative;
+            z-index: 10000;
+            width: 100%;
+            box-sizing: border-box;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 0;
+            background: var(--primary);
+            color: white;
+        }
+        
+        .dialogue-container.mobile-fullscreen .media-player {
+            flex-shrink: 0;
+            width: 100%;
+            margin: 0;
+            padding: 3rem;
+            margin-top: auto;
+        }
+        
+        .dialogue-container.mobile-fullscreen .player-btn {
+            width: 70px;
+            height: 70px;
+            font-size: 1.4rem;
+        }
+        
+        .dialogue-container.mobile-fullscreen .progress-bar {
+            height: 12px;
+        }
+        
+        .dialogue-container.mobile-fullscreen .time-display {
+            font-size: 1.1rem;
+            margin-top: 1rem;
+            display: flex !important;
+            justify-content: space-between !important;
+            color: var(--text-light);
+        }
+        
+        .dialogue-container.mobile-fullscreen .player-controls {
+            gap: 20px;
+            margin-bottom: 1.5rem;
+        }
+        
+        .dialogue-container.mobile-fullscreen .progress-container {
+            display: block !important;
+            margin-top: 1.5rem;
+            width: 100%;
+        }
+        
+        /* Esconder outros elementos quando em fullscreen no desktop */
+        body:has(.dialogue-container.mobile-fullscreen) .container > *:not(.dialogue-container) {
+            display: none !important;
+        }
+        
+        body:has(.dialogue-container.mobile-fullscreen) .content-below-navbar > *:not(.container) {
+            display: none !important;
+        }
+        
+        /* Esconder navbar no fullscreen desktop */
+        body:has(.dialogue-container.mobile-fullscreen) .navbar {
+            display: none !important;
+        }
+    }
+}
+
+/* Breakpoint geral para mobile (max-width: 768px) */
+@media (max-width: 768px) {
+    .dialogue-container {
+        margin: 0.5rem 0;
+    }
+    
+    /* Media player otimizado para mobile */
+    .media-player {
+        margin: 0.5rem;
+        padding: 0.6rem;
+        position: relative;
+    }
+    
+    /* Modo fullscreen para mobile - aplicado ao dialogue-container */
+    .dialogue-container.mobile-fullscreen {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 9999;
+        margin: 0;
+        padding: 0;
+        background: var(--story-bg);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        width: 100vw;
+        max-width: 100vw;
+        box-sizing: border-box;
+    }
+    
+    .dialogue-container.mobile-fullscreen #dialogue-content {
+        flex: 1;
+        overflow-y: auto;
+        margin-bottom: 1rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .media-player {
+        flex-shrink: 0;
+        margin-top: auto;
+    }
+    
+    /* Esconder outros elementos quando em fullscreen */
+    body:has(.dialogue-container.mobile-fullscreen) .container > *:not(.dialogue-container) {
+        display: none !important;
+    }
+    
+    body:has(.dialogue-container.mobile-fullscreen) .content-below-navbar > *:not(.container) {
+        display: none !important;
+    }
+    
+    /* Esconder navbar no fullscreen */
+    body:has(.dialogue-container.mobile-fullscreen) .navbar {
+        display: none !important;
+    }
+    
+    /* Garantir que o título do diálogo seja visível */
+    .dialogue-container.mobile-fullscreen .dialogue-title {
+        flex-shrink: 0;
+        margin: 0;
+        padding: 1rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        position: relative;
+        z-index: 10000;
+        width: 100%;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        border-radius: 0;
+        background: var(--primary);
+    }
+    
+    /* Garantir que a barra de progresso apareça no fullscreen */
+    .dialogue-container.mobile-fullscreen .progress-container {
+        display: block !important;
+        margin-top: 1rem;
+        width: 100%;
+    }
+    
+    .dialogue-container.mobile-fullscreen .progress-bar {
+        height: 8px;
+        background: rgba(0, 0, 0, 0.1);
+    }
+    
+    .dialogue-container.mobile-fullscreen .time-display {
+        display: flex !important;
+        justify-content: space-between !important;
+        color: var(--text-light);
+        font-size: 0.9rem;
+    }
+    
+    .player-controls {
+        gap: 8px;
+        margin-bottom: 0.5rem;
+    }
+    
+    .player-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 0.9rem;
+    }
+    
+
+    
+    .theme-grid {
+        grid-template-columns: 1fr;
+        gap: 0.8rem;
+    }
+    
+    .theme-controls {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    
+    /* Otimizações de texto */
+    .section-title {
+        font-size: 1.3rem;
+        margin: 1rem 0 0.8rem;
+    }
+}
+
+/* iPhone Pro Max, Samsung Galaxy Note (428px+) */
+@media (min-width: 428px) and (max-width: 480px) {
+    .page-title {
+        font-size: 1.5rem;
+    }
+    
+    .container {
+        padding: 0 1rem;
+    }
+    
+    #dialogue-content {
+        padding: 1.4rem;
+        height: 480px;
+        gap: 15px;
+    }
+    
+    .message {
+        padding: 15px 19px;
+        font-size: 0.98rem;
+        line-height: 1.58;
+        max-width: 80%;
+    }
+    
+    .media-player {
+        margin: 0.45rem;
+        padding: 0.75rem;
+    }
+    
+    .player-btn {
+        width: 43px;
+        height: 43px;
+        font-size: 0.88rem;
+    }
+}
+
+/* Dispositivos muito pequenos (iPhone SE, Galaxy S4 mini) */
+@media (max-width: 320px) {
+    .page-title {
+        font-size: 1.2rem;
+    }
+    
+    .container {
+        padding: 0 0.5rem;
+    }
+    
+    #dialogue-content {
+        padding: 0.8rem;
+        height: 380px;
+        gap: 8px;
+    }
+    
+    .message {
+        padding: 10px 14px;
+        font-size: 0.85rem;
+        line-height: 1.4;
+        max-width: 90%;
+    }
+    
+    .media-player {
+        margin: 0.2rem;
+        padding: 0.5rem;
+    }
+    
+    .player-btn {
+        width: 38px;
+        height: 38px;
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .page-title {
+        font-size: 1.3rem;
+        padding-bottom: 0.3rem;
+    }
+    
+    .page-title-container {
+        padding: 1rem 0;
+        margin-bottom: 1rem;
+    }
+    
+    .dialogue-title {
+        font-size: 1rem;
+        padding: 0.8rem;
+    }
+    
+    .dialogue-container {
+        margin: 0.3rem 0;
+    }
+    
+    .media-player {
+        margin: 0.3rem;
+        padding: 0.6rem;
+    }
+    
+    .player-controls {
+        gap: 10px;
+        margin-bottom: 0.8rem;
+    }
+    
+    .player-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 0.8rem;
+    }
+    
+}
+
+/* Media queries para telas muito grandes (4K, Ultra-wide) */
+@media (min-width: 1440px) {
+    .dialogue-container.mobile-fullscreen .dialogue-title {
+        font-size: 2.2rem;
+        padding: 3rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .media-player {
+        padding: 4rem 6rem;
+        max-width: 1200px;
+        margin: 0 auto;
+        margin-top: auto;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-btn {
+        width: 80px;
+        height: 80px;
+        font-size: 1.6rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .progress-bar {
+        height: 16px;
+    }
+    
+    .dialogue-container.mobile-fullscreen .time-display {
+        font-size: 1.3rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-controls {
+        gap: 30px;
+        margin-bottom: 2rem;
+    }
+}
+
+@media (min-width: 1920px) {
+    .dialogue-container.mobile-fullscreen .dialogue-title {
+        font-size: 2.5rem;
+        padding: 4rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .media-player {
+        padding: 5rem 8rem;
+        max-width: 1400px;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-btn {
+        width: 90px;
+        height: 90px;
+        font-size: 1.8rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .progress-bar {
+        height: 20px;
+    }
+    
+    .dialogue-container.mobile-fullscreen .time-display {
+        font-size: 1.5rem;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-controls {
+        gap: 40px;
+        margin-bottom: 2.5rem;
+    }
+}
+
+/* Media query para desktop */
+@media (min-width: 769px) {
+    
+    /* Progress bar mais compacta */
+    .progress-bar {
+        height: 6px;
+        margin-bottom: 6px;
+    }
+    
+    .progress-container {
+        margin: 0.5rem 0;
+        display: block !important;
+    }
+    
+    .time-display {
+        font-size: 0.8rem;
+        margin: 0.3rem 0;
+    }
+    
+    /* Volume control otimizado */
+    .volume-container {
+        margin: 0.5rem 0;
+    }
+    
+    .volume-slider {
+        height: 4px;
+    }
+    
+    /* Botões de tema mais compactos */
+    .theme-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
+        margin: 0.2rem;
+    }
+    
+
+    
+    /* Texto mais compacto */
+    .section-title {
+        font-size: 1.1rem;
+        margin: 0.8rem 0 0.6rem;
+    }
+    
+    .container {
+        padding: 0 0.8rem;
+    }
+    
+    /* Call to action mais compacto */
+    .cta-link {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+        margin: 0.5rem 0;
+    }
+    
+    /* Diálogo título otimizado */
+    .dialogue-title {
+        font-size: 1rem;
+        padding: 0.6rem 0.8rem;
+        margin-bottom: 0.5rem;
     }
 }

@@ -1,0 +1,196 @@
+/**
+ * Mobile Layout Optimizations
+ * Reorganização de conteúdo para priorizar o media player em dispositivos móveis
+ */
+
+/* Utilitários para reorganização de conteúdo mobile */
+@media (max-width: 768px) {
+    /* Prioridade do media player */
+    .content-below-navbar {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    /* Reordenar elementos para priorizar media player */
+    .media-player {
+        order: 1;
+    }
+    
+    .page-title-container {
+        order: 0;
+    }
+    
+    .dialogue-container,
+    .story-container {
+        order: 2;
+    }
+    
+    .theme-selection {
+        order: 3;
+    }
+    
+    .cta-section {
+        order: 4;
+    }
+    
+    /* Sticky media player option */
+    .media-player.sticky-mobile {
+        position: sticky;
+        top: 70px;
+        z-index: 100;
+        background: rgba(248, 250, 252, 0.95);
+        border: 1px solid rgba(240, 248, 255, 0.3);
+        box-shadow: 0 4px 20px rgba(240, 248, 255, 0.15);
+        backdrop-filter: blur(10px);
+        margin-bottom: 1rem;
+    }
+    
+    /* Conteúdo colapsável em mobile */
+    .mobile-collapsible {
+        transition: max-height 0.3s ease;
+        overflow: hidden;
+    }
+    
+    .mobile-collapsible.collapsed {
+        max-height: 0;
+        margin: 0;
+        padding: 0;
+    }
+    
+    /* Botão para expandir/colapsar conteúdo */
+    .mobile-toggle-btn {
+        display: block;
+        width: 100%;
+        padding: 0.8rem;
+        background: var(--primary-color);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 0.9rem;
+        cursor: pointer;
+        margin: 0.5rem 0;
+        transition: all 0.3s ease;
+    }
+    
+    .mobile-toggle-btn:hover {
+        background: var(--primary-hover);
+        transform: translateY(-1px);
+    }
+    
+    .mobile-toggle-btn::after {
+        content: ' ▼';
+        transition: transform 0.3s ease;
+    }
+    
+    .mobile-toggle-btn.expanded::after {
+        transform: rotate(180deg);
+    }
+    
+    /* Layout compacto para seções secundárias */
+    .secondary-content {
+        background: rgba(240, 248, 255, 0.1);
+        border: 1px solid rgba(240, 248, 255, 0.2);
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 0.5rem 0;
+    }
+    
+    /* Navegação rápida em mobile */
+    .mobile-quick-nav {
+        display: flex;
+        justify-content: space-around;
+        background: var(--card-bg);
+        padding: 0.5rem;
+        border-radius: 8px;
+        margin: 0.5rem 0;
+        position: sticky;
+        top: calc(70px + 120px); /* navbar + media player height */
+        z-index: 99;
+    }
+    
+    .mobile-quick-nav button {
+        background: none;
+        border: none;
+        color: var(--text-color);
+        padding: 0.5rem;
+        border-radius: 4px;
+        font-size: 0.8rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+    
+    .mobile-quick-nav button:hover,
+    .mobile-quick-nav button.active {
+        background: var(--primary-color);
+        color: white;
+    }
+    
+    /* Otimizações para conteúdo de texto */
+    .text-content {
+        line-height: 1.4;
+        font-size: 0.9rem;
+    }
+    
+    /* Espaçamento otimizado entre seções */
+    .section {
+        margin-bottom: 1rem;
+    }
+    
+    .section:last-child {
+        margin-bottom: 2rem; /* espaço extra no final */
+    }
+}
+
+@media (max-width: 480px) {
+    /* Ajustes ainda mais compactos para telas muito pequenas */
+    .media-player.sticky-mobile {
+        top: 60px;
+        margin-bottom: 0.5rem;
+    }
+    
+    .mobile-quick-nav {
+        top: calc(60px + 100px);
+        padding: 0.3rem;
+    }
+    
+    .mobile-quick-nav button {
+        padding: 0.3rem;
+        font-size: 0.7rem;
+    }
+    
+    .mobile-toggle-btn {
+        padding: 0.6rem;
+        font-size: 0.8rem;
+    }
+    
+    .secondary-content {
+        padding: 0.8rem;
+        margin: 0.3rem 0;
+    }
+    
+    .text-content {
+        font-size: 0.85rem;
+        line-height: 1.3;
+    }
+}
+
+/* Animações suaves para transições */
+@media (prefers-reduced-motion: no-preference) {
+    .mobile-collapsible,
+    .mobile-toggle-btn,
+    .mobile-quick-nav button {
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+}
+
+/* Modo escuro específico para mobile */
+@media (max-width: 768px) and (prefers-color-scheme: dark) {
+    .mobile-quick-nav {
+        background: rgba(0, 0, 0, 0.8);
+        backdrop-filter: blur(10px);
+    }
+    
+    .secondary-content {
+        background: rgba(0, 0, 0, 0.3);
+    }
+}

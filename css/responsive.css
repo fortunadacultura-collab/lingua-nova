@@ -352,7 +352,9 @@
     .dialogue-container {
         margin: 1rem 0.5rem !important;
         border-radius: 12px;
-        background: var(--chat-bg);
+        background: rgba(240, 248, 255, 0.95);
+        border: 1px solid rgba(240, 248, 255, 0.3);
+         box-shadow: 0 8px 32px rgba(240, 248, 255, 0.2);
     }
     
     #dialogue-content {
@@ -399,7 +401,9 @@
     .media-player {
         padding: 1rem;
         margin: 1rem 0.5rem;
-        background: rgba(255, 255, 255, 0.95);
+        background: rgba(248, 250, 252, 0.95);
+        border: 1px solid rgba(240, 248, 255, 0.3);
+         box-shadow: 0 4px 20px rgba(240, 248, 255, 0.15);
         backdrop-filter: blur(20px);
         -webkit-backdrop-filter: blur(20px);
     }
@@ -812,7 +816,7 @@
 @media (prefers-color-scheme: dark) {
     @media (max-width: 768px) {
         .media-player {
-            background: rgba(30, 30, 40, 0.95);
+            background: rgba(248, 250, 252, 0.95);
         }
         
         .volume-popup-content {

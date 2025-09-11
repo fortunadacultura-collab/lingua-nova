@@ -829,6 +829,28 @@ function toggleMute() {
     volumeManager.toggleMute();
 }
 
+// Fullscreen functionality
+function toggleFullscreen() {
+    const storyContainer = document.querySelector('.story-container');
+    const fullscreenBtn = document.getElementById('fullscreen-toggle-btn');
+    
+    if (!storyContainer || !fullscreenBtn) return;
+    
+    const isFullscreen = storyContainer.classList.contains('mobile-fullscreen');
+    
+    if (isFullscreen) {
+        // Sair do fullscreen
+        storyContainer.classList.remove('mobile-fullscreen');
+        fullscreenBtn.classList.remove('active');
+        document.body.style.overflow = 'auto';
+    } else {
+        // Entrar no fullscreen
+        storyContainer.classList.add('mobile-fullscreen');
+        fullscreenBtn.classList.add('active');
+        document.body.style.overflow = 'hidden';
+    }
+}
+
 // Render story cards
 function renderStoryCards() {
     if (!domElements.storyContainer) return;
@@ -978,6 +1000,18 @@ function setupEventListeners() {
     
     if (domElements.translateBtn) {
         domElements.translateBtn.addEventListener('click', toggleTranslationMode);
+    }
+    
+    // Fullscreen button
+    const fullscreenBtn = document.getElementById('fullscreen-toggle-btn');
+    if (fullscreenBtn) {
+        fullscreenBtn.addEventListener('click', toggleFullscreen);
+        fullscreenBtn.addEventListener('touchstart', function() {
+            this.style.transform = 'scale(0.95)';
+        });
+        fullscreenBtn.addEventListener('touchend', function() {
+            this.style.transform = 'scale(1)';
+        });
     }
     
     // Volume controls
@@ -1174,6 +1208,7 @@ function calculateThemesPerLine() {
 window.loadStory = loadStory;
 window.playParagraph = playParagraph;
 window.toggleTranslationMode = toggleTranslationMode;
+window.toggleFullscreen = toggleFullscreen;
 window.toggleMute = toggleMute;
 window.loadMoreStories = loadMoreStories;
 window.showLessStories = showLessStories;
