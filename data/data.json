@@ -282,6 +282,336 @@
         { "id": "innovation_management", "name": "Innovation Management" },
         { "id": "future_tech", "name": "Future Technologies" }
       ]
+    },
+    {
+      "title": "Emprendimiento y Startups",
+      "topics": [
+        { "id": "la_idea", "name": "La Idea" },
+        { "id": "busqueda_financiamiento", "name": "Búsqueda de Financiamiento" },
+        { "id": "construir_mvp", "name": "Construir un MVP" },
+        { "id": "marca_personal_networking", "name": "Marca Personal y Networking" },
+        { "id": "marketing_digital_startups", "name": "Marketing Digital para Startups" },
+        { "id": "impacto_social_sostenibilidad", "name": "Impacto Social y Sostenibilidad" },
+        { "id": "modelos_negocio", "name": "Modelos de Negocio" },
+        { "id": "expansion_nuevos_mercados", "name": "Expansion a Nuevos Mercados" },
+        { "id": "gestion_tiempo_productividad", "name": "Gestión del Tiempo y Productividad" },
+        { "id": "fracaso_resiliencia", "name": "Fracaso y Resiliencia" }
+      ]
+    },
+    {
+      "title": "Bienestar y Salud Mental",
+      "topics": [
+        { "id": "rutinas_autocuidado", "name": "Rutinas de Autocuidado" },
+        { "id": "ansiedad_trabajo", "name": "Ansiedad en el Trabajo" },
+        { "id": "desconexion_digital", "name": "Desconexión Digital" },
+        { "id": "meditacion_mindfulness", "name": "Meditación y Mindfulness" },
+        { "id": "terapia_salud_emocional", "name": "Terapia y Salud Emocional" },
+        { "id": "alimentacion_consciente", "name": "Alimentación Consciente" },
+        { "id": "sueno_reparador", "name": "Sueño Reparador" },
+        { "id": "ejercicio_liberacion", "name": "Ejercicio como Liberación" },
+        { "id": "limites_saludables", "name": "Límites Saludables" },
+        { "id": "practicando_gratitud", "name": "Practicando la Gratitud" }
+      ]
+    },
+    {
+      "title": "Sostenibilidad y Moda Ética",
+      "topics": [
+        { "id": "fast_fashion_slow_fashion", "name": "Fast Fashion vs. Slow Fashion" },
+        { "id": "greenwashing", "name": "Greenwashing" },
+        { "id": "second_hand_vintage", "name": "Second-Hand y Vintage" },
+        { "id": "materiales_sostenibles", "name": "Materiales Sostenibles" },
+        { "id": "minimalismo_armario", "name": "Minimalismo en el Armario" },
+        { "id": "activismo_consumo", "name": "Activismo desde el Consumo" },
+        { "id": "upcycling_creatividad", "name": "Upcycling y Creatividad" },
+        { "id": "marcas_locales_autonomas", "name": "Marcas Locales y Autónomas" },
+        { "id": "costo_real_ropa", "name": "El Costo Real de la Ropa" },
+        { "id": "futuro_moda", "name": "Futuro de la Moda" }
+      ]
+    },
+    {
+      "title": "Tecnología e Inteligencia Artificial",
+      "topics": [
+        { "id": "chatgpt_asistentes_ia", "name": "ChatGPT y Asistentes IA" },
+        { "id": "sesgos_ia", "name": "Sesgos en la IA" },
+        { "id": "ia_generativa", "name": "IA Generativa" },
+        { "id": "privacidad_datos", "name": "Privacidad de Datos" },
+        { "id": "automatizacion_empleos", "name": "Automatización de Empleos" },
+        { "id": "etica_desarrollo", "name": "Ética en el Desarrollo" },
+        { "id": "ia_marketing", "name": "IA en el Marketing" },
+        { "id": "asistentes_virtuales", "name": "Asistentes Virtuales" },
+        { "id": "metaverso", "name": "El Metaverso" },
+        { "id": "aprendizaje_automatico", "name": "Aprendizaje Automático" }
+      ]
+    },
+    {
+      "title": "Viajes y Turismo Slow",
+      "topics": [
+        { "id": "viajar_sostenible", "name": "Viajar de Forma Sostenible" },
+        { "id": "turismo_experiencias", "name": "Turismo de Experiencias" },
+        { "id": "workations_nomadas", "name": "Workations y Nómadas" },
+        { "id": "subculturas_urbanas", "name": "Subculturas Urbanas" },
+        { "id": "presupuesto_mochileros", "name": "Presupuesto para Mochileros" },
+        { "id": "comida_callejera_autentica", "name": "Comida Callejera Auténtica" },
+        { "id": "voluntariado_extranjero", "name": "Voluntariado en el Extranjero" },
+        { "id": "documentacion_logistica", "name": "Documentación y Logística" },
+        { "id": "idiomas_conexion_local", "name": "Idiomas y Conexión Local" },
+        { "id": "shock_cultural_inverso", "name": "Shock Cultural Inverso" }
+      ]
+    },
+    {
+      "title": "Gastronomía y Tendencias Culinarias",
+      "topics": [
+        { "id": "fermentados_probioticos", "name": "Fermentados y Probióticos" },
+        { "id": "cocina_autor_tradicional", "name": "Cocina de Autor vs. Tradicional" },
+        { "id": "chefs_influencers", "name": "Chefs Influencers" },
+        { "id": "cenas_clandestinas", "name": "Cenas Clandestinas" },
+        { "id": "cultura_vermut", "name": "Cultura del Vermút" },
+        { "id": "origen_alimentos", "name": "Origen de los Alimentos" },
+        { "id": "cocina_vegana_creativa", "name": "Cocina Vegana Creativa" },
+        { "id": "criticas_gastronomicas", "name": "Críticas Gastronómicas" },
+        { "id": "food_pairing_inusual", "name": "Food Pairing Inusual" },
+        { "id": "futuro_comida", "name": "Futuro de la Comida" }
+      ]
+    },
+    {
+      "title": "El Futuro del Trabajo (Remote Work)",
+      "topics": [
+        { "id": "nomadas_digitales", "name": "Nómadas Digitales" },
+        { "id": "gestion_tiempo_remoto", "name": "Gestión del Tiempo" },
+        { "id": "comunicacion_asincrona", "name": "Comunicación Asíncrona" },
+        { "id": "espacios_coworking", "name": "Espacios de Coworking" },
+        { "id": "liderazgo_distancia", "name": "Liderazgo a Distancia" },
+        { "id": "ciberseguridad_remoto", "name": "Ciberseguridad" },
+        { "id": "equipamiento_esencial", "name": "Equipamiento Esencial" },
+        { "id": "derechos_laborales_remoto", "name": "Derechos Laborales" },
+        { "id": "desconexion_laboral", "name": "Desconexión" },
+        { "id": "eventos_remotos", "name": "Eventos para Remotos" }
+      ]
+    },
+    {
+      "title": "Activismo Social y Justicia",
+      "topics": [
+        { "id": "activismo_redes", "name": "Activismo en Redes" },
+        { "id": "interseccionalidad", "name": "Interseccionalidad" },
+        { "id": "educacion_publica", "name": "Educación Pública" },
+        { "id": "consumo_local", "name": "Consumo Local" },
+        { "id": "voluntariado_efectivo", "name": "Voluntariado Efectivo" },
+        { "id": "protestas_manifestaciones", "name": "Protestas y Manifestaciones" },
+        { "id": "micromachismos", "name": "Micromachismos" },
+        { "id": "diversidad_empresas", "name": "Diversidad en Empresas" },
+        { "id": "desobediencia_civil", "name": "Desobediencia Civil" },
+        { "id": "esperanza_cambio", "name": "Esperanza y Cambio" }
+      ]
+    },
+    {
+      "title": "Cultura Podcast y Nuevos Medios",
+      "topics": [
+        { "id": "equipamiento_basico_podcast", "name": "Equipamiento Básico" },
+        { "id": "encontrar_nicho", "name": "Encontrar un Nicho" },
+        { "id": "storytelling_auditivo", "name": "Storytelling Auditivo" },
+        { "id": "monetizacion_podcast", "name": "Monetización" },
+        { "id": "entrevistar_invitados", "name": "Entrevistar Invitados" },
+        { "id": "edicion_audio", "name": "Edición de Audio" },
+        { "id": "promocion_redes_podcast", "name": "Promoción en Redes" },
+        { "id": "audio_dramas_ficcion", "name": "Audio-dramas y Ficción" },
+        { "id": "analizar_exito_podcast", "name": "Analizar un Éxito" },
+        { "id": "futuro_audio", "name": "El Futuro del Audio" }
+      ]
+    },
+    {
+      "title": "Relaciones y Amor en la Era Digital",
+      "topics": [
+        { "id": "lenguajes_amor", "name": "Lenguajes del Amor" },
+        { "id": "expectativas_realidad", "name": "Expectativas vs. Realidad" },
+        { "id": "celos_digitales", "name": "Celos Digitales" },
+        { "id": "citas_creativas", "name": "Citas Creativas" },
+        { "id": "finanzas_pareja", "name": "Finanzas en Pareja" },
+        { "id": "convivencia_pareja", "name": "Convivencia" },
+        { "id": "planificacion_futuro", "name": "Planificación del Futuro" },
+        { "id": "sexteo_privacidad", "name": "Sexteo y Privacidad" },
+        { "id": "terapia_pareja", "name": "Terapia de Pareja" },
+        { "id": "amistad_pareja", "name": "Amistad en la Pareja" }
+      ]
+    },
+    {
+      "title": "Educación Online y Aprendizaje Continuo",
+      "topics": [
+        { "id": "plataformas_cursos", "name": "Plataformas de Cursos" },
+        { "id": "micro_credenciales", "name": "Micro-credenciales" },
+        { "id": "ensenar_online", "name": "Enseñar Online" },
+        { "id": "aprendizaje_idiomas_online", "name": "Aprendizaje de Idiomas" },
+        { "id": "moocs", "name": "MOOCs" },
+        { "id": "realidad_virtual_educacion", "name": "Realidad Virtual en Educación" },
+        { "id": "gamificacion_educacion", "name": "Gamificación" },
+        { "id": "comunidades_aprendizaje", "name": "Comunidades de Aprendizaje" },
+        { "id": "brecha_digital", "name": "Brecha Digital" },
+        { "id": "habitos_estudio", "name": "Hábitos de Estudio" }
+      ]
+    },
+    {
+      "title": "Música Indie y Escenas Locales",
+      "topics": [
+        { "id": "descubrir_musica_nueva", "name": "Descubrir Música Nueva" },
+        { "id": "festivales_pequenos_grandes", "name": "Festivales Pequeños vs. Grandes" },
+        { "id": "apoyar_artistas_independientes", "name": "Apoyar Artistas Independientes" },
+        { "id": "generos_boga", "name": "Géneros en Boga" },
+        { "id": "critica_musical", "name": "Crítica Musical" },
+        { "id": "playlists_curadas", "name": "Playlists Curadas" },
+        { "id": "musica_nostalgia", "name": "Música y Nostalgia" },
+        { "id": "colaboraciones_inesperadas", "name": "Colaboraciones Inesperadas" },
+        { "id": "conciertos_online", "name": "Conciertos Online" },
+        { "id": "letra_poesia", "name": "La Letra como Poesía" }
+      ]
+    },
+    {
+      "title": "Cine y Series de Streaming",
+      "topics": [
+        { "id": "saturacion_contenido", "name": "Saturación de Contenido" },
+        { "id": "cine_autor_blockbusters", "name": "Cine de Autor vs. Blockbusters" },
+        { "id": "series_coreanas", "name": "Series Coreanas" },
+        { "id": "finales_decepcionantes", "name": "Finales Decepcionantes" },
+        { "id": "plataformas_emergentes", "name": "Plataformas Emergentes" },
+        { "id": "representacion_cultural", "name": "Representación Cultural" },
+        { "id": "documentales_creativos", "name": "Documentales Creativos" },
+        { "id": "spinoffs_universos", "name": "Spin-offs y Universos" },
+        { "id": "analisis_escena", "name": "Análisis de una Escena" },
+        { "id": "futuro_cine", "name": "El Futuro del Cine" }
+      ]
+    },
+    {
+      "title": "Deporte y Rendimiento Atlético",
+      "topics": [
+        { "id": "tecnologia_wearable", "name": "Tecnología Wearable" },
+        { "id": "alimentacion_rendimiento", "name": "Alimentación para el Rendimiento" },
+        { "id": "prevencion_lesiones", "name": "Prevención de Lesiones" },
+        { "id": "deporte_amateur", "name": "Deporte Amateur" },
+        { "id": "psicologia_deportiva", "name": "Psicología Deportiva" },
+        { "id": "deportes_alternativos", "name": "Deportes Alternativos" },
+        { "id": "entrenamiento_casa", "name": "Entrenamiento en Casa" },
+        { "id": "iconos_deportivos", "name": "Iconos Deportivos" },
+        { "id": "eventos_multideportivos", "name": "Eventos Multideportivos" },
+        { "id": "deporte_comunidad", "name": "Deporte y Comunidad" }
+      ]
+    },
+    {
+      "title": "Economía Personal y Inversiones",
+      "topics": [
+        { "id": "ahorro_inversion", "name": "Ahorro vs. Inversión" },
+        { "id": "fondo_emergencia", "name": "Fondo de Emergencia" },
+        { "id": "criptomonedas", "name": "Criptomonedas" },
+        { "id": "apps_finanzas", "name": "Apps de Finanzas" },
+        { "id": "inversion_etica", "name": "Inversión Ética" },
+        { "id": "planes_pensiones", "name": "Planes de Pensiones" },
+        { "id": "impuestos_personales", "name": "Impuestos" },
+        { "id": "comprar_alquilar", "name": "Comprar vs. Alquilar" },
+        { "id": "educacion_financiera", "name": "Educación Financiera" },
+        { "id": "metas_financieras", "name": "Metas Financieras" }
+      ]
+    },
+    {
+      "title": "Redes Sociales y Marca Personal",
+      "topics": [
+        { "id": "algoritmos_redes", "name": "Los Algoritmos" },
+        { "id": "contenido_valor_viral", "name": "Contenido de Valor vs. Viral" },
+        { "id": "autenticidad_redes", "name": "Autenticidad" },
+        { "id": "gestionar_haters", "name": "Gestionar Haters" },
+        { "id": "collaborations_redes", "name": "Collaborations" },
+        { "id": "stories_reels_posts", "name": "Stories vs. Reels vs. Posts" },
+        { "id": "analytics_redes", "name": "Analytics" },
+        { "id": "desintoxicacion_digital_redes", "name": "Desintoxicación Digital" },
+        { "id": "tiktok_buscador", "name": "TikTok como Buscador" },
+        { "id": "futuro_redes", "name": "El Futuro de las Redes" }
+      ]
+    },
+    {
+      "title": "Literatura y Ficción",
+      "topics": [
+        { "id": "bookstagram_booktok", "name": "Bookstagram y BookTok" },
+        { "id": "autores_independientes", "name": "Autores Independientes" },
+        { "id": "clubes_lectura_virtuales", "name": "Clubes de Lectura Virtuales" },
+        { "id": "adaptaciones_cinematograficas", "name": "Adaptaciones Cinematográficas" },
+        { "id": "generos_hibridos", "name": "Géneros Híbridos" },
+        { "id": "ebooks_papel", "name": "eBooks vs. Papel" },
+        { "id": "autores_latinoamericanos", "name": "Autores Latinoamericanos" },
+        { "id": "novela_grafica", "name": "Novela Gráfica" },
+        { "id": "audiolibros", "name": "Audiolibros" },
+        { "id": "habito_lectura", "name": "El Hábito de la Lectura" }
+      ]
+    },
+    {
+      "title": "Psicología y Comportamiento Humano",
+      "topics": [
+        { "id": "sesgos_cognitivos", "name": "Sesgos Cognitivos" },
+        { "id": "inteligencia_emocional", "name": "Inteligencia Emocional" },
+        { "id": "redes_sociales_autoestima", "name": "Redes Sociales y Autoestima" },
+        { "id": "habitos_atomicos", "name": "Hábitos Atómicos" },
+        { "id": "poder_vulnerabilidad", "name": "El Poder de la Vulnerabilidad" },
+        { "id": "teoria_atribucion", "name": "Teoría de la Atribución" },
+        { "id": "mentalidad_fija_crecimiento", "name": "Mentalidad Fija vs. Crecimiento" },
+        { "id": "ciencia_persuasion", "name": "La Ciencia de la Persuasión" },
+        { "id": "resiliencia_psicologia", "name": "Resiliencia" },
+        { "id": "lenguaje_corporal", "name": "Lenguaje Corporal" }
+      ]
+    },
+    {
+      "title": "Urbanismo y Ciudades del Futuro",
+      "topics": [
+        { "id": "movilidad_sostenible", "name": "Movilidad Sostenible" },
+        { "id": "ciudad_15_minutos", "name": "Ciudad de 15 Minutos" },
+        { "id": "espacios_verdes", "name": "Espacios Verdes" },
+        { "id": "gentrificacion", "name": "Gentrificación" },
+        { "id": "arquitectura_bioclimatica", "name": "Arquitectura Bioclimática" },
+        { "id": "smart_cities", "name": "Smart Cities" },
+        { "id": "comunidad_barrio", "name": "Comunidad y Barrio" },
+        { "id": "vivienda_asequible", "name": "Vivienda Asequible" },
+        { "id": "arte_urbano", "name": "Arte Urbano" },
+        { "id": "futuro_centros_urbanos", "name": "El Futuro de los Centros Urbanos" }
+      ]
+    },
+    {
+      "title": "Filosofía de Vida y Propósito",
+      "topics": [
+        { "id": "concepto_ikigai", "name": "El Concepto de Ikigai" },
+        { "id": "minimalismo_vida", "name": "Minimalismo" },
+        { "id": "productividad_toxica", "name": "Productividad Tóxica" },
+        { "id": "legado", "name": "Legado" },
+        { "id": "fomo_vs_jomo", "name": "FOMO vs. JOMO" },
+        { "id": "definir_exito", "name": "Definir el Éxito" },
+        { "id": "filosofia_lagom", "name": "Filosofía Lagom" },
+        { "id": "tomar_decisiones", "name": "Tomar Decisiones" },
+        { "id": "envejecer", "name": "Envejecer" },
+        { "id": "busqueda_felicidad", "name": "La Búsqueda de la Felicidad" }
+      ]
+    },
+    {
+      "title": "Innovación en la Educación",
+      "topics": [
+        { "id": "aprendizaje_basado_proyectos", "name": "Aprendizaje Basado en Proyectos" },
+        { "id": "realidad_aumentada_aula", "name": "Realidad Aumentada en el Aula" },
+        { "id": "ensenar_programacion_ninos", "name": "Enseñar Programación a Niños" },
+        { "id": "personalizacion_aprendizaje", "name": "Personalización del Aprendizaje" },
+        { "id": "aulas_invertidas", "name": "Aulas Invertidas" },
+        { "id": "habilidades_blandas", "name": "Habilidades Blandas" },
+        { "id": "evaluacion_alternativa", "name": "Evaluación Alternativa" },
+        { "id": "educacion_emocional", "name": "Educación Emocional" },
+        { "id": "brecha_digital_educativa", "name": "Brecha Digital Educativa" },
+        { "id": "rol_profesor", "name": "El Rol del Profesor" }
+      ]
+    },
+    {
+      "title": "Eventos Culturales y Festivales",
+      "topics": [
+        { "id": "planificacion_eventos", "name": "Planificación" },
+        { "id": "festivales_sostenibles", "name": "Festivales Sostenibles" },
+        { "id": "diseno_experiencia", "name": "Diseño de Experiencia" },
+        { "id": "festivales_cine_independiente", "name": "Festivales de Cine Independiente" },
+        { "id": "eventos_moda", "name": "Eventos de Moda" },
+        { "id": "comida_callejera_festivales", "name": "Comida Callejera en Festivales" },
+        { "id": "voluntariado_festivales", "name": "Voluntariado en Festivales" },
+        { "id": "festivales_hibridos", "name": "Festivales Híbridos" },
+        { "id": "impacto_economico", "name": "Impacto Económico" },
+        { "id": "resaca_post_festival", "name": "Resaca Post-Festival" }
+      ]
     }
   ],
   

@@ -24,6 +24,9 @@ class NavbarManager {
                 this.setupUserMenu();
                 this.setupMobileMenu();
                 
+                // Aplicar lógica de exclusão mútua inicial
+                this.updateLanguageOptionsVisibility();
+                
                 // Sincronizar com idioma detectado
                 if (typeof syncWithDetectedLanguage === 'function') {
                     setTimeout(() => syncWithDetectedLanguage(), 500);
@@ -63,6 +66,7 @@ class NavbarManager {
         if (learningSelected && learningOptions) {
             learningSelected.addEventListener('click', (e) => {
                 e.stopPropagation();
+                this.updateLanguageOptionsVisibility();
                 this.toggleLanguageSelector(learningSelected.closest('.language-selector'));
                 this.closeUserMenu();
             });
@@ -77,6 +81,7 @@ class NavbarManager {
         if (userSelected && userOptions) {
             userSelected.addEventListener('click', (e) => {
                 e.stopPropagation();
+                this.updateLanguageOptionsVisibility();
                 this.toggleLanguageSelector(userSelected.closest('.language-selector'));
                 this.closeUserMenu();
             });
@@ -118,8 +123,20 @@ class NavbarManager {
         });
         selectedOption.classList.add('selected');
         
-        // Redirecionar
-        window.location.href = `study-${langCode}.html`;
+        // Atualizar visibilidade das opções do outro combo
+        this.updateLanguageOptionsVisibility();
+        
+        // Redirecionar baseado no idioma selecionado
+        if (langCode === 'es') {
+            // Para espanhol, redirecionar para dialogues.html com parâmetro lang=es
+            window.location.href = 'dialogues.html?lang=es';
+        } else if (langCode === 'en') {
+            // Para inglês, redirecionar para dialogues.html (padrão)
+            window.location.href = 'dialogues.html';
+        } else {
+            // Para outros idiomas, usar o padrão existente
+            window.location.href = `study-${langCode}.html`;
+        }
     }
 
     changeNativeLanguage(langCode) {
@@ -133,6 +150,9 @@ class NavbarManager {
         
         // Atualizar seletor visual imediatamente
         this.updateNativeLanguageSelector(langCode);
+        
+        // Atualizar visibilidade das opções do outro combo
+        this.updateLanguageOptionsVisibility();
     }
     
     updateNativeLanguageSelector(langCode) {
@@ -158,6 +178,73 @@ class NavbarManager {
                 option.classList.add('selected');
             }
         }
+    }
+
+    updateLanguageOptionsVisibility() {
+        const learningOptions = document.getElementById('learning-language-options');
+        const userOptions = document.getElementById('user-language-options');
+        const learningSelected = document.getElementById('learning-language');
+        const userSelected = document.getElementById('user-language');
+        
+        if (!learningOptions || !userOptions || !learningSelected || !userSelected) return;
+        
+        // Obter idioma selecionado no combo "Aprendendo" através da imagem da bandeira
+        let learningLangCode = null;
+        const learningImg = learningSelected.querySelector('img');
+        if (learningImg) {
+            const imgSrc = learningImg.src;
+            if (imgSrc.includes('/us.svg')) learningLangCode = 'en';
+            else if (imgSrc.includes('/es.svg')) learningLangCode = 'es';
+            else if (imgSrc.includes('/br.svg')) learningLangCode = 'pt';
+            else if (imgSrc.includes('/fr.svg')) learningLangCode = 'fr';
+            else if (imgSrc.includes('/de.svg')) learningLangCode = 'de';
+            else if (imgSrc.includes('/it.svg')) learningLangCode = 'it';
+            else if (imgSrc.includes('/ru.svg')) learningLangCode = 'ru';
+            else if (imgSrc.includes('/jp.svg')) learningLangCode = 'ja';
+            else if (imgSrc.includes('/kr.svg')) learningLangCode = 'ko';
+            else if (imgSrc.includes('/cn.svg')) learningLangCode = 'zh';
+            else if (imgSrc.includes('/in.svg')) learningLangCode = 'hi';
+        }
+        
+        // Obter idioma selecionado no combo "Meu idioma" através da imagem da bandeira
+        let userLangCode = null;
+        const userImg = userSelected.querySelector('img');
+        if (userImg) {
+            const imgSrc = userImg.src;
+            if (imgSrc.includes('/us.svg')) userLangCode = 'en';
+            else if (imgSrc.includes('/es.svg')) userLangCode = 'es';
+            else if (imgSrc.includes('/br.svg')) userLangCode = 'pt';
+            else if (imgSrc.includes('/fr.svg')) userLangCode = 'fr';
+            else if (imgSrc.includes('/de.svg')) userLangCode = 'de';
+            else if (imgSrc.includes('/it.svg')) userLangCode = 'it';
+            else if (imgSrc.includes('/ru.svg')) userLangCode = 'ru';
+            else if (imgSrc.includes('/jp.svg')) userLangCode = 'ja';
+            else if (imgSrc.includes('/kr.svg')) userLangCode = 'ko';
+            else if (imgSrc.includes('/cn.svg')) userLangCode = 'zh';
+            else if (imgSrc.includes('/in.svg')) userLangCode = 'hi';
+        }
+        
+        console.log('Idiomas detectados - Aprendendo:', learningLangCode, 'Nativo:', userLangCode);
+        
+        // Esconder/mostrar opções no combo "Aprendendo" baseado na seleção do "Meu idioma"
+        learningOptions.querySelectorAll('li').forEach(option => {
+            const langCode = option.getAttribute('data-value');
+            if (userLangCode && langCode === userLangCode) {
+                option.style.display = 'none';
+            } else {
+                option.style.display = 'flex';
+            }
+        });
+        
+        // Esconder/mostrar opções no combo "Meu idioma" baseado na seleção do "Aprendendo"
+        userOptions.querySelectorAll('li').forEach(option => {
+            const langCode = option.getAttribute('data-value');
+            if (learningLangCode && langCode === learningLangCode) {
+                option.style.display = 'none';
+            } else {
+                option.style.display = 'flex';
+            }
+        });
     }
 
     toggleLanguageSelector(selector) {

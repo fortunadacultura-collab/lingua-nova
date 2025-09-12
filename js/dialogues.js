@@ -362,6 +362,27 @@ async function init() {
     try {
         console.log("Initializing application...");
         
+        // Verificar parâmetro de idioma na URL e atualizar currentLanguage
+        const urlParams = new URLSearchParams(window.location.search);
+        const langParam = urlParams.get('lang');
+        if (langParam === 'es') {
+            appConfig.currentLanguage = 'es';
+            console.log('Language set to Spanish from URL parameter');
+            
+            // Atualizar a bandeira do idioma de aprendizado
+            setTimeout(() => {
+                const learningLanguageElement = document.getElementById('learning-language');
+                if (learningLanguageElement) {
+                    const flagImg = learningLanguageElement.querySelector('img');
+                    if (flagImg) {
+                        flagImg.src = 'assets/images/flags/es.svg';
+                        flagImg.alt = 'es';
+                        console.log('Learning language flag updated to Spanish');
+                    }
+                }
+            }, 100);
+        }
+        
         initDomElements();
         
         // Inicializar o gerenciador de idioma nativo PRIMEIRO
@@ -384,10 +405,22 @@ async function init() {
         appConfig.data = await response.json();
         
         appConfig.themesPerLine = calculateThemesPerLine();
-        appConfig.initialThemes = appConfig.themesPerLine;
-        appConfig.visibleThemes = appConfig.themesPerLine;
         
-        await loadDialogue('morning_routine');
+        // Configurar temas iniciais baseado no idioma
+        if (appConfig.currentLanguage === 'es') {
+            // Para espanhol, começar com 3 temas (1 linha de 3 colunas)
+            appConfig.initialThemes = 3;
+            appConfig.visibleThemes = 3;
+        } else {
+            // Para inglês, usar o cálculo padrão
+            appConfig.initialThemes = appConfig.themesPerLine;
+            appConfig.visibleThemes = appConfig.themesPerLine;
+        }
+        
+        // Carregar diálogo baseado no idioma
+        const defaultDialogue = appConfig.currentLanguage === 'es' ? 'la_idea' : 'morning_routine';
+        appConfig.currentDialogue = defaultDialogue;
+        await loadDialogue(defaultDialogue);
         renderThemeCards();
         setupEventListeners();
         
@@ -501,11 +534,14 @@ async function loadDialogue(dialogueId) {
 
 async function loadDialogueTxt(dialogueId) {
     try {
-        // CORREÇÃO: Caminho correto para os diálogos
-        const response = await fetch(`languages/en/dialogues/${dialogueId}.txt`);
+        // Usar o idioma atual para carregar os diálogos
+        const language = appConfig.currentLanguage;
+        console.log(`Loading dialogue ${dialogueId} for language: ${language}`);
+        
+        const response = await fetch(`languages/${language}/dialogues/${dialogueId}.txt`);
         if (!response.ok) {
             // Fallback: tentar com subpasta se não encontrar
-            const fallbackResponse = await fetch(`languages/en/dialogues/${dialogueId}/${dialogueId}.txt`);
+            const fallbackResponse = await fetch(`languages/${language}/dialogues/${dialogueId}/${dialogueId}.txt`);
             if (!fallbackResponse.ok) throw new Error('Dialogue not found');
             const content = await fallbackResponse.text();
             return parseDialogueTxt(content);
@@ -616,8 +652,9 @@ function preloadAudios(dialogueId) {
         const audio = new Audio();
         audio.preload = 'auto';
         
-        // CORREÇÃO: Caminho consistente baseado na estrutura do projeto
-        audio.src = `languages/en/dialogues/${dialogueId}/audios/line_${index}.mp3`;
+        // Usar o idioma atual para carregar os áudios
+        const language = appConfig.currentLanguage;
+        audio.src = `languages/${language}/dialogues/${dialogueId}/audios/line_${index}.mp3`;
         audio.volume = appConfig.volume;
         
         audio.addEventListener('error', (e) => {
@@ -1106,18 +1143,73 @@ function closeVolumeControl() {
     }
 }
 
+function getFilteredThemes() {
+    if (!appConfig.data || !appConfig.data.themes) return [];
+    
+    // Verificar se há parâmetro de idioma na URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    
+    console.log('URL params:', window.location.search);
+    console.log('Lang param detected:', langParam);
+    
+    if (langParam === 'es') {
+        console.log('Filtering Spanish themes...');
+        // Para espanhol, incluir todos os temas relevantes
+        const spanishThemes = [
+            'Emprendimiento y Startups',
+            'Bienestar y Salud Mental',
+            'Sostenibilidad y Moda Ética',
+            'Tecnología e Inteligencia Artificial',
+            'Viajes y Turismo Slow',
+            'Gastronomía y Tendencias Culinarias',
+            'El Futuro del Trabajo (Remote Work)',
+            'Activismo Social y Justicia',
+            'Cultura Podcast y Nuevos Medios',
+            'Relaciones y Amor en la Era Digital',
+            'Educación Online y Aprendizaje Continuo',
+            'Música Indie y Escenas Locales',
+            'Cine y Series de Streaming',
+            'Deporte y Rendimiento Atlético',
+            'Economía Personal y Inversiones'
+        ];
+        
+        return appConfig.data.themes.filter(theme => 
+            spanishThemes.includes(theme.title)
+        );
+    }
+    
+    // Retornar todos os temas por padrão
+    return appConfig.data.themes;
+}
+
 function renderThemeCards() {
     if (!domElements.themeContainer) return;
     
     domElements.themeContainer.innerHTML = '';
     
-    if (!appConfig.data || !appConfig.data.themes) return;
+    const filteredThemes = getFilteredThemes();
+    if (!filteredThemes.length) return;
     
-    appConfig.data.themes.slice(0, appConfig.visibleThemes).forEach(theme => {
+    // Verificar se é modo espanhol para aplicar layout específico
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    
+    if (langParam === 'es') {
+        domElements.themeContainer.classList.add('spanish-layout');
+    } else {
+        domElements.themeContainer.classList.remove('spanish-layout');
+    }
+    
+    // Atualizar configuração baseada nos temas filtrados
+    const totalFilteredThemes = filteredThemes.length;
+    const maxVisibleThemes = Math.min(appConfig.visibleThemes, totalFilteredThemes);
+    
+    filteredThemes.slice(0, maxVisibleThemes).forEach(theme => {
         const themeCard = document.createElement('div');
         themeCard.className = 'theme-card';
         themeCard.innerHTML = `
-            <h3>${theme.title}</h3>
+            <h3>${theme.name || theme.title}</h3>
             <ul>
                 ${theme.topics.map(topic => `
                     <li onclick="loadDialogue('${topic.id}')" 
@@ -1153,7 +1245,11 @@ function updateThemeControls() {
         showLessSpan.textContent = translations['showLess'];
     }
     
-    if (appConfig.visibleThemes >= appConfig.data.themes.length) {
+    // Usar temas filtrados ao invés de todos os temas
+    const filteredThemes = getFilteredThemes();
+    const totalFilteredThemes = filteredThemes.length;
+    
+    if (appConfig.visibleThemes >= totalFilteredThemes) {
         loadMoreBtn.style.display = 'none';
     } else {
         loadMoreBtn.style.display = 'flex';
@@ -1440,18 +1536,31 @@ function optimizeForMobile() {
 function loadMoreThemes() {
     if (!appConfig.data || !appConfig.data.themes) return;
     
-    appConfig.themesPerLine = calculateThemesPerLine();
+    const filteredThemes = getFilteredThemes();
+    if (!filteredThemes.length) return;
+    
+    // Para espanhol, usar sempre 3 colunas
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    const themesPerLine = langParam === 'es' ? 3 : calculateThemesPerLine();
+    
     appConfig.currentLine++;
     
-    const newVisibleThemes = appConfig.themesPerLine * appConfig.currentLine;
-    appConfig.visibleThemes = Math.min(newVisibleThemes, appConfig.data.themes.length);
+    const newVisibleThemes = themesPerLine * appConfig.currentLine;
+    appConfig.visibleThemes = Math.min(newVisibleThemes, filteredThemes.length);
     
     renderThemeCards();
 }
 
 function showLessThemes() {
     appConfig.currentLine = 1;
-    appConfig.visibleThemes = appConfig.themesPerLine;
+    
+    // Para espanhol, usar sempre 3 colunas
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    const themesPerLine = langParam === 'es' ? 3 : calculateThemesPerLine();
+    
+    appConfig.visibleThemes = themesPerLine;
     renderThemeCards();
     
     const sectionTitle = document.querySelector('.section-title');
