@@ -1030,11 +1030,20 @@ function toggleFullscreen() {
         dialogueContainer.classList.remove('mobile-fullscreen');
         fullscreenBtn.classList.remove('active');
         document.body.style.overflow = 'auto';
+        document.body.style.position = 'static';
     } else {
         // Entrar no fullscreen
         dialogueContainer.classList.add('mobile-fullscreen');
         fullscreenBtn.classList.add('active');
         document.body.style.overflow = 'hidden';
+        document.body.style.position = 'fixed';
+        document.body.style.width = '100%';
+        document.body.style.height = '100%';
+        
+        // Forçar redimensionamento imediato
+        setTimeout(() => {
+            window.dispatchEvent(new Event('resize'));
+        }, 100);
     }
 }
 

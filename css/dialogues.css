@@ -101,6 +101,7 @@ body {
     overflow: hidden;
     box-shadow: 0 8px 32px rgba(240, 248, 255, 0.2);
     border: 1px solid rgba(240, 248, 255, 0.3);
+    box-sizing: border-box;
 }
 
 .dialogue-title {
@@ -879,8 +880,11 @@ body {
             flex-shrink: 0;
             width: 100%;
             margin: 0;
-            padding: 3rem;
+            padding: 1.5rem;
             margin-top: auto;
+            box-sizing: border-box;
+            border-radius: 0;
+            background: rgba(248, 250, 252, 0.98);
         }
         
         .dialogue-container.mobile-fullscreen .player-btn {
@@ -958,17 +962,29 @@ body {
         width: 100vw;
         max-width: 100vw;
         box-sizing: border-box;
+        order: unset !important;
     }
     
     .dialogue-container.mobile-fullscreen #dialogue-content {
         flex: 1;
         overflow-y: auto;
         margin-bottom: 1rem;
+        background: transparent;
+        position: relative;
+        z-index: 1;
+        padding: 1.5rem;
     }
     
     .dialogue-container.mobile-fullscreen .media-player {
         flex-shrink: 0;
         margin-top: auto;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0.8rem;
+        box-sizing: border-box;
+        order: unset !important;
+        position: relative !important;
     }
     
     /* Esconder outros elementos quando em fullscreen */
@@ -978,6 +994,12 @@ body {
     
     body:has(.dialogue-container.mobile-fullscreen) .content-below-navbar > *:not(.container) {
         display: none !important;
+    }
+    
+    /* Desabilitar reorganização mobile no fullscreen */
+    body:has(.dialogue-container.mobile-fullscreen) .content-below-navbar {
+        display: block !important;
+        flex-direction: unset !important;
     }
     
     /* Esconder navbar no fullscreen */
@@ -1003,6 +1025,7 @@ body {
         white-space: nowrap;
         border-radius: 0;
         background: var(--primary);
+        color: white;
     }
     
     /* Garantir que a barra de progresso apareça no fullscreen */
@@ -1603,5 +1626,254 @@ body {
         font-size: 1rem;
         padding: 0.6rem 0.8rem;
         margin-bottom: 0.5rem;
+    }
+}
+
+.dialogue-container.mobile-fullscreen {
+    background: var(--story-bg) !important;
+}
+
+.dialogue-container.mobile-fullscreen #dialogue-content {
+    background: transparent !important;
+    flex: 1;
+    padding: 1rem 1.5rem !important;
+}
+
+/* Corrija o z-index para garantir que o conteúdo fique acima */
+.dialogue-container.mobile-fullscreen #dialogue-content {
+    position: relative;
+    z-index: 2;
+}
+
+.dialogue-container.mobile-fullscreen .dialogue-title {
+    z-index: 3;
+}
+
+.dialogue-container.mobile-fullscreen .media-player {
+    z-index: 3;
+}
+
+/* ============================================
+   CORREÇÕES PARA FULLSCREEN MODE - DIALOGUES
+   ============================================ */
+
+.dialogue-container.mobile-fullscreen {
+    background: var(--story-bg) !important;
+    padding: 0 !important;
+}
+
+.dialogue-container.mobile-fullscreen #dialogue-content {
+    background: transparent !important;
+    flex: 1;
+    padding: 1rem 1.5rem !important;
+    margin: 0 !important;
+    height: auto !important;
+    max-height: none !important;
+}
+
+.dialogue-container.mobile-fullscreen .media-player {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 1.2rem !important;
+    border-radius: 0 !important;
+    background: rgba(248, 250, 252, 0.98) !important;
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    border-top: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Garantir que todos os elementos internos tenham width 100% */
+.dialogue-container.mobile-fullscreen .player-controls,
+.dialogue-container.mobile-fullscreen .progress-container {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Ajustar botões para telas menores */
+@media (max-width: 480px) {
+    .dialogue-container.mobile-fullscreen .player-controls {
+        gap: 6px !important;
+        justify-content: space-around !important;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-btn {
+        width: 50px !important;
+        height: 50px !important;
+        min-width: 50px !important;
+        min-height: 50px !important;
+    }
+}
+
+/* Corrigir sobreposição de elementos */
+.dialogue-container.mobile-fullscreen {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.dialogue-container.mobile-fullscreen > * {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+/* Remover qualquer margem lateral */
+body:has(.dialogue-container.mobile-fullscreen) {
+    overflow: hidden !important;
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+/* Garantir que o título não tenha margens */
+.dialogue-container.mobile-fullscreen .dialogue-title {
+    margin: 0 !important;
+    padding: 1rem 1.5rem !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+/* ============================================
+   CORREÇÕES ESPECÍFICAS PARA FULLSCREEN - DIALOGUES
+   ============================================ */
+
+.dialogue-container.mobile-fullscreen {
+    background: var(--story-bg) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.dialogue-container.mobile-fullscreen #dialogue-content {
+    background: transparent !important;
+    flex: 1;
+    padding: 1rem 1.5rem !important;
+    margin: 0 !important;
+    height: auto !important;
+    max-height: none !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+}
+
+.dialogue-container.mobile-fullscreen .media-player {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 1.2rem !important;
+    border-radius: 0 !important;
+    background: rgba(248, 250, 252, 0.98) !important;
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    border-top: 1px solid rgba(0, 0, 0, 0.1) !important;
+    box-sizing: border-box !important;
+}
+
+/* Garantir que todos os elementos internos tenham width 100% */
+.dialogue-container.mobile-fullscreen .player-controls,
+.dialogue-container.mobile-fullscreen .progress-container {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Remover qualquer margem lateral dos botões */
+.dialogue-container.mobile-fullscreen .player-controls {
+    padding: 0 0.5rem !important;
+    justify-content: center !important;
+    gap: 0.8rem !important;
+}
+
+/* Ajustar botões para telas menores */
+@media (max-width: 480px) {
+    .dialogue-container.mobile-fullscreen .player-controls {
+        gap: 0.5rem !important;
+        justify-content: space-around !important;
+        padding: 0 0.3rem !important;
+    }
+    
+    .dialogue-container.mobile-fullscreen .player-btn {
+        width: 48px !important;
+        height: 48px !important;
+        min-width: 48px !important;
+        min-height: 48px !important;
+        flex-shrink: 0;
+    }
+}
+
+/* Corrigir sobreposição de elementos */
+.dialogue-container.mobile-fullscreen {
+    display: flex !important;
+    flex-direction: column !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+}
+
+.dialogue-container.mobile-fullscreen > * {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    flex-shrink: 0;
+}
+
+/* Título do diálogo no fullscreen */
+.dialogue-container.mobile-fullscreen .dialogue-title {
+    margin: 0 !important;
+    padding: 1rem 1.5rem !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    flex-shrink: 0;
+    border-radius: 0 !important;
+}
+
+/* Remover margens do container principal */
+body:has(.dialogue-container.mobile-fullscreen) .container {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+}
+
+/* Garantir que o body não tenha scroll */
+body:has(.dialogue-container.mobile-fullscreen) {
+    overflow: hidden !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    position: fixed !important;
+}
+
+/* Correção específica para a barra de progresso */
+.dialogue-container.mobile-fullscreen .progress-bar {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.dialogue-container.mobile-fullscreen .time-display {
+    width: 100% !important;
+    padding: 0 0.5rem !important;
+    box-sizing: border-box !important;
+}
+
+/* Garantir que o volume control não cause overflow */
+.dialogue-container.mobile-fullscreen .volume-control {
+    max-width: 120px !important;
+}
+
+/* Prevenir qualquer padding externo */
+.dialogue-container.mobile-fullscreen * {
+    box-sizing: border-box !important;
+}
+
+/* Correção para iOS */
+@supports (-webkit-touch-callout: none) {
+    .dialogue-container.mobile-fullscreen {
+        padding-bottom: env(safe-area-inset-bottom) !important;
+    }
+    
+    .dialogue-container.mobile-fullscreen .media-player {
+        padding-bottom: calc(1.2rem + env(safe-area-inset-bottom)) !important;
     }
 }
