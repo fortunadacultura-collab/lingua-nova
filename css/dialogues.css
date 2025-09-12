@@ -239,7 +239,7 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 1.2rem;
-    transition: all 0.3s;
+    transition: all 0.3s ease;
     box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3);
 }
 
@@ -850,6 +850,7 @@ body {
             width: 100vw;
             max-width: 100vw;
             box-sizing: border-box;
+            border-radius: 0 0 16px 16px !important;
         }
         
         .dialogue-container.mobile-fullscreen #dialogue-content {
@@ -963,6 +964,7 @@ body {
         max-width: 100vw;
         box-sizing: border-box;
         order: unset !important;
+        border-radius: 0 0 16px 16px !important;
     }
     
     .dialogue-container.mobile-fullscreen #dialogue-content {
@@ -1297,7 +1299,7 @@ body {
     .message {
         max-width: 92% !important;
         padding: 14px 16px !important;
-        margin: 0 auto 12px auto;
+        margin-bottom: 12px;
         backface-visibility: hidden;
         transform: translate3d(0, 0, 0);
     }
@@ -1675,7 +1677,7 @@ body {
     width: 100% !important;
     margin: 0 !important;
     padding: 1.2rem !important;
-    border-radius: 0 !important;
+    border-radius: 16px 16px 0 0 !important;
     background: rgba(248, 250, 252, 0.98) !important;
     backdrop-filter: blur(20px) !important;
     -webkit-backdrop-filter: blur(20px) !important;
@@ -1739,7 +1741,7 @@ body:has(.dialogue-container.mobile-fullscreen) {
     background: var(--story-bg) !important;
     padding: 0 !important;
     margin: 0 !important;
-    border-radius: 0 !important;
+    border-radius: 16px 16px 0 0 !important;
     box-shadow: none !important;
     border: none !important;
 }
@@ -1759,7 +1761,7 @@ body:has(.dialogue-container.mobile-fullscreen) {
     width: 100% !important;
     margin: 0 !important;
     padding: 1.2rem !important;
-    border-radius: 0 !important;
+    border-radius: 16px 16px 0 0 !important;
     background: rgba(248, 250, 252, 0.98) !important;
     backdrop-filter: blur(20px) !important;
     -webkit-backdrop-filter: blur(20px) !important;
@@ -1826,7 +1828,7 @@ body:has(.dialogue-container.mobile-fullscreen) {
     width: 100% !important;
     box-sizing: border-box !important;
     flex-shrink: 0;
-    border-radius: 0 !important;
+    border-radius: 16px 16px 0 0 !important;
 }
 
 /* Remover margens do container principal */
