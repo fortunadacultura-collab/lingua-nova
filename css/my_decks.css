@@ -200,8 +200,64 @@ footer {
     margin-top: 4rem;
 }
 
-/* Responsive */
+/* ========================================
+   RESPONSIVE DESIGN - MIGRATED FROM RESPONSIVE.CSS
+   ======================================== */
+
+/* Large screens (1200px+) */
+@media (max-width: 1200px) {
+    .container {
+        padding: 1.8rem;
+    }
+    
+    .deck-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.8rem;
+    }
+}
+
+/* Medium screens (1100px+) */
+@media (max-width: 1100px) {
+    .container {
+        padding: 1.5rem;
+    }
+    
+    .deck-grid {
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1.5rem;
+    }
+    
+    .hero-title {
+        font-size: 2.2rem;
+    }
+}
+
+/* Tablet landscape (900px+) */
+@media (max-width: 900px) {
+    .container {
+        padding: 1.2rem;
+    }
+    
+    .deck-grid {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 1.2rem;
+    }
+    
+    .hero-title {
+        font-size: 2rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+}
+
+/* Tablet portrait and mobile (768px+) */
 @media (max-width: 768px) {
+    body {
+        padding-top: 70px;
+    }
+    
     .cta-buttons {
         flex-direction: column;
         align-items: center;
@@ -221,5 +277,204 @@ footer {
 
     .hero-subtitle {
         font-size: 1rem;
+    }
+    
+    .hero-section {
+        padding: 2rem 0;
+    }
+    
+    .deck-card {
+        margin: 0 auto;
+        max-width: 400px;
+    }
+}
+
+/* Mobile small (576px+) */
+@media (max-width: 576px) {
+    .container {
+        padding: 0.8rem;
+    }
+    
+    .hero-title {
+        font-size: 1.8rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 0.95rem;
+    }
+    
+    .hero-section {
+        padding: 1.5rem 0;
+    }
+    
+    .deck-content {
+        padding: 1.2rem;
+    }
+    
+    .deck-title {
+        font-size: 1.2rem;
+    }
+    
+    .deck-actions {
+        gap: 0.6rem;
+    }
+    
+    .action-btn {
+        padding: 0.5rem;
+        font-size: 0.85rem;
+    }
+}
+
+/* Mobile extra small (360px+) */
+@media (max-width: 360px) {
+    .container {
+        padding: 0.6rem;
+    }
+    
+    .hero-title {
+        font-size: 1.6rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 0.9rem;
+    }
+    
+    .deck-content {
+        padding: 1rem;
+    }
+    
+    .deck-title {
+        font-size: 1.1rem;
+    }
+    
+    .deck-image {
+        height: 140px;
+        font-size: 2rem;
+    }
+    
+    .action-btn {
+        padding: 0.4rem;
+        font-size: 0.8rem;
+    }
+}
+
+/* Landscape mobile (768px height) */
+@media (max-width: 768px) and (orientation: landscape) {
+    .hero-section {
+        padding: 1rem 0;
+    }
+    
+    .deck-image {
+        height: 120px;
+    }
+}
+
+/* iOS specific adjustments */
+@supports (-webkit-touch-callout: none) {
+    body {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+    
+    .cta-buttons {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+/* Android specific adjustments */
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
+    .deck-card {
+        border-radius: 8px;
+    }
+    
+    .deck-image {
+        border-radius: 8px 8px 0 0;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #e0e6ed;
+        --text-light: #a0aec0;
+    }
+    
+    body {
+        background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+        color: var(--text);
+    }
+    
+    .deck-card {
+        background: #2d3748;
+        color: var(--text);
+    }
+    
+    footer {
+        background: #1a202c;
+    }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+    .deck-card {
+        border: 2px solid var(--primary);
+    }
+    
+    .btn {
+        border: 2px solid currentColor;
+    }
+    
+    .action-btn {
+        border: 2px solid currentColor;
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .deck-card {
+        transition: none;
+    }
+    
+    .btn {
+        transition: none;
+    }
+    
+    .action-btn {
+        transition: none;
+    }
+}
+
+/* Utility classes */
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block !important;
+    }
+    
+    .desktop-only {
+        display: none !important;
+    }
+    
+    /* Touch target sizes */
+    .touch-target {
+        min-height: 44px;
+        min-width: 44px;
+    }
+    
+    /* Safe area adjustments for phones with notch */
+    .safe-area-top {
+        padding-top: env(safe-area-inset-top);
+    }
+    
+    .safe-area-bottom {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+@media (min-width: 769px) {
+    .mobile-only {
+        display: none !important;
+    }
+    
+    .desktop-only {
+        display: block !important;
     }
 }

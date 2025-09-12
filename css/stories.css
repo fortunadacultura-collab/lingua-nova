@@ -1145,6 +1145,390 @@ body {
     }
 }
 
+/* ========================================
+   RESPONSIVE DESIGN - MIGRATED FROM RESPONSIVE.CSS
+   ======================================== */
+
+/* Large screens (1200px+) */
+@media (max-width: 1200px) {
+    .story-content {
+        padding: 1.5rem;
+    }
+    
+    .paragraph {
+        font-size: 1rem;
+        padding: 18px 22px;
+    }
+}
+
+/* Medium screens (1100px+) */
+@media (max-width: 1100px) {
+    .story-content {
+        padding: 1.2rem;
+    }
+    
+    .paragraph {
+        font-size: 0.95rem;
+        padding: 16px 20px;
+    }
+}
+
+/* Tablet landscape (900px+) */
+@media (max-width: 900px) {
+    .story-content {
+        padding: 1rem;
+    }
+    
+    .paragraph {
+        font-size: 0.9rem;
+        padding: 14px 18px;
+    }
+}
+
+/* Tablet portrait and mobile (768px+) */
+@media (max-width: 768px) {
+    .content-below-navbar {
+        padding-top: 70px;
+    }
+    
+    .page-title {
+        font-size: 1.6rem;
+    }
+    
+    .container {
+        padding: 0 1rem;
+    }
+    
+    #story-content {
+        padding: 1.5rem;
+        height: 500px;
+        gap: 18px;
+    }
+    
+    .paragraph {
+        padding: 16px 20px;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 8px;
+    }
+    
+    /* Media player otimizado para mobile */
+    .media-player {
+        margin: 0.5rem;
+        padding: 0.8rem;
+        position: relative;
+    }
+    
+    /* Modo fullscreen para mobile - aplicado ao story-container */
+    .story-container.mobile-fullscreen {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 9999;
+        margin: 0;
+        padding: 0;
+        background: var(--story-bg);
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        width: 100vw;
+        max-width: 100vw;
+        box-sizing: border-box;
+    }
+    
+    .story-container.mobile-fullscreen #story-content {
+        flex: 1;
+        overflow-y: auto;
+        margin-bottom: 1rem;
+    }
+    
+    .story-container.mobile-fullscreen .media-player {
+        flex-shrink: 0;
+        margin-top: auto;
+    }
+    
+    .player-controls {
+        gap: 12px;
+        margin-bottom: 1rem;
+    }
+    
+    .player-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 0.9rem;
+    }
+    
+    /* Esconder outros elementos quando em fullscreen */
+    body:has(.story-container.mobile-fullscreen) .container > *:not(.story-container) {
+        display: none !important;
+    }
+    
+    body:has(.story-container.mobile-fullscreen) .content-below-navbar > *:not(.container) {
+        display: none !important;
+    }
+    
+    /* Esconder navbar no fullscreen */
+    body:has(.story-container.mobile-fullscreen) .navbar {
+        display: none !important;
+    }
+    
+    /* Garantir que o título da história seja visível */
+    .story-container.mobile-fullscreen .story-title {
+        flex-shrink: 0;
+        margin: 0;
+    }
+}
+
+/* Mobile small (576px+) */
+@media (max-width: 576px) {
+    .story-content {
+        padding: 1rem;
+        height: 450px;
+        gap: 15px;
+    }
+    
+    .paragraph {
+        padding: 12px 16px;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 6px;
+    }
+    
+    .media-player {
+        margin: 0.3rem;
+        padding: 0.6rem;
+    }
+    
+    .player-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 0.8rem;
+    }
+}
+
+/* Mobile extra small (360px+) */
+@media (max-width: 360px) {
+    .story-content {
+        padding: 0.8rem;
+        height: 400px;
+        gap: 12px;
+    }
+    
+    .paragraph {
+        padding: 10px 14px;
+        font-size: 0.85rem;
+        line-height: 1.4;
+        margin-bottom: 5px;
+    }
+    
+    .media-player {
+        margin: 0.2rem;
+        padding: 0.5rem;
+    }
+    
+    .player-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 0.75rem;
+    }
+}
+
+/* iPhone 12 mini, iPhone 13 mini (390px) */
+@media (min-width: 376px) and (max-width: 414px) {
+    .story-container {
+        margin: 0.4rem 0;
+    }
+    
+    #story-content {
+        padding: 1.2rem;
+        height: 450px;
+        gap: 16px;
+    }
+    
+    .paragraph {
+        padding: 14px 18px;
+        font-size: 0.95rem;
+        line-height: 1.55;
+        margin-bottom: 7px;
+    }
+    
+    .media-player {
+        margin: 0.4rem;
+        padding: 0.7rem;
+    }
+    
+    .player-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 0.85rem;
+    }
+}
+
+/* iPhone 12/13/14, Samsung Galaxy S21 (390px-428px) */
+@media (min-width: 415px) and (max-width: 480px) {
+    .story-container {
+        margin: 0.5rem 0;
+    }
+    
+    #story-content {
+        padding: 1.4rem;
+        height: 480px;
+        gap: 17px;
+    }
+    
+    .paragraph {
+        padding: 15px 19px;
+        font-size: 0.98rem;
+        line-height: 1.58;
+        margin-bottom: 7px;
+    }
+    
+    .media-player {
+        margin: 0.45rem;
+        padding: 0.75rem;
+    }
+    
+    .player-btn {
+        width: 43px;
+        height: 43px;
+        font-size: 0.88rem;
+    }
+}
+
+/* Tablets pequenos e dispositivos grandes (481px-768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+    .story-container {
+        margin: 0.5rem 0;
+    }
+    
+    #story-content {
+        padding: 1.5rem;
+        height: 500px;
+        gap: 18px;
+    }
+    
+    .paragraph {
+        padding: 16px 20px;
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 8px;
+    }
+    
+    .media-player {
+        margin: 0.5rem;
+        padding: 0.8rem;
+    }
+    
+    .player-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 0.9rem;
+    }
+}
+
+/* Landscape mobile (768px height) */
+@media (max-width: 768px) and (orientation: landscape) {
+    .story-content {
+        height: 350px;
+    }
+    
+    .media-player {
+        padding: 0.5rem;
+    }
+}
+
+/* Desktop optimizations (min-width: 769px) */
+@media (min-width: 769px) {
+    .progress-bar {
+        height: 8px;
+    }
+    
+    .volume-container {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    
+    .theme-btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+        margin: 0.25rem;
+    }
+    
+    .section-title {
+        font-size: 1.3rem;
+        margin: 1rem 0 0.8rem;
+    }
+    
+    .container {
+        padding: 0 1.5rem;
+    }
+    
+    .cta-link {
+        padding: 0.8rem 1.5rem;
+        font-size: 1rem;
+        margin: 0.75rem 0;
+    }
+    
+    .story-nav {
+        padding: 0.75rem 0;
+        margin: 0.75rem 0;
+    }
+    
+    .story-nav button {
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+    }
+    
+    .volume-control {
+        display: block;
+    }
+}
+
+/* Large desktop optimizations (min-width: 1200px) */
+@media (min-width: 1200px) {
+    .volume-container {
+        margin: 0.75rem 0;
+    }
+    
+    .volume-slider {
+        height: 6px;
+    }
+    
+    .theme-btn {
+        padding: 0.6rem 1.2rem;
+        font-size: 1rem;
+        margin: 0.3rem;
+    }
+    
+    .section-title {
+        font-size: 1.5rem;
+        margin: 1.2rem 0 1rem;
+    }
+    
+    .container {
+        padding: 0 2rem;
+    }
+    
+    .cta-link {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+        margin: 1rem 0;
+    }
+    
+    .story-nav {
+        padding: 1rem 0;
+        margin: 1rem 0;
+    }
+    
+    .story-nav button {
+        padding: 0.6rem 1.2rem;
+        font-size: 1rem;
+    }
+}
+
 /* Media queries para telas muito grandes (4K, Ultra-wide) */
 @media (min-width: 1440px) {
     .story-container.mobile-fullscreen .story-title {
@@ -1207,5 +1591,111 @@ body {
     .story-container.mobile-fullscreen .player-controls {
         gap: 40px;
         margin-bottom: 2.5rem;
+    }
+}
+
+/* iOS specific adjustments */
+@supports (-webkit-touch-callout: none) {
+    .story-container.mobile-fullscreen {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+    
+    .media-player {
+        padding-bottom: calc(0.8rem + env(safe-area-inset-bottom));
+    }
+}
+
+/* Android specific adjustments */
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
+    .story-container {
+        border-radius: 12px;
+    }
+    
+    .paragraph {
+        border-radius: 8px;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --story-bg: #1a1a2e;
+        --story-paragraph: #16213e;
+        --story-text: #e0e6ed;
+        --story-highlight: #2d3748;
+        --story-border: rgba(67, 97, 238, 0.3);
+    }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+    .paragraph {
+        border-left-width: 6px;
+        border-left-color: var(--primary);
+    }
+    
+    .player-btn {
+        border: 2px solid var(--primary);
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .paragraph {
+        animation: none;
+        transition: none;
+    }
+    
+    .player-btn {
+        transition: none;
+    }
+    
+    @keyframes fadeIn {
+        from { opacity: 1; }
+        to { opacity: 1; }
+    }
+}
+
+/* Utility classes */
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block !important;
+    }
+    
+    .desktop-only {
+        display: none !important;
+    }
+    
+    /* Text truncation for small screens */
+    .truncate-mobile {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 200px;
+    }
+    
+    /* Touch target sizes */
+    .touch-target {
+        min-height: 44px;
+        min-width: 44px;
+    }
+    
+    /* Safe area adjustments for phones with notch */
+    .safe-area-top {
+        padding-top: env(safe-area-inset-top);
+    }
+    
+    .safe-area-bottom {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+@media (min-width: 769px) {
+    .mobile-only {
+        display: none !important;
+    }
+    
+    .desktop-only {
+        display: block !important;
     }
 }

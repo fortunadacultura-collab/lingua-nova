@@ -167,8 +167,64 @@ footer .footer-section a:hover {
     color: white;
 }
 
-/* Responsive Design */
+/* ========================================
+   RESPONSIVE DESIGN - MIGRATED FROM RESPONSIVE.CSS
+   ======================================== */
+
+/* Large screens (1200px+) */
+@media (max-width: 1200px) {
+    .container {
+        padding: 1.8rem;
+    }
+    
+    .cards-container {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1.8rem;
+    }
+}
+
+/* Medium screens (1100px+) */
+@media (max-width: 1100px) {
+    .container {
+        padding: 1.5rem;
+    }
+    
+    .cards-container {
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1.5rem;
+    }
+    
+    .page-title {
+        font-size: 2.2rem;
+    }
+}
+
+/* Tablet landscape (900px+) */
+@media (max-width: 900px) {
+    .container {
+        padding: 1.2rem;
+    }
+    
+    .cards-container {
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1.2rem;
+    }
+    
+    .page-title {
+        font-size: 2rem;
+    }
+    
+    .page-subtitle {
+        font-size: 1.1rem;
+    }
+}
+
+/* Tablet portrait and mobile (768px+) */
 @media (max-width: 768px) {
+    body {
+        padding-top: 70px;
+    }
+    
     .container {
         padding: 1rem;
     }
@@ -186,5 +242,198 @@ footer .footer-section a:hover {
     
     .feature-card {
         padding: 1.5rem;
+    }
+    
+    .page-header {
+        padding: 1.5rem 0;
+        margin-bottom: 2rem;
+    }
+}
+
+/* Mobile small (576px+) */
+@media (max-width: 576px) {
+    .container {
+        padding: 0.8rem;
+    }
+    
+    .page-title {
+        font-size: 1.8rem;
+    }
+    
+    .page-subtitle {
+        font-size: 1rem;
+    }
+    
+    .page-header {
+        padding: 1rem 0;
+        margin-bottom: 1.5rem;
+    }
+    
+    .feature-card {
+        padding: 1.2rem;
+    }
+    
+    .feature-title {
+        font-size: 1.3rem;
+    }
+    
+    .feature-icon {
+        font-size: 2.5rem;
+    }
+    
+    .btn {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+}
+
+/* Mobile extra small (360px+) */
+@media (max-width: 360px) {
+    .container {
+        padding: 0.6rem;
+    }
+    
+    .page-title {
+        font-size: 1.6rem;
+    }
+    
+    .page-subtitle {
+        font-size: 0.95rem;
+    }
+    
+    .feature-card {
+        padding: 1rem;
+    }
+    
+    .feature-title {
+        font-size: 1.2rem;
+    }
+    
+    .feature-icon {
+        font-size: 2.2rem;
+    }
+    
+    .btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.85rem;
+    }
+}
+
+/* Landscape mobile (768px height) */
+@media (max-width: 768px) and (orientation: landscape) {
+    .page-header {
+        padding: 0.8rem 0;
+        margin-bottom: 1rem;
+    }
+    
+    .feature-card {
+        padding: 1rem;
+    }
+}
+
+/* iOS specific adjustments */
+@supports (-webkit-touch-callout: none) {
+    body {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+    
+    .content-below-navbar {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+/* Android specific adjustments */
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
+    .feature-card {
+        border-radius: 8px;
+    }
+    
+    .btn {
+        border-radius: 6px;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #e0e6ed;
+        --text-light: #a0aec0;
+        --dark: #1a202c;
+    }
+    
+    body {
+        background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+        color: var(--text);
+    }
+    
+    .feature-card {
+        background: #2d3748;
+        color: var(--text);
+    }
+    
+    .feature-title {
+        color: var(--text);
+    }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+    .feature-card {
+        border: 2px solid var(--primary);
+    }
+    
+    .btn {
+        border: 2px solid currentColor;
+    }
+    
+    .btn-outline {
+        border-width: 3px;
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .feature-card {
+        transition: none;
+    }
+    
+    .btn {
+        transition: none;
+    }
+}
+
+/* Utility classes */
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block !important;
+    }
+    
+    .desktop-only {
+        display: none !important;
+    }
+    
+    /* Touch target sizes */
+    .touch-target {
+        min-height: 44px;
+        min-width: 44px;
+    }
+    
+    /* Safe area adjustments for phones with notch */
+    .safe-area-top {
+        padding-top: env(safe-area-inset-top);
+    }
+    
+    .safe-area-bottom {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+@media (min-width: 769px) {
+    .mobile-only {
+        display: none !important;
+    }
+    
+    .desktop-only {
+        display: block !important;
     }
 }

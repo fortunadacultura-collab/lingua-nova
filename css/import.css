@@ -683,16 +683,59 @@ body {
     color: white;
 }
 
-/* Responsive adjustments */
-@media (max-width: 1200px) {
+/* ========================================
+   RESPONSIVE DESIGN - MIGRATED FROM RESPONSIVE.CSS
+   ======================================== */
+
+/* Large Desktop (1200px+) */
+@media (min-width: 1200px) {
     .container {
-        max-width: 992px;
+        max-width: 1400px;
+        padding: 0 2rem;
+    }
+    
+    .page-title {
+        font-size: 2.5rem;
+    }
+    
+    .flashcard-grid {
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 2.5rem;
     }
 }
 
-@media (max-width: 992px) {
+/* Medium Desktop (1100px+) */
+@media (min-width: 1100px) and (max-width: 1199px) {
+    .container {
+        max-width: 1100px;
+    }
+    
+    .flashcard-grid {
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    }
+}
+
+/* Small Desktop (900px+) */
+@media (min-width: 900px) and (max-width: 1099px) {
+    .container {
+        max-width: 900px;
+    }
+    
+    .flashcard-grid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.75rem;
+    }
+}
+
+/* Tablet (768px+) */
+@media (min-width: 768px) and (max-width: 899px) {
     .container {
         max-width: 768px;
+        padding: 0 1.25rem;
+    }
+    
+    .page-title {
+        font-size: 2rem;
     }
     
     .flashcard-grid {
@@ -701,7 +744,250 @@ body {
     }
 }
 
+/* Mobile (576px+) */
+@media (min-width: 576px) and (max-width: 767px) {
+    .container {
+        max-width: 576px;
+        padding: 0 1rem;
+    }
+    
+    .page-title {
+        font-size: 1.8rem;
+    }
+    
+    .flashcard-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .import-export-options {
+        grid-template-columns: 1fr;
+    }
+    
+    .search-bar {
+        flex-direction: column;
+        border-radius: 16px;
+    }
+    
+    .search-input {
+        border-radius: 16px;
+        margin-bottom: 0.5rem;
+    }
+    
+    .search-btn {
+        border-radius: 16px;
+        justify-content: center;
+    }
+    
+    .load-buttons-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .modal {
+        width: 95%;
+        margin: 1rem;
+    }
+    
+    .format-options {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Small Mobile (360px+) */
+@media (min-width: 360px) and (max-width: 575px) {
+    .container {
+        max-width: 100%;
+        padding: 0 0.8rem;
+    }
+    
+    .page-title {
+        font-size: 1.5rem;
+    }
+    
+    .flashcard-actions {
+        flex-direction: column;
+    }
+    
+    .flashcard-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .flashcard-count {
+        align-self: flex-start;
+        margin-top: 0.5rem;
+    }
+    
+    .format-options {
+        grid-template-columns: 1fr;
+    }
+    
+    .btn {
+        padding: 0.5rem 1rem;
+        font-size: 0.8rem;
+    }
+    
+    .mapping-row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .mapping-label {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+}
+
+/* Extra Small Mobile (max 359px) */
+@media (max-width: 359px) {
+    .container {
+        padding: 0 0.5rem;
+    }
+    
+    .page-title {
+        font-size: 1.25rem;
+    }
+    
+    .flashcard-btn {
+        font-size: 0.8rem;
+    }
+    
+    .create-deck-btn {
+        padding: 0.8rem 1.5rem;
+        font-size: 0.9rem;
+    }
+    
+    .load-more-btn, .load-less-btn {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+    }
+}
+
+/* Landscape Mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+    .content-below-navbar {
+        padding-top: 70px;
+    }
+    
+    .page-title {
+        font-size: 1.5rem;
+    }
+    
+    .flashcard-item {
+        padding: 1rem;
+    }
+}
+
+/* iOS Specific Adjustments */
+@supports (-webkit-touch-callout: none) {
+    .search-input,
+    .btn {
+        -webkit-appearance: none;
+        border-radius: 8px;
+    }
+    
+    .search-bar {
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+    }
+}
+
+/* Android Specific Adjustments */
+@media screen and (-webkit-min-device-pixel-ratio: 1) {
+    .search-input:focus {
+        transform: none;
+    }
+    
+    .flashcard-item:active {
+        transform: scale(0.98);
+    }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #f1f5f9;
+        --text-light: #94a3b8;
+        --light: #1e293b;
+        --dark: #f8fafc;
+    }
+    
+    body {
+        background-color: #0f172a;
+        color: var(--text);
+    }
+    
+    .flashcard-item {
+        background: #1e293b;
+        border: 1px solid #334155;
+    }
+    
+    .search-bar {
+        background: #1e293b;
+        border: 1px solid #334155;
+    }
+    
+    .search-input {
+        background: transparent;
+        color: var(--text);
+    }
+    
+    .page-title-container {
+        background-color: #1e293b;
+        border-bottom: 1px solid #334155;
+    }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+    .btn {
+        border: 2px solid currentColor;
+    }
+    
+    .flashcard-item {
+        border: 2px solid var(--primary);
+    }
+    
+    .search-input {
+        border: 2px solid var(--primary);
+    }
+    
+    .search-input:focus {
+        box-shadow: 0 0 0 2px rgba(67, 97, 238, 0.3);
+    }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+    
+    .flashcard-item:hover {
+        transform: none;
+    }
+}
+
+/* Utility Classes */
+.hide-mobile {
+    display: block;
+}
+
+.show-mobile {
+    display: none;
+}
+
 @media (max-width: 768px) {
+    .hide-mobile {
+        display: none;
+    }
+    
+    .show-mobile {
+        display: block;
+    }
+    
     .container {
         max-width: 576px;
         padding: 0 1rem;
@@ -806,5 +1092,18 @@ body {
     .load-more-btn, .load-less-btn {
         padding: 0.6rem 1.2rem;
         font-size: 0.9rem;
+    }
+}
+
+/* Safe Area Adjustments for Mobile Devices */
+@supports (padding: max(0px)) {
+    .container {
+        padding-left: max(1.5rem, env(safe-area-inset-left));
+        padding-right: max(1.5rem, env(safe-area-inset-right));
+    }
+    
+    .content-below-navbar {
+        padding-top: max(90px, env(safe-area-inset-top) + 90px);
+        padding-bottom: env(safe-area-inset-bottom);
     }
 }

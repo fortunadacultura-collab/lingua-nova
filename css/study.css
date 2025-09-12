@@ -423,9 +423,58 @@ body {
     color: var(--text-light);
 }
 
-/* Responsive Design */
+/* ========================================
+   RESPONSIVE DESIGN - MIGRATED FROM RESPONSIVE.CSS
+   ======================================== */
+
+/* Large screens (1200px+) */
+@media (max-width: 1200px) {
+    .container {
+        padding: 0 1.2rem;
+    }
+    
+    .flashcard {
+        max-width: 550px;
+    }
+}
+
+/* Medium screens (1100px+) */
+@media (max-width: 1100px) {
+    .container {
+        padding: 0 1rem;
+    }
+    
+    .flashcard {
+        max-width: 500px;
+    }
+    
+    .deck-info h1 {
+        font-size: 1.8rem;
+    }
+}
+
+/* Tablet landscape (900px+) */
+@media (max-width: 900px) {
+    .flashcard {
+        max-width: 450px;
+        height: 350px;
+    }
+    
+    .study-modes {
+        flex-wrap: wrap;
+        gap: 0.8rem;
+    }
+    
+    .mode-btn {
+        padding: 0.7rem 1.2rem;
+        font-size: 0.95rem;
+    }
+}
+
+/* Tablet portrait and mobile (768px+) */
 @media (max-width: 768px) {
     .content-below-navbar {
+        padding-top: 70px;
         padding-left: 1rem;
         padding-right: 1rem;
     }
@@ -476,6 +525,7 @@ body {
     }
 }
 
+/* Mobile small (576px+) */
 @media (max-width: 576px) {
     .deck-info h1 {
         font-size: 1.5rem;
@@ -518,6 +568,33 @@ body {
     }
 }
 
+/* Mobile extra small (360px+) */
+@media (max-width: 360px) {
+    .flashcard {
+        height: 280px;
+    }
+    
+    .card-text {
+        font-size: 1.2rem;
+    }
+    
+    .control-btn {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+    }
+    
+    .rating-container {
+        gap: 0.5rem;
+    }
+    
+    .rating-btn {
+        padding: 0.5rem 0.6rem;
+        font-size: 0.75rem;
+        min-width: 60px;
+    }
+}
+
+/* Very small screens (400px+) */
 @media (max-width: 400px) {
     .control-btn {
         padding: 0.6rem 1rem;
@@ -532,5 +609,130 @@ body {
         padding: 0.5rem 0.6rem;
         font-size: 0.75rem;
         min-width: 60px;
+    }
+}
+
+/* Landscape mobile (768px height) */
+@media (max-width: 768px) and (orientation: landscape) {
+    .flashcard {
+        height: 250px;
+    }
+    
+    .content-below-navbar {
+        padding-top: 60px;
+    }
+}
+
+/* iOS specific adjustments */
+@supports (-webkit-touch-callout: none) {
+    .content-below-navbar {
+        padding-bottom: calc(2rem + env(safe-area-inset-bottom));
+    }
+    
+    .study-controls {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+/* Android specific adjustments */
+@media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
+    .flashcard {
+        border-radius: 12px;
+    }
+    
+    .card-front, .card-back {
+        border-radius: 12px;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: #e0e6ed;
+        --text-light: #a0aec0;
+    }
+    
+    body {
+        background-color: #1a202c;
+        color: var(--text);
+    }
+    
+    .card-front, .card-back {
+        background: #2d3748;
+        color: var(--text);
+    }
+    
+    .stat-card {
+        background: #2d3748;
+    }
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+    .flashcard {
+        border: 2px solid var(--primary);
+    }
+    
+    .mode-btn {
+        border-width: 3px;
+    }
+    
+    .rating-btn {
+        border: 2px solid currentColor;
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .flashcard {
+        transition: none;
+    }
+    
+    .mode-btn {
+        transition: none;
+    }
+    
+    .control-btn {
+        transition: none;
+    }
+    
+    .rating-btn {
+        transition: none;
+    }
+}
+
+/* Utility classes */
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block !important;
+    }
+    
+    .desktop-only {
+        display: none !important;
+    }
+    
+    /* Touch target sizes */
+    .touch-target {
+        min-height: 44px;
+        min-width: 44px;
+    }
+    
+    /* Safe area adjustments for phones with notch */
+    .safe-area-top {
+        padding-top: env(safe-area-inset-top);
+    }
+    
+    .safe-area-bottom {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
+}
+
+@media (min-width: 769px) {
+    .mobile-only {
+        display: none !important;
+    }
+    
+    .desktop-only {
+        display: block !important;
     }
 }
