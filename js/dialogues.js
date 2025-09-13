@@ -302,9 +302,10 @@ const dialogueTranslationManager = {
     changeLanguage(langCode) {
         this.currentLanguage = langCode;
         
-        // Use native language manager to save language
+        // Salvar preferência diretamente sem causar loop
         if (window.nativeLanguageManager) {
-            window.nativeLanguageManager.changeNativeLanguage(langCode);
+            window.nativeLanguageManager.saveNativeLanguagePreference(langCode);
+            window.nativeLanguageManager.currentNativeLanguage = langCode;
         }
         
         if (appConfig.initialized) {
@@ -333,10 +334,9 @@ function translatePage() {
     }
     
     const currentLanguage = window.nativeLanguageManager.getCurrentNativeLanguage();
-    const translations = window.nativeLanguageManager.getTranslations();
     
-    if (!translations || !translations[currentLanguage]) {
-        console.log('Dialogues: Traduções não disponíveis para', currentLanguage);
+    if (!currentLanguage) {
+        console.log('Dialogues: Idioma atual não disponível');
         return;
     }
     
@@ -346,8 +346,9 @@ function translatePage() {
     const elementsToTranslate = document.querySelectorAll('[data-translate]');
     elementsToTranslate.forEach(element => {
         const key = element.getAttribute('data-translate');
-        if (translations[currentLanguage][key]) {
-            element.textContent = translations[currentLanguage][key];
+        const translation = window.nativeLanguageManager.getTranslation(key, currentLanguage);
+        if (translation && translation !== key) {
+            element.textContent = translation;
         }
     });
 }
@@ -389,15 +390,19 @@ async function init() {
         if (window.nativeLanguageManager) {
             await window.nativeLanguageManager.init();
             console.log('Dialogues: Sistema de idiomas nativo inicializado');
+            
+            // Traduzir a página imediatamente após a inicialização completa
+            translatePage();
+            
+            // Escutar mudanças de idioma para re-traduzir a página
+            document.addEventListener('nativeLanguageChanged', (e) => {
+                console.log('Dialogues: Idioma mudou para', e.detail.language);
+                translatePage();
+            });
         }
         
         // Inicializar o gerenciador de traduções
         dialogueTranslationManager.init();
-        
-        // Traduzir a página após inicialização
-        setTimeout(() => {
-            translatePage();
-        }, 500);
         
         // Load data from external JSON
         const response = await fetch('data/data.json');
@@ -472,8 +477,18 @@ async function loadDialogue(dialogueId) {
 
         appConfig.dialogues[dialogueId] = dialogue;
         appConfig.currentDialogue = dialogueId;
-        domElements.dialogueTitle.textContent = dialogue.title;
-        domElements.dialogueContent.innerHTML = '';
+        
+        // Verificar se os elementos DOM existem antes de usar
+        if (domElements.dialogueTitle) {
+            domElements.dialogueTitle.textContent = dialogue.title;
+        }
+        
+        if (domElements.dialogueContent) {
+            domElements.dialogueContent.innerHTML = '';
+        } else {
+            console.warn('dialogueContent element not found - skipping UI update');
+            return dialogue; // Retorna o diálogo mesmo sem UI
+        }
         
         dialogue.lines.forEach((line, index) => {
             const messageDiv = document.createElement('div');
@@ -516,7 +531,9 @@ async function loadDialogue(dialogueId) {
                 this.style.transform = 'scale(1)';
             });
             
-            domElements.dialogueContent.appendChild(messageDiv);
+            if (domElements.dialogueContent) {
+                domElements.dialogueContent.appendChild(messageDiv);
+            }
         });
 
         updateTranslationVisibility();
@@ -538,13 +555,12 @@ async function loadDialogueTxt(dialogueId) {
         const language = appConfig.currentLanguage;
         console.log(`Loading dialogue ${dialogueId} for language: ${language}`);
         
-        const response = await fetch(`languages/${language}/dialogues/${dialogueId}.txt`);
+        // Tentar primeiro com subpasta (estrutura atual)
+        let response = await fetch(`languages/${language}/dialogues/${dialogueId}/${dialogueId}.txt`);
         if (!response.ok) {
-            // Fallback: tentar com subpasta se não encontrar
-            const fallbackResponse = await fetch(`languages/${language}/dialogues/${dialogueId}/${dialogueId}.txt`);
-            if (!fallbackResponse.ok) throw new Error('Dialogue not found');
-            const content = await fallbackResponse.text();
-            return parseDialogueTxt(content);
+            // Fallback: tentar sem subpasta
+            response = await fetch(`languages/${language}/dialogues/${dialogueId}.txt`);
+            if (!response.ok) throw new Error('Dialogue not found');
         }
         const content = await response.text();
         return parseDialogueTxt(content);
@@ -600,6 +616,40 @@ function parseDialogueTxt(content) {
             currentLine.translations.en = line.replace('en:', '').trim();
             currentSection = 'translation';
         }
+        else if (line.startsWith('fr:')) {
+            const frTranslation = line.replace('fr:', '').trim();
+            currentLine.translations.fr = frTranslation;
+            console.log(`🇫🇷 Tradução FR carregada: "${frTranslation}" para speaker: ${currentLine.speaker}`);
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('de:')) {
+            currentLine.translations.de = line.replace('de:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('ja:')) {
+            currentLine.translations.ja = line.replace('ja:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('ko:')) {
+            currentLine.translations.ko = line.replace('ko:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('zh:')) {
+            currentLine.translations.zh = line.replace('zh:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('ru:')) {
+            currentLine.translations.ru = line.replace('ru:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('hi:')) {
+            currentLine.translations.hi = line.replace('hi:', '').trim();
+            currentSection = 'translation';
+        }
+        else if (line.startsWith('it:')) {
+            currentLine.translations.it = line.replace('it:', '').trim();
+            currentSection = 'translation';
+        }
         else if (currentSection === 'text' && currentLine.text) {
             // Permite múltiplas linhas no texto
             currentLine.text += ' ' + line;
@@ -618,9 +668,12 @@ function ensureTranslations(dialogue) {
     dialogue.lines.forEach(line => {
         line.translations = line.translations || {};
         // Garante que todas as traduções necessárias existam
-        if (!line.translations.pt) line.translations.pt = getFallbackTranslation('pt');
-        if (!line.translations.es) line.translations.es = getFallbackTranslation('es');
-        if (!line.translations.en) line.translations.en = getFallbackTranslation('en');
+        const supportedLanguages = ['pt', 'es', 'en', 'fr', 'de', 'ja', 'ko', 'zh', 'ru', 'hi'];
+        supportedLanguages.forEach(lang => {
+            if (!line.translations[lang]) {
+                line.translations[lang] = getFallbackTranslation(lang);
+            }
+        });
     });
     return dialogue;
 }
@@ -629,7 +682,15 @@ function getFallbackTranslation(lang) {
     const fallbacks = {
         'pt': 'Tradução não disponível',
         'es': 'Traducción no disponible', 
-        'en': 'Translation not available'
+        'en': 'Translation not available',
+        'fr': 'Traduction non disponible',
+        'de': 'Übersetzung nicht verfügbar',
+        'it': 'Traduzione non disponibile',
+        'ja': '翻訳は利用できません',
+        'ko': '번역을 사용할 수 없습니다',
+        'zh': '翻译不可用',
+        'ru': 'Перевод недоступен',
+        'hi': 'अनुवाद उपलब्ध नहीं है'
     };
     return fallbacks[lang] || 'Translation not available';
 }
@@ -1585,16 +1646,13 @@ function updateDialogueUITexts(langCode) {
     
     const translations = appConfig.data.translations[langCode] || appConfig.data.translations['en'] || {};
     
-    // Atualizar apenas elementos específicos da página de diálogos (não do navbar)
-    const dialogueContainer = document.querySelector('.content-below-navbar');
-    if (dialogueContainer) {
-        dialogueContainer.querySelectorAll('[data-translate]').forEach(element => {
-            const key = element.getAttribute('data-translate');
-            if (translations[key]) {
-                element.textContent = translations[key];
-            }
-        });
-    }
+    // Atualizar TODOS os elementos com data-translate na página (incluindo títulos principais)
+    document.querySelectorAll('[data-translate]').forEach(element => {
+        const key = element.getAttribute('data-translate');
+        if (translations[key]) {
+            element.textContent = translations[key];
+        }
+    })
     
     // Atualizar explicitamente os botões de carregar mais e mostrar menos
     const loadMoreBtn = document.getElementById('load-more-btn');
@@ -1617,15 +1675,33 @@ function updateDialogueUITexts(langCode) {
 
 function updateDialogueTranslations(langCode) {
     const dialogue = appConfig.dialogues[appConfig.currentDialogue];
-    if (!dialogue) return;
+    if (!dialogue) {
+        console.warn('❌ updateDialogueTranslations: Nenhum diálogo carregado');
+        return;
+    }
+    
+    console.log(`🔄 updateDialogueTranslations: Atualizando para idioma ${langCode}`);
+    console.log(`📖 Diálogo atual: ${appConfig.currentDialogue}`);
+    console.log(`📝 Número de linhas no diálogo: ${dialogue.lines.length}`);
     
     document.querySelectorAll('.message').forEach((messageElement, index) => {
         const translationDiv = messageElement.querySelector('.translation-text');
         if (translationDiv && dialogue.lines[index]) {
-            translationDiv.textContent = dialogue.lines[index].translations[langCode] || getFallbackTranslation(langCode);
+            const translation = dialogue.lines[index].translations[langCode];
+            const fallback = getFallbackTranslation(langCode);
+            
+            console.log(`📍 Linha ${index}: ${dialogue.lines[index].speaker}`);
+            console.log(`🔤 Tradução ${langCode}:`, translation);
+            console.log(`🔄 Usando fallback:`, !translation);
+            
+            translationDiv.textContent = translation || fallback;
             translationDiv.setAttribute('data-lang', langCode);
+        } else {
+            console.warn(`⚠️ Elemento de tradução não encontrado para linha ${index}`);
         }
     });
+    
+    console.log(`✅ updateDialogueTranslations: Concluído para ${langCode}`);
 }
 
 // Make functions available globally
@@ -1637,6 +1713,7 @@ window.toggleMute = toggleMute;
 window.loadMoreThemes = loadMoreThemes;
 window.showLessThemes = showLessThemes;
 window.closeVolumeControl = closeVolumeControl;
+window.parseDialogueTxt = parseDialogueTxt;
 
 // Initialize the application when DOM is loaded
 document.addEventListener('DOMContentLoaded', function() {

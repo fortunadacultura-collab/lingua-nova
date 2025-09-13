@@ -1,0 +1,70 @@
+title: Rutinas de Autocuidado
+speaker: Laura
+text: Oye, Ana, ¿tienes un momento para hablar? Últimamente me siento tan agotada después de las clases online que no tengo energía para nada.
+pt: Ei, Ana, você tem um momento para conversar? Ultimamente me sinto tão exausta depois das aulas online que não tenho energia para nada.
+en: Hey, Ana, do you have a moment to talk? Lately I feel so exhausted after online classes that I have no energy for anything.
+
+speaker: Ana
+text: ¡Claro que sí! Siéntete, cuéntame. Lo entiendo perfectamente, a mí el diseño me absorbe muchísima energía mental.
+pt: Claro que sim! Senta, conta. Eu entendo perfeitamente, o design absorve muita energia mental de mim.
+en: Of course! Sit down, tell me. I understand perfectly, design absorbs a lot of my mental energy.
+
+speaker: Laura
+text: Es que entre preparar las lecciones, grabar contenido para el blog y la vida diaria, siento que no paro.
+pt: É que entre preparar as aulas, gravar conteúdo para o blog e a vida diária, sinto que não paro.
+en: It's just that between preparing lessons, recording content for the blog, and daily life, I feel like I never stop.
+
+speaker: Ana
+text: Esa saturación es la que nos pasa factura. A mí el yoga y salir a caminar al parque me han ayudado mucho a desconectar.
+pt: Essa saturação é a que nos cobra o preço. Para mim, yoga e sair para caminhar no parque me ajudaram muito a desligar.
+en: That saturation is what takes its toll on us. For me, yoga and going for a walk in the park have helped me disconnect a lot.
+
+speaker: Laura
+text: Suena ideal, pero no sé por dónde empezar. Siempre pienso que necesito horas y un espacio perfecto, y eso me da más pereza.
+pt: Parece ideal, mas não sei por onde começar. Sempre penso que preciso de horas e um espaço perfeito, e isso me dá mais preguiça.
+en: It sounds ideal, but I don't know where to start. I always think I need hours and a perfect space, and that makes me even lazier.
+
+speaker: Ana
+text: Esa es la primera barrera mental que tenemos que derribar. Con quince o veinte minutos al día y una esterilla en el salón es más que suficiente.
+pt: Essa é a primeira barreira mental que temos que derrubar. Com quinze ou vinte minutos por dia e um tapete na sala é mais que suficiente.
+en: That's the first mental barrier we have to break down. With fifteen or twenty minutes a day and a mat in the living room, it's more than enough.
+
+speaker: Laura
+text: ¿En serio? ¿Crees que con tan poco tiempo se nota la diferencia?
+pt: Sério? Você acha que com tão pouco tempo a diferença é notada?
+en: Really? Do you think that with so little time the difference is noticeable?
+
+speaker: Ana
+text: Absolutamente. No se trata de hacer una clase magistral, sino de crear un hábito sostenible. Te paso algunos videos cortos y muy buenos que siguen hasta yo, que soy un poco patosa.
+pt: Absolutamente. Não se trata de fazer uma aula magistral, mas de criar um hábito sustentável. Te passo alguns vídeos curtos e muito bons que até eu sigo, que sou um pouco desastrada.
+en: Absolutely. It's not about doing a master class, but about creating a sustainable habit. I'll send you some short and very good videos that even I follow, and I'm a bit clumsy.
+
+speaker: Laura
+text: Jajaja, gracias, eso me tranquiliza. Necesito urgentemente reconectar conmigo misma, más allá del trabajo y las obligaciones.
+pt: Hahaha, obrigada, isso me tranquiliza. Preciso urgentemente reconectar comigo mesma, além do trabalho e das obrigações.
+en: Hahaha, thank you, that reassures me. I urgently need to reconnect with myself, beyond work and obligations.
+
+speaker: Ana
+text: ¡Exacto! El autocuidado es eso: pequeños rituales que te recuerdan que tú también eres importante. ¿Qué te parece si probamos la próxima semana?
+pt: Exato! O autocuidado é isso: pequenos rituais que te lembram que você também é importante. O que você acha de experimentarmos na próxima semana?
+en: Exactly! Self-care is that: small rituals that remind you that you are important too. What do you think if we try it next week?
+
+speaker: Laura
+text: Me encantaría. ¿Y si hacemos una videollamada corta algunos días? Así nos motivamos mutuamente y no lo dejamos.
+pt: Eu adoraria. E se fizermos uma videchamada curta alguns dias? Assim nos motivamos mutuamente e não desistimos.
+en: I would love that. What if we do a short video call some days? That way we motivate each other and don't give up.
+
+speaker: Ana
+text: ¡Me parece una idea brillante! La accountability entre amigas funciona genial. Empezamos suave, sin presiones.
+pt: Parece-me uma ideia brilhante! A responsabilidade compartilhada entre amigas funciona muito bem. Começamos suave, sem pressões.
+en: I think that's a brilliant idea! Accountability between friends works great. We'll start gently, no pressure.
+
+speaker: Laura
+text: Perfecto. Un pequeño paso para una mejor versión de nosotras. Gracias, Ana, de verdad.
+pt: Perfeito. Um pequeno passo para uma versão melhor de nós. Obrigada, Ana, de verdade.
+en: Perfect. A small step for a better version of ourselves. Thank you, Ana, really.
+
+speaker: Ana
+text: No hay de qué. Juntas lo haremos mucho más divertido. ¡Hasta pronto!
+pt: Não há de quê. Juntas vamos tornar isso muito mais divertido. Até logo!
+en: You're welcome. Together we'll make it much more fun. See you soon!

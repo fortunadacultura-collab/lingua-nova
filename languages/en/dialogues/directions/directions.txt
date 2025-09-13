@@ -1,95 +1,325 @@
 title: Asking Directions
 speaker: Jake
 text: Mike, last trip I got totally turned around asking for directions in a foreign city.
-pt: Mike, na última viagem, eu fiquei completamente perdido pedindo direções em uma cidade estrangeira.
-es: Mike, en el último viaje me desorienté completamente pidiendo direcciones en una ciudad extranjera.
+pt: Mike, na última viagem eu me perdi completamente pedindo direções numa cidade estrangeira.
+es: Mike, en el último viaje me perdí completamente pidiendo direcciones en una ciudad extranjera.
+fr: Mike, lors du dernier voyage je me suis complètement perdu en demandant des directions dans une ville étrangère.
+de: Mike, auf der letzten Reise habe ich mich völlig verlaufen, als ich in einer fremden Stadt nach dem Weg gefragt habe.
+ja: マイク、前回の旅行で外国の街で道を聞いて完全に迷子になった。
+ko: 마이크, 지난 여행에서 외국 도시에서 길을 물어보다가 완전히 길을 잃었어.
+zh: 迈克，上次旅行时我在外国城市问路完全迷路了。
+ru: Майк, в прошлой поездке я совершенно заблудился, спрашивая дорогу в чужом городе.
+hi: माइक, पिछली यात्रा में मैं विदेशी शहर में रास्ता पूछते हुए पूरी तरह भटक गया था।
+it: Mike, nell'ultimo viaggio mi sono completamente perso chiedendo indicazioni in una città straniera.
 
 speaker: Mike
 text: Been there! The language barriers make it even trickier.
-pt: Já estive lá! As barreiras linguísticas tornam isso ainda mais complicado.
-es: ¡He estado allí! Las barreras idiomáticas lo hacen aún más complicado.
+pt: Já passei por isso! As barreiras da língua tornam tudo ainda mais complicado.
+es: ¡Ya he pasado por eso! Las barreras del idioma lo hacen aún más complicado.
+fr: J'y suis passé ! Les barrières linguistiques rendent ça encore plus délicat.
+de: Da war ich auch schon! Die Sprachbarrieren machen es noch schwieriger.
+ja: 経験あるよ！言語の壁があるとさらに厄介になる。
+ko: 나도 겪어봤어! 언어 장벽이 더욱 까다롭게 만들어.
+zh: 我也经历过！语言障碍让这变得更加棘手。
+ru: Бывал там! Языковые барьеры делают это еще сложнее.
+hi: मैं भी वहां गया हूं! भाषा की बाधाएं इसे और भी मुश्किल बना देती हैं।
+it: Ci sono passato anch'io! Le barriere linguistiche lo rendono ancora più complicato.
 
 speaker: Jake
-text: Yeah, and sometimes people give vague answers like “just keep going.”
-pt: Sim, e às vezes as pessoas dão respostas vagas como “continue em frente”.
-es: Sí, y a veces la gente da respuestas vagas como "sigue derecho".
+text: Yeah, and sometimes people give vague answers like "just keep going."
+pt: É, e às vezes as pessoas dão respostas vagas tipo "só continua em frente".
+es: Sí, y a veces la gente da respuestas vagas como "solo sigue derecho".
+fr: Ouais, et parfois les gens donnent des réponses vagues comme « continuez juste ».
+de: Ja, und manchmal geben Leute vage Antworten wie „gehen Sie einfach weiter".
+ja: そう、時々人々は「そのまま進んで」みたいな曖昧な答えをする。
+ko: 그래, 그리고 때로는 사람들이 "그냥 계속 가세요"같은 애매한 답을 해.
+zh: 是的，有时人们会给出模糊的答案，比如"继续走就行"。
+ru: Да, и иногда люди дают расплывчатые ответы вроде «просто идите дальше».
+hi: हां, और कभी-कभी लोग अस्पष्ट जवाब देते हैं जैसे "बस आगे बढ़ते रहिए।"
+it: Sì, e a volte le persone danno risposte vaghe come "continua ad andare dritto".
 
 speaker: Mike
 text: Which could mean anything! I try to ask for landmarks these days.
-pt: O que pode significar qualquer coisa! Hoje em dia, tento pedir pontos de referência.
-es: ¡Lo que podría significar cualquier cosa! Hoy en día trato de preguntar por puntos de referencia.
+pt: Que pode significar qualquer coisa! Hoje em dia eu tento pedir pontos de referência.
+es: ¡Que podría significar cualquier cosa! Hoy en día trato de preguntar por puntos de referencia.
+fr: Ce qui pourrait vouloir dire n'importe quoi ! J'essaie de demander des points de repère ces temps-ci.
+de: Was alles bedeuten könnte! Ich versuche heutzutage nach Orientierungspunkten zu fragen.
+ja: それは何でも意味する可能性がある！最近は目印を聞くようにしてる。
+ko: 그건 뭐든 의미할 수 있어! 요즘은 랜드마크를 물어보려고 해.
+zh: 这可能意味着任何事情！这些天我试着询问地标。
+ru: Что может означать что угодно! В наши дни я стараюсь спрашивать про ориентиры.
+hi: जिसका मतलब कुछ भी हो सकता है! आजकल मैं लैंडमार्क के बारे में पूछने की कोशिश करता हूं।
+it: Che potrebbe significare qualsiasi cosa! Ultimamente cerco di chiedere dei punti di riferimento.
 
 speaker: Jake
-text: Smart move. It’s way easier to spot a giant building or statue.
-pt: Jogada inteligente. É muito mais fácil localizar um prédio ou estátua gigante.
-es: Jugada inteligente. Es mucho más fácil localizar un edificio o estatua gigante.
+text: Smart move. It's way easier to spot a giant building or statue.
+pt: Jogada esperta. É bem mais fácil localizar um prédio ou estátua gigante.
+es: Jugada inteligente. Es mucho más fácil ubicar un edificio o estatua gigante.
+fr: Mouvement intelligent. C'est bien plus facile de repérer un bâtiment géant ou une statue.
+de: Kluger Zug. Es ist viel einfacher, ein riesiges Gebäude oder eine Statue zu entdecken.
+ja: 賢い手だ。巨大な建物や像を見つける方がずっと簡単だ。
+ko: 똑똑한 방법이야. 거대한 건물이나 동상을 찾는 게 훨씬 쉬워.
+zh: 聪明的举动。发现巨大的建筑物或雕像要容易得多。
+ru: Умный ход. Гораздо легче заметить огромное здание или статую.
+hi: स्मार्ट मूव। किसी विशाल इमारत या मूर्ति को देखना बहुत आसान होता है।
+it: Mossa intelligente. È molto più facile individuare un edificio gigante o una statua.
 
 speaker: Mike
-text: Also, I’ve started using translation apps to break the ice.
-pt: Além disso, comecei a usar aplicativos de tradução para quebrar o gelo.
-es: Además, he empezado a usar aplicaciones de traducción para romper el hielo.
+text: Also, I've started using translation apps to break the ice.
+pt: Além disso, comecei a usar apps de tradução pra quebrar o gelo.
+es: Además, he empezado a usar apps de traducción para romper el hielo.
+fr: Aussi, j'ai commencé à utiliser des apps de traduction pour briser la glace.
+de: Außerdem habe ich angefangen, Übersetzungs-Apps zu verwenden, um das Eis zu brechen.
+ja: それに、最近は翻訳アプリを使って打ち解けるようにしてる。
+ko: 또한, 분위기를 풀기 위해 번역 앱을 사용하기 시작했어.
+zh: 另外，我开始使用翻译应用来打破僵局。
+ru: Также я начал использовать приложения для перевода, чтобы растопить лед.
+hi: इसके अलावा, मैंने बर्फ तोड़ने के लिए ट्रांसलेशन ऐप्स का इस्तेमाल करना शुरू किया है।
+it: Inoltre, ho iniziato a usare app di traduzione per rompere il ghiaccio.
 
 speaker: Jake
+text: That's a game changer. People seem more willing to help when they see you're making an effort.
+pt: Isso muda tudo. As pessoas parecem mais dispostas a ajudar quando veem que você está se esforçando.
+es: Eso lo cambia todo. La gente parece más dispuesta a ayudar cuando ve que estás haciendo un esfuerzo.
+fr: C'est un changement de donne. Les gens semblent plus disposés à aider quand ils voient que vous faites un effort.
+de: Das ist ein Wendepunkt. Die Leute scheinen hilfsbereiter zu sein, wenn sie sehen, dass man sich bemüht.
+ja: それはゲームチェンジャーだ。努力しているのを見ると、人々はより喜んで助けてくれるようだ。
+ko: 그건 게임 체인저야. 노력하는 모습을 보면 사람들이 더 기꺼이 도와주는 것 같아.
+zh: 这改变了游戏规则。当人们看到你在努力时，他们似乎更愿意帮助。
+ru: Это меняет правила игры. Люди кажутся более готовыми помочь, когда видят, что вы прилагаете усилия.
+hi: यह गेम चेंजर है। जब लोग देखते हैं कि आप कोशिश कर रहे हैं तो वे मदद करने के लिए अधिक तैयार लगते हैं।
+it: È un punto di svolta. Le persone sembrano più disposte ad aiutare quando vedono che ci stai provando.
+
+speaker: Mike
 text: Tech saves lives on the road.
 pt: A tecnologia salva vidas na estrada.
 es: La tecnología salva vidas en el camino.
+fr: La technologie sauve des vies sur la route.
+de: Technologie rettet Leben auf der Straße.
+ja: テクノロジーは道路で命を救う。
+ko: 기술이 길에서 생명을 구해.
+zh: 科技在路上拯救生命。
+ru: Технологии спасают жизни в дороге.
+hi: टेक्नोलॉजी सड़क पर जिंदगियां बचाती है।
+it: La tecnologia salva vite sulla strada.
 
 speaker: Mike
 text: Ever had someone go out of their way to help you though?
-pt: Mas você já teve alguém que se esforçou para te ajudar?
-es: Pero, ¿alguna vez alguien ha hecho un esfuerzo adicional para ayudarte?
+pt: Mas você já teve alguém que se esforçou pra te ajudar?
+es: Pero, ¿alguna vez alguien se ha esforzado extra para ayudarte?
+fr: Mais avez-vous déjà eu quelqu'un qui s'est donné du mal pour vous aider ?
+de: Aber hatten Sie schon mal jemanden, der sich extra Mühe gegeben hat, Ihnen zu helfen?
+ja: でも、誰かがわざわざあなたを助けてくれたことはある？
+ko: 하지만 누군가가 일부러 당신을 도와준 적이 있어?
+zh: 但是有人曾经特意帮助过你吗？
+ru: А был ли у вас кто-то, кто изо всех сил старался вам помочь?
+hi: लेकिन क्या कभी किसी ने आपकी मदद के लिए अपना रास्ता छोड़ा है?
+it: Ma hai mai avuto qualcuno che si è fatto in quattro per aiutarti?
 
 speaker: Jake
 text: Happened in Italy—an older gentleman walked me halfway to my destination.
-pt: Aconteceu na Itália—um senhor mais velho me acompanhou até a metade do caminho para o meu destino.
-es: Pasó en Italia—un señor mayor me acompañó hasta la mitad del camino a mi destino.
+pt: Aconteceu na Itália—um senhor mais velho me acompanhou até a metade do caminho pro meu destino.
+es: Pasó en Italia—un señor mayor me acompañó hasta la mitad del camino hacia mi destino.
+fr: C'est arrivé en Italie—un monsieur âgé m'a accompagné à mi-chemin de ma destination.
+de: Das ist in Italien passiert—ein älterer Herr ist mit mir die Hälfte des Weges zu meinem Ziel gelaufen.
+ja: イタリアで起こった—年配の紳士が目的地まで半分の道のりを一緒に歩いてくれた。
+ko: 이탈리아에서 일어났어—나이 든 신사가 목적지까지 절반을 함께 걸어줬어.
+zh: 在意大利发生的—一位年长的绅士陪我走了一半的路程到目的地。
+ru: Это случилось в Италии—пожилой джентльмен прошел со мной полпути до места назначения.
+hi: इटली में हुआ था—एक बुजुर्ग सज्जन ने मेरे गंतव्य तक आधा रास्ता साथ चलकर दिया।
+it: È successo in Italia—un signore anziano mi ha accompagnato per metà strada verso la mia destinazione.
 
 speaker: Mike
-text: That’s amazing! Shows kindness is universal.
+text: That's amazing! Shows kindness is universal.
 pt: Isso é incrível! Mostra que a gentileza é universal.
-es: ¡Eso es increíble! Demuestra que la amabilidad es universal.
+es: ¡Eso es increíble! Demuestra que la bondad es universal.
+fr: C'est incroyable ! Ça montre que la gentillesse est universelle.
+de: Das ist erstaunlich! Zeigt, dass Freundlichkeit universell ist.
+ja: それは素晴らしい！親切さは世界共通だということを示している。
+ko: 정말 놀라워! 친절함이 보편적이라는 걸 보여줘.
+zh: 太棒了！说明善良是普世的。
+ru: Это потрясающе! Показывает, что доброта универсальна.
+hi: यह अद्भुत है! दिखाता है कि दयालुता सार्वभौमिक है।
+it: È incredibile! Dimostra che la gentilezza è universale.
 
 speaker: Jake
 text: Definitely restored my faith in humanity.
 pt: Definitivamente restaurou minha fé na humanidade.
 es: Definitivamente restauró mi fe en la humanidad.
+fr: Ça a définitivement restauré ma foi en l'humanité.
+de: Das hat definitiv meinen Glauben an die Menschheit wiederhergestellt.
+ja: 確実に人類への信頼を回復させた。
+ko: 확실히 인류에 대한 믿음을 회복시켜줬어.
+zh: 绝对恢复了我对人性的信心。
+ru: Определенно восстановило мою веру в человечество.
+hi: निश्चित रूप से मानवता में मेरा विश्वास बहाल हो गया।
+it: Ha sicuramente ripristinato la mia fede nell'umanità.
 
 speaker: Mike
 text: I try to pay it forward when travelers ask me the same.
 pt: Eu tento retribuir quando viajantes me perguntam a mesma coisa.
 es: Trato de pagarlo adelante cuando los viajeros me preguntan lo mismo.
+fr: J'essaie de rendre la pareille quand les voyageurs me demandent la même chose.
+de: Ich versuche es weiterzugeben, wenn Reisende mich dasselbe fragen.
+ja: 旅行者が同じことを聞いてきたときは、恩返しをするようにしている。
+ko: 여행자들이 나에게 같은 걸 물어보면 보답하려고 해.
+zh: 当旅行者问我同样的问题时，我试着回报。
+ru: Я стараюсь отплатить тем же, когда путешественники спрашивают меня о том же.
+hi: जब यात्री मुझसे वही सवाल पूछते हैं तो मैं इसे आगे बढ़ाने की कोशिश करता हूं।
+it: Cerco di ricambiare quando i viaggiatori mi chiedono la stessa cosa.
 
 speaker: Jake
 text: Me too. Even simple gestures like pointing in the right direction count.
 pt: Eu também. Até gestos simples como apontar na direção certa contam.
 es: Yo también. Incluso los gestos simples como señalar en la dirección correcta cuentan.
+fr: Moi aussi. Même les gestes simples comme pointer dans la bonne direction comptent.
+de: Ich auch. Sogar einfache Gesten wie in die richtige Richtung zu zeigen zählen.
+ja: 僕もそう。正しい方向を指すような簡単なジェスチャーでも意味がある。
+ko: 나도 그래. 올바른 방향을 가리키는 것 같은 간단한 제스처도 중요해.
+zh: 我也是。即使是指向正确方向这样的简单手势也很重要。
+ru: Я тоже. Даже простые жесты, как указание в правильном направлении, имеют значение.
+hi: मैं भी। यहां तक कि सही दिशा में इशारा करने जैसे सरल इशारे भी मायने रखते हैं।
+it: Anch'io. Anche gesti semplici come indicare la direzione giusta contano.
 
 speaker: Mike
 text: Have you used offline maps for back-up?
 pt: Você já usou mapas offline como backup?
 es: ¿Has usado mapas sin conexión como respaldo?
+fr: Avez-vous utilisé des cartes hors ligne comme sauvegarde ?
+de: Haben Sie Offline-Karten als Backup verwendet?
+ja: バックアップとしてオフラインマップを使ったことはある？
+ko: 백업으로 오프라인 지도를 사용해본 적 있어?
+zh: 你用过离线地图作为备份吗？
+ru: Вы использовали офлайн-карты в качестве резервного варианта?
+hi: क्या आपने बैक-अप के लिए ऑफलाइन मैप्स का इस्तेमाल किया है?
+it: Hai mai usato mappe offline come backup?
 
 speaker: Jake
 text: Always, because sometimes data is spotty.
 pt: Sempre, porque às vezes o sinal de dados é irregular.
 es: Siempre, porque a veces la señal de datos es irregular.
+fr: Toujours, parce que parfois les données sont irrégulières.
+de: Immer, weil manchmal die Datenverbindung schlecht ist.
+ja: いつも、データが不安定なことがあるから。
+ko: 항상, 때로는 데이터가 불안정하니까.
+zh: 总是这样，因为有时数据信号不稳定。
+ru: Всегда, потому что иногда связь нестабильна.
+hi: हमेशा, क्योंकि कभी-कभी डेटा अस्थिर होता है।
+it: Sempre, perché a volte i dati sono instabili.
 
 speaker: Mike
-text: Same. And it’s fun to explore streets you wouldn’t find otherwise.
+text: Same. And it's fun to explore streets you wouldn't find otherwise.
 pt: Idem. E é divertido explorar ruas que você não encontraria de outra forma.
 es: Igual. Y es divertido explorar calles que no encontrarías de otra manera.
+fr: Pareil. Et c'est amusant d'explorer des rues qu'on ne trouverait pas autrement.
+de: Genauso. Und es macht Spaß, Straßen zu erkunden, die man sonst nicht finden würde.
+ja: 同じく。そうでなければ見つけられない街を探索するのは楽しい。
+ko: 마찬가지야. 그리고 다른 방법으로는 찾을 수 없는 거리를 탐험하는 게 재미있어.
+zh: 同样。探索那些你不会以其他方式发现的街道很有趣。
+ru: То же самое. И интересно исследовать улицы, которые иначе не найдешь.
+hi: वही बात। और उन गलियों को एक्सप्लोर करना मजेदार है जो आप अन्यथा नहीं पाएंगे।
+it: Lo stesso. Ed è divertente esplorare strade che altrimenti non troveresti.
 
 speaker: Jake
-text: Yeah, getting a bit lost isn’t always bad—leads to hidden gems.
+text: Yeah, getting a bit lost isn't always bad—leads to hidden gems.
 pt: Sim, se perder um pouco nem sempre é ruim—leva a joias escondidas.
 es: Sí, perderse un poco no siempre es malo—lleva a joyas ocultas.
+fr: Ouais, se perdre un peu n'est pas toujours mal—ça mène à des trésors cachés.
+de: Ja, sich ein bisschen zu verlaufen ist nicht immer schlecht—führt zu versteckten Schätzen.
+ja: そう、少し迷うのは必ずしも悪いことじゃない—隠れた宝石に出会える。
+ko: 그래, 조금 길을 잃는 건 항상 나쁜 건 아니야—숨겨진 보석들로 이어져.
+zh: 是的，稍微迷路并不总是坏事——会发现隐藏的宝石。
+ru: Да, немного заблудиться не всегда плохо—приводит к скрытым жемчужинам.
+hi: हां, थोड़ा खो जाना हमेशा बुरा नहीं होता—छुपे हुए रत्नों तक ले जाता है।
+it: Sì, perdersi un po' non è sempre male—porta a gemme nascoste.
 
 speaker: Mike
 text: Travel wisdom right there.
 pt: Sabedoria de viagem aí.
 es: Sabiduría de viaje ahí.
+fr: Sagesse de voyage là.
+de: Reiseweisheit genau da.
+ja: まさに旅の知恵だ。
+ko: 바로 여행의 지혜야.
+zh: 这就是旅行智慧。
+ru: Вот она, мудрость путешествий.
+hi: यही है यात्रा की बुद्धिमत्ता।
+it: Questa è la saggezza del viaggio.
 
 speaker: Jake
-text: Next trip, I’ll prepare better but stay open to spontaneous adventure.
+text: Next trip, I'll prepare better but stay open to spontaneous adventure.
 pt: Na próxima viagem, vou me preparar melhor, mas ficarei aberto a aventuras espontâneas.
 es: En el próximo viaje, me prepararé mejor pero me mantendré abierto a la aventura espontánea.
+fr: Au prochain voyage, je me préparerai mieux mais resterai ouvert à l'aventure spontanée.
+de: Bei der nächsten Reise werde ich mich besser vorbereiten, aber offen für spontane Abenteuer bleiben.
+ja: 次の旅行では、もっと準備するけど、自然発生的な冒険にはオープンでいよう。
+ko: 다음 여행에서는 더 잘 준비하되 즉흥적인 모험에는 열려있을 거야.
+zh: 下次旅行，我会准备得更好，但对自发的冒险保持开放。
+ru: В следующей поездке я лучше подготовлюсь, но останусь открытым для спонтанных приключений.
+hi: अगली यात्रा में, मैं बेहतर तैयारी करूंगा लेकिन सहज साहसिक कार्य के लिए खुला रहूंगा।
+it: Nel prossimo viaggio, mi preparerò meglio ma rimarrò aperto all'avventura spontanea.
+
+speaker: Mike
+text: Absolutely. And now when I get lost I see it as an adventure.
+pt: Absolutamente. E agora quando me perco vejo isso como uma aventura.
+es: Absolutamente. Y ahora cuando me pierdo lo veo como una aventura.
+fr: Absolument. Et maintenant quand je me perds je vois ça comme une aventure.
+de: Absolut. Und jetzt wenn ich mich verlaufe sehe ich es als Abenteuer.
+ja: その通り。そして今迷子になったときはそれを冒険として見ている。
+ko: 절대적으로. 그리고 이제 길을 잃으면 그것을 모험으로 봐.
+zh: 绝对如此。现在当我迷路时，我把它看作一次冒险。
+ru: Абсолютно. И теперь когда я теряюсь, я воспринимаю это как приключение.
+hi: बिल्कुल। और अब जब मैं खो जाता हूं तो मैं इसे एक साहसिक कार्य के रूप में देखता हूं।
+it: Assolutamente. E ora quando mi perdo lo vedo come un'avventura.
+
+speaker: Jake
+text: That's a great mindset. Sometimes the best discoveries happen when you're lost.
+pt: Essa é uma ótima mentalidade. Às vezes as melhores descobertas acontecem quando você está perdido.
+es: Esa es una gran mentalidad. A veces los mejores descubrimientos ocurren cuando estás perdido.
+fr: C'est un excellent état d'esprit. Parfois les meilleures découvertes arrivent quand on est perdu.
+de: Das ist eine großartige Einstellung. Manchmal passieren die besten Entdeckungen, wenn man verloren ist.
+ja: それは素晴らしい考え方だ。時々最高の発見は迷子になったときに起こる。
+ko: 그건 훌륭한 마음가짐이야. 때로는 길을 잃었을 때 최고의 발견이 일어나.
+zh: 这是一个很好的心态。有时最好的发现发生在你迷路的时候。
+ru: Это отличный настрой. Иногда лучшие открытия случаются, когда ты заблудился.
+hi: यह एक बेहतरीन दृष्टिकोण है। कभी-कभी सबसे अच्छी खोजें तब होती हैं जब आप खो जाते हैं।
+it: È un ottimo approccio. A volte le migliori scoperte avvengono quando ti perdi.
+
+speaker: Mike
+text: Very true. I've found some incredible hidden gems that way.
+pt: Muito verdade. Encontrei algumas joias escondidas incríveis dessa forma.
+es: Muy cierto. He encontrado algunas gemas ocultas increíbles de esa manera.
+fr: Très vrai. J'ai trouvé des trésors cachés incroyables de cette façon.
+de: Sehr wahr. Ich habe auf diese Weise einige unglaubliche versteckte Schätze gefunden.
+ja: とても真実だ。そうやっていくつかの信じられない隠れた宝石を見つけた。
+ko: 정말 맞아. 그런 식으로 믿을 수 없는 숨겨진 보석들을 찾았어.
+zh: 非常正确。我通过这种方式发现了一些令人难以置信的隐藏宝石。
+ru: Очень верно. Я нашел несколько невероятных скрытых жемчужин таким образом.
+hi: सच कहा। मैंने इस तरह से कुछ अद्भुत छुपे हुए रत्न पाए हैं।
+it: Molto vero. Ho trovato alcune gemme nascoste incredibili in questo modo.
+
+speaker: Jake
+text: Traveling really makes us more flexible and resourceful.
+pt: Viajar realmente nos torna mais flexíveis e engenhosos.
+es: Viajar realmente nos hace más flexibles e ingeniosos.
+fr: Voyager nous rend vraiment plus flexibles et débrouillards.
+de: Reisen macht uns wirklich flexibler und einfallsreicher.
+ja: 旅行は本当に私たちをより柔軟で機知に富んだものにする。
+ko: 여행은 정말로 우리를 더 유연하고 수완이 좋게 만들어.
+zh: 旅行真的让我们变得更加灵活和足智多谋。
+ru: Путешествия действительно делают нас более гибкими и находчивыми.
+hi: यात्रा करना वास्तव में हमें अधिक लचीला और साधन संपन्न बनाता है।
+it: Viaggiare ci rende davvero più flessibili e pieni di risorse.
+
+speaker: Mike
+text: And it teaches us the world isn't as big as we think.
+pt: E nos ensina que o mundo não é tão grande quanto pensamos.
+es: Y nos enseña que el mundo no es tan grande como pensamos.
+fr: Et ça nous apprend que le monde n'est pas aussi grand qu'on le pense.
+de: Und es lehrt uns, dass die Welt nicht so groß ist, wie wir denken.
+ja: そして世界は私たちが思っているほど大きくないということを教えてくれる。
+ko: 그리고 세상이 우리가 생각하는 것만큼 크지 않다는 걸 가르쳐줘.
+zh: 它教会我们世界并不像我们想象的那么大。
+ru: И это учит нас, что мир не такой большой, как мы думаем.
+hi: और यह हमें सिखाता है कि दुनिया उतनी बड़ी नहीं है जितनी हम सोचते हैं।
+it: E ci insegna che il mondo non è così grande come pensiamo.

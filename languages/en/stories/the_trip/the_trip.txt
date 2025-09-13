@@ -2,27 +2,95 @@ title: The Trip
 text: Sarah had been planning this trip for months, carefully saving every penny and researching every destination.
 pt: Sarah vinha planejando esta viagem há meses, economizando cuidadosamente cada centavo e pesquisando cada destino.
 es: Sarah había estado planeando este viaje durante meses, ahorrando cuidadosamente cada centavo e investigando cada destino.
+fr: Sarah planifiait ce voyage depuis des mois, économisant soigneusement chaque centime et recherchant chaque destination.
+de: Sarah hatte diese Reise monatelang geplant, jeden Cent sorgfältig gespart und jedes Ziel erforscht.
+ja: サラは何ヶ月もこの旅行を計画し、一銭一銭を注意深く貯め、すべての目的地を調べていた。
+ko: 사라는 몇 달 동안 이 여행을 계획해왔고, 한 푼 한 푼 조심스럽게 저축하며 모든 목적지를 연구했다.
+zh: 萨拉已经计划这次旅行好几个月了，小心翼翼地存每一分钱，研究每一个目的地。
+ru: Сара планировала эту поездку месяцами, тщательно экономя каждую копейку и изучая каждое направление.
+hi: सारा महीनों से इस यात्रा की योजना बना रही थी, सावधानीपूर्वक हर पैसा बचाते हुए और हर गंतव्य पर शोध करते हुए।
+it: Sarah aveva pianificato questo viaggio per mesi, risparmiando attentamente ogni centesimo e ricercando ogni destinazione.
 
 text: The morning sun painted the train station in golden hues as she clutched her worn leather suitcase, her heart racing with anticipation.
 pt: O sol da manhã pintou a estação de trem em tons dourados enquanto ela segurava sua mala de couro gasta, seu coração acelerado de expectativa.
 es: El sol de la mañana pintó la estación de tren en tonos dorados mientras ella agarraba su maleta de cuero gastada, su corazón acelerado de expectativa.
+fr: Le soleil du matin peignait la gare en teintes dorées tandis qu'elle serrait sa valise en cuir usée, son cœur battant d'anticipation.
+de: Die Morgensonne tauchte den Bahnhof in goldene Töne, während sie ihren abgenutzten Lederkoffer umklammerte, ihr Herz vor Erwartung rasend.
+ja: 朝日が駅を金色に染める中、彼女は使い古した革のスーツケースを握りしめ、期待で心臓が高鳴っていた。
+ko: 아침 햇살이 기차역을 황금빛으로 물들이는 가운데, 그녀는 낡은 가죽 여행가방을 꽉 쥐고 있었고, 기대감으로 심장이 빠르게 뛰고 있었다.
+zh: 晨光将火车站染成金色，她紧握着磨损的皮箱，心脏因期待而狂跳。
+ru: Утреннее солнце окрасило вокзал в золотистые тона, пока она сжимала свой потёртый кожаный чемодан, её сердце билось от предвкушения.
+hi: सुबह की धूप ने ट्रेन स्टेशन को सुनहरे रंगों में रंग दिया था जबकि वह अपना पुराना चमड़े का सूटकेस पकड़े हुए थी, उसका दिल प्रत्याशा से तेज़ी से धड़क रहा था।
+it: Il sole del mattino dipinse la stazione ferroviaria di sfumature dorate mentre stringeva la sua valigia di pelle logora, il cuore che batteva forte per l'aspettativa.
 
 text: This wasn't just any ordinary journey; it was her first solo adventure, a leap into the unknown that both terrified and exhilarated her.
 pt: Esta não era apenas uma jornada comum; era sua primeira aventura solo, um salto no desconhecido que a aterrorizava e a exaltava ao mesmo tempo.
 es: Este no era solo un viaje ordinario; era su primera aventura en solitario, un salto a lo desconocido que la aterrorizaba y la emocionaba a la vez.
+fr: Ce n'était pas juste un voyage ordinaire ; c'était sa première aventure en solo, un saut dans l'inconnu qui la terrifiait et l'exaltait à la fois.
+de: Das war nicht nur eine gewöhnliche Reise; es war ihr erstes Solo-Abenteuer, ein Sprung ins Unbekannte, der sie gleichzeitig erschreckte und begeisterte.
+ja: これは単なる普通の旅ではなかった。それは彼女の初めての一人旅、未知への飛躍であり、恐怖と興奮を同時に与えるものだった。
+ko: 이것은 단순한 평범한 여행이 아니었다. 그것은 그녀의 첫 번째 혼자만의 모험이었고, 그녀를 동시에 두렵게 하고 흥분시키는 미지의 세계로의 도약이었다.
+zh: 这不仅仅是一次普通的旅行；这是她第一次独自冒险，是向未知世界的跳跃，既让她恐惧又让她兴奋。
+ru: Это было не просто обычное путешествие; это было её первое сольное приключение, прыжок в неизвестность, который одновременно пугал и воодушевлял её.
+hi: यह कोई साधारण यात्रा नहीं थी; यह उसका पहला अकेला साहसिक कार्य था, अज्ञात में एक छलांग जो उसे एक साथ डराती और उत्साहित करती थी।
+it: Questo non era solo un viaggio ordinario; era la sua prima avventura da sola, un salto nell'ignoto che la terrorizzava e la esaltava allo stesso tempo.
 
 text: As the train whistle echoed through the station, she took a deep breath and stepped aboard, leaving her comfort zone behind.
 pt: Quando o apito do trem ecoou pela estação, ela respirou fundo e subiu a bordo, deixando sua zona de conforto para trás.
 es: Cuando el silbato del tren resonó por la estación, respiró profundamente y subió a bordo, dejando su zona de confort atrás.
+fr: Quand le sifflet du train résonna dans la gare, elle prit une profonde inspiration et monta à bord, laissant sa zone de confort derrière elle.
+de: Als die Zugpfeife durch den Bahnhof hallte, holte sie tief Luft und stieg ein, ließ ihre Komfortzone hinter sich.
+ja: 駅に汽笛が響き渡ったとき、彼女は深呼吸をして列車に乗り込み、快適な環境を後にした。
+ko: 기차 호루라기가 역에 울려 퍼졌을 때, 그녀는 깊게 숨을 들이쉬고 기차에 올라탔으며, 자신의 안전지대를 뒤로 했다.
+zh: 当火车汽笛在车站回响时，她深吸一口气登上了火车，把舒适区抛在身后。
+ru: Когда свисток поезда прозвучал по станции, она глубоко вздохнула и поднялась на борт, оставив свою зону комфорта позади.
+hi: जब ट्रेन की सीटी स्टेशन में गूंजी, तो उसने गहरी सांस ली और ट्रेन में चढ़ गई, अपने कम्फर्ट ज़ोन को पीछे छोड़ते हुए।
+it: Quando il fischio del treno echeggiò nella stazione, fece un respiro profondo e salì a bordo, lasciandosi alle spalle la sua zona di comfort.
 
 text: The landscape rushed past her window like pages in a book, each scene telling a different story of the world beyond her small hometown.
 pt: A paisagem passou rapidamente por sua janela como páginas de um livro, cada cena contando uma história diferente do mundo além de sua pequena cidade natal.
 es: El paisaje pasó rápidamente por su ventana como páginas de un libro, cada escena contando una historia diferente del mundo más allá de su pequeño pueblo natal.
+fr: Le paysage défilait devant sa fenêtre comme les pages d'un livre, chaque scène racontant une histoire différente du monde au-delà de sa petite ville natale.
+de: Die Landschaft rauschte an ihrem Fenster vorbei wie Seiten in einem Buch, jede Szene erzählte eine andere Geschichte der Welt jenseits ihrer kleinen Heimatstadt.
+ja: 風景が本のページのように窓の外を駆け抜けていき、それぞれの場面が彼女の小さな故郷を超えた世界の異なる物語を語っていた。
+ko: 풍경이 책의 페이지처럼 그녀의 창문을 스쳐 지나갔고, 각각의 장면은 그녀의 작은 고향 너머 세상의 다른 이야기를 들려주었다.
+zh: 风景像书页一样从她的窗前飞驰而过，每个场景都讲述着她小家乡之外世界的不同故事。
+ru: Пейзаж мчался мимо её окна, как страницы в книге, каждая сцена рассказывала разную историю мира за пределами её маленького родного города.
+hi: दृश्य उसकी खिड़की के पास एक किताब के पन्नों की तरह तेज़ी से गुज़र रहे थे, हर दृश्य उसके छोटे गृहनगर से परे दुनिया की एक अलग कहानी कह रहा था।
+it: Il paesaggio scorreva veloce oltre il suo finestrino come pagine di un libro, ogni scena raccontava una storia diversa del mondo oltre la sua piccola città natale.
 
-text: Hours later, she arrived at her destination, a bustling city where the air hummed with possibility and adventure.
-pt: Horas depois, ela chegou ao seu destino, uma cidade movimentada onde o ar vibrava com possibilidade e aventura.
-es: Horas después, llegó a su destino, una ciudad bulliciosa donde el aire vibraba con posibilidad y aventura.
+text: Hours later, when she finally reached her destination, she realized that the journey had changed something within her.
+pt: Horas depois, quando finalmente chegou ao seu destino, ela percebeu que a jornada havia mudado algo dentro dela.
+es: Horas más tarde, cuando finalmente llegó a su destino, se dio cuenta de que el viaje había cambiado algo dentro de ella.
+fr: Des heures plus tard, quand elle arriva finalement à sa destination, elle réalisa que le voyage avait changé quelque chose en elle.
+de: Stunden später, als sie schließlich ihr Ziel erreichte, erkannte sie, dass die Reise etwas in ihr verändert hatte.
+ja: 数時間後、ついに目的地に到着したとき、彼女は旅が自分の中の何かを変えたことに気づいた。
+ko: 몇 시간 후, 마침내 목적지에 도착했을 때, 그녀는 여행이 자신 안의 무언가를 바꾸었다는 것을 깨달았다。
+zh: 几个小时后，当她终于到达目的地时，她意识到这次旅行改变了她内心的某些东西。
+ru: Часы спустя, когда она наконец прибыла в пункт назначения, она поняла, что путешествие изменило что-то внутри неё.
+hi: घंटों बाद, जब वह अंततः अपने गंतव्य पर पहुंची, तो उसे एहसास हुआ कि यात्रा ने उसके अंदर कुछ बदल दिया था।
+it: Ore dopo, quando finalmente arrivò a destinazione, si rese conto che il viaggio aveva cambiato qualcosa dentro di lei.
+
+text: It wasn't just about reaching a new place; it was about discovering who she could be when nobody knew her, when every choice was entirely her own.
+pt: Não era apenas sobre chegar a um novo lugar; era sobre descobrir quem ela poderia ser quando ninguém a conhecia, quando cada escolha era inteiramente sua.
+es: No era solo sobre llegar a un nuevo lugar; era sobre descubrir quién podía ser cuando nadie la conocía, cuando cada elección era completamente suya.
+fr: Ce n'était pas seulement d'arriver dans un nouvel endroit ; c'était de découvrir qui elle pouvait être quand personne ne la connaissait, quand chaque choix était entièrement le sien.
+de: Es ging nicht nur darum, an einen neuen Ort zu gelangen; es ging darum zu entdecken, wer sie sein konnte, wenn niemand sie kannte, wenn jede Entscheidung ganz ihre war.
+ja: それは単に新しい場所に到着することではなく、誰も彼女を知らないとき、すべての選択が完全に自分のものであるとき、自分がどんな人になれるかを発見することだった。
+ko: 그것은 단순히 새로운 곳에 도착하는 것이 아니었다; 그것은 아무도 그녀를 모르고, 모든 선택이 완전히 자신의 것일 때 자신이 누가 될 수 있는지 발견하는 것이었다。
+zh: 这不仅仅是到达一个新地方；而是发现当没有人认识她时，当每个选择都完全属于她时，她能成为什么样的人。
+ru: Дело было не только в том, чтобы добраться до нового места; дело было в том, чтобы открыть, кем она могла быть, когда никто её не знал, когда каждый выбор был полностью её.
+hi: यह सिर्फ एक नई जगह पहुंचने के बारे में नहीं था; यह इस बारे में था कि जब कोई उसे नहीं जानता था, जब हर विकल्प पूरी तरह से उसका था, तो वह कौन हो सकती थी।
+it: Non si trattava solo di arrivare in un posto nuovo; si trattava di scoprire chi poteva essere quando nessuno la conosceva, quando ogni scelta era completamente sua.
 
 text: That evening, as she sat in a small café watching strangers pass by, Sarah realized that the real journey had just begun.
 pt: Naquela noite, enquanto estava sentada em um pequeno café observando estranhos passarem, Sarah percebeu que a verdadeira jornada havia apenas começado.
 es: Esa noche, mientras estaba sentada en un pequeño café viendo pasar a extraños, Sarah se dio cuenta de que el verdadero viaje acababa de comenzar.
+fr: Ce soir-là, alors qu'elle était assise dans un petit café à regarder passer les étrangers, Sarah réalisa que le vrai voyage ne faisait que commencer.
+de: An diesem Abend, als sie in einem kleinen Café saß und Fremde vorbeigehen sah, erkannte Sarah, dass die wahre Reise gerade erst begonnen hatte.
+ja: その夜、小さなカフェに座って見知らぬ人々が通り過ぎるのを眺めながら、サラは本当の旅がちょうど始まったばかりだということに気づいた。
+ko: 그날 밤, 작은 카페에 앉아 낯선 사람들이 지나가는 것을 보면서, 사라는 진정한 여행이 이제 막 시작되었다는 것을 깨달았다。
+zh: 那天晚上，当她坐在一家小咖啡馆里看着陌生人经过时，萨拉意识到真正的旅程才刚刚开始。
+ru: В тот вечер, сидя в маленьком кафе и наблюдая за проходящими мимо незнакомцами, Сара поняла, что настоящее путешествие только началось.
+hi: उस शाम, एक छोटे कैफे में बैठकर अजनबियों को गुज़रते देखते हुए, सारा को एहसास हुआ कि असली यात्रा अभी शुरू हुई थी।
+it: Quella sera, mentre sedeva in un piccolo caffè guardando passare gli sconosciuti, Sarah si rese conto che il vero viaggio era appena iniziato.

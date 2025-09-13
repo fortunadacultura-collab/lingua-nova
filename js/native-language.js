@@ -16,9 +16,10 @@ class NativeLanguageManager {
 
     async loadTranslations() {
         try {
-            const response = await fetch('data/translations.json');
+            const response = await fetch('data/data.json');
             if (!response.ok) throw new Error('Failed to load translations');
-            this.translations = await response.json();
+            const data = await response.json();
+            this.translations = data.translations || {};
         } catch (error) {
             console.error('Error loading translations:', error);
             this.translations = {};
@@ -77,7 +78,7 @@ class NativeLanguageManager {
         console.log('📍 [NATIVE-LANG] Idioma anterior:', this.currentNativeLanguage);
         
         this.currentNativeLanguage = langCode;
-        this.updateUITexts(langCode);
+        await this.updateUITexts(langCode);
         
         // Aguardar navbar estar carregado e atualizar seletor
         await this.waitForNavbarAndUpdateSelector(langCode);
@@ -91,6 +92,36 @@ class NativeLanguageManager {
         this.notifyLanguageChange(langCode, true); // ⚠️ Sempre disparar evento para aplicar traduções
         
         this.isChangingLanguage = false;
+    }
+
+    async waitForNavbar() {
+        // Aguardar até que o navbar esteja carregado
+        const maxAttempts = 20; // 2 segundos máximo
+        let attempts = 0;
+        
+        const checkNavbar = () => {
+            const navbarContainer = document.getElementById('navbar-container');
+            return navbarContainer && navbarContainer.innerHTML.trim() !== '';
+        };
+        
+        // Tentar imediatamente
+        if (checkNavbar()) {
+            return;
+        }
+        
+        // Se não encontrou, aguardar com polling
+        return new Promise((resolve) => {
+            const pollInterval = setInterval(() => {
+                attempts++;
+                if (checkNavbar() || attempts >= maxAttempts) {
+                    clearInterval(pollInterval);
+                    if (attempts >= maxAttempts) {
+                        console.warn('Timeout aguardando navbar carregar');
+                    }
+                    resolve();
+                }
+            }, 100);
+        });
     }
 
     async waitForNavbarAndUpdateSelector(langCode) {
@@ -199,10 +230,13 @@ class NativeLanguageManager {
         }
     }
 
-    updateUITexts(langCode) {
+    async updateUITexts(langCode) {
         console.log('🔄 [NATIVE-LANG] updateUITexts chamado com idioma:', langCode);
         const translations = this.translations[langCode] || {};
         console.log('📚 [NATIVE-LANG] Traduções disponíveis para', langCode, ':', Object.keys(translations).length, 'chaves');
+        
+        // Aguardar o navbar estar carregado antes de aplicar traduções
+        await this.waitForNavbar();
         
         let elementsTranslated = 0;
         document.querySelectorAll('[data-translate]').forEach(element => {
