@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: Verissimo. Ora andare al supermercato sembra meno un obbligo e più un'avventura.
+

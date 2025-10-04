@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: 非常对。现在去超市感觉不像是义务，更像是一次冒险。
+

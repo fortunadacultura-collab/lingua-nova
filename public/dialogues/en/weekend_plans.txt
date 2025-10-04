@@ -1,0 +1,273 @@
+title: Weekend Plans
+speaker: Lucas
+text: Mike, got any exciting plans for the weekend?
+pt: Mike, tem algum plano emocionante para o fim de semana?
+es: Mike, ¿tienes algún plan emocionante para el fin de semana?
+fr: Mike, as-tu des projets excitants pour le week-end ?
+de: Mike, hast du aufregende Pläne für das Wochenende?
+ja: マイク、週末に何かワクワクする予定はある？
+ko: 마이크, 주말에 흥미진진한 계획이 있어?
+zh: 迈克，你周末有什么令人兴奋的计划吗？
+ru: Майк, есть какие-нибудь интересные планы на выходные?
+hi: माइक, क्या आपके पास सप्ताहांत के लिए कोई रोमांचक योजनाएं हैं?
+it: Mike, hai qualche piano emozionante per il weekend?
+
+speaker: Mike
+text: Thinking about hitting the hiking trails. Need to unplug from city chaos.
+pt: Pensando em pegar as trilhas. Preciso me desligar do caos da cidade.
+es: Pensando en ir a los senderos. Necesito desconectarme del caos de la ciudad.
+fr: Je pense aller sur les sentiers de randonnée. J'ai besoin de me déconnecter du chaos urbain.
+de: Ich denke daran, die Wanderwege zu erkunden. Muss mich vom Stadtchaos abkoppeln.
+ja: ハイキングコースに行こうかと思ってる。都市の混沌から離れる必要があるんだ。
+ko: 하이킹 트레일에 가볼까 생각 중이야. 도시의 혼란에서 벗어날 필요가 있어.
+zh: 想去徒步小径走走。需要从城市的混乱中脱身。
+ru: Думаю пойти по туристическим тропам. Нужно отключиться от городского хаоса.
+hi: हाइकिंग ट्रेल्स पर जाने के बारे में सोच रहा हूं। शहर की अराजकता से अनप्लग होने की जरूरत है।
+it: Sto pensando di andare sui sentieri escursionistici. Ho bisogno di staccare dal caos della città.
+
+speaker: Lucas
+text: Nice! I'm considering a weekend getaway—maybe a beach trip to recharge.
+pt: Legal! Tô pensando numa escapada de fim de semana—talvez uma ida à praia pra recarregar.
+es: ¡Qué bien! Estoy considerando una escapada de fin de semana—tal vez un viaje a la playa para recargar energías.
+fr: Super ! Je pense à une escapade de week-end—peut-être un voyage à la plage pour me ressourcer.
+de: Schön! Ich überlege mir einen Wochenendausflug—vielleicht eine Strandreise zum Auftanken.
+ja: いいね！週末の小旅行を考えてる—ビーチ旅行でリチャージするかも。
+ko: 좋네! 주말 여행을 생각하고 있어—해변 여행으로 재충전할까 봐.
+zh: 不错！我在考虑周末度假——也许去海滩旅行充充电。
+ru: Отлично! Я думаю о поездке на выходные—может быть, поездка на пляж, чтобы перезарядиться.
+hi: बढ़िया! मैं सप्ताहांत की छुट्टी के बारे में सोच रहा हूं—शायद रिचार्ज करने के लिए समुद्र तट की यात्रा।
+it: Fantastico! Sto considerando una fuga per il weekend—magari un viaggio al mare per ricaricarmi.
+
+speaker: Mike
+text: Sounds perfect. Sometimes a change of scenery is the best therapy.
+pt: Parece perfeito. Às vezes, uma mudança de cenário é a melhor terapia.
+es: Suena perfecto. A veces un cambio de escenario es la mejor terapia.
+fr: Ça sonne parfait. Parfois un changement de décor est la meilleure thérapie.
+de: Klingt perfekt. Manchmal ist ein Tapetenwechsel die beste Therapie.
+ja: 完璧に聞こえる。時々環境を変えることが最高の治療法だ。
+ko: 완벽하게 들려. 가끔 풍경의 변화가 최고의 치료법이야.
+zh: 听起来很完美。有时换个环境就是最好的治疗。
+ru: Звучит идеально. Иногда смена обстановки — лучшая терапия.
+hi: बिल्कुल सही लगता है। कभी-कभी दृश्य का बदलाव सबसे अच्छी थेरेपी होती है।
+it: Suona perfetto. A volte un cambio di scenario è la migliore terapia.
+
+speaker: Lucas
+text: For sure. You joining us for the barbecue at Ana's on Sunday?
+pt: Com certeza. Você vem pro churrasco na casa da Ana no domingo?
+es: Por supuesto. ¿Te unes a nosotros para la barbacoa en casa de Ana el domingo?
+fr: Bien sûr. Tu nous rejoins pour le barbecue chez Ana dimanche ?
+de: Auf jeden Fall. Kommst du zum Grillen bei Ana am Sonntag?
+ja: もちろん。日曜日のアナの家でのバーベキューに参加する？
+ko: 물론이지. 일요일에 아나네 집 바베큐에 올 거야?
+zh: 当然。你星期天会来参加安娜家的烧烤吗？
+ru: Конечно. Присоединишься к нам на барбекю у Аны в воскресенье?
+hi: बिल्कुल। क्या आप रविवार को अना के घर बारबेक्यू के लिए हमारे साथ आएंगे?
+it: Certamente. Ti unisci a noi per il barbecue da Ana domenica?
+
+speaker: Mike
+text: Wouldn't miss it. Great food and great company—best way to end the weekend.
+pt: Não perderia por nada. Boa comida e boa companhia—a melhor maneira de terminar o fim de semana.
+es: No me lo perdería. Buena comida y buena compañía—la mejor manera de terminar el fin de semana.
+fr: Je ne raterais ça pour rien au monde. Bonne bouffe et bonne compagnie—la meilleure façon de finir le week-end.
+de: Das würde ich nicht verpassen. Gutes Essen und gute Gesellschaft—der beste Weg, das Wochenende zu beenden.
+ja: 絶対に見逃さない。美味しい食べ物と素晴らしい仲間—週末を終える最高の方法だ。
+ko: 절대 놓칠 수 없지. 좋은 음식과 좋은 동료들—주말을 마무리하는 최고의 방법이야.
+zh: 绝对不会错过。美食和好伙伴——结束周末的最佳方式。
+ru: Ни за что не пропущу. Отличная еда и отличная компания—лучший способ закончить выходные.
+hi: इसे मिस नहीं करूंगा। बेहतरीन खाना और बेहतरीन साथ—सप्ताहांत समाप्त करने का सबसे अच्छा तरीका।
+it: Non me lo perderei. Ottimo cibo e ottima compagnia—il modo migliore per finire il weekend.
+
+speaker: Lucas
+text: Exactly. After all the work stress, social recharge is crucial.
+pt: Exatamente. Depois de todo o estresse do trabalho, a recarga social é crucial.
+es: Exactamente. Después de todo el estrés laboral, la recarga social es crucial.
+fr: Exactement. Après tout le stress du travail, la recharge sociale est cruciale.
+de: Genau. Nach all dem Arbeitsstress ist soziales Auftanken entscheidend.
+ja: その通り。仕事のストレスの後は、社会的な充電が重要だ。
+ko: 정확해. 모든 업무 스트레스 후에는 사회적 재충전이 중요해.
+zh: 没错。在所有工作压力之后，社交充电是至关重要的。
+ru: Точно. После всего рабочего стресса социальная перезарядка крайне важна.
+hi: बिल्कुल सही। सारे काम के तनाव के बाद, सामाजिक रिचार्ज महत्वपूर्ण है।
+it: Esattamente. Dopo tutto lo stress del lavoro, la ricarica sociale è cruciale.
+
+speaker: Mike
+text: Absolutely. And maybe we can squeeze in a game or two afterward?
+pt: Com certeza. E talvez a gente possa encaixar um jogo ou dois depois?
+es: Por supuesto. ¿Y tal vez podamos meter un juego o dos después?
+fr: Absolument. Et peut-être qu'on peut caser un jeu ou deux après ?
+de: Absolut. Und vielleicht können wir danach noch ein oder zwei Spiele einschieben?
+ja: もちろん。その後ゲームを1、2回やれるかもしれない？
+ko: 물론이지. 그리고 나중에 게임 한두 판 할 수 있을까?
+zh: 绝对的。也许我们之后可以挤出时间玩一两局游戏？
+ru: Абсолютно. А может, мы сможем втиснуть игру-другую после?
+hi: बिल्कुल। और शायद हम बाद में एक या दो गेम भी खेल सकें?
+it: Assolutamente. E magari possiamo infilare una partita o due dopo?
+
+speaker: Lucas
+text: Count me in. Friendly competition is always a weekend highlight.
+pt: Pode contar comigo. Competição amigável é sempre um destaque do fim de semana.
+es: Cuenta conmigo. La competencia amistosa siempre es un punto destacado del fin de semana.
+fr: Compte sur moi. La compétition amicale est toujours un point fort du week-end.
+de: Zähl mich dazu. Freundschaftlicher Wettbewerb ist immer ein Wochenend-Highlight.
+ja: 僕も参加する。友好的な競争はいつも週末のハイライトだ。
+ko: 나도 참여할게. 친선 경쟁은 항상 주말의 하이라이트야.
+zh: 算我一个。友好竞争总是周末的亮点。
+ru: Рассчитывай на меня. Дружеское соревнование всегда изюминка выходных.
+hi: मुझे भी शामिल करें। मित्रतापूर्ण प्रतिस्पर्धा हमेशा सप्ताहांत की मुख्य बात होती है।
+it: Conta su di me. La competizione amichevole è sempre il momento clou del weekend.
+
+speaker: Mike
+text: Plus, it's great bonding time with the gang.
+pt: Além disso, é um ótimo momento pra fortalecer os laços com a galera.
+es: Además, es un gran momento para fortalecer lazos con la pandilla.
+fr: En plus, c'est un excellent moment de complicité avec la bande.
+de: Außerdem ist es eine großartige Zeit zum Zusammenschweißen mit der Truppe.
+ja: それに、仲間との絆を深める素晴らしい時間だ。
+ko: 게다가, 친구들과 유대감을 쌓는 좋은 시간이야.
+zh: 另外，这是与朋友们增进感情的好时光。
+ru: К тому же, это отличное время для сплочения с компанией.
+hi: इसके अलावा, यह गिरोह के साथ बंधन बनाने का शानदार समय है।
+it: Inoltre, è un ottimo momento per legare con la banda.
+
+speaker: Lucas
+text: So, hiking Saturday, beach Sunday, then barbecue and games?
+pt: Então, trilha no sábado, praia no domingo, depois churrasco e jogos?
+es: Entonces, ¿senderismo el sábado, playa el domingo, luego barbacoa y juegos?
+fr: Alors, randonnée samedi, plage dimanche, puis barbecue et jeux ?
+de: Also, Wandern am Samstag, Strand am Sonntag, dann Grillen und Spiele?
+ja: じゃあ、土曜日にハイキング、日曜日にビーチ、それからバーベキューとゲーム？
+ko: 그럼, 토요일에 하이킹, 일요일에 해변, 그다음 바베큐와 게임?
+zh: 那么，周六徒步，周日海滩，然后烧烤和游戏？
+ru: Итак, поход в субботу, пляж в воскресенье, потом барбекю и игры?
+hi: तो, शनिवार को हाइकिंग, रविवार को समुद्र तट, फिर बारबेक्यू और गेम्स?
+it: Quindi, escursione sabato, spiaggia domenica, poi barbecue e giochi?
+
+speaker: Mike
+text: Sounds like a solid weekend lineup.
+pt: Parece uma programação de fim de semana massa.
+es: Suena como una programación sólida para el fin de semana.
+fr: Ça ressemble à un programme de week-end solide.
+de: Klingt nach einem soliden Wochenendprogramm.
+ja: しっかりした週末の予定に聞こえる。
+ko: 탄탄한 주말 일정처럼 들려.
+zh: 听起来像是一个扎实的周末安排。
+ru: Звучит как солидная программа выходных.
+hi: एक ठोस सप्ताहांत लाइनअप की तरह लगता है।
+it: Sembra un programma del weekend solido.
+
+speaker: Lucas
+text: Perfect balance of adventure and chill.
+pt: Equilíbrio perfeito entre aventura e relaxamento.
+es: Equilibrio perfecto entre aventura y relajación.
+fr: Équilibre parfait entre aventure et détente.
+de: Perfekte Balance zwischen Abenteuer und Entspannung.
+ja: 冒険とリラックスの完璧なバランス。
+ko: 모험과 휴식의 완벽한 균형.
+zh: 冒险和放松的完美平衡。
+ru: Идеальный баланс между приключением и отдыхом.
+hi: साहसिक कार्य और आराम के बीच सही संतुलन।
+it: Equilibrio perfetto tra avventura e relax.
+
+speaker: Mike
+text: Can't wait. Need to disconnect and just enjoy the moment.
+pt: Mal posso esperar. Preciso me desconectar e apenas aproveitar o momento.
+es: No puedo esperar. Necesito desconectarme y simplemente disfrutar el momento.
+fr: J'ai hâte. J'ai besoin de me déconnecter et juste profiter du moment.
+de: Kann es kaum erwarten. Muss abschalten und einfach den Moment genießen.
+ja: 待ちきれない。デジタルデトックスして、その瞬間を楽しむ必要がある。
+ko: 기다릴 수가 없어. 연결을 끊고 그 순간을 즐겨야 해.
+zh: 迫不及待。需要断开连接，只是享受当下。
+ru: Не могу дождаться. Нужно отключиться и просто наслаждаться моментом.
+hi: इंतज़ार नहीं कर सकता। मुझे डिस्कनेक्ट करने और बस पल का आनंद लेने की जरूरत है।
+it: Non vedo l'ora. Ho bisogno di staccare e godermi semplicemente il momento.
+
+speaker: Lucas
+text: Preach! What about you—any prep for the hike?
+pt: Isso aí! E você—algum preparo pra trilha?
+es: ¡Amén! ¿Y tú—alguna preparación para la caminata?
+fr: Prêche ! Et toi—des préparatifs pour la randonnée ?
+de: Predige! Und du—irgendwelche Vorbereitungen für die Wanderung?
+ja: その通り！君は—ハイキングの準備は何かある？
+ko: 맞아! 그리고 너는—하이킹 준비는 뭔가 있어?
+zh: 说得对！你呢——徒步有什么准备吗？
+ru: Проповедуй! А ты—какие-то приготовления к походу?
+hi: सच कहा! और आप—हाइक के लिए कोई तैयारी?
+it: Esatto! E tu—qualche preparazione per l'escursione?
+
+speaker: Mike
+text: Just packing light and making sure my playlist is fire.
+pt: Só fazendo uma mochila leve e garantindo que minha playlist tá massa.
+es: Solo empacando ligero y asegurándome de que mi playlist esté genial.
+fr: Juste faire un sac léger et m'assurer que ma playlist soit géniale.
+de: Nur leicht packen und sicherstellen, dass meine Playlist fire ist.
+ja: 軽く荷造りして、プレイリストが最高であることを確認するだけ。
+ko: 가볍게 짐을 싸고 내 플레이리스트가 멋진지 확인하는 것뿐이야.
+zh: 只是轻装上阵，确保我的播放列表很棒。
+ru: Просто пакую легко и убеждаюсь, что мой плейлист огонь.
+hi: बस हल्का पैक कर रहा हूं और यह सुनिश्चित कर रहा हूं कि मेरी प्लेलिस्ट शानदार है।
+it: Solo fare uno zaino leggero e assicurarmi che la mia playlist sia fantastica.
+
+speaker: Lucas
+text: Good call! Music makes the miles fly by.
+pt: Boa decisão! A música faz as milhas passarem voando.
+es: ¡Buena idea! La música hace que las millas vuelen.
+fr: Bon choix ! La musique fait passer les kilomètres en un éclair.
+de: Gute Entscheidung! Musik lässt die Meilen verfliegen.
+ja: いい判断！音楽があるとマイルがあっという間に過ぎる。
+ko: 좋은 선택! 음악이 있으면 마일이 날아가듯 지나가.
+zh: 好主意！音乐让里程飞逝而过。
+ru: Хороший выбор! Музыка заставляет мили пролетать незаметно.
+hi: अच्छा फैसला! संगीत मील को उड़ाकर ले जाता है।
+it: Buona scelta! La musica fa volare via le miglia.
+
+speaker: Mike
+text: And snacks. Never forget snacks on a hike.
+pt: E lanches. Nunca se esqueça dos lanches em uma caminhada.
+es: Y bocadillos. Nunca olvides los bocadillos en una caminata.
+fr: Et des collations. N'oublie jamais les collations lors d'une randonnée.
+de: Und Snacks. Vergiss niemals Snacks bei einer Wanderung.
+ja: そしてスナック。ハイキングでスナックを忘れてはいけない。
+ko: 그리고 간식. 하이킹에서 간식을 절대 잊지 마.
+zh: 还有零食。徒步时千万别忘了零食。
+ru: И закуски. Никогда не забывай закуски в походе.
+hi: और स्नैक्स। हाइक पर स्नैक्स कभी न भूलें।
+it: E snack. Non dimenticare mai gli snack durante un'escursione.
+
+speaker: Lucas
+text: Essential. Trail mix and granola bars for the win.
+pt: Essencial. Mix de castanhas e barras de granola pra ganhar.
+es: Esencial. Mix de frutos secos y barras de granola para ganar.
+fr: Essentiel. Mélange de noix et barres de granola pour gagner.
+de: Wesentlich. Nussmischung und Müsliriegel für den Sieg.
+ja: 必須。ナッツミックスとグラノーラバーで勝利。
+ko: 필수야. 견과류 믹스와 그래놀라 바로 승리.
+zh: 必不可少。坚果混合和燕麦棒取胜。
+ru: Обязательно. Ореховая смесь и батончики мюсли для победы.
+hi: जरूरी। जीतने के लिए ट्रेल मिक्स और ग्रेनोला बार।
+it: Essenziale. Mix di frutta secca e barrette di granola per vincere.
+
+speaker: Mike
+text: Weekend can't come soon enough.
+pt: Mal posso esperar pelo fim de semana.
+es: El fin de semana no puede llegar lo suficientemente pronto.
+fr: Le week-end ne peut pas arriver assez tôt.
+de: Das Wochenende kann nicht schnell genug kommen.
+ja: 週末が待ちきれない。
+ko: 주말이 빨리 왔으면 좋겠어.
+zh: 周末来得不够快。
+ru: Выходные не могут наступить достаточно быстро.
+hi: सप्ताहांत जल्दी नहीं आ सकता।
+it: Il weekend non può arrivare abbastanza presto.
+
+speaker: Lucas
+text: Same here, man. Let's make it count.
+pt: Igualmente, cara. Vamos fazer valer a pena.
+es: Igualmente, hombre. Hagamos que cuente.
+fr: Pareil ici, mec. Faisons en sorte que ça compte.
+de: Genauso hier, Mann. Lass es uns zählen lassen.
+ja: 同じく、友よ。価値あるものにしよう。
+ko: 나도 마찬가지야, 친구. 의미 있게 만들자.
+zh: 我也一样，伙计。让我们让它有意义。
+ru: То же самое, чувак. Давай сделаем это стоящим.
+hi: यहाँ भी वही, यार। इसे गिनती में लाते हैं।
+it: Anch'io, amico. Facciamo che conti.

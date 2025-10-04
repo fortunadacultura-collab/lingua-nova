@@ -1,0 +1,4 @@
+title: Morning Routine
+speaker: Mike
+text: ハ！一歩ずつだ。挑戦の準備はできてる？
+

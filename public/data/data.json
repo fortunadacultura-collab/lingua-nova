@@ -1,0 +1,1122 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "https://flagcdn.com/w20/us.png",
+      "targetName": "English"
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "flag": "https://flagcdn.com/w20/br.png",
+      "targetName": "Portuguese"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "flag": "https://flagcdn.com/w20/es.png",
+      "targetName": "Spanish"
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "flag": "https://flagcdn.com/w20/jp.png",
+      "targetName": "Japanese"
+    }
+  ],
+  "features": [
+    {
+      "icon": "fas fa-comments",
+      "title": "Dialogues",
+      "description": "Learn with authentic conversations in everyday situations.",
+      "linkText": "Explore Dialogues"
+    },
+    {
+      "icon": "fas fa-book-open",
+      "title": "Stories",
+      "description": "Short engaging stories written specifically for your level.",
+      "linkText": "Read Stories"
+    },
+    {
+      "icon": "fas fa-layer-group",
+      "title": "Flashcards",
+      "description": "Smart flashcards with spaced repetition system.",
+      "linkText": "Start Practicing"
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "At the Supermarket",
+      "icon": "fas fa-shopping-cart",
+      "lines": [
+        {
+          "speaker": "Ana",
+          "text": "How much does a kilo of apples cost?",
+          "translation": {
+            "pt": "Quanto custa o quilo da maçã?",
+            "es": "¿Cuánto cuesta un kilo de manzanas?",
+            "ja": "りんご1キロはいくらですか？"
+          }
+        },
+        {
+          "speaker": "Clerk",
+          "text": "It's on sale today for $2.99 per kilo.",
+          "translation": {
+            "pt": "Está em promoção hoje por R$ 4,99 o quilo.",
+            "es": "Está en oferta hoy por $2.99 por kilo.",
+            "ja": "今日は1キロ2.99ドルでセール中です。"
+          }
+        },
+        {
+          "speaker": "Ana",
+          "text": "Can I have two kilos, please?",
+          "translation": {
+            "pt": "Pode me dar dois quilos, por favor?",
+            "es": "¿Puedo tener dos kilos, por favor?",
+            "ja": "2キロください。"
+          }
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "title": "The Mountain Adventure",
+      "icon": "fas fa-mountain",
+      "content": "It was a cold morning when Carlos decided to climb the mountain. He packed his backpack with water, food, and a map. The trail was harder than he imagined...",
+      "translation": {
+        "pt": "Era uma manhã fria quando Carlos decidiu escalar a montanha. Ele preparou sua mochila com água, comida e um mapa. A trilha era mais difícil do que ele imaginava...",
+        "es": "Era una mañana fría cuando Carlos decidió escalar la montaña. Empacó su mochila con agua, comida y un mapa. El sendero era más difícil de lo que imaginaba...",
+        "ja": "カルロスが山に登ることを決めた寒い朝でした。彼は水、食べ物、地図をバックパックに詰めました。道のりは彼が想像していたよりも困難でした..."
+      }
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Happiness",
+      "back": {
+        "pt": "Felicidade",
+        "es": "Felicidad",
+        "ja": "幸福"
+      }
+    }
+  ],
+  "themes": {
+    "en": [
+    {
+      "title": "Daily Life",
+      "topics": [
+        { "id": "morning_routine", "name": "Morning Routine" },
+        { "id": "commuting", "name": "Commuting to Work" },
+        { "id": "grocery_shopping", "name": "Grocery Shopping" },
+        { "id": "household_chores", "name": "Household Chores" },
+        { "id": "eating_out", "name": "Eating Out" },
+        { "id": "weekend_plans", "name": "Weekend Plans" },
+        { "id": "weather_chat", "name": "Weather Chat" },
+        { "id": "hanging_out", "name": "Hanging Out with Friends" },
+        { "id": "visiting_family", "name": "Visiting Family" },
+        { "id": "running_errands", "name": "Running Errands" }
+      ]
+    },
+    {
+      "title": "Travel",
+      "topics": [
+        { "id": "booking_flight", "name": "Booking a Flight" },
+        { "id": "airport", "name": "At the Airport" },
+        { "id": "hotel_checkin", "name": "Hotel Check-in" },
+        { "id": "directions", "name": "Asking for Directions" },
+        { "id": "renting_car", "name": "Renting a Car" },
+        { "id": "sightseeing", "name": "Sightseeing" },
+        { "id": "local_food", "name": "Trying Local Food" },
+        { "id": "lost_luggage", "name": "Dealing with Lost Luggage" },
+        { "id": "public_transport", "name": "Using Public Transport" },
+        { "id": "travel_tips", "name": "Travel Tips & Recommendations" }
+      ]
+    },
+    {
+      "title": "Work & Careers",
+      "topics": [
+        { "id": "job_interview", "name": "Job Interview" },
+        { "id": "office_talk", "name": "Office Small Talk" },
+        { "id": "work_meetings", "name": "Work Meetings" },
+        { "id": "asking_raise", "name": "Asking for a Raise" },
+        { "id": "remote_work", "name": "Remote Work Challenges" },
+        { "id": "workplace_conflicts", "name": "Workplace Conflicts" },
+        { "id": "career_goals", "name": "Career Goals" },
+        { "id": "quitting_job", "name": "Quitting a Job" },
+        { "id": "new_job", "name": "Starting a New Job" },
+        { "id": "work_life_balance", "name": "Work-Life Balance" }
+      ]
+    },
+    {
+      "title": "Technology",
+      "topics": [
+        { "id": "new_phone", "name": "Buying a New Phone" },
+        { "id": "tech_issues", "name": "Troubleshooting Tech Issues" },
+        { "id": "social_media", "name": "Social Media Trends" },
+        { "id": "online_security", "name": "Online Security" },
+        { "id": "streaming", "name": "Streaming Movies/Music" },
+        { "id": "video_calls", "name": "Video Calls & Zoom Meetings" },
+        { "id": "gaming", "name": "Gaming Discussions" },
+        { "id": "ai_future", "name": "AI & Future Tech" },
+        { "id": "smart_home", "name": "Smart Home Devices" },
+        { "id": "learning_software", "name": "Learning New Software" }
+      ]
+    },
+    {
+      "title": "Health & Fitness",
+      "topics": [
+        { "id": "gym_workouts", "name": "Gym Workouts" },
+        { "id": "healthy_eating", "name": "Healthy Eating Habits" },
+        { "id": "visiting_doctor", "name": "Visiting a Doctor" },
+        { "id": "mental_health", "name": "Mental Health Awareness" },
+        { "id": "home_workouts", "name": "Home Workouts" },
+        { "id": "weight_loss", "name": "Weight Loss Tips" },
+        { "id": "sleep_relaxation", "name": "Sleep & Relaxation" },
+        { "id": "sports_activities", "name": "Sports & Outdoor Activities" },
+        { "id": "dealing_stress", "name": "Dealing with Stress" },
+        { "id": "medical_emergencies", "name": "Medical Emergencies" }
+      ]
+    },
+    {
+      "title": "Relationships",
+      "topics": [
+        { "id": "first_dates", "name": "First Dates" },
+        { "id": "marriage_proposals", "name": "Marriage Proposals" },
+        { "id": "arguments_apologies", "name": "Arguments & Apologies" },
+        { "id": "long_distance", "name": "Long-Distance Relationships" },
+        { "id": "meeting_parents", "name": "Meeting the Parents" },
+        { "id": "breaking_up", "name": "Breaking Up" },
+        { "id": "friendship_issues", "name": "Friendship Issues" },
+        { "id": "online_dating", "name": "Online Dating" },
+        { "id": "anniversaries", "name": "Anniversaries & Celebrations" },
+        { "id": "trust_jealousy", "name": "Trust & Jealousy" }
+      ]
+    },
+    {
+      "title": "Education",
+      "topics": [
+        { "id": "choosing_major", "name": "Choosing a Major" },
+        { "id": "exam_stress", "name": "Exam Stress" },
+        { "id": "study_tips", "name": "Study Tips" },
+        { "id": "group_projects", "name": "Group Projects" },
+        { "id": "online_learning", "name": "Online Learning" },
+        { "id": "scholarships", "name": "Scholarships & Financial Aid" },
+        { "id": "teacher_student", "name": "Teacher-Student Discussions" },
+        { "id": "school_events", "name": "School Events" },
+        { "id": "learning_language", "name": "Learning a New Language" },
+        { "id": "graduation_plans", "name": "Graduation Plans" }
+      ]
+    },
+    {
+      "title": "Money & Finance",
+      "topics": [
+        { "id": "bank_account", "name": "Opening a Bank Account" },
+        { "id": "saving_money", "name": "Saving Money Tips" },
+        { "id": "investing_stocks", "name": "Investing in Stocks" },
+        { "id": "paying_bills", "name": "Paying Bills" },
+        { "id": "credit_card_debt", "name": "Credit Card Debt" },
+        { "id": "buying_house", "name": "Buying a House" },
+        { "id": "budget_travel", "name": "Budgeting for Travel" },
+        { "id": "retirement_planning", "name": "Retirement Planning" },
+        { "id": "side_hustles", "name": "Side Hustles" },
+        { "id": "tax_discussions", "name": "Tax Discussions" }
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "topics": [
+        { "id": "movie_recommendations", "name": "Movie Recommendations" },
+        { "id": "concert_experiences", "name": "Concert Experiences" },
+        { "id": "book_discussions", "name": "Book Discussions" },
+        { "id": "tv_show_theories", "name": "TV Show Theories" },
+        { "id": "celebrity_gossip", "name": "Celebrity Gossip" },
+        { "id": "theater_plays", "name": "Theater & Plays" },
+        { "id": "podcast_recommendations", "name": "Podcast Recommendations" },
+        { "id": "art_museums", "name": "Art & Museums" },
+        { "id": "comedy_shows", "name": "Comedy Shows" },
+        { "id": "viral_trends", "name": "Viral Internet Trends" }
+      ]
+    },
+    {
+      "title": "Food & Cooking",
+      "topics": [
+        { "id": "cooking_recipe", "name": "Cooking a New Recipe" },
+        { "id": "restaurant_reviews", "name": "Restaurant Reviews" },
+        { "id": "dietary_restrictions", "name": "Dietary Restrictions" },
+        { "id": "baking", "name": "Baking Failures/Successes" },
+        { "id": "fast_food", "name": "Fast Food vs. Home Cooking" },
+        { "id": "food_delivery", "name": "Food Delivery Services" },
+        { "id": "international_cuisine", "name": "International Cuisine" },
+        { "id": "barbecue", "name": "Barbecue & Grilling" },
+        { "id": "coffee_tea", "name": "Coffee & Tea Preferences" },
+        { "id": "food_allergies", "name": "Food Allergies" }
+      ]
+    },
+    {
+      "title": "Business & Entrepreneurship",
+      "topics": [
+        { "id": "startup_ideas", "name": "Startup Ideas" },
+        { "id": "pitching_investors", "name": "Pitching to Investors" },
+        { "id": "business_planning", "name": "Business Planning" },
+        { "id": "digital_marketing", "name": "Digital Marketing" },
+        { "id": "ecommerce_strategies", "name": "E-commerce Strategies" },
+        { "id": "funding_options", "name": "Funding Options" },
+        { "id": "brand_development", "name": "Brand Development" },
+        { "id": "customer_service", "name": "Customer Service" },
+        { "id": "business_networking", "name": "Business Networking" },
+        { "id": "scaling_business", "name": "Scaling a Business" }
+      ]
+    },
+    {
+      "title": "Science & Innovation",
+      "topics": [
+        { "id": "scientific_discoveries", "name": "Scientific Discoveries" },
+        { "id": "research_methods", "name": "Research Methods" },
+        { "id": "climate_science", "name": "Climate Science" },
+        { "id": "space_exploration", "name": "Space Exploration" },
+        { "id": "biotechnology", "name": "Biotechnology" },
+        { "id": "renewable_energy", "name": "Renewable Energy" },
+        { "id": "scientific_ethics", "name": "Scientific Ethics" },
+        { "id": "data_science", "name": "Data Science" },
+        { "id": "innovation_management", "name": "Innovation Management" },
+        { "id": "future_tech", "name": "Future Technologies" }
+      ]
+    }],
+    "es": [{
+      "title": "Emprendimiento y Startups",
+      "topics": [
+        { "id": "la_idea", "name": "La Idea" },
+        { "id": "busqueda_financiamiento", "name": "Búsqueda de Financiamiento" },
+        { "id": "construir_mvp", "name": "Construir un MVP" },
+        { "id": "marca_personal_networking", "name": "Marca Personal y Networking" },
+        { "id": "marketing_digital_startups", "name": "Marketing Digital para Startups" },
+        { "id": "impacto_social_sostenibilidad", "name": "Impacto Social y Sostenibilidad" },
+        { "id": "modelos_negocio", "name": "Modelos de Negocio" },
+        { "id": "expansion_nuevos_mercados", "name": "Expansion a Nuevos Mercados" },
+        { "id": "gestion_tiempo_productividad", "name": "Gestión del Tiempo y Productividad" },
+        { "id": "fracaso_resiliencia", "name": "Fracaso y Resiliencia" }
+      ]
+    },
+    {
+      "title": "Bienestar y Salud Mental",
+      "topics": [
+        { "id": "rutinas_autocuidado", "name": "Rutinas de Autocuidado" },
+        { "id": "ansiedad_trabajo", "name": "Ansiedad en el Trabajo" },
+        { "id": "desconexion_digital", "name": "Desconexión Digital" },
+        { "id": "meditacion_mindfulness", "name": "Meditación y Mindfulness" },
+        { "id": "terapia_salud_emocional", "name": "Terapia y Salud Emocional" },
+        { "id": "alimentacion_consciente", "name": "Alimentación Consciente" },
+        { "id": "sueno_reparador", "name": "Sueño Reparador" },
+        { "id": "ejercicio_liberacion", "name": "Ejercicio como Liberación" },
+        { "id": "limites_saludables", "name": "Límites Saludables" },
+        { "id": "practicando_gratitud", "name": "Practicando la Gratitud" }
+      ]
+    },
+    {
+      "title": "Sostenibilidad y Moda Ética",
+      "topics": [
+        { "id": "fast_fashion_slow_fashion", "name": "Fast Fashion vs. Slow Fashion" },
+        { "id": "greenwashing", "name": "Greenwashing" },
+        { "id": "second_hand_vintage", "name": "Second-Hand y Vintage" },
+        { "id": "materiales_sostenibles", "name": "Materiales Sostenibles" },
+        { "id": "minimalismo_armario", "name": "Minimalismo en el Armario" },
+        { "id": "activismo_consumo", "name": "Activismo desde el Consumo" },
+        { "id": "upcycling_creatividad", "name": "Upcycling y Creatividad" },
+        { "id": "marcas_locales_autonomas", "name": "Marcas Locales y Autónomas" },
+        { "id": "costo_real_ropa", "name": "El Costo Real de la Ropa" },
+        { "id": "futuro_moda", "name": "Futuro de la Moda" }
+      ]
+    },
+    {
+      "title": "Tecnología e Inteligencia Artificial",
+      "topics": [
+        { "id": "chatgpt_asistentes_ia", "name": "ChatGPT y Asistentes IA" },
+        { "id": "sesgos_ia", "name": "Sesgos en la IA" },
+        { "id": "ia_generativa", "name": "IA Generativa" },
+        { "id": "privacidad_datos", "name": "Privacidad de Datos" },
+        { "id": "automatizacion_empleos", "name": "Automatización de Empleos" },
+        { "id": "etica_desarrollo", "name": "Ética en el Desarrollo" },
+        { "id": "ia_marketing", "name": "IA en el Marketing" },
+        { "id": "asistentes_virtuales", "name": "Asistentes Virtuales" },
+        { "id": "metaverso", "name": "El Metaverso" },
+        { "id": "aprendizaje_automatico", "name": "Aprendizaje Automático" }
+      ]
+    },
+    {
+      "title": "Viajes y Turismo Slow",
+      "topics": [
+        { "id": "viajar_sostenible", "name": "Viajar de Forma Sostenible" },
+        { "id": "turismo_experiencias", "name": "Turismo de Experiencias" },
+        { "id": "workations_nomadas", "name": "Workations y Nómadas" },
+        { "id": "subculturas_urbanas", "name": "Subculturas Urbanas" },
+        { "id": "presupuesto_mochileros", "name": "Presupuesto para Mochileros" },
+        { "id": "comida_callejera_autentica", "name": "Comida Callejera Auténtica" },
+        { "id": "voluntariado_extranjero", "name": "Voluntariado en el Extranjero" },
+        { "id": "documentacion_logistica", "name": "Documentación y Logística" },
+        { "id": "idiomas_conexion_local", "name": "Idiomas y Conexión Local" },
+        { "id": "shock_cultural_inverso", "name": "Shock Cultural Inverso" }
+      ]
+    },
+    {
+      "title": "Gastronomía y Tendencias Culinarias",
+      "topics": [
+        { "id": "fermentados_probioticos", "name": "Fermentados y Probióticos" },
+        { "id": "cocina_autor_tradicional", "name": "Cocina de Autor vs. Tradicional" },
+        { "id": "chefs_influencers", "name": "Chefs Influencers" },
+        { "id": "cenas_clandestinas", "name": "Cenas Clandestinas" },
+        { "id": "cultura_vermut", "name": "Cultura del Vermút" },
+        { "id": "origen_alimentos", "name": "Origen de los Alimentos" },
+        { "id": "cocina_vegana_creativa", "name": "Cocina Vegana Creativa" },
+        { "id": "criticas_gastronomicas", "name": "Críticas Gastronómicas" },
+        { "id": "food_pairing_inusual", "name": "Food Pairing Inusual" },
+        { "id": "futuro_comida", "name": "Futuro de la Comida" }
+      ]
+    },
+    {
+      "title": "El Futuro del Trabajo (Remote Work)",
+      "topics": [
+        { "id": "nomadas_digitales", "name": "Nómadas Digitales" },
+        { "id": "gestion_tiempo_remoto", "name": "Gestión del Tiempo" },
+        { "id": "comunicacion_asincrona", "name": "Comunicación Asíncrona" },
+        { "id": "espacios_coworking", "name": "Espacios de Coworking" },
+        { "id": "liderazgo_distancia", "name": "Liderazgo a Distancia" },
+        { "id": "ciberseguridad_remoto", "name": "Ciberseguridad" },
+        { "id": "equipamiento_esencial", "name": "Equipamiento Esencial" },
+        { "id": "derechos_laborales_remoto", "name": "Derechos Laborales" },
+        { "id": "desconexion_laboral", "name": "Desconexión" },
+        { "id": "eventos_remotos", "name": "Eventos para Remotos" }
+      ]
+    },
+    {
+      "title": "Activismo Social y Justicia",
+      "topics": [
+        { "id": "activismo_redes", "name": "Activismo en Redes" },
+        { "id": "interseccionalidad", "name": "Interseccionalidad" },
+        { "id": "educacion_publica", "name": "Educación Pública" },
+        { "id": "consumo_local", "name": "Consumo Local" },
+        { "id": "voluntariado_efectivo", "name": "Voluntariado Efectivo" },
+        { "id": "protestas_manifestaciones", "name": "Protestas y Manifestaciones" },
+        { "id": "micromachismos", "name": "Micromachismos" },
+        { "id": "diversidad_empresas", "name": "Diversidad en Empresas" },
+        { "id": "desobediencia_civil", "name": "Desobediencia Civil" },
+        { "id": "esperanza_cambio", "name": "Esperanza y Cambio" }
+      ]
+    },
+    {
+      "title": "Cultura Podcast y Nuevos Medios",
+      "topics": [
+        { "id": "equipamiento_basico_podcast", "name": "Equipamiento Básico" },
+        { "id": "encontrar_nicho", "name": "Encontrar un Nicho" },
+        { "id": "storytelling_auditivo", "name": "Storytelling Auditivo" },
+        { "id": "monetizacion_podcast", "name": "Monetización" },
+        { "id": "entrevistar_invitados", "name": "Entrevistar Invitados" },
+        { "id": "edicion_audio", "name": "Edición de Audio" },
+        { "id": "promocion_redes_podcast", "name": "Promoción en Redes" },
+        { "id": "audio_dramas_ficcion", "name": "Audio-dramas y Ficción" },
+        { "id": "analizar_exito_podcast", "name": "Analizar un Éxito" },
+        { "id": "futuro_audio", "name": "El Futuro del Audio" }
+      ]
+    },
+    {
+      "title": "Relaciones y Amor en la Era Digital",
+      "topics": [
+        { "id": "lenguajes_amor", "name": "Lenguajes del Amor" },
+        { "id": "expectativas_realidad", "name": "Expectativas vs. Realidad" },
+        { "id": "celos_digitales", "name": "Celos Digitales" },
+        { "id": "citas_creativas", "name": "Citas Creativas" },
+        { "id": "finanzas_pareja", "name": "Finanzas en Pareja" },
+        { "id": "convivencia_pareja", "name": "Convivencia" },
+        { "id": "planificacion_futuro", "name": "Planificación del Futuro" },
+        { "id": "sexteo_privacidad", "name": "Sexteo y Privacidad" },
+        { "id": "terapia_pareja", "name": "Terapia de Pareja" },
+        { "id": "amistad_pareja", "name": "Amistad en la Pareja" }
+      ]
+    },
+    {
+      "title": "Educación Online y Aprendizaje Continuo",
+      "topics": [
+        { "id": "plataformas_cursos", "name": "Plataformas de Cursos" },
+        { "id": "micro_credenciales", "name": "Micro-credenciales" },
+        { "id": "ensenar_online", "name": "Enseñar Online" },
+        { "id": "aprendizaje_idiomas_online", "name": "Aprendizaje de Idiomas" },
+        { "id": "moocs", "name": "MOOCs" },
+        { "id": "realidad_virtual_educacion", "name": "Realidad Virtual en Educación" },
+        { "id": "gamificacion_educacion", "name": "Gamificación" },
+        { "id": "comunidades_aprendizaje", "name": "Comunidades de Aprendizaje" },
+        { "id": "brecha_digital", "name": "Brecha Digital" },
+        { "id": "habitos_estudio", "name": "Hábitos de Estudio" }
+      ]
+    },
+    {
+      "title": "Música Indie y Escenas Locales",
+      "topics": [
+        { "id": "descubrir_musica_nueva", "name": "Descubrir Música Nueva" },
+        { "id": "festivales_pequenos_grandes", "name": "Festivales Pequeños vs. Grandes" },
+        { "id": "apoyar_artistas_independientes", "name": "Apoyar Artistas Independientes" },
+        { "id": "generos_boga", "name": "Géneros en Boga" },
+        { "id": "critica_musical", "name": "Crítica Musical" },
+        { "id": "playlists_curadas", "name": "Playlists Curadas" },
+        { "id": "musica_nostalgia", "name": "Música y Nostalgia" },
+        { "id": "colaboraciones_inesperadas", "name": "Colaboraciones Inesperadas" },
+        { "id": "conciertos_online", "name": "Conciertos Online" },
+        { "id": "letra_poesia", "name": "La Letra como Poesía" }
+      ]
+    },
+    {
+      "title": "Cine y Series de Streaming",
+      "topics": [
+        { "id": "saturacion_contenido", "name": "Saturación de Contenido" },
+        { "id": "cine_autor_blockbusters", "name": "Cine de Autor vs. Blockbusters" },
+        { "id": "series_coreanas", "name": "Series Coreanas" },
+        { "id": "finales_decepcionantes", "name": "Finales Decepcionantes" },
+        { "id": "plataformas_emergentes", "name": "Plataformas Emergentes" },
+        { "id": "representacion_cultural", "name": "Representación Cultural" },
+        { "id": "documentales_creativos", "name": "Documentales Creativos" },
+        { "id": "spinoffs_universos", "name": "Spin-offs y Universos" },
+        { "id": "analisis_escena", "name": "Análisis de una Escena" },
+        { "id": "futuro_cine", "name": "El Futuro del Cine" }
+      ]
+    },
+    {
+      "title": "Deporte y Rendimiento Atlético",
+      "topics": [
+        { "id": "tecnologia_wearable", "name": "Tecnología Wearable" },
+        { "id": "alimentacion_rendimiento", "name": "Alimentación para el Rendimiento" },
+        { "id": "prevencion_lesiones", "name": "Prevención de Lesiones" },
+        { "id": "deporte_amateur", "name": "Deporte Amateur" },
+        { "id": "psicologia_deportiva", "name": "Psicología Deportiva" },
+        { "id": "deportes_alternativos", "name": "Deportes Alternativos" },
+        { "id": "entrenamiento_casa", "name": "Entrenamiento en Casa" },
+        { "id": "iconos_deportivos", "name": "Iconos Deportivos" },
+        { "id": "eventos_multideportivos", "name": "Eventos Multideportivos" },
+        { "id": "deporte_comunidad", "name": "Deporte y Comunidad" }
+      ]
+    },
+    {
+      "title": "Economía Personal y Inversiones",
+      "topics": [
+        { "id": "ahorro_inversion", "name": "Ahorro vs. Inversión" },
+        { "id": "fondo_emergencia", "name": "Fondo de Emergencia" },
+        { "id": "criptomonedas", "name": "Criptomonedas" },
+        { "id": "apps_finanzas", "name": "Apps de Finanzas" },
+        { "id": "inversion_etica", "name": "Inversión Ética" },
+        { "id": "planes_pensiones", "name": "Planes de Pensiones" },
+        { "id": "impuestos_personales", "name": "Impuestos" },
+        { "id": "comprar_alquilar", "name": "Comprar vs. Alquilar" },
+        { "id": "educacion_financiera", "name": "Educación Financiera" },
+        { "id": "metas_financieras", "name": "Metas Financieras" }
+      ]
+    },
+    {
+      "title": "Redes Sociales y Marca Personal",
+      "topics": [
+        { "id": "algoritmos_redes", "name": "Los Algoritmos" },
+        { "id": "contenido_valor_viral", "name": "Contenido de Valor vs. Viral" },
+        { "id": "autenticidad_redes", "name": "Autenticidad" },
+        { "id": "gestionar_haters", "name": "Gestionar Haters" },
+        { "id": "collaborations_redes", "name": "Collaborations" },
+        { "id": "stories_reels_posts", "name": "Stories vs. Reels vs. Posts" },
+        { "id": "analytics_redes", "name": "Analytics" },
+        { "id": "desintoxicacion_digital_redes", "name": "Desintoxicación Digital" },
+        { "id": "tiktok_buscador", "name": "TikTok como Buscador" },
+        { "id": "futuro_redes", "name": "El Futuro de las Redes" }
+      ]
+    },
+    {
+      "title": "Literatura y Ficción",
+      "topics": [
+        { "id": "bookstagram_booktok", "name": "Bookstagram y BookTok" },
+        { "id": "autores_independientes", "name": "Autores Independientes" },
+        { "id": "clubes_lectura_virtuales", "name": "Clubes de Lectura Virtuales" },
+        { "id": "adaptaciones_cinematograficas", "name": "Adaptaciones Cinematográficas" },
+        { "id": "generos_hibridos", "name": "Géneros Híbridos" },
+        { "id": "ebooks_papel", "name": "eBooks vs. Papel" },
+        { "id": "autores_latinoamericanos", "name": "Autores Latinoamericanos" },
+        { "id": "novela_grafica", "name": "Novela Gráfica" },
+        { "id": "audiolibros", "name": "Audiolibros" },
+        { "id": "habito_lectura", "name": "El Hábito de la Lectura" }
+      ]
+    },
+    {
+      "title": "Psicología y Comportamiento Humano",
+      "topics": [
+        { "id": "sesgos_cognitivos", "name": "Sesgos Cognitivos" },
+        { "id": "inteligencia_emocional", "name": "Inteligencia Emocional" },
+        { "id": "redes_sociales_autoestima", "name": "Redes Sociales y Autoestima" },
+        { "id": "habitos_atomicos", "name": "Hábitos Atómicos" },
+        { "id": "poder_vulnerabilidad", "name": "El Poder de la Vulnerabilidad" },
+        { "id": "teoria_atribucion", "name": "Teoría de la Atribución" },
+        { "id": "mentalidad_fija_crecimiento", "name": "Mentalidad Fija vs. Crecimiento" },
+        { "id": "ciencia_persuasion", "name": "La Ciencia de la Persuasión" },
+        { "id": "resiliencia_psicologia", "name": "Resiliencia" },
+        { "id": "lenguaje_corporal", "name": "Lenguaje Corporal" }
+      ]
+    },
+    {
+      "title": "Urbanismo y Ciudades del Futuro",
+      "topics": [
+        { "id": "movilidad_sostenible", "name": "Movilidad Sostenible" },
+        { "id": "ciudad_15_minutos", "name": "Ciudad de 15 Minutos" },
+        { "id": "espacios_verdes", "name": "Espacios Verdes" },
+        { "id": "gentrificacion", "name": "Gentrificación" },
+        { "id": "arquitectura_bioclimatica", "name": "Arquitectura Bioclimática" },
+        { "id": "smart_cities", "name": "Smart Cities" },
+        { "id": "comunidad_barrio", "name": "Comunidad y Barrio" },
+        { "id": "vivienda_asequible", "name": "Vivienda Asequible" },
+        { "id": "arte_urbano", "name": "Arte Urbano" },
+        { "id": "futuro_centros_urbanos", "name": "El Futuro de los Centros Urbanos" }
+      ]
+    },
+    {
+      "title": "Filosofía de Vida y Propósito",
+      "topics": [
+        { "id": "concepto_ikigai", "name": "El Concepto de Ikigai" },
+        { "id": "minimalismo_vida", "name": "Minimalismo" },
+        { "id": "productividad_toxica", "name": "Productividad Tóxica" },
+        { "id": "legado", "name": "Legado" },
+        { "id": "fomo_vs_jomo", "name": "FOMO vs. JOMO" },
+        { "id": "definir_exito", "name": "Definir el Éxito" },
+        { "id": "filosofia_lagom", "name": "Filosofía Lagom" },
+        { "id": "tomar_decisiones", "name": "Tomar Decisiones" },
+        { "id": "envejecer", "name": "Envejecer" },
+        { "id": "busqueda_felicidad", "name": "La Búsqueda de la Felicidad" }
+      ]
+    },
+    {
+      "title": "Innovación en la Educación",
+      "topics": [
+        { "id": "aprendizaje_basado_proyectos", "name": "Aprendizaje Basado en Proyectos" },
+        { "id": "realidad_aumentada_aula", "name": "Realidad Aumentada en el Aula" },
+        { "id": "ensenar_programacion_ninos", "name": "Enseñar Programación a Niños" },
+        { "id": "personalizacion_aprendizaje", "name": "Personalización del Aprendizaje" },
+        { "id": "aulas_invertidas", "name": "Aulas Invertidas" },
+        { "id": "habilidades_blandas", "name": "Habilidades Blandas" },
+        { "id": "evaluacion_alternativa", "name": "Evaluación Alternativa" },
+        { "id": "educacion_emocional", "name": "Educación Emocional" },
+        { "id": "brecha_digital_educativa", "name": "Brecha Digital Educativa" },
+        { "id": "rol_profesor", "name": "El Rol del Profesor" }
+      ]
+    },
+    {
+      "title": "Eventos Culturales y Festivales",
+      "topics": [
+        { "id": "planificacion_eventos", "name": "Planificación" },
+        { "id": "festivales_sostenibles", "name": "Festivales Sostenibles" },
+        { "id": "diseno_experiencia", "name": "Diseño de Experiencia" },
+        { "id": "festivales_cine_independiente", "name": "Festivales de Cine Independiente" },
+        { "id": "eventos_moda", "name": "Eventos de Moda" },
+        { "id": "comida_callejera_festivales", "name": "Comida Callejera en Festivales" },
+        { "id": "voluntariado_festivales", "name": "Voluntariado en Festivales" },
+        { "id": "festivales_hibridos", "name": "Festivales Híbridos" },
+        { "id": "impacto_economico", "name": "Impacto Económico" },
+        { "id": "resaca_post_festival", "name": "Resaca Post-Festival" }
+      ]
+    }],
+    "pt": [{
+      "title": "Vida Cotidiana",
+      "topics": [
+        { "id": "rotina_matinal_pt", "name": "Rotina Matinal" },
+        { "id": "trabalho_casa_pt", "name": "Trabalho em Casa" },
+        { "id": "compras_supermercado_pt", "name": "Compras no Supermercado" },
+        { "id": "transporte_publico_pt", "name": "Transporte Público" },
+        { "id": "cozinhar_casa_pt", "name": "Cozinhar em Casa" },
+        { "id": "exercicio_fisico_pt", "name": "Exercício Físico" },
+        { "id": "limpeza_organizacao_pt", "name": "Limpeza e Organização" },
+        { "id": "tempo_livre_pt", "name": "Tempo Livre" },
+        { "id": "relacionamentos_familiares_pt", "name": "Relacionamentos Familiares" },
+        { "id": "gestao_tempo_pt", "name": "Gestão do Tempo" }
+      ]
+    },
+    {
+      "title": "Tecnologia e Inovação",
+      "topics": [
+        { "id": "inteligencia_artificial_pt", "name": "Inteligência Artificial" },
+        { "id": "redes_sociais_pt", "name": "Redes Sociais" },
+        { "id": "privacidade_digital_pt", "name": "Privacidade Digital" },
+        { "id": "trabalho_remoto_pt", "name": "Trabalho Remoto" },
+        { "id": "aplicativos_moveis_pt", "name": "Aplicativos Móveis" },
+        { "id": "comercio_eletronico_pt", "name": "Comércio Eletrônico" },
+        { "id": "criptomoedas_pt", "name": "Criptomoedas" },
+        { "id": "realidade_virtual_pt", "name": "Realidade Virtual" },
+        { "id": "internet_coisas_pt", "name": "Internet das Coisas" },
+        { "id": "seguranca_cibernetica_pt", "name": "Segurança Cibernética" }
+      ]
+    },
+    {
+      "title": "Saúde e Bem-estar",
+      "topics": [
+        { "id": "alimentacao_saudavel_pt", "name": "Alimentação Saudável" },
+        { "id": "saude_mental_pt", "name": "Saúde Mental" },
+        { "id": "exercicios_fisicos_pt", "name": "Exercícios Físicos" },
+        { "id": "sono_qualidade_pt", "name": "Qualidade do Sono" },
+        { "id": "meditacao_mindfulness_pt", "name": "Meditação e Mindfulness" },
+        { "id": "prevencao_doencas_pt", "name": "Prevenção de Doenças" },
+        { "id": "medicina_alternativa_pt", "name": "Medicina Alternativa" },
+        { "id": "habitos_saudaveis_pt", "name": "Hábitos Saudáveis" },
+        { "id": "gestao_stress_pt", "name": "Gestão do Stress" },
+        { "id": "envelhecimento_ativo_pt", "name": "Envelhecimento Ativo" }
+      ]
+    }]
+  },
+  
+  "translations": {
+    "pt": {
+      "navHome": "Home",
+      "navDialogues": "Diálogos",
+      "navStories": "Histórias",
+      "navFlashcards": "Flashcards",
+      "navMyDecks": "Meus Decks",
+      "navNewDeck": "Novo Deck",
+      "navAddCards": "Adicionar Cartas",
+      "navStudy": "Estudar",
+      "navImport": "Importar",
+      "navCommunity": "Comunidade",
+      "navCreateDeck": "Criar Deck",
+      "navStatistics": "Estatísticas",
+      "learningLabel": "Aprendendo:",
+      "userLanguageLabel": "Meu idioma:",
+      "userName": "Usuário",
+      "logoutButton": "Sair",
+      "userProfile": "Meu Perfil",
+      "userSettings": "Configurações",
+      "pageTitle": "Diálogos",
+      "pageTitle_dialogues": "Diálogos",
+      "pageTitle_stories": "Histórias",
+      "pageTitle_flashcards": "Flashcards",
+      "chooseTheme": "Escolha Seu Próximo Tema",
+      "load_more": "Carregar Mais Temas",
+      "loadMore": "Carregar Mais Temas",
+      "show_less": "Mostrar Menos",
+      "showLess": "Mostrar Menos",
+      "startLearning": "Comece a Aprender Agora!",
+      "Play": "Ouvir",
+      "Traduzir": "Traduzir",
+      "Ocultar": "Ocultar",
+      "footerResources": "Recursos",
+      "footerDescription": "Aprenda idiomas de forma natural através de diálogos, histórias e flashcards.",
+      "footerSupport": "Suporte",
+      "footerLegal": "Legal",
+      "footerHelp": "Ajuda",
+      "footerContact": "Contato",
+      "footerPricing": "Preços",
+      "footerTerms": "Termos de Uso",
+      "footerPrivacy": "Privacidade",
+      "comingSoon": "Em breve"
+    },
+    "es": {
+      "navHome": "Inicio",
+      "navDialogues": "Diálogos",
+      "navStories": "Historias",
+      "navFlashcards": "Tarjetas",
+      "navMyDecks": "Mis Mazos",
+      "navNewDeck": "Nuevo Mazo",
+      "navAddCards": "Añadir Cartas",
+      "navStudy": "Estudiar",
+      "navImport": "Importar",
+      "navCommunity": "Comunidad",
+      "navCreateDeck": "Crear Mazo",
+      "navStatistics": "Estadísticas",
+      "learningLabel": "Aprendiendo:",
+      "userLanguageLabel": "My idioma:",
+      "userName": "Usuario",
+      "logoutButton": "Salir",
+      "userProfile": "Mi Perfil",
+      "userSettings": "Configuración",
+      "pageTitle": "Diálogos",
+      "pageTitle_dialogues": "Diálogos",
+      "pageTitle_stories": "Historias",
+      "pageTitle_flashcards": "Tarjetas",
+      "chooseTheme": "Elija Su Próximo Tema",
+      "load_more": "Cargar Más Temas",
+      "loadMore": "Cargar Más Temas",
+      "show_less": "Mostrar Menos",
+      "showLess": "Mostrar Menos",
+      "startLearning": "Empiece a Aprender Ahora!",
+      "Play": "Escuchar",
+      "Traduzir": "Traducir",
+      "Ocultar": "Esconder",
+      "footerResources": "Recursos",
+      "footerDescription": "Aprende idiomas de forma natural a través de diálogos, historias y tarjetas.",
+      "footerSupport": "Soporte",
+      "footerLegal": "Legal",
+      "footerHelp": "Ayuda",
+      "footerContact": "Contacto",
+      "footerPricing": "Precios",
+      "footerTerms": "Términos de Uso",
+      "footerPrivacy": "Privacidad",
+      "comingSoon": "Próximamente"
+    },
+    "en": {
+      "navHome": "Home",
+      "navDialogues": "Dialogues",
+      "navStories": "Stories",
+      "navFlashcards": "Flashcards",
+      "navMyDecks": "My Decks",
+      "navNewDeck": "New Deck",
+      "navAddCards": "Add Cards",
+      "navStudy": "Study",
+      "navImport": "Import",
+      "navCommunity": "Community",
+      "navCreateDeck": "Create Deck",
+      "navStatistics": "Statistics",
+      "learningLabel": "Learning:",
+      "userLanguageLabel": "My language:",
+      "userName": "User",
+      "logoutButton": "Logout",
+      "userProfile": "My Profile",
+      "userSettings": "Settings",
+      "pageTitle": "Dialogues",
+      "pageTitle_dialogues": "Dialogues",
+      "pageTitle_stories": "Stories",
+      "pageTitle_flashcards": "Flashcards",
+      "chooseTheme": "Choose Your Next Theme",
+      "load_more": "Load More Themes",
+      "loadMore": "Load More Themes",
+      "show_less": "Show Less",
+      "showLess": "Show Less",
+      "startLearning": "Start Learning Now!",
+      "Play": "Play",
+      "Traduzir": "Translate",
+      "Ocultar": "Hide",
+      "footerResources": "Resources",
+      "footerDescription": "Learn languages naturally through dialogues, stories and flashcards.",
+      "footerSupport": "Support",
+      "footerLegal": "Legal",
+      "footerHelp": "Help",
+      "footerContact": "Contact",
+      "footerPricing": "Pricing",
+      "footerTerms": "Terms of Use",
+      "footerPrivacy": "Privacy",
+      "comingSoon": "Coming Soon"
+    },
+    "ja": {
+      "navHome": "ホーム",
+      "navDialogues": "対話",
+      "navStories": "物語",
+      "navFlashcards": "フラッシュカード",
+      "navMyDecks": "マイデッキ",
+      "navNewDeck": "新しいデッキ",
+      "navAddCards": "カード追加",
+      "navStudy": "学習",
+      "navImport": "インポート",
+      "navCommunity": "コミュニティ",
+      "navCreateDeck": "デッキ作成",
+      "navStatistics": "統計",
+      "learningLabel": "学習中",
+      "userLanguageLabel": "私の言語",
+      "userName": "ユーザー",
+      "logoutButton": "ログアウト",
+      "userProfile": "マイプロフィール",
+      "userSettings": "設定",
+      "pageTitle": "対話",
+      "chooseTheme": "テーマを選択",
+      "loadMore": "もっと読み込む",
+      "showLess": "少なく表示",
+      "startLearning": "今すぐ学習を始めよう！",
+      "Play": "再生",
+      "Traduzir": "翻訳",
+      "Ocultar": "隠す",
+      "footerResources": "リソース",
+      "footerDescription": "対話、物語、フラッシュカードを通じて自然に言語を学びましょう。",
+      "footerSupport": "サポート",
+      "footerLegal": "法的事項",
+      "footerHelp": "ヘルプ",
+      "footerContact": "お問い合わせ",
+      "footerPricing": "料金",
+      "footerTerms": "利用規約",
+      "footerPrivacy": "プライバシー"
+    },
+    "fr": {
+      "navHome": "Accueil",
+      "navDialogues": "Dialogues",
+      "navStories": "Histoires",
+      "navFlashcards": "Cartes Flash",
+      "navMyDecks": "Mes Paquets",
+      "navNewDeck": "Nouveau Paquet",
+      "navAddCards": "Ajouter Cartes",
+      "navStudy": "Étudier",
+      "navImport": "Importer",
+      "navCommunity": "Communauté",
+      "navCreateDeck": "Créer Paquet",
+      "navStatistics": "Statistiques",
+      "learningLabel": "Apprentissage",
+      "userLanguageLabel": "Ma langue",
+      "userName": "Utilisateur",
+      "logoutButton": "Déconnexion",
+      "userProfile": "Mon Profil",
+      "userSettings": "Paramètres",
+      "pageTitle": "Dialogues",
+      "chooseTheme": "Choisissez Votre Prochain Thème :",
+      "loadMore": "Charger Plus de Thèmes",
+      "showLess": "Afficher Moins",
+      "startLearning": "Commencez à Apprendre Maintenant !",
+      "Play": "Écouter",
+      "Traduzir": "Traduire",
+      "Ocultar": "Masquer",
+      "footerResources": "Ressources",
+      "footerDescription": "Apprenez les langues de manière naturelle grâce aux dialogues, histoires et cartes flash.",
+      "footerSupport": "Support",
+      "footerLegal": "Légal",
+      "footerHelp": "Aide",
+      "footerContact": "Contact",
+      "footerPricing": "Tarifs",
+      "footerTerms": "Conditions d'Utilisation",
+      "footerPrivacy": "Confidentialité"
+    },
+    "de": {
+      "navHome": "Startseite",
+      "navDialogues": "Dialoge",
+      "navStories": "Geschichten",
+      "navFlashcards": "Karteikarten",
+      "navMyDecks": "Meine Stapel",
+      "navNewDeck": "Neuer Stapel",
+      "navAddCards": "Karten Hinzufügen",
+      "navStudy": "Lernen",
+      "navImport": "Importieren",
+      "navCommunity": "Gemeinschaft",
+      "navCreateDeck": "Stapel Erstellen",
+      "navStatistics": "Statistiken",
+      "learningLabel": "Lernen",
+      "userLanguageLabel": "Meine Sprache",
+      "userName": "Benutzer",
+      "logoutButton": "Abmelden",
+      "userProfile": "Mein Profil",
+      "userSettings": "Einstellungen",
+      "pageTitle": "Dialoge",
+      "chooseTheme": "Wählen Sie Ihr Nächstes Thema:",
+      "loadMore": "Mehr Themen Laden",
+      "showLess": "Weniger Anzeigen",
+      "startLearning": "Jetzt Lernen Beginnen!",
+      "Play": "Anhören",
+      "Traduzir": "Übersetzen",
+      "Ocultar": "Verbergen",
+      "footerResources": "Ressourcen",
+      "footerDescription": "Lernen Sie Sprachen auf natürliche Weise durch Dialoge, Geschichten und Karteikarten.",
+      "footerSupport": "Support",
+      "footerLegal": "Rechtliches",
+      "footerHelp": "Hilfe",
+      "footerContact": "Kontakt",
+      "footerPricing": "Preise",
+      "footerTerms": "Nutzungsbedingungen",
+      "footerPrivacy": "Datenschutz"
+    },
+    "zh": {
+      "navHome": "首页",
+      "navDialogues": "对话",
+      "navStories": "故事",
+      "navFlashcards": "闪卡",
+      "navMyDecks": "我的卡组",
+      "navNewDeck": "新卡组",
+      "navAddCards": "添加卡片",
+      "navStudy": "学习",
+      "navImport": "导入",
+      "navCommunity": "社区",
+      "navCreateDeck": "创建卡组",
+      "navStatistics": "统计",
+      "learningLabel": "学习中",
+      "userLanguageLabel": "我的语言",
+      "userName": "用户",
+      "logoutButton": "退出",
+      "userProfile": "我的资料",
+      "userSettings": "设置",
+      "pageTitle": "对话",
+      "chooseTheme": "选择您的下一个主题：",
+      "loadMore": "加载更多主题",
+      "showLess": "显示更少",
+      "startLearning": "现在开始学习！",
+      "Play": "播放",
+      "Traduzir": "翻译",
+      "Ocultar": "隐藏",
+      "footerResources": "资源",
+      "footerDescription": "通过对话、故事和闪卡自然地学习语言。",
+      "footerSupport": "支持",
+      "footerLegal": "法律",
+      "footerHelp": "帮助",
+      "footerContact": "联系",
+      "footerPricing": "价格",
+      "footerTerms": "使用条款",
+      "footerPrivacy": "隐私"
+    },
+    "ru": {
+      "navHome": "Главная",
+      "navDialogues": "Диалоги",
+      "navStories": "Истории",
+      "navFlashcards": "Карточки",
+      "navMyDecks": "Мои Колоды",
+      "navNewDeck": "Новая Колода",
+      "navAddCards": "Добавить Карточки",
+      "navStudy": "Изучать",
+      "navImport": "Импорт",
+      "navCommunity": "Сообщество",
+      "navCreateDeck": "Создать Колоду",
+      "navStatistics": "Статистика",
+      "learningLabel": "Изучение",
+      "userLanguageLabel": "Мой язык",
+      "userName": "Пользователь",
+      "logoutButton": "Выйти",
+      "userProfile": "Мой Профиль",
+      "userSettings": "Настройки",
+      "pageTitle": "Диалоги",
+      "chooseTheme": "Выберите Вашу Следующую Тему:",
+      "loadMore": "Загрузить Больше Тем",
+      "showLess": "Показать Меньше",
+      "startLearning": "Начните Изучать Сейчас!",
+      "Play": "Слушать",
+      "Traduzir": "Перевести",
+      "Ocultar": "Скрыть",
+      "footerResources": "Ресурсы",
+      "footerDescription": "Изучайте языки естественным образом через диалоги, истории и карточки.",
+      "footerSupport": "Поддержка",
+      "footerLegal": "Правовая информация",
+      "footerHelp": "Помощь",
+      "footerContact": "Контакт",
+      "footerPricing": "Цены",
+      "footerTerms": "Условия Использования",
+      "footerPrivacy": "Конфиденциальность"
+    },
+    "hi": {
+      "navHome": "होम",
+      "navDialogues": "संवाद",
+      "navStories": "कहानियां",
+      "navFlashcards": "फ्लैशकार्ड",
+      "navMyDecks": "मेरे डेक",
+      "navNewDeck": "नया डेक",
+      "navAddCards": "कार्ड जोड़ें",
+      "navStudy": "अध्ययन",
+      "navImport": "आयात",
+      "navCommunity": "समुदाय",
+      "navCreateDeck": "डेक बनाएं",
+      "navStatistics": "आंकड़े",
+      "learningLabel": "सीख रहे हैं",
+      "userLanguageLabel": "मेरी भाषा",
+      "userName": "उपयोगकर्ता",
+      "logoutButton": "लॉग आउट",
+      "userProfile": "मेरी प्रोफाइल",
+      "userSettings": "सेटिंग्स",
+      "pageTitle": "संवाद",
+      "chooseTheme": "अपना अगला विषय चुनें:",
+      "loadMore": "और विषय लोड करें",
+      "showLess": "कम दिखाएं",
+      "startLearning": "अभी सीखना शुरू करें!",
+      "Play": "सुनें",
+      "Traduzir": "अनुवाद करें",
+      "Ocultar": "छुपाएं",
+      "footerResources": "संसाधन",
+      "footerDescription": "संवाद, कहानियों और फ्लैशकार्ड के माध्यम से प्राकृतिक रूप से भाषाएं सीखें।",
+      "footerSupport": "सहायता",
+      "footerLegal": "कानूनी",
+      "footerHelp": "मदद",
+      "footerContact": "संपर्क",
+      "footerPricing": "मूल्य निर्धारण",
+      "footerTerms": "उपयोग की शर्तें",
+      "footerPrivacy": "गोपनीयता"
+    },
+    "it": {
+      "navHome": "Home",
+      "navDialogues": "Dialoghi",
+      "navStories": "Storie",
+      "navFlashcards": "Flashcard",
+      "navMyDecks": "I Miei Mazzi",
+      "navNewDeck": "Nuovo Mazzo",
+      "navAddCards": "Aggiungi Carte",
+      "navStudy": "Studia",
+      "navImport": "Importa",
+      "navCommunity": "Comunità",
+      "navCreateDeck": "Crea Mazzo",
+      "navStatistics": "Statistiche",
+      "learningLabel": "Apprendimento",
+      "userLanguageLabel": "La Mia Lingua",
+      "userName": "Utente",
+      "logoutButton": "Esci",
+      "userProfile": "Il Mio Profilo",
+      "userSettings": "Impostazioni",
+      "pageTitle": "Dialoghi",
+      "chooseTheme": "Scegli il Tuo Prossimo Tema:",
+      "loadMore": "Carica Altri Temi",
+      "showLess": "Mostra Meno",
+      "startLearning": "Inizia a Imparare Ora!",
+      "Play": "Riproduci",
+      "Traduzir": "Traduci",
+      "Ocultar": "Nascondi",
+      "footerResources": "Risorse",
+      "footerDescription": "Impara le lingue in modo naturale attraverso dialoghi, storie e flashcard.",
+      "footerSupport": "Supporto",
+      "footerLegal": "Legale",
+      "footerHelp": "Aiuto",
+      "footerContact": "Contatto",
+      "footerPricing": "Prezzi",
+      "footerTerms": "Termini di Servizio",
+      "footerPrivacy": "Privacy"
+    },
+    "ko": {
+      "navHome": "홈",
+      "navDialogues": "대화",
+      "navStories": "이야기",
+      "navFlashcards": "플래시카드",
+      "navMyDecks": "내 덱",
+      "navNewDeck": "새 덱",
+      "navAddCards": "카드 추가",
+      "navStudy": "학습",
+      "navImport": "가져오기",
+      "navCommunity": "커뮤니티",
+      "navCreateDeck": "덱 만들기",
+      "navStatistics": "통계",
+      "learningLabel": "학습 중",
+      "userLanguageLabel": "내 언어",
+      "userName": "사용자",
+      "logoutButton": "로그아웃",
+      "userProfile": "내 프로필",
+      "userSettings": "설정",
+      "pageTitle": "대화",
+      "chooseTheme": "다음 주제를 선택하세요:",
+      "loadMore": "더 많은 주제 로드",
+      "showLess": "적게 보기",
+      "startLearning": "지금 학습 시작하기!",
+      "Play": "재생",
+      "Traduzir": "번역",
+      "Ocultar": "숨기기",
+      "footerResources": "리소스",
+      "footerDescription": "대화, 이야기, 플래시카드를 통해 자연스럽게 언어를 배우세요.",
+      "footerSupport": "지원",
+      "footerLegal": "법적 고지",
+      "footerHelp": "도움말",
+      "footerContact": "연락처",
+      "footerPricing": "가격",
+      "footerTerms": "이용약관",
+      "footerPrivacy": "개인정보보호"
+    }
+  },
+  
+  "settings": {
+    "dialogueTemplates": {
+      "txtFormat": {
+        "titlePrefix": "title:",
+        "speakerPrefix": "speaker:",
+        "textPrefix": "text:",
+        "translationPrefixes": {
+          "pt": "pt:",
+          "es": "es:", 
+          "en": "en:"
+        }
+      }
+    },
+    "paths": {
+      "dialogues": "languages/en/dialogues/",
+      "audios": "audios/"
+    },
+    "defaults": {
+      "language": "pt",
+      "dialogue": "morning_routine",
+      "level": "INTERMEDIÁRIO (B1-B2)"
+    },
+    "audioSettings": {
+      "fallbackDuration": {
+        "baseSeconds": 2,
+        "secondsPerWord": 0.6
+      },
+      "preload": "none"
+    }
+  }
+}

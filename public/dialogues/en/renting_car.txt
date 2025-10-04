@@ -1,0 +1,272 @@
+title: Renting a Car
+speaker: Emily
+text: Ana, renting a car abroad always makes me a little nervous.
+pt: Ana, alugar um carro no exterior sempre me deixa um pouco nervosa.
+es: Ana, alquilar un coche en el extranjero siempre me pone un poco nerviosa.
+fr: Ana, louer une voiture à l'étranger me rend toujours un peu nerveuse.
+de: Ana, ein Auto im Ausland zu mieten macht mich immer etwas nervös.
+ja: アナ、海外で車をレンタルするのはいつも少し緊張する。
+ko: 아나, 해외에서 차를 렌트하는 것은 항상 조금 긴장돼.
+zh: 安娜，在国外租车总是让我有点紧张。
+ru: Ана, аренда машины за границей всегда меня немного нервирует.
+hi: अना, विदेश में कार किराए पर लेना मुझे हमेशा थोड़ा घबराहट देता है।
+it: Ana, noleggiare un'auto all'estero mi rende sempre un po' nervosa.
+
+speaker: Ana
+text: I feel the same! But there are ways to make it smooth.
+pt: Eu também! Mas há maneiras de tornar isso tranquilo.
+es: ¡Yo también! Pero hay formas de hacerlo sin problemas.
+fr: Moi aussi ! Mais il y a des moyens de rendre cela fluide.
+de: Ich auch! Aber es gibt Wege, es reibungslos zu machen.
+ja: 私も！でもスムーズにする方法があるよ。
+ko: 나도! 하지만 부드럽게 만드는 방법이 있어.
+zh: 我也是！但有办法让它顺利进行。
+ru: Я тоже! Но есть способы сделать это гладко.
+hi: मैं भी! लेकिन इसे आसान बनाने के तरीके हैं।
+it: Anch'io! Ma ci sono modi per renderlo fluido.
+
+speaker: Emily
+text: First, make sure you have an international driving permit.
+pt: Primeiro, certifique-se de ter uma carteira de motorista internacional.
+es: Primero, asegúrate de tener un permiso de conducir internacional.
+fr: D'abord, assurez-vous d'avoir un permis de conduire international.
+de: Zuerst stellen Sie sicher, dass Sie einen internationalen Führerschein haben.
+ja: まず、国際運転免許証を持っていることを確認して。
+ko: 먼저, 국제 운전 면허증이 있는지 확인해.
+zh: 首先，确保你有国际驾驶许可证。
+ru: Сначала убедитесь, что у вас есть международные водительские права.
+hi: पहले, सुनिश्चित करें कि आपके पास अंतर्राष्ट्रीय ड्राइविंग परमिट है।
+it: Prima, assicurati di avere una patente di guida internazionale.
+
+speaker: Ana
+text: Exactly. I always compare prices on different sites before committing.
+pt: Exatamente. Eu sempre comparo preços em sites diferentes antes de me comprometer.
+es: Exactamente. Siempre comparo precios en diferentes sitios antes de comprometerme.
+fr: Exactement. Je compare toujours les prix sur différents sites avant de m'engager.
+de: Genau. Ich vergleiche immer Preise auf verschiedenen Seiten, bevor ich mich festlege.
+ja: その通り。私はいつも決める前に異なるサイトで価格を比較する。
+ko: 맞아. 나는 항상 결정하기 전에 다른 사이트에서 가격을 비교해.
+zh: 没错。我总是在承诺之前比较不同网站的价格。
+ru: Точно. Я всегда сравниваю цены на разных сайтах перед принятием решения.
+hi: बिल्कुल। मैं हमेशा प्रतिबद्ध होने से पहले विभिन्न साइटों पर कीमतों की तुलना करती हूं।
+it: Esattamente. Confronto sempre i prezzi su diversi siti prima di impegnarmi.
+
+speaker: Emily
+text: Insurance options confuse me sometimes.
+pt: As opções de seguro me confundem às vezes.
+es: Las opciones de seguro a veces me confunden.
+fr: Les options d'assurance me confondent parfois.
+de: Versicherungsoptionen verwirren mich manchmal.
+ja: 保険のオプションは時々混乱する。
+ko: 보험 옵션이 때때로 혼란스러워.
+zh: 保险选项有时让我困惑。
+ru: Варианты страховки иногда меня путают.
+hi: बीमा विकल्प कभी-कभी मुझे भ्रमित करते हैं।
+it: Le opzioni assicurative a volte mi confondono.
+
+speaker: Ana
+text: I usually go for full coverage—it's peace of mind on a trip.
+pt: Eu geralmente opto pela cobertura total—é paz de espírito em uma viagem.
+es: Normalmente elijo la cobertura total—es tranquilidad en un viaje.
+fr: Je prends généralement une couverture complète—c'est la tranquillité d'esprit en voyage.
+de: Ich wähle normalerweise Vollkasko—das ist Seelenfrieden auf einer Reise.
+ja: 私は通常フルカバレッジを選ぶ—旅行での安心感だから。
+ko: 나는 보통 풀 커버리지를 선택해—여행에서의 마음의 평화야.
+zh: 我通常选择全险——这是旅行中的安心保障。
+ru: Я обычно выбираю полное покрытие—это спокойствие в поездке.
+hi: मैं आमतौर पर पूर्ण कवरेज लेती हूं—यह यात्रा में मानसिक शांति है।
+it: Di solito scelgo la copertura completa—è tranquillità in viaggio.
+
+speaker: Emily
+text: Good call. Also, checking the fuel policy is important.
+pt: Boa decisão. Além disso, verificar a política de combustível é importante.
+es: Buena decisión. Además, verificar la política de combustible es importante.
+fr: Bon choix. Aussi, vérifier la politique de carburant est important.
+de: Gute Entscheidung. Außerdem ist es wichtig, die Kraftstoffrichtlinie zu überprüfen.
+ja: 良い判断。また、燃料ポリシーを確認することも重要。
+ko: 좋은 선택. 또한, 연료 정책을 확인하는 것도 중요해.
+zh: 好选择。另外，检查燃油政策也很重要。
+ru: Хороший выбор. Также важно проверить топливную политику.
+hi: अच्छा निर्णय। इसके अलावा, ईंधन नीति की जांच करना महत्वपूर्ण है।
+it: Buona scelta. Inoltre, controllare la politica del carburante è importante.
+
+speaker: Ana
+text: Yes! "Full to full" is my preferred choice—fair and simple.
+pt: Sim! "Tanque cheio para tanque cheio" é minha escolha preferida—justa e simples.
+es: ¡Sí! "Lleno a lleno" es mi opción preferida—justa y sencilla.
+fr: Oui ! "Plein à plein" est mon choix préféré—équitable et simple.
+de: Ja! "Voll zu voll" ist meine bevorzugte Wahl—fair und einfach.
+ja: はい！「満タンから満タン」が私の好みの選択—公平でシンプル。
+ko: 네! "풀 투 풀"이 내가 선호하는 선택—공정하고 간단해.
+zh: 是的！"满油到满油"是我的首选——公平简单。
+ru: Да! "Полный бак к полному баку" мой предпочтительный выбор—справедливо и просто.
+hi: हां! "फुल टू फुल" मेरी पसंदीदा पसंद है—निष्पक्ष और सरल।
+it: Sì! "Pieno a pieno" è la mia scelta preferita—equa e semplice.
+
+speaker: Emily
+text: Have you ever had to deal with tricky pickup or drop-off locations?
+pt: Você já teve que lidar com locais de retirada ou devolução complicados?
+es: ¿Alguna vez has tenido que lidar con lugares de recogida o entrega complicados?
+fr: Avez-vous déjà eu affaire à des lieux de prise en charge ou de retour compliqués ?
+de: Hattest du schon mal mit kniffligen Abhol- oder Rückgabeorten zu tun?
+ja: 面倒な受け取りや返却場所に対処したことはある？
+ko: 까다로운 픽업이나 반납 장소를 다뤄본 적이 있어?
+zh: 你有没有遇到过棘手的取车或还车地点？
+ru: Приходилось ли тебе иметь дело со сложными местами получения или возврата?
+hi: क्या आपको कभी मुश्किल पिकअप या ड्रॉप-ऑफ स्थानों से निपटना पड़ा है?
+it: Hai mai dovuto affrontare luoghi di ritiro o riconsegna complicati?
+
+speaker: Ana
+text: A few times. I always confirm exactly where to go the day before.
+pt: Algumas vezes. Eu sempre confirmo exatamente para onde ir no dia anterior.
+es: Algunas veces. Siempre confirmo exactamente adónde ir el día anterior.
+fr: Quelques fois. Je confirme toujours exactement où aller la veille.
+de: Ein paar Mal. Ich bestätige immer genau, wohin ich am Tag vorher gehen muss.
+ja: 何度か。私はいつも前日に正確にどこに行くかを確認する。
+ko: 몇 번. 나는 항상 전날에 정확히 어디로 가야 하는지 확인해.
+zh: 几次。我总是在前一天确认确切的去处。
+ru: Несколько раз. Я всегда подтверждаю точно, куда идти, накануне.
+hi: कुछ बार। मैं हमेशा एक दिन पहले सटीक रूप से पुष्टि करती हूं कि कहां जाना है।
+it: Alcune volte. Confermo sempre esattamente dove andare il giorno prima.
+
+speaker: Emily
+text: Smart move. What about those extra fees that pop up?
+pt: Jogada inteligente. E aquelas taxas extras que aparecem?
+es: Jugada inteligente. ¿Y esos cargos adicionales que aparecen?
+fr: Mouvement intelligent. Et ces frais supplémentaires qui apparaissent ?
+de: Kluger Zug. Was ist mit diesen zusätzlichen Gebühren, die auftauchen?
+ja: 賢い動き。突然現れる追加料金はどう？
+ko: 똑똑한 움직임. 갑자기 나타나는 추가 요금은 어때?
+zh: 聪明的举动。那些突然出现的额外费用呢？
+ru: Умный ход. А как насчет тех дополнительных сборов, которые всплывают?
+hi: स्मार्ट चाल। उन अतिरिक्त शुल्कों के बारे में क्या जो अचानक आ जाते हैं?
+
+speaker: Ana
+text: Always read the terms carefully, ask about fees for additional drivers or young drivers.
+pt: Sempre leia os termos com cuidado, pergunte sobre taxas para motoristas adicionais ou jovens.
+es: Siempre lee los términos cuidadosamente, pregunta por las tarifas para conductores adicionales o jóvenes.
+fr: Lisez toujours les conditions attentivement, demandez les frais pour les conducteurs supplémentaires ou jeunes.
+de: Lesen Sie immer die Bedingungen sorgfältig, fragen Sie nach Gebühren für zusätzliche oder junge Fahrer.
+ja: 常に条件を注意深く読み、追加ドライバーや若いドライバーの料金について尋ねて。
+ko: 항상 조건을 주의 깊게 읽고, 추가 운전자나 젊은 운전자에 대한 수수료를 물어봐.
+zh: 总是仔细阅读条款，询问额外驾驶员或年轻驾驶员的费用。
+ru: Всегда внимательно читайте условия, спрашивайте о сборах за дополнительных или молодых водителей.
+hi: हमेशा शर्तों को ध्यान से पढ़ें, अतिरिक्त ड्राइवरों या युवा ड्राइवरों के लिए शुल्क के बारे में पूछें।
+
+speaker: Emily
+text: Did you ever get upsold at the counter?
+pt: Você já foi alvo de venda adicional no balcão?
+es: ¿Alguna vez te vendieron algo adicional en el mostrador?
+fr: Avez-vous déjà été victime de vente supplémentaire au comptoir ?
+de: Wurden Sie schon mal am Schalter zu einem teureren Angebot überredet?
+ja: カウンターでアップセルされたことはある？
+ko: 카운터에서 업셀을 당한 적이 있어?
+zh: 你在柜台被推销过更贵的服务吗？
+ru: Вас когда-нибудь пытались продать что-то дороже на стойке?
+hi: क्या आपको कभी काउंटर पर अपसेल किया गया है?
+it: Sei mai stata vittima di upselling al banco?
+es: ¿Alguna vez te han intentado vender extras en el mostrador?
+
+speaker: Ana
+text: Yes, but I usually stick to what I booked to avoid surprises.
+pt: Sim, mas geralmente fico com o que reservei para evitar surpresas.
+es: Sí, pero generalmente me apego a lo que reservé para evitar sorpresas.
+fr: Oui, mais je m'en tiens généralement à ce que j'ai réservé pour éviter les surprises.
+de: Ja, aber ich halte mich normalerweise an das, was ich gebucht habe, um Überraschungen zu vermeiden.
+ja: はい、でも驚きを避けるために通常は予約したものに固執します。
+ko: 네, 하지만 보통 예약한 것에 충실해서 놀라는 일을 피해요.
+zh: 是的，但我通常坚持我预订的内容以避免意外。
+ru: Да, но я обычно придерживаюсь того, что забронировала, чтобы избежать сюрпризов.
+hi: हां, लेकिन मैं आमतौर पर आश्चर्य से बचने के लिए जो बुक किया है उसी पर टिकी रहती हूं।
+it: Sì, ma di solito mi attengo a quello che ho prenotato per evitare sorprese.
+
+speaker: Emily
+text: Safety checks before driving off are a must, right?
+pt: Verificações de segurança antes de dirigir são obrigatórias, certo?
+es: Las comprobaciones de seguridad antes de conducir son obligatorias, ¿verdad?
+fr: Les vérifications de sécurité avant de conduire sont indispensables, n'est-ce pas ?
+de: Sicherheitschecks vor der Fahrt sind ein Muss, oder?
+ja: 運転前の安全チェックは必須ですよね？
+ko: 운전하기 전 안전 점검은 필수죠, 그렇죠?
+zh: 开车前的安全检查是必须的，对吧？
+ru: Проверки безопасности перед поездкой обязательны, верно?
+hi: ड्राइविंग से पहले सुरक्षा जांच जरूरी है, है ना?
+it: I controlli di sicurezza prima di guidare sono obbligatori, vero?
+
+speaker: Ana
+text: Definitely—check for damages, tire conditions, and mirrors.
+pt: Definitivamente—verifique danos, condições dos pneus e espelhos.
+es: Definitivamente—comprueba daños, estado de los neumáticos y espejos.
+fr: Définitivement—vérifiez les dommages, l'état des pneus et les rétroviseurs.
+de: Definitiv—prüfen Sie Schäden, Reifenzustand und Spiegel.
+ja: 絶対に—損傷、タイヤの状態、ミラーをチェックしてください。
+ko: 확실히—손상, 타이어 상태, 거울을 확인하세요.
+zh: 绝对的—检查损坏、轮胎状况和后视镜。
+ru: Определенно—проверьте повреждения, состояние шин и зеркала.
+hi: बिल्कुल—नुकसान, टायर की स्थिति और आईने की जांच करें।
+it: Assolutamente—controlla danni, condizioni dei pneumatici e specchietti.
+
+speaker: Emily
+text: And GPS or phone mount?
+pt: E GPS ou suporte para telefone?
+es: ¿Y GPS o soporte para teléfono?
+fr: Et GPS ou support de téléphone ?
+de: Und GPS oder Handyhalterung?
+ja: GPSや携帯電話のマウントは？
+ko: 그리고 GPS나 휴대폰 거치대는?
+zh: 还有GPS或手机支架？
+ru: А GPS или держатель для телефона?
+hi: और GPS या फोन माउंट?
+it: E GPS o supporto per telefono?
+
+speaker: Ana
+text: Essential! Navigating unfamiliar roads is stressful enough without tech troubles.
+pt: Essencial! Navegar por estradas desconhecidas já é estressante o suficiente sem problemas tecnológicos.
+es: ¡Esencial! Navegar por carreteras desconocidas ya es lo suficientemente estresante sin problemas tecnológicos.
+fr: Essentiel ! Naviguer sur des routes inconnues est déjà assez stressant sans problèmes techniques.
+de: Unerlässlich! Das Navigieren auf unbekannten Straßen ist schon stressig genug ohne technische Probleme.
+ja: 必須です！知らない道路をナビゲートするのは、技術的な問題なしでも十分ストレスです。
+ko: 필수예요! 낯선 도로를 운전하는 것은 기술적 문제 없이도 충분히 스트레스가 많아요.
+zh: 必不可少！在陌生道路上导航已经够有压力的了，不需要技术问题。
+ru: Необходимо! Навигация по незнакомым дорогам и так достаточно стрессовая без технических проблем.
+hi: जरूरी! अपरिचित सड़कों पर नेविगेट करना तकनीकी समस्याओं के बिना भी काफी तनावपूर्ण है।
+it: Essenziale! Navigare su strade sconosciute è già abbastanza stressante senza problemi tecnici.
+
+speaker: Emily
+text: I love road trips but renting can be a headache without careful planning.
+pt: Eu adoro viagens de carro, mas alugar pode ser uma dor de cabeça sem um planejamento cuidadoso.
+es: Me encantan los viajes por carretera, pero alquilar puede ser un dolor de cabeza sin una planificación cuidadosa.
+fr: J'adore les road trips, mais louer peut être un casse-tête sans une planification minutieuse.
+de: Ich liebe Roadtrips, aber das Mieten kann ohne sorgfältige Planung ein Kopfschmerz sein.
+ja: ロードトリップは大好きですが、慎重な計画なしにレンタルするのは頭痛の種になることがあります。
+ko: 로드트립을 좋아하지만, 신중한 계획 없이 렌트하는 것은 골치 아픈 일이 될 수 있어요.
+zh: 我喜欢公路旅行，但没有仔细规划的话，租车可能会很麻烦。
+ru: Я люблю автопутешествия, но аренда может стать головной болью без тщательного планирования.
+hi: मुझे रोड ट्रिप्स पसंद हैं, लेकिन सावधानीपूर्वक योजना के बिना किराए पर लेना सिरदर्द हो सकता है।
+it: Adoro i viaggi su strada, ma noleggiare può essere un mal di testa senza una pianificazione attenta.
+
+speaker: Ana
+text: Stay organized and aware, and it becomes part of the adventure.
+pt: Mantenha-se organizado e consciente, e isso se torna parte da aventura.
+es: Mantente organizado y consciente, y se convierte en parte de la aventura.
+fr: Restez organisé et conscient, et cela devient partie de l'aventure.
+de: Bleiben Sie organisiert und aufmerksam, und es wird Teil des Abenteuers.
+ja: 整理整頓と意識を保てば、それが冒険の一部になります。
+ko: 체계적이고 의식적으로 행동하면, 그것이 모험의 일부가 됩니다.
+zh: 保持有条理和清醒，这就成为冒险的一部分。
+ru: Оставайтесь организованными и внимательными, и это станет частью приключения.
+hi: व्यवस्थित और जागरूक रहें, और यह साहसिक कार्य का हिस्सा बन जाता है।
+it: Rimani organizzata e consapevole, e diventa parte dell'avventura.
+
+speaker: Emily
+text: Here’s to smooth rides and memorable trips!
+pt: Um brinde a viagens tranquilas e memoráveis!
+es: ¡Brindo por viajes tranquilos y memorables!
+fr: À des voyages fluides et mémorables !
+de: Auf reibungslose und unvergessliche Reisen!
+ja: スムーズで思い出に残る旅に乾杯！
+ko: 순조롭고 기억에 남는 여행을 위해 건배!
+zh: 为顺利而难忘的旅行干杯！
+ru: За гладкие и незабываемые поездки!
+hi: सुगम और यादगार यात्राओं के लिए चीयर्स!
+it: Ecco a viaggi fluidi e memorabili!

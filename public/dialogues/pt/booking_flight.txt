@@ -1,0 +1,7 @@
+TITLE: Booking Flights
+Lucas: Não poderia concordar mais. Que comece a contagem regressiva!
+Agent: Bom dia! Em que posso ajudá-lo hoje?
+Lucas: Gostaria de reservar um voo para São Paulo.
+Agent: Claro! Para que data você gostaria de viajar?
+Lucas: Próxima sexta-feira, se possível.
+

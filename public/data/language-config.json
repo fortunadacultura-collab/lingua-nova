@@ -1,0 +1,81 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "flag": "us",
+      "level": "Intermediate",
+      "progress": 65
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "flag": "es",
+      "level": "Beginner",
+      "progress": 30
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "flag": "br",
+      "level": "Native",
+      "progress": 100
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "flag": "fr",
+      "level": "Beginner",
+      "progress": 15
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "flag": "de",
+      "level": "Elementary",
+      "progress": 20
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "flag": "it",
+      "level": "Elementary",
+      "progress": 25
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "flag": "jp",
+      "level": "Beginner",
+      "progress": 10
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "flag": "kr",
+      "level": "Beginner",
+      "progress": 5
+    },
+    {
+      "code": "zh",
+      "name": "中文",
+      "flag": "cn",
+      "level": "Beginner",
+      "progress": 8
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "flag": "ru",
+      "level": "Elementary",
+      "progress": 12
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "flag": "in",
+      "level": "Beginner",
+      "progress": 3
+    }
+  ]
+}

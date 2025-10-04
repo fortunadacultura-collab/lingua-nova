@@ -1,0 +1,777 @@
+:root {
+    --primary: #00b0ff; /* 🌊 Azul Ciano Vibrante */
+    --primary-rgb: 0, 176, 255; /* RGB values for #00b0ff */
+    --secondary: #ff00c8; /* ⚡ Magenta Elétrico */
+    --accent: #00ffcc; /* 🎉 Verde Cibernético */
+    --dark: #212529;
+    --light: #f8f9fa;
+    --success: #00e676; /* Verde Menta */
+    --warning: #ff6d00; /* Laranja Vibrante */
+    --danger: #ff1744; /* Pink Quente */
+    --text: #2b2d42;
+    --text-light: #8d99ae;
+    --gray-dark: #4a5568;
+    --gradient: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    
+    /* Cores específicas para componentes */
+    --chat-bg: #6495ED;
+    --chat-bubble-user: #ffffff;
+    --chat-bubble-other: var(--bg-card);
+    --chat-bubble-user-modern: var(--bg-light);
+    --chat-bubble-other-modern: var(--bg-card);
+    --chat-bubble-active: var(--bg-secondary);
+    --chat-text: var(--text);
+    --chat-text-user: #0f172a;
+    --chat-text-other: #374151;
+    --chat-time: var(--text-light);
+    
+    /* Cores específicas para histórias (padronização com stories.css) */
+    --story-bg: #f0f8ff;
+    --story-paragraph: #ffffff;
+    --story-text: var(--text);
+    --story-highlight: #fff3cd;
+    --story-border: rgba(67, 97, 238, 0.1);
+}
+
+/* Dialogue area */
+.dialogue-container {
+    background: linear-gradient(135deg, rgba(180, 141, 219, 0.15) 0%, rgba(255, 249, 155, 0.15) 100%);
+    border-radius: 16px;
+    padding: 0;
+    margin: 1rem 0;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(121, 192, 0, 0.15);
+    border: 1px solid rgba(255, 191, 0, 0.3);
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+}
+
+.dialogue-title {
+    background: var(--primary);
+    color: white;
+    padding: 1.2rem;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.dialogue-title svg {
+    width: 22px;
+    height: 22px;
+}
+
+#dialogue-content {
+    padding: 1.5rem;
+    height: 450px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    background: var(--bg-primary, #f7f7f7);
+}
+
+.message {
+    max-width: 85%;
+    padding: 18px 24px;
+    border-radius: 18px;
+    position: relative;
+    word-wrap: break-word;
+    line-height: 1.6;
+    font-size: 1.1rem;
+    animation: fadeIn 0.3s ease-out;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    background: transparent;
+    border: 1px solid transparent;
+}
+
+.message:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(22, 163, 74, 0.3);
+}
+
+.message.active,
+.message:focus,
+.message.selected {
+    background-color: var(--chat-bubble-active) !important;
+    border-color: var(--primary) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(180, 141, 219, 0.4) !important;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.message-user {
+    align-self: flex-end;
+    background-color: var(--chat-bubble-user-modern) !important;
+    color: var(--chat-text-user) !important;
+    border-bottom-right-radius: 4px;
+    border: 2px solid rgba(156, 163, 175, 0.4) !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.message-other {
+    align-self: flex-start;
+    background-color: var(--chat-bubble-other-modern) !important;
+    color: var(--chat-text-other) !important;
+    border-bottom-left-radius: 4px;
+    border: 2px solid rgba(156, 163, 175, 0.4) !important;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.message-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.message-sender {
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: var(--primary);
+}
+
+.message-time {
+    display: none;
+}
+
+.message-text {
+    margin: 8px 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.translation-text {
+    display: none;
+    margin-top: 12px;
+    padding: 12px 16px;
+    background: rgba(0, 0, 0, 0.03);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.6;
+    border-left: 3px solid var(--accent);
+    color: var(--translation-primary);
+    font-style: italic;
+}
+
+/* Show translations mode */
+.show-translations .translation-text {
+    display: block;
+}
+
+/* Media Player Styles - Copiado do dialogues.css para consistência visual */
+.media-player {
+    background: white;
+    border-radius: 16px;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(67, 97, 238, 0.1);
+}
+
+.player-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+    padding: 0 1rem;
+}
+
+/* Control buttons styling - High specificity to override other styles */
+.media-player .player-controls .control-btn {
+    width: 56px !important;
+    height: 56px !important;
+    border-radius: 50% !important;
+    background: var(--primary) !important;
+    color: white !important;
+    border: none !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 1.2rem !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 4px 12px var(--primary-shadow, rgba(67, 97, 238, 0.3)) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.media-player .player-controls .control-btn:hover {
+    transform: scale(1.1) !important;
+    background: var(--secondary) !important;
+    box-shadow: 0 6px 16px var(--primary-shadow-hover, rgba(67, 97, 238, 0.4)) !important;
+}
+
+.media-player .player-controls .control-btn:disabled {
+    background: rgba(255, 255, 255, 0.1) !important;
+    color: rgba(0, 0, 0, 0.3) !important;
+    transform: none !important;
+    box-shadow: none !important;
+    cursor: not-allowed !important;
+}
+
+.media-player .player-controls .control-btn.active {
+    background: var(--secondary) !important;
+    transform: scale(1.05) !important;
+}
+
+.media-player .player-controls .control-btn svg {
+    width: 20px !important;
+    height: 20px !important;
+    fill: currentColor !important;
+}
+
+.player-btn {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    background: var(--primary);
+    color: white;
+    box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3);
+}
+
+.player-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(67, 97, 238, 0.4);
+}
+
+.player-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.player-btn.active {
+    background: var(--secondary);
+    box-shadow: 0 6px 16px rgba(255, 0, 200, 0.4);
+}
+
+#play-pause-btn {
+    width: 56px;
+    height: 56px;
+    font-size: 1.4rem;
+}
+
+#stop-btn {
+    background: var(--danger);
+}
+
+#stop-btn:hover {
+    background: #e91e63;
+}
+
+/* Volume Control - Copiado do dialogues.css para consistência visual */
+.volume-control {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.volume-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3);
+}
+
+.volume-btn:hover {
+    background: var(--secondary);
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(67, 97, 238, 0.4);
+}
+
+
+
+/* Volume popup styles (mobile) - Copiado do dialogues.css */
+.volume-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.volume-popup.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.volume-popup-content {
+    background: white;
+    border-radius: 16px;
+    padding: 2rem;
+    max-width: 300px;
+    width: 90%;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+.volume-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.volume-close-btn {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-light);
+}
+
+.volume-slider-container {
+    margin-bottom: 1.5rem;
+}
+
+.mobile-volume-slider {
+    width: 100%;
+    height: 8px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    outline: none;
+}
+
+.mobile-volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--primary);
+    cursor: pointer;
+}
+
+.volume-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--text-light);
+}
+
+.volume-buttons {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.volume-preset-btn {
+    flex: 1;
+    background: rgba(67, 97, 238, 0.1);
+    color: var(--primary);
+    border: none;
+    padding: 0.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+}
+
+.volume-preset-btn:hover {
+    background: rgba(67, 97, 238, 0.2);
+}
+
+.volume-slider {
+    width: 80px;
+    height: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+.volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--primary);
+    cursor: pointer;
+}
+
+.volume-slider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--primary);
+    cursor: pointer;
+    border: none;
+}
+
+.volume-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(67, 97, 238, 0.3);
+}
+
+.volume-btn:hover {
+    background: var(--secondary);
+    transform: scale(1.1);
+    box-shadow: 0 6px 16px rgba(67, 97, 238, 0.4);
+}
+
+/* Hide volume control on mobile devices */
+@media (max-width: 768px) {
+    .volume-control {
+        display: none !important;
+    }
+}
+
+#volume-slider {
+    width: 80px;
+    height: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    outline: none;
+}
+
+#volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--primary);
+    cursor: pointer;
+}
+
+#volume-slider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: var(--primary);
+    cursor: pointer;
+    border: none;
+}
+
+/* Progress Bar - Copiado do dialogues.css para consistência visual */
+.progress-container {
+    width: 100%;
+    margin-top: 1.5rem;
+}
+
+.progress-bar {
+    height: 8px;
+    background: rgba(128, 128, 128, 0.3) !important;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+
+/* Estilos específicos para página index - melhor contraste no fundo branco */
+.dialogue-container .progress-bar {
+    background: rgba(0, 0, 0, 0.2) !important;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.progress-fill {
+    height: 100%;
+    background: var(--primary) !important;
+    border-radius: 4px;
+    transition: width 0.1s linear;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    min-width: 2px; /* Garantir visibilidade mínima */
+}
+
+/* Adicionar estilos específicos para melhor visibilidade */
+.dialogue-container .progress-fill {
+    background: linear-gradient(90deg, var(--primary), var(--secondary)) !important;
+    box-shadow: 0 0 4px rgba(0, 176, 255, 0.5);
+}
+
+/* Control Button Styles - Padronizado com dialogues.css */
+.control-btn {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px var(--primary-shadow, rgba(67, 97, 238, 0.3));
+}
+
+.control-btn:hover {
+    transform: scale(1.1);
+    background: var(--secondary);
+    box-shadow: 0 6px 16px var(--primary-shadow-hover, rgba(67, 97, 238, 0.4));
+}
+
+.control-btn:disabled {
+    background: rgba(255, 255, 255, 0.1);
+    color: rgba(0, 0, 0, 0.3);
+    transform: none;
+    box-shadow: none;
+}
+
+.control-btn.active {
+    background: var(--secondary);
+    transform: scale(1.1);
+}
+
+.control-btn svg {
+    width: 20px;
+    height: 20px;
+    stroke-width: 1;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: currentColor;
+}
+
+.time-display {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.progress-bar-container {
+    height: 8px;
+    background: rgba(128, 128, 128, 0.3);
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    border-radius: 4px;
+    transition: width 0.1s ease;
+    position: relative;
+}
+
+.time-display {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-family: 'Courier New', monospace;
+}
+
+#current-time, #total-time {
+    font-weight: 500;
+}
+
+/* Highlight effects */
+.message.highlighted {
+    background-color: rgba(173,255,47, 0.5) !important;
+    box-shadow: 0 0 0 2px rgba(173,255,47, 1) !important;
+    transform: scale(1.02);
+    position: relative;
+    z-index: 1;
+}
+
+.message.highlighted::after {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 18px;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+    z-index: -1;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% { opacity: 0.8; }
+    50% { opacity: 0.4; }
+    100% { opacity: 0.8; }
+}
+
+/* Loading animation */
+.loading-spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 176, 255, 0.1);
+    border-left: 4px solid var(--primary);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Error container */
+.error-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+}
+
+.error-container p {
+    color: var(--danger);
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+}
+
+.error-container button {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.error-container button:hover {
+    background: var(--secondary);
+    transform: translateY(-2px);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .dialogue-container {
+        margin: 1rem 0;
+    }
+    
+    .media-player {
+        margin: 1rem;
+        padding: 1rem;
+    }
+    
+    #dialogue-content {
+        height: 350px;
+        padding: 1rem;
+    }
+    
+    .player-controls {
+        gap: 15px;
+    }
+    
+    .player-btn {
+        width: 48px;
+        height: 48px;
+        font-size: 1rem;
+    }
+    
+    .dialogue-title {
+        font-size: 1.1rem;
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .dialogue-title {
+        font-size: 1.1rem;
+    }
+    
+    .player-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 0.9rem;
+    }
+    
+    #dialogue-content {
+        height: 300px;
+    }
+    
+    .message {
+        padding: 12px 16px;
+        font-size: 1rem;
+    }
+    
+    .message-user {
+        margin-left: 15px;
+    }
+    
+    .message-other {
+        margin-right: 15px;
+    }
+}
+
+/* FontAwesome Icons Fallback */
+.fas::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.fa-play::before { content: "▶"; }
+.fa-pause::before { content: "⏸"; }
+.fa-stop::before { content: "⏹"; }
+.fa-random::before { content: "🔀"; }
+.fa-language::before { content: "🌐"; }
+.fa-expand::before { content: "⛶"; }
+.fa-compress::before { content: "⛶"; }
+.fa-volume-up::before { content: "🔊"; }
+.fa-volume-down::before { content: "🔉"; }
+.fa-volume-mute::before { content: "🔇"; }

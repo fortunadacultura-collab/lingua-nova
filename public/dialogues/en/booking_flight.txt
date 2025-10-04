@@ -1,0 +1,286 @@
+title: Booking Flights
+speaker: Chloe
+text: Lucas, have you decided when you're booking your flight for the conference?
+pt: Lucas, você já decidiu quando vai reservar seu voo para a conferência?
+es: Lucas, ¿ya decidiste cuándo reservarás tu vuelo para la conferencia?
+fr: Lucas, as-tu décidé quand tu vas réserver ton vol pour la conférence ?
+de: Lucas, hast du schon entschieden, wann du deinen Flug für die Konferenz buchst?
+ja: ルーカス、会議のフライトをいつ予約するか決めた？
+ko: 루카스, 회의용 항공편을 언제 예약할지 정했어?
+zh: 卢卡斯，你决定什么时候订会议的机票了吗？
+ru: Лукас, ты решил, когда будешь бронировать билет на конференцию?
+hi: लुकास, क्या तुमने तय कर लिया है कि कॉन्फ्रेंस के लिए फ्लाइट कब बुक करोगे?
+it: Lucas, hai già deciso quando prenotare il volo per la conferenza?
+
+speaker: Lucas
+text: Thinking about next Friday morning but prices are all over the place.
+pt: Tô pensando na sexta de manhã, mas os preços tão uma loucura.
+es: Estoy pensando en el viernes por la mañana, pero los precios están locos.
+fr: Je pense à vendredi matin prochain mais les prix sont partout.
+de: Ich denke an nächsten Freitagmorgen, aber die Preise sind überall.
+ja: 来週の金曜日の朝を考えてるけど、価格がめちゃくちゃだ。
+ko: 다음 주 금요일 아침을 생각하고 있는데 가격이 엉망이야.
+zh: 我在考虑下周五早上，但价格到处都是。
+ru: Думаю о пятнице утром, но цены скачут как сумасшедшие.
+hi: अगले शुक्रवार सुबह के बारे में सोच रहा हूं लेकिन कीमतें बहुत अजीब हैं।
+it: Sto pensando a venerdì mattina prossimo, ma i prezzi sono completamente pazzi.
+
+speaker: Chloe
+text: Yeah, flight prices jump up and down like crazy. I usually set alerts on apps for good deals.
+pt: É, os preços dos voos sobem e descem que nem louco. Sempre coloco alertas nos apps pra pegar promoção.
+es: Sí, los precios de los vuelos suben y bajan como locos. Siempre pongo alertas en las apps para agarrar ofertas.
+fr: Ouais, les prix des vols montent et descendent comme des fous. Je mets généralement des alertes sur les apps pour les bonnes affaires.
+de: Ja, Flugpreise springen wie verrückt auf und ab. Ich stelle normalerweise Benachrichtigungen in Apps für gute Angebote ein.
+ja: そう、航空券の価格は狂ったように上下する。いつもアプリでお得情報のアラートを設定してる。
+ko: 그래, 항공료가 미친 듯이 오르락내리락해. 나는 보통 앱에서 좋은 딜 알림을 설정해둬.
+zh: 是的，机票价格疯狂地上下跳动。我通常在应用上设置提醒来抓好交易。
+ru: Да, цены на билеты скачут как сумасшедшие. Я обычно ставлю уведомления в приложениях на хорошие предложения.
+hi: हां, फ्लाइट की कीमतें पागलों की तरह ऊपर-नीचे होती रहती हैं। मैं आमतौर पर अच्छे डील के लिए ऐप्स में अलर्ट लगाती हूं।
+it: Sì, i prezzi dei voli saltano su e giù come pazzi. Di solito imposto avvisi sulle app per le buone offerte.
+
+speaker: Lucas
+text: Good call. I tried once but missed the alert and had to pay double.
+pt: Boa ideia. Tentei uma vez, mas perdi o alerta e tive que pagar o dobro.
+es: Buena idea. Intenté una vez pero se me pasó la alerta y tuve que pagar el doble.
+fr: Bonne idée. J'ai essayé une fois mais j'ai raté l'alerte et j'ai dû payer le double.
+de: Guter Punkt. Ich habe es einmal versucht, aber die Benachrichtigung verpasst und musste das Doppelte zahlen.
+ja: いいアイデアだ。一度試したけどアラートを見逃して倍払うことになった。
+ko: 좋은 생각이야. 한 번 해봤는데 알림을 놓쳐서 두 배를 지불해야 했어.
+zh: 好主意。我试过一次但错过了提醒，不得不付双倍价钱。
+ru: Хорошая мысль. Я пробовал однажды, но пропустил уведомление и пришлось платить вдвое больше.
+hi: अच्छा आइडिया। मैंने एक बार कोशिश की थी लेकिन अलर्ट मिस कर गया और दोगुना पैसा देना पड़ा।
+it: Buona idea. Ho provato una volta ma ho perso l'avviso e ho dovuto pagare il doppio.
+
+speaker: Chloe
+text: Ouch! You gotta book fast when a deal pops up.
+pt: Ai! Tem que reservar rapidinho quando aparece uma promoção.
+es: ¡Ay! Tienes que reservar rapidito cuando aparece una oferta.
+fr: Aïe ! Il faut réserver vite quand une offre apparaît.
+de: Autsch! Du musst schnell buchen, wenn ein Angebot auftaucht.
+ja: 痛い！お得情報が出たら素早く予約しないと。
+ko: 아야! 딜이 나타나면 빨리 예약해야 해.
+zh: 哎呀！当交易出现时你得快速预订。
+ru: Ой! Нужно быстро бронировать, когда появляется предложение.
+hi: आह! जब कोई डील आती है तो तुरंत बुक करना पड़ता है।
+it: Ahi! Devi prenotare velocemente quando spunta un'offerta.
+
+speaker: Lucas
+text: True. Do you prefer direct flights or don't mind layovers?
+pt: Verdade. Você prefere voos diretos ou não liga pra escalas?
+es: Cierto. ¿Prefieres vuelos directos o no te molestan las escalas?
+fr: Vrai. Tu préfères les vols directs ou ça ne te dérange pas les escales ?
+de: Stimmt. Bevorzugst du Direktflüge oder stören dich Zwischenstopps nicht?
+ja: その通り。直行便が好み？それとも乗り継ぎは気にしない？
+ko: 맞아. 직항편을 선호해 아니면 경유는 상관없어?
+zh: 没错。你更喜欢直飞还是不介意转机？
+ru: Верно. Ты предпочитаешь прямые рейсы или не против пересадок?
+hi: सही बात। तुम डायरेक्ट फ्लाइट पसंद करते हो या लेओवर से कोई दिक्कत नहीं?
+it: Vero. Preferisci i voli diretti o non ti danno fastidio gli scali?
+
+speaker: Chloe
+text: Direct if possible. Layovers are a gamble with delays and long waits.
+pt: Direto se possível. Escalas são uma loteria com atrasos e esperas longas.
+es: Directo si es posible. Las escalas son una lotería con retrasos y esperas largas.
+fr: Direct si possible. Les escales sont un pari avec des retards et de longues attentes.
+de: Direkt wenn möglich. Zwischenstopps sind ein Glücksspiel mit Verspätungen und langen Wartezeiten.
+ja: 可能なら直行便。乗り継ぎは遅延と長い待ち時間のギャンブルだ。
+ko: 가능하면 직항편. 경유는 지연과 긴 대기시간의 도박이야.
+zh: 如果可能的话直飞。转机是延误和长时间等待的赌博。
+ru: Прямой, если возможно. Пересадки — это лотерея с задержками и долгими ожиданиями.
+hi: अगर संभव हो तो डायरेक्ट। लेओवर देरी और लंबे इंतजार के साथ जुआ है।
+it: Diretto se possibile. Gli scali sono una scommessa con ritardi e lunghe attese.
+
+speaker: Lucas
+text: Agreed, but sometimes I can save a ton going indirect.
+pt: Concordo, mas às vezes economizo uma grana indo com escala.
+es: De acuerdo, pero a veces ahorro un montón yendo con escala.
+fr: D'accord, mais parfois je peux économiser énormément en prenant indirect.
+de: Einverstanden, aber manchmal kann ich eine Menge sparen, wenn ich indirekt fliege.
+ja: 同感だけど、時々乗り継ぎで大幅に節約できる。
+ko: 동감이야, 하지만 때로는 경유로 가면 엄청 절약할 수 있어.
+zh: 同意，但有时走转机可以省很多钱。
+ru: Согласен, но иногда я могу сэкономить кучу денег, летя с пересадками.
+hi: सहमत हूं, लेकिन कभी-कभी इनडायरेक्ट जाकर बहुत बचा सकता हूं।
+it: D'accordo, ma a volte posso risparmiare un sacco andando con scali.
+
+speaker: Chloe
+text: Totally. Seat choice also matters—window or aisle?
+pt: Exato. A escolha do assento também importa—janela ou corredor?
+es: Totalmente. La elección del asiento también importa—¿ventana o pasillo?
+fr: Totalement. Le choix du siège compte aussi—hublot ou couloir ?
+de: Absolut. Die Sitzplatzwahl ist auch wichtig—Fenster oder Gang?
+ja: その通り。座席選択も重要—窓側か通路側？
+ko: 완전히. 좌석 선택도 중요해—창가 아니면 통로?
+zh: 完全同意。座位选择也很重要——靠窗还是靠过道？
+ru: Полностью согласна. Выбор места тоже важен—у окна или у прохода?
+hi: बिल्कुल। सीट का चुनाव भी मायने रखता है—खिड़की या गलियारा?
+it: Assolutamente. Anche la scelta del posto conta—finestrino o corridoio?
+
+speaker: Lucas
+text: Window all the way. Views and no seatmate elbow to dodge.
+pt: Janela sempre. Vista boa e não preciso desviar do cotovelo do vizinho.
+es: Ventana siempre. Buenas vistas y no esquivar codazos del compañero.
+fr: Hublot tout le temps. De belles vues et pas de coude de voisin à éviter.
+de: Fenster auf jeden Fall. Aussicht und kein Ellbogen vom Sitznachbarn ausweichen.
+ja: 絶対窓側。景色が良いし隣の人の肘をかわす必要がない。
+ko: 무조건 창가. 경치도 좋고 옆자리 사람 팔꿈치 피할 필요 없어.
+zh: 一直选窗边。有风景看，也不用躲避邻座的胳膊肘。
+ru: Только у окна. Виды и не нужно уворачиваться от локтя соседа.
+hi: हमेशा खिड़की वाली। अच्छे नजारे और बगल वाले की कोहनी से बचने की जरूरत नहीं।
+it: Sempre finestrino. Belle viste e nessun gomito del vicino da schivare.
+
+speaker: Chloe
+text: Ha! I'm aisle person myself—easier to stretch legs.
+pt: Haha! Eu sou do corredor—é mais fácil esticar as pernas.
+es: ¡Jaja! Yo soy del pasillo—es más fácil estirar las piernas.
+fr: Ha ! Moi je suis plutôt couloir—plus facile d'étirer les jambes.
+de: Ha! Ich bin eher ein Gang-Mensch—einfacher die Beine zu strecken.
+ja: はは！私は通路側派—足を伸ばしやすいから。
+ko: 하! 나는 통로석 파야—다리 뻗기가 더 쉬워.
+zh: 哈！我自己是过道派——更容易伸腿。
+ru: Ха! Я сама за проход—легче вытянуть ноги.
+hi: हा! मैं खुद गलियारे वाली हूं—पैर फैलाना आसान होता है।
+it: Ah! Io sono da corridoio—è più facile allungare le gambe.
+
+speaker: Lucas
+text: What about baggage? I always overpack and pay extra.
+pt: E bagagem? Sempre levo coisa demais e pago extra.
+es: ¿Y el equipaje? Siempre empaco de más y pago extra.
+fr: Et les bagages ? Je fais toujours trop de bagages et je paie en plus.
+de: Was ist mit Gepäck? Ich packe immer zu viel und zahle extra.
+ja: 荷物はどう？いつも荷物を詰めすぎて追加料金を払ってる。
+ko: 수하물은 어때? 나는 항상 짐을 너무 많이 싸서 추가 요금을 내.
+zh: 行李怎么办？我总是打包过多然后付额外费用。
+ru: А как насчет багажа? Я всегда беру слишком много вещей и плачу дополнительно.
+hi: बैगेज के बारे में क्या? मैं हमेशा ज्यादा पैक करता हूं और एक्स्ट्रा पेमेंट करता हूं।
+it: E i bagagli? Faccio sempre le valigie troppo piene e pago extra.
+
+speaker: Chloe
+text: Same here. I always check baggage policies thoroughly before booking.
+pt: Igual aqui. Sempre verifico direitinho as políticas de bagagem antes de reservar.
+es: Igual aquí. Siempre reviso bien las políticas de equipaje antes de reservar.
+fr: Pareil ici. Je vérifie toujours minutieusement les politiques de bagages avant de réserver.
+de: Genauso hier. Ich überprüfe immer gründlich die Gepäckrichtlinien vor der Buchung.
+ja: 私も同じ。予約前にいつも荷物のポリシーをしっかりチェックする。
+ko: 나도 마찬가지야. 예약하기 전에 항상 수하물 정책을 꼼꼼히 확인해.
+zh: 我也一样。我总是在预订前彻底检查行李政策。
+ru: То же самое. Я всегда тщательно проверяю правила багажа перед бронированием.
+hi: यहां भी वही। मैं हमेशा बुकिंग से पहले बैगेज पॉलिसी को अच्छी तरह चेक करती हूं।
+it: Anch'io così. Controllo sempre accuratamente le politiche bagagli prima di prenotare.
+
+speaker: Lucas
+text: Smart. Makes the whole trip less stressful.
+pt: Esperto. Deixa a viagem toda menos estressante.
+es: Inteligente. Hace que todo el viaje sea menos estresante.
+fr: Intelligent. Ça rend tout le voyage moins stressant.
+de: Klug. Das macht die ganze Reise weniger stressig.
+ja: 賢い。旅行全体のストレスが減る。
+ko: 똑똑해. 여행 전체가 덜 스트레스받게 돼.
+zh: 聪明。让整个旅行压力更小。
+ru: Умно. Делает всю поездку менее стрессовой.
+hi: स्मार्ट। पूरी यात्रा को कम तनावपूर्ण बनाता है।
+it: Intelligente. Rende tutto il viaggio meno stressante.
+
+speaker: Chloe
+text: Ever tried booking straight from the airline vs aggregators?
+pt: Já tentou reservar direto com a companhia aérea ao invés dos sites de busca?
+es: ¿Has intentado reservar directamente con la aerolínea en lugar de los sitios de búsqueda?
+fr: As-tu déjà essayé de réserver directement auprès de la compagnie aérienne plutôt que sur les agrégateurs ?
+de: Hast du schon mal versucht, direkt bei der Fluggesellschaft zu buchen statt über Aggregatoren?
+ja: 航空会社から直接予約するのと比較サイト経由、どっちか試したことある？
+ko: 항공사에서 직접 예약하는 것과 비교 사이트, 어느 쪽을 시도해봤어?
+zh: 你试过直接从航空公司预订而不是通过聚合网站吗？
+ru: Ты пробовала бронировать напрямую у авиакомпании, а не через агрегаторы?
+hi: क्या तुमने कभी एग्रीगेटर्स के बजाय सीधे एयरलाइन से बुकिंग करने की कोशिश की है?
+it: Hai mai provato a prenotare direttamente dalla compagnia aerea invece che dagli aggregatori?
+
+speaker: Lucas
+text: I started booking direct recently—better customer service if things go south.
+pt: Comecei a reservar direto recentemente—melhor atendimento se der problema.
+es: Empecé a reservar directo recientemente—mejor servicio al cliente si las cosas salen mal.
+fr: J'ai commencé à réserver directement récemment—meilleur service client si les choses tournent mal.
+de: Ich habe kürzlich angefangen, direkt zu buchen—besserer Kundenservice, wenn etwas schiefgeht.
+ja: 最近直接予約を始めた—何か問題があった時のカスタマーサービスが良い。
+ko: 최근에 직접 예약하기 시작했어—문제가 생기면 고객 서비스가 더 좋아.
+zh: 我最近开始直接预订——如果出问题的话客户服务更好。
+ru: Я недавно начал бронировать напрямую—лучше обслуживание клиентов, если что-то пойдет не так.
+hi: मैंने हाल ही में डायरेक्ट बुकिंग शुरू की है—अगर कुछ गलत हो जाए तो कस्टमर सर्विस बेहतर होती है।
+it: Ho iniziato a prenotare direttamente di recente—miglior servizio clienti se le cose vanno male.
+
+speaker: Chloe
+text: Exactly. Plus some airlines offer cheaper upgrades or perks when booking direct.
+pt: Exato. Além disso, algumas companhias oferecem upgrades ou benefícios mais baratos reservando direto.
+es: Exacto. Además algunas aerolíneas ofrecen upgrades o beneficios más baratos reservando directo.
+fr: Exactement. En plus certaines compagnies offrent des surclassements ou avantages moins chers en réservant directement.
+de: Genau. Außerdem bieten manche Fluggesellschaften günstigere Upgrades oder Vergünstigungen bei Direktbuchung.
+ja: その通り。それに一部の航空会社は直接予約で安いアップグレードや特典を提供してる。
+ko: 정확해. 게다가 일부 항공사들은 직접 예약할 때 더 저렴한 업그레이드나 혜택을 제공해.
+zh: 没错。另外一些航空公司在直接预订时提供更便宜的升级或优惠。
+ru: Точно. Плюс некоторые авиакомпании предлагают более дешевые апгрейды или льготы при прямом бронировании.
+hi: बिल्कुल। इसके अलावा कुछ एयरलाइंस डायरेक्ट बुकिंग पर सस्ते अपग्रेड या फायदे देती हैं।
+it: Esatto. Inoltre alcune compagnie aeree offrono upgrade più economici o vantaggi prenotando direttamente.
+
+speaker: Lucas
+text: Good to know. How far in advance do you usually book?
+pt: Bom saber. Com quanto tempo de antecedência você costuma reservar?
+es: Bueno saberlo. ¿Con cuánta anticipación sueles reservar?
+fr: Bon à savoir. Combien de temps à l'avance tu réserves généralement ?
+de: Gut zu wissen. Wie weit im Voraus buchst du normalerweise?
+ja: 知っておくといいね。普通どのくらい前に予約する？
+ko: 알아두면 좋겠네. 보통 얼마나 미리 예약해?
+zh: 很好知道。你通常提前多久预订？
+ru: Хорошо знать. За сколько времени ты обычно бронируешь?
+hi: जानना अच्छा है। तुम आमतौर पर कितने पहले बुक करते हो?
+it: Buono a sapersi. Quanto tempo prima prenoti di solito?
+
+speaker: Chloe
+text: Around two to three months if it's a big trip. Short trips I wait for last-minute deals.
+pt: Uns dois a três meses se for uma viagem grande. Viagens curtas espero ofertas de última hora.
+es: Como dos o tres meses si es un viaje grande. Viajes cortos espero ofertas de último minuto.
+fr: Environ deux à trois mois si c'est un grand voyage. Pour les courts voyages j'attends les offres de dernière minute.
+de: Etwa zwei bis drei Monate, wenn es eine große Reise ist. Bei kurzen Reisen warte ich auf Last-Minute-Angebote.
+ja: 大きな旅行なら2〜3ヶ月前。短い旅行は直前のお得情報を待つ。
+ko: 큰 여행이면 2-3개월 정도. 짧은 여행은 막판 딜을 기다려.
+zh: 如果是大旅行的话大约两到三个月。短途旅行我等最后一刻的优惠。
+ru: Примерно за два-три месяца, если это большая поездка. Для коротких поездок жду предложения в последнюю минуту.
+hi: अगर बड़ी ट्रिप है तो करीब दो से तीन महीने पहले। छोटी ट्रिप्स के लिए लास्ट मिनट डील्स का इंतजार करती हूं।
+it: Circa due o tre mesi prima se è un viaggio importante. Per viaggi brevi aspetto le offerte dell'ultimo minuto.
+
+speaker: Lucas
+text: Smart strategy. Flexibility can save you a chunk of change.
+pt: Estratégia esperta. Flexibilidade pode te economizar uma grana.
+es: Estrategia inteligente. La flexibilidad puede ahorrarte un buen dinero.
+fr: Stratégie intelligente. La flexibilité peut te faire économiser pas mal d'argent.
+de: Kluge Strategie. Flexibilität kann dir eine Menge Geld sparen.
+ja: 賢い戦略だ。柔軟性があればかなり節約できる。
+ko: 똑똑한 전략이야. 유연성이 있으면 꽤 많이 절약할 수 있어.
+zh: 聪明的策略。灵活性可以为你省一大笔钱。
+ru: Умная стратегия. Гибкость может сэкономить тебе кучу денег.
+hi: स्मार्ट रणनीति। लचीलापन तुम्हें अच्छा खासा पैसा बचा सकता है।
+it: Strategia intelligente. La flessibilità può farti risparmiare un bel po' di soldi.
+
+speaker: Chloe
+text: Yep. Travel planning is half the fun, right?
+pt: Sim. Planejar a viagem é metade da diversão, né?
+es: Sí. Planificar el viaje es la mitad de la diversión, ¿verdad?
+fr: Ouais. Planifier le voyage c'est la moitié du plaisir, non ?
+de: Ja. Reiseplanung ist die halbe Freude, oder?
+ja: そうだね。旅行の計画は楽しみの半分だよね？
+ko: 맞아. 여행 계획 세우는 게 재미의 절반이지, 그렇지?
+zh: 是的。旅行规划是乐趣的一半，对吧？
+ru: Да. Планирование путешествия — это половина удовольствия, правда?
+hi: हां। ट्रैवल प्लानिंग आधा मजा है, है ना?
+it: Sì. Pianificare il viaggio è metà del divertimento, vero?
+
+speaker: Lucas
+text: Couldn't agree more. Let the countdown begin!
+pt: Não poderia concordar mais. Que comece a contagem regressiva!
+es: No podría estar más de acuerdo. ¡Que comience la cuenta regresiva!
+fr: Je ne pourrais pas être plus d'accord. Que le compte à rebours commence !
+de: Könnte nicht mehr zustimmen. Lass den Countdown beginnen!
+ja: これ以上同感できない。カウントダウン開始だ！
+ko: 더 이상 동감할 수 없어. 카운트다운을 시작하자!
+zh: 再同意不过了。让倒计时开始吧！
+ru: Не могу не согласиться. Пусть начинается обратный отсчет!
+hi: इससे ज्यादा सहमत नहीं हो सकता। काउंटडाउन शुरू हो जाए!
+it: Non potrei essere più d'accordo. Che inizi il conto alla rovescia!

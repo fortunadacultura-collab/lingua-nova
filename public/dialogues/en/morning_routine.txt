@@ -1,0 +1,286 @@
+title: Morning Routine
+speaker: Jake
+text: Man, did you hit snooze a million times this morning or what?
+pt: Cara, você ficou apertando o soneca mil vezes hoje de manhã ou o quê?
+es: Hermano, ¿le diste al snooze como mil veces esta mañana o qué?
+fr: Mec, tu as appuyé sur snooze un million de fois ce matin ou quoi ?
+de: Mann, hast du heute Morgen eine Million Mal auf Schlummern gedrückt oder was?
+ja: おい、今朝スヌーズボタンを100万回押したのか？
+ko: 야, 오늘 아침에 스누즈 버튼을 백만 번 눌렀니 뭐니?
+zh: 兄弟，你今天早上按了一百万次贪睡键还是怎么的？
+ru: Чувак, ты сегодня утром миллион раз нажимал на повтор или что?
+hi: यार, क्या तुमने आज सुबह स्नूज़ बटन को लाखों बार दबाया था या क्या?
+it: Amico, hai premuto il pulsante snooze un milione di volte stamattina o cosa?
+
+speaker: Mike
+text: You know me too well. I swear my alarm was playing tricks on me.
+pt: Você me conhece bem demais. Juro que meu despertador estava me sabotando.
+es: Me conoces demasiado bien. Te juro que mi alarma me estaba haciendo la vida imposible.
+fr: Tu me connais trop bien. Je jure que mon réveil me jouait des tours.
+de: Du kennst mich zu gut. Ich schwöre, mein Wecker hat mir Streiche gespielt.
+ja: 俺のことよく分かってるな。マジで目覚まし時計がいたずらしてたんだ。
+ko: 나를 너무 잘 알아. 진짜 알람이 나한테 장난치고 있었어.
+zh: 你太了解我了。我发誓我的闹钟在捉弄我。
+ru: Ты меня слишком хорошо знаешь. Клянусь, будильник надо мной издевался.
+hi: तुम मुझे बहुत अच्छी तरह जानते हो। मैं कसम खाता हूं कि मेरा अलार्म मेरे साथ चालाकी कर रहा था।
+it: Mi conosci troppo bene. Giuro che la mia sveglia mi stava facendo degli scherzi.
+
+speaker: Jake
+text: The struggle is real. Mornings sometimes feel like a battle I'm losing.
+pt: A luta é real mesmo. Às vezes as manhãs parecem uma guerra que eu tô perdendo.
+es: La lucha es real. A veces las mañanas parecen una batalla perdida.
+fr: La lutte est réelle. Les matins ont parfois l'impression d'être une bataille que je perds.
+de: Der Kampf ist real. Morgen fühlen sich manchmal wie eine Schlacht an, die ich verliere.
+ja: その苦労は本当だよ。朝は時々負けてる戦いみたいに感じる。
+ko: 그 고생이 진짜야. 아침은 가끔 내가 지고 있는 전투 같아.
+zh: 这种挣扎是真实的。早晨有时感觉像是我正在输掉的战斗。
+ru: Борьба реальна. Утро иногда кажется битвой, которую я проигрываю.
+hi: संघर्ष वास्तविक है। सुबह कभी-कभी एक ऐसी लड़ाई की तरह लगती है जो मैं हार रहा हूं।
+it: La lotta è reale. Le mattine a volte sembrano una battaglia che sto perdendo.
+
+speaker: Mike
+text: I tried getting up early, but somehow I stayed in bed scrolling aimlessly.
+pt: Tentei acordar cedo, mas acabei ficando na cama mexendo no celular à toa.
+es: Intenté madrugar, pero terminé quedándome en la cama viendo el teléfono sin sentido.
+fr: J'ai essayé de me lever tôt, mais je suis resté au lit à faire défiler sans but.
+de: Ich habe versucht, früh aufzustehen, aber irgendwie bin ich im Bett geblieben und habe ziellos gescrollt.
+ja: 早起きしようとしたんだけど、なぜかベッドでだらだらスマホをいじってた。
+ko: 일찍 일어나려고 했는데, 어떻게든 침대에서 의미 없이 스크롤만 하고 있었어.
+zh: 我试着早起，但不知怎么的还是躺在床上漫无目的地滑手机。
+ru: Я пытался встать рано, но почему-то остался в постели и бесцельно листал телефон.
+hi: मैंने जल्दी उठने की कोशिश की, लेकिन किसी तरह बिस्तर में ही रह गया और बेमतलब फोन चलाता रहा।
+it: Ho provato ad alzarmi presto, ma in qualche modo sono rimasto a letto a scorrere senza scopo.
+
+speaker: Jake
+text: Same here. I think I picked up a bad habit of procrastinating mornings.
+pt: Aqui também. Acho que criei o péssimo hábito de enrolar de manhã.
+es: Igual acá. Creo que agarré la mala costumbre de postergar las mañanas.
+fr: Pareil ici. Je pense que j'ai pris la mauvaise habitude de procrastiner le matin.
+de: Hier auch. Ich glaube, ich habe mir die schlechte Angewohnheit angewöhnt, morgens zu prokrastinieren.
+ja: 俺も同じ。朝の時間を先延ばしにする悪い癖がついちゃったと思う。
+ko: 나도 마찬가지야. 아침에 미루는 나쁜 습관이 생긴 것 같아.
+zh: 我也一样。我觉得我养成了早上拖延的坏习惯。
+ru: У меня тоже. Думаю, я приобрел плохую привычку откладывать утренние дела.
+hi: मेरे साथ भी यही है। मुझे लगता है कि मैंने सुबह टालमटोल करने की बुरी आदत डाल ली है।
+it: Anch'io uguale. Penso di aver preso la cattiva abitudine di procrastinare le mattine.
+
+speaker: Mike
+text: Coffee helps, though. I'd be useless without my morning cup.
+pt: Mas o café salva. Eu não sou nada sem meu cafezinho da manhã.
+es: Pero el café salva. No soy nada sin mi taza mañanera.
+fr: Le café aide, cependant. Je serais inutile sans ma tasse du matin.
+de: Kaffee hilft aber. Ich wäre nutzlos ohne meine Morgentasse.
+ja: でもコーヒーは助かる。朝の一杯がないと何もできない。
+ko: 그래도 커피가 도움이 돼. 아침 커피 없으면 아무것도 못해.
+zh: 不过咖啡有帮助。没有早晨的那杯咖啡我就废了。
+ru: Но кофе помогает. Без утренней чашки я был бы бесполезен.
+hi: हालांकि कॉफी मदद करती है। अपने सुबह के कप के बिना मैं बेकार हूं।
+it: Il caffè aiuta, però. Sarei inutile senza la mia tazza del mattino.
+
+speaker: Jake
+text: I need a triple shot before I start functioning properly.
+pt: Preciso de um café triplo antes de conseguir funcionar direito.
+es: Necesito un café triple antes de poder funcionar como persona.
+fr: J'ai besoin d'un triple shot avant de commencer à fonctionner correctement.
+de: Ich brauche einen dreifachen Schuss, bevor ich richtig funktioniere.
+ja: ちゃんと機能し始める前にトリプルショットが必要だ。
+ko: 제대로 기능하기 시작하기 전에 트리플 샷이 필요해.
+zh: 我需要三倍浓缩咖啡才能开始正常运转。
+ru: Мне нужен тройной шот, прежде чем я начну нормально функционировать.
+hi: मुझे ठीक से काम करना शुरू करने से पहले ट्रिपल शॉट चाहिए।
+it: Ho bisogno di un triplo shot prima di iniziare a funzionare correttamente.
+
+speaker: Mike
+text: Haha, same. What about breakfast? Or you just run out the door like me?
+pt: Haha, somos dois. E o café da manhã? Ou você sai voando de casa igual eu?
+es: Jaja, somos iguales. ¿Y el desayuno? ¿O sales volando como yo?
+fr: Haha, pareil. Et le petit-déjeuner ? Ou tu sors en courant comme moi ?
+de: Haha, genauso. Was ist mit dem Frühstück? Oder rennst du auch einfach zur Tür raus wie ich?
+ja: ハハ、同じだ。朝食はどう？それとも俺みたいにドアから飛び出すの？
+ko: 하하, 똑같아. 아침은 어때? 아니면 나처럼 그냥 문 밖으로 뛰쳐나가?
+zh: 哈哈，一样。早餐呢？还是像我一样冲出门？
+ru: Хаха, то же самое. А как насчет завтрака? Или ты просто выбегаешь за дверь, как я?
+hi: हाहा, वही बात। नाश्ते का क्या? या तुम भी मेरी तरह दरवाजे से भागते हो?
+it: Ahah, uguale. E la colazione? O corri fuori dalla porta come me?
+
+speaker: Jake
+text: Sometimes I manage a quick smoothie, but most days it's a granola bar on the go.
+pt: Às vezes consigo fazer um smoothie rapidinho, mas na maioria das vezes é uma barrinha de cereal no caminho.
+es: A veces logro hacerme un smoothie rápido, pero casi siempre es una barrita de granola corriendo.
+fr: Parfois j'arrive à faire un smoothie rapide, mais la plupart du temps c'est une barre de granola en route.
+de: Manchmal schaffe ich einen schnellen Smoothie, aber meistens ist es ein Müsliriegel unterwegs.
+ja: たまに急いでスムージーを作るけど、ほとんどの日は移動中にグラノーラバーだ。
+ko: 가끔 빠른 스무디를 만들지만, 대부분은 이동 중에 그래놀라 바야.
+zh: 有时我能做个快速奶昔，但大多数时候都是路上吃燕麦棒。
+ru: Иногда я успеваю сделать быстрый смузи, но в основном это батончик мюсли на ходу.
+hi: कभी-कभी मैं एक त्वरित स्मूदी बना लेता हूं, लेकिन ज्यादातर दिन चलते-फिरते ग्रेनोला बार खाता हूं।
+it: A volte riesco a fare un frullato veloce, ma la maggior parte dei giorni è una barretta di granola in movimento.
+
+speaker: Mike
+text: I'm more of a toaster pastry guy when I'm rushed. Guilty pleasure.
+pt: Eu sou mais do tipo bolinho de torradeira quando tô com pressa. Pecado da gula.
+es: Yo soy más de pastelitos de tostadora cuando ando corriendo. Un guilty pleasure.
+fr: Je suis plutôt du genre pâtisserie grille-pain quand je suis pressé. Plaisir coupable.
+de: Ich bin eher der Typ für Toaster-Gebäck, wenn ich es eilig habe. Guilty pleasure.
+ja: 急いでる時はトースターペストリー派だ。罪悪感のある楽しみ。
+ko: 급할 때는 토스터 페이스트리 파야. 죄책감 드는 즐거움이지.
+zh: 我赶时间的时候更喜欢烤面包机糕点。有罪恶感的享受。
+ru: Я больше любитель тостерной выпечки, когда тороплюсь. Виноватое удовольствие.
+hi: जब मैं जल्दी में होता हूं तो मैं टोस्टर पेस्ट्री वाला हूं। अपराधबोध वाला आनंद।
+it: Io sono più da dolcetti del tostapane quando ho fretta. Piacere colpevole.
+
+speaker: Jake
+text: Hey, whatever gets us going! Have you tried meditating in the mornings?
+pt: Ei, o que funcionar tá valendo! Você já tentou meditar de manhã?
+es: ¡Oye, lo que sea que funcione! ¿Has probado meditar por las mañanas?
+fr: Hé, tout ce qui nous fait avancer ! As-tu essayé de méditer le matin ?
+de: Hey, was auch immer uns in Gang bringt! Hast du schon mal versucht, morgens zu meditieren?
+ja: おい、何でも動き出せればいいんだ！朝の瞑想を試したことある？
+ko: 헤이, 뭐든 우리를 움직이게 하는 거면 돼! 아침에 명상해본 적 있어?
+zh: 嘿，只要能让我们动起来就行！你试过早晨冥想吗？
+ru: Эй, что угодно, лишь бы нас разбудило! Ты пробовал медитировать по утрам?
+hi: अरे, जो भी हमें चलाए! क्या तुमने सुबह ध्यान करने की कोशिश की है?
+it: Ehi, qualsiasi cosa ci faccia andare! Hai mai provato a meditare al mattino?
+
+speaker: Mike
+text: Tried once... lasted about ten seconds before I fell asleep again.
+pt: Tentei uma vez... durei uns dez segundos antes de apagar de novo.
+es: Lo intenté una vez... duré como diez segundos antes de quedarme frito otra vez.
+fr: J'ai essayé une fois... j'ai tenu environ dix secondes avant de me rendormir.
+de: Hab's mal versucht... habe etwa zehn Sekunden durchgehalten, bevor ich wieder eingeschlafen bin.
+ja: 一度試したことがある...また寝落ちするまで10秒くらいだった。
+ko: 한 번 해봤는데... 다시 잠들기까지 약 10초 정도 버텼어.
+zh: 试过一次...大概坚持了十秒钟就又睡着了。
+ru: Пробовал однажды... продержался секунд десять, прежде чем снова заснул.
+hi: एक बार कोशिश की थी... फिर से सो जाने से पहले लगभग दस सेकंड चला।
+it: Ho provato una volta... sono durato circa dieci secondi prima di riaddormentarmi.
+
+speaker: Jake
+text: Haha. I started with just five minutes of deep breathing—it actually helped with the stress.
+pt: Haha. Comecei só com cinco minutinhos de respiração profunda—ajudou mesmo com o estresse.
+es: Jaja. Empecé con solo cinco minutitos de respiración profunda—de verdad ayudó con el estrés.
+fr: Haha. J'ai commencé avec juste cinq minutes de respiration profonde—ça a vraiment aidé avec le stress.
+de: Haha. Ich habe mit nur fünf Minuten tiefem Atmen angefangen—es hat wirklich beim Stress geholfen.
+ja: ハハ。深呼吸を5分だけから始めたんだ—実際にストレスに効いた。
+ko: 하하. 나는 그냥 5분간 심호흡부터 시작했어—실제로 스트레스에 도움이 됐어.
+zh: 哈哈。我从五分钟深呼吸开始—确实对压力有帮助。
+ru: Хаха. Я начал всего с пяти минут глубокого дыхания—это действительно помогло со стрессом.
+hi: हाहा। मैंने सिर्फ पांच मिनट की गहरी सांस से शुरुआत की—इससे वास्तव में तनाव में मदद मिली।
+it: Ahah. Ho iniziato con solo cinque minuti di respirazione profonda—ha davvero aiutato con lo stress.
+
+speaker: Mike
+text: Maybe I should give that a shot instead of just hitting snooze repeatedly.
+pt: Talvez eu devesse tentar isso em vez de ficar martelando o soneca.
+es: Tal vez debería intentarlo en vez de estar dale que dale al snooze.
+fr: Peut-être que je devrais essayer ça au lieu de juste appuyer sur snooze répétitivement.
+de: Vielleicht sollte ich das mal versuchen, anstatt nur ständig auf Schlummern zu drücken.
+ja: スヌーズを繰り返し押すだけじゃなくて、それを試してみるべきかも。
+ko: 계속 스누즈만 누르는 대신 그걸 한번 해봐야겠어.
+zh: 也许我应该试试这个，而不是一直按贪睡。
+ru: Может, мне стоит попробовать это вместо того, чтобы просто постоянно жать на повтор будильника.
+hi: शायद मुझे सिर्फ बार-बार स्नूज़ दबाने के बजाय इसे आज़माना चाहिए।
+it: Forse dovrei provarlo invece di continuare a premere snooze ripetutamente.
+
+speaker: Jake
+text: Totally worth it. It sets a calm tone for the day despite the chaos ahead.
+pt: Vale super a pena. Deixa o dia mais tranquilo, mesmo com toda a correria que vem depois.
+es: Vale totalmente la pena. Le da un toque tranquilo al día a pesar de todo el lío que viene después.
+fr: Ça vaut totalement le coup. Ça donne un ton calme à la journée malgré le chaos à venir.
+de: Lohnt sich total. Es gibt dem Tag einen ruhigen Ton trotz des Chaos, das bevorsteht.
+ja: 完全に価値がある。これから起こる混乱にもかかわらず、一日を穏やかな調子にしてくれる。
+ko: 완전히 가치가 있어. 앞으로 올 혼란에도 불구하고 하루를 차분한 톤으로 만들어줘.
+zh: 完全值得。尽管前面有混乱，但它为这一天定下了平静的基调。
+ru: Полностью стоит того. Это задает спокойный тон дню, несмотря на предстоящий хаос.
+hi: बिल्कुल इसके लायक है। आगे की अराजकता के बावजूद यह दिन के लिए एक शांत टोन सेट करता है।
+it: Ne vale assolutamente la pena. Dà un tono calmo alla giornata nonostante il caos che ci aspetta.
+
+speaker: Mike
+text: Speaking of chaos, how about the traffic jams? I sometimes spend more time commuting than sleeping.
+pt: Falando em caos, e o trânsito? Às vezes passo mais tempo no trânsito do que dormindo.
+es: Hablando de caos, ¿y el tráfico? A veces paso más tiempo en el tráfico que durmiendo.
+fr: En parlant de chaos, que dire des embouteillages ? Parfois je passe plus de temps à faire la navette qu'à dormir.
+de: Apropos Chaos, wie wäre es mit den Staus? Manchmal verbringe ich mehr Zeit mit Pendeln als mit Schlafen.
+ja: 混乱といえば、交通渋滞はどう？時々通勤に寝る時間より長くかかる。
+ko: 혼란 얘기가 나왔으니, 교통체증은 어때? 가끔 잠자는 시간보다 통근하는 시간이 더 길어.
+zh: 说到混乱，交通堵塞怎么样？有时我通勤的时间比睡觉的时间还长。
+ru: Говоря о хаосе, как насчет пробок? Иногда я трачу больше времени на дорогу, чем на сон.
+hi: अराजकता की बात करें तो ट्रैफिक जाम का क्या? कभी-कभी मैं सोने से ज्यादा समय आने-जाने में बिताता हूं।
+it: Parlando di caos, che dire degli ingorghi? A volte passo più tempo a fare il pendolare che a dormire.
+
+speaker: Jake
+text: Oh man, commuting is its own nightmare. But hey, at least we're up and at 'em!
+pt: Ah, cara, o trânsito é um pesadelo à parte. Mas ei, pelo menos já estamos de pé e na luta!
+es: Ay, hermano, el tráfico es una pesadilla aparte. Pero bueno, ¡al menos ya estamos despiertos y en la lucha!
+fr: Oh mec, faire la navette c'est son propre cauchemar. Mais bon, au moins on est debout et on s'y met !
+de: Oh Mann, das Pendeln ist sein eigener Albtraum. Aber hey, wenigstens sind wir auf und dran!
+ja: うわあ、通勤はそれ自体が悪夢だ。でもまあ、少なくとも起きて頑張ってるじゃないか！
+ko: 아, 통근은 그 자체로 악몽이야. 하지만 헤이, 적어도 우리는 일어나서 열심히 하고 있잖아!
+zh: 哦天哪，通勤本身就是个噩梦。但嘿，至少我们起来了并且在努力！
+ru: О боже, поездки на работу — это отдельный кошмар. Но эй, по крайней мере мы встали и действуем!
+hi: अरे यार, आना-जाना अपना ही दुःस्वप्न है। लेकिन अरे, कम से कम हम उठ गए हैं और लगे हुए हैं!
+it: Oh cavolo, fare il pendolare è un incubo a sé stante. Ma ehi, almeno siamo in piedi e ci diamo da fare!
+
+speaker: Mike
+text: True that. I feel more prepared already just talking about this.
+pt: É verdade. Já me sinto mais preparado só de conversar sobre isso.
+es: Totalmente. Solo con platicar de esto ya me siento más preparado.
+fr: C'est vrai ça. Je me sens déjà plus préparé rien qu'en parlant de ça.
+de: Das stimmt. Ich fühle mich schon besser vorbereitet, nur weil wir darüber reden.
+ja: その通りだ。これについて話すだけでもう準備ができた気分だ。
+ko: 맞아. 이것에 대해 얘기하는 것만으로도 벌써 더 준비된 기분이야.
+zh: 确实如此。光是谈论这个我就感觉更有准备了。
+ru: Точно. Я уже чувствую себя более подготовленным, просто обсуждая это.
+hi: बिल्कुल सही। सिर्फ इस बारे में बात करने से ही मैं पहले से अधिक तैयार महसूस कर रहा हूं।
+it: Proprio vero. Mi sento già più preparato solo parlando di questo.
+
+speaker: Jake
+text: Small wins count. Here's to better mornings ahead, my friend.
+pt: As pequenas vitórias fazem diferença. Um brinde a manhãs melhores pela frente, meu amigo.
+es: Las pequeñas victorias cuentan. Brindemos por mejores mañanas por delante, amigo.
+fr: Les petites victoires comptent. À de meilleurs matins à venir, mon ami.
+de: Kleine Siege zählen. Auf bessere Morgen in der Zukunft, mein Freund.
+ja: 小さな勝利も大切だ。より良い朝に向けて、友よ。
+ko: 작은 승리도 중요해. 앞으로 더 나은 아침을 위해, 친구야.
+zh: 小胜利也很重要。为了更美好的明天早晨，我的朋友。
+ru: Маленькие победы имеют значение. За лучшие утра впереди, мой друг.
+hi: छोटी जीत भी मायने रखती है। आगे बेहतर सुबह के लिए, मेरे दोस्त।
+it: Le piccole vittorie contano. Ecco a mattine migliori in arrivo, amico mio.
+
+speaker: Mike
+text: Cheers to that, Jake! Tomorrow we go hard on the morning routine.
+pt: Saúde, Jake! Amanhã vamos pegar pesado na rotina matinal.
+es: ¡Salud, Jake! Mañana le damos con todo a la rutina mañanera.
+fr: Santé à ça, Jake ! Demain on s'y met à fond sur la routine matinale.
+de: Darauf einen Toast, Jake! Morgen gehen wir hart ran an die Morgenroutine.
+ja: それに乾杯だ、ジェイク！明日は朝のルーティンを本気でやろう。
+ko: 그거에 건배야, 제이크! 내일은 아침 루틴을 열심히 해보자.
+zh: 为此干杯，杰克！明天我们要认真对待晨间例行公事。
+ru: За это, Джейк! Завтра мы серьезно займемся утренней рутиной.
+hi: इसके लिए चीयर्स, जेक! कल हम सुबह की दिनचर्या पर जोर देंगे।
+it: Cin cin a questo, Jake! Domani ci impegneremo seriamente nella routine mattutina.
+
+speaker: Jake
+text: For sure. No more snooze abuse.
+pt: Com certeza. Chega de maltratar o soneca.
+es: Seguro. Se acabó el abuso del snooze.
+fr: C'est sûr. Fini l'abus de snooze.
+de: Auf jeden Fall. Schluss mit dem Schlummertasten-Missbrauch.
+ja: 確実に。もうスヌーズの乱用はなしだ。
+ko: 확실해. 더 이상 스누즈 남용은 없어.
+zh: 当然。不再滥用贪睡功能。
+ru: Точно. Больше никакого злоупотребления повтором будильника.
+hi: बिल्कुल। अब और स्नूज़ का दुरुपयोग नहीं।
+it: Assolutamente. Basta abusare dello snooze.
+
+speaker: Mike
+text: Ha! One step at a time. Ready for the challenge?
+pt: Ha! Um passo de cada vez. Tá pronto pro desafio?
+es: ¡Ja! De a un paso a la vez. ¿Estás listo para el desafío?
+fr: Ha ! Un pas à la fois. Prêt pour le défi ?
+de: Ha! Ein Schritt nach dem anderen. Bereit für die Herausforderung?
+ja: ハ！一歩ずつだ。挑戦の準備はできてる？
+ko: 하! 한 번에 한 걸음씩. 도전할 준비됐어?
+zh: 哈！一步一步来。准备好迎接挑战了吗？
+ru: Ха! По одному шагу за раз. Готов к вызову?
+hi: हा! एक समय में एक कदम। चुनौती के लिए तैयार हो?
+it: Ah! Un passo alla volta. Pronto per la sfida?

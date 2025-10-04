@@ -1,0 +1,273 @@
+title: Sightseeing
+speaker: Chloe
+text: Jake, what's your go-to when exploring a new city?
+pt: Jake, qual é a sua primeira escolha ao explorar uma cidade nova?
+es: Jake, ¿cuál es tu primera opción al explorar una ciudad nueva?
+fr: Jake, quelle est ta première option quand tu explores une nouvelle ville ?
+de: Jake, was ist deine erste Wahl beim Erkunden einer neuen Stadt?
+ja: ジェイク、新しい街を探索するときの君の定番は何？
+ko: 제이크, 새로운 도시를 탐험할 때 너의 첫 번째 선택은 뭐야?
+zh: 杰克，探索新城市时你的首选是什么？
+ru: Джейк, что ты предпочитаешь делать в первую очередь при изучении нового города?
+hi: जेक, नए शहर की खोज करते समय आपकी पहली पसंद क्या है?
+it: Jake, qual è la tua prima scelta quando esplori una nuova città?
+
+speaker: Jake
+text: I usually hit the landmarks first, then wander off the beaten path.
+pt: Geralmente visito os pontos turísticos primeiro, depois saio do caminho tradicional.
+es: Normalmente visito los puntos de referencia primero, luego me alejo del camino trillado.
+fr: Je visite généralement les monuments d'abord, puis je m'écarte des sentiers battus.
+de: Ich besuche normalerweise zuerst die Wahrzeichen, dann wandere ich abseits der ausgetretenen Pfade.
+ja: 通常は最初にランドマークを見て、それから人里離れた道を歩く。
+ko: 보통 먼저 랜드마크를 보고, 그다음에 사람들이 잘 가지 않는 길로 가.
+zh: 我通常先去看地标，然后偏离常规路线。
+ru: Обычно я сначала посещаю достопримечательности, а потом иду по неизведанным тропам.
+hi: मैं आमतौर पर पहले स्थलों को देखता हूँ, फिर पारंपरिक रास्ते से हटकर घूमता हूँ।
+it: Di solito visito prima i punti di riferimento, poi vado fuori dai sentieri battuti.
+
+speaker: Chloe
+text: Love that! Some of the best spots are hidden gems.
+pt: Adoro isso! Alguns dos melhores lugares são joias escondidas.
+es: ¡Me encanta! Algunos de los mejores lugares son joyas ocultas.
+fr: J'adore ça ! Certains des meilleurs endroits sont des joyaux cachés.
+de: Das liebe ich! Einige der besten Orte sind versteckte Juwelen.
+ja: それいいね！最高の場所のいくつかは隠れた宝石だ。
+ko: 그거 좋아! 최고의 장소들 중 일부는 숨겨진 보석이야.
+zh: 我喜欢这样！一些最好的地方是隐藏的宝石。
+ru: Обожаю это! Некоторые из лучших мест — скрытые жемчужины.
+hi: मुझे यह पसंद है! कुछ बेहतरीन जगहें छुपे हुए रत्न हैं।
+it: Adoro questo! Alcuni dei posti migliori sono gemme nascoste.
+
+speaker: Jake
+text: Exactly. And I always make sure to try local food along the way.
+pt: Exatamente. E eu sempre me certifico de experimentar a comida local pelo caminho.
+es: Exactamente. Y siempre me aseguro de probar la comida local en el camino.
+fr: Exactement. Et je m'assure toujours de goûter la nourriture locale en chemin.
+de: Genau. Und ich achte immer darauf, unterwegs lokales Essen zu probieren.
+ja: その通り。そして道中では必ず地元の料理を試すようにしている。
+ko: 맞아. 그리고 항상 길에서 현지 음식을 맛보도록 해.
+zh: 没错。我总是确保在路上尝试当地食物。
+ru: Точно. И я всегда стараюсь попробовать местную еду по пути.
+hi: बिल्कुल। और मैं हमेशा रास्ते में स्थानीय खाना आज़माना सुनिश्चित करता हूँ।
+it: Esatto. E mi assicuro sempre di provare il cibo locale lungo la strada.
+
+speaker: Chloe
+text: Food is a big part of the experience! Ever join a guided tour?
+pt: A comida é uma grande parte da experiência! Já participou de um tour guiado?
+es: ¡La comida es una gran parte de la experiencia! ¿Alguna vez te unes a un tour guiado?
+fr: La nourriture est une grande partie de l'expérience ! Tu as déjà rejoint une visite guidée ?
+de: Essen ist ein großer Teil der Erfahrung! Schließt du dich jemals einer geführten Tour an?
+ja: 食べ物は体験の大きな部分だ！ガイドツアーに参加したことはある？
+ko: 음식은 경험의 큰 부분이야! 가이드 투어에 참여해본 적 있어?
+zh: 食物是体验的重要组成部分！你参加过导游团吗？
+ru: Еда — большая часть впечатлений! Ты когда-нибудь присоединялся к экскурсии с гидом?
+hi: खाना अनुभव का एक बड़ा हिस्सा है! क्या आप कभी गाइडेड टूर में शामिल हुए हैं?
+it: Il cibo è una grande parte dell'esperienza! Ti sei mai unito a un tour guidato?
+
+speaker: Jake
+text: Sometimes. They're good for history buffs but I prefer a self-paced stroll.
+pt: Às vezes. Eles são bons para amantes de história, mas prefiro um passeio no meu próprio ritmo.
+es: A veces. Son buenos para los amantes de la historia, pero prefiero un paseo a mi propio ritmo.
+fr: Parfois. Ils sont bons pour les passionnés d'histoire mais je préfère une promenade à mon rythme.
+de: Manchmal. Sie sind gut für Geschichtsliebhaber, aber ich bevorzuge einen Spaziergang in meinem eigenen Tempo.
+ja: 時々。歴史好きには良いけど、自分のペースで散歩する方が好きだ。
+ko: 가끔. 역사 애호가들에게는 좋지만 나는 내 속도로 산책하는 걸 선호해.
+zh: 有时候。它们对历史爱好者很好，但我更喜欢按自己的节奏漫步。
+ru: Иногда. Они хороши для любителей истории, но я предпочитаю прогулку в своем темпе.
+hi: कभी-कभी। वे इतिहास प्रेमियों के लिए अच्छे हैं लेकिन मैं अपनी गति से टहलना पसंद करता हूँ।
+it: A volte. Sono buoni per gli appassionati di storia ma preferisco una passeggiata al mio ritmo.
+
+speaker: Chloe
+text: Makes sense. What about museums?
+pt: Faz sentido. E os museus?
+es: Tiene sentido. ¿Y los museos?
+fr: C'est logique. Et les musées ?
+de: Das macht Sinn. Und Museen?
+ja: 理にかなってる。博物館はどう？
+ko: 말이 되네. 박물관은 어때?
+zh: 有道理。博物馆呢？
+ru: Понятно. А как насчет музеев?
+hi: समझ में आता है। संग्रहालयों के बारे में क्या?
+it: Ha senso. E i musei?
+
+speaker: Jake
+text: Can't miss those. I usually spend hours in at least one major museum.
+pt: Não posso perdê-los. Geralmente passo horas em pelo menos um museu importante.
+es: No me los puedo perder. Normalmente paso horas en al menos un museo importante.
+fr: Je ne peux pas les rater. Je passe généralement des heures dans au moins un musée majeur.
+de: Die kann ich nicht verpassen. Ich verbringe normalerweise Stunden in mindestens einem großen Museum.
+ja: それは見逃せない。通常は少なくとも一つの主要な博物館で何時間も過ごす。
+ko: 그건 놓칠 수 없어. 보통 적어도 하나의 주요 박물관에서 몇 시간을 보내.
+zh: 不能错过那些。我通常在至少一个主要博物馆里待几个小时。
+ru: Их нельзя пропустить. Обычно я провожу часы хотя бы в одном крупном музее.
+hi: उन्हें मिस नहीं कर सकता। मैं आमतौर पर कम से कम एक प्रमुख संग्रहालय में घंटों बिताता हूँ।
+it: Non posso perderli. Di solito passo ore in almeno un museo importante.
+
+speaker: Chloe
+text: Same here. I love audio guides—they add depth without being overwhelming.
+pt: Idem aqui. Adoro audioguias—eles acrescentam profundidade sem ser overwhelming.
+es: Igual aquí. Me encantan las audioguías—añaden profundidad sin ser abrumadoras.
+fr: Pareil ici. J'adore les audioguides—ils ajoutent de la profondeur sans être accablants.
+de: Genauso hier. Ich liebe Audioguides—sie fügen Tiefe hinzu, ohne überwältigend zu sein.
+ja: 私も同じ。オーディオガイドが大好き—圧倒されることなく深みを加えてくれる。
+ko: 나도 마찬가지야. 오디오 가이드를 좋아해—압도적이지 않으면서 깊이를 더해줘.
+zh: 我也一样。我喜欢语音导览——它们增加深度而不会让人感到压倒性。
+ru: То же самое. Я люблю аудиогиды—они добавляют глубину, не будучи подавляющими.
+hi: यहाँ भी वही। मुझे ऑडियो गाइड पसंद हैं—वे भारी हुए बिना गहराई जोड़ते हैं।
+it: Anch'io. Adoro le audioguide—aggiungono profondità senza essere opprimenti.
+
+speaker: Jake
+text: Totally. And city maps or travel apps help me plan efficient routes.
+pt: Totalmente. E mapas da cidade ou aplicativos de viagem me ajudam a planejar rotas eficientes.
+es: Totalmente. Y los mapas de la ciudad o las apps de viaje me ayudan a planificar rutas eficientes.
+fr: Totalement. Et les cartes de ville ou les apps de voyage m'aident à planifier des itinéraires efficaces.
+de: Völlig. Und Stadtpläne oder Reise-Apps helfen mir, effiziente Routen zu planen.
+ja: 全くその通り。そして市内地図や旅行アプリが効率的なルートを計画するのに役立つ。
+ko: 완전히. 그리고 도시 지도나 여행 앱이 효율적인 경로를 계획하는 데 도움이 돼.
+zh: 完全同意。城市地图或旅行应用程序帮助我规划高效路线。
+ru: Полностью. И городские карты или туристические приложения помогают мне планировать эффективные маршруты.
+hi: बिल्कुल। और शहर के नक्शे या ट्रैवल ऐप्स मुझे कुशल मार्गों की योजना बनाने में मदद करते हैं।
+it: Assolutamente. E le mappe della città o le app di viaggio mi aiutano a pianificare percorsi efficienti.
+
+speaker: Chloe
+text: How do you balance seeing everything vs just relaxing?
+pt: Como você equilibra ver tudo versus apenas relaxar?
+es: ¿Cómo equilibras ver todo versus simplemente relajarte?
+fr: Comment équilibres-tu voir tout versus juste te détendre ?
+de: Wie balancierst du alles sehen versus einfach entspannen?
+ja: すべてを見ることとただリラックスすることのバランスはどう取ってる？
+ko: 모든 것을 보는 것과 그냥 휴식하는 것의 균형을 어떻게 맞춰?
+zh: 你如何平衡看所有东西与只是放松？
+ru: Как ты балансируешь между осмотром всего и просто отдыхом?
+hi: आप सब कुछ देखने और सिर्फ आराम करने के बीच संतुलन कैसे बनाते हैं?
+it: Come bilanci il vedere tutto contro il semplice rilassarsi?
+
+speaker: Jake
+text: Tough! I try not to over-schedule, leave pockets of free time.
+pt: Difícil! Eu tento não agendar demais, deixo intervalos de tempo livre.
+es: ¡Difícil! Trato de no sobrecargar la agenda, dejo espacios de tiempo libre.
+fr: Difficile ! J'essaie de ne pas trop programmer, je laisse des créneaux de temps libre.
+de: Schwierig! Ich versuche nicht zu viel zu planen, lasse Zeitfenster frei.
+ja: 難しい！スケジュールを詰め込みすぎないようにして、自由時間を残すようにしている。
+ko: 어려워! 일정을 너무 빡빡하게 잡지 않으려고 하고, 자유 시간을 남겨둬.
+zh: 很难！我尽量不过度安排，留出一些自由时间。
+ru: Сложно! Я стараюсь не перегружать расписание, оставляю карманы свободного времени.
+hi: कठिन! मैं ज्यादा शेड्यूल न करने की कोशिश करता हूँ, खाली समय के टुकड़े छोड़ता हूँ।
+it: Difficile! Cerco di non programmare troppo, lascio spazi di tempo libero.
+
+speaker: Chloe
+text: Smart. Burnout ruins the fun.
+pt: Inteligente. O esgotamento estraga a diversão.
+es: Inteligente. El agotamiento arruina la diversión.
+fr: Intelligent. L'épuisement gâche le plaisir.
+de: Klug. Burnout ruiniert den Spaß.
+ja: 賢い。燃え尽きは楽しさを台無しにする。
+ko: 현명해. 번아웃이 재미를 망쳐.
+zh: 聪明。疲劳会毁掉乐趣。
+ru: Умно. Выгорание портит веселье.
+hi: स्मार्ट। थकावट मज़े को बर्बाद कर देती है।
+it: Intelligente. Il burnout rovina il divertimento.
+
+speaker: Jake
+text: Exactly. Plus, spontaneous detours are sometimes the best memories.
+pt: Exatamente. Além disso, desvios espontâneos são às vezes as melhores lembranças.
+es: Exactamente. Además, los desvíos espontáneos a veces son los mejores recuerdos.
+fr: Exactement. En plus, les détours spontanés sont parfois les meilleurs souvenirs.
+de: Genau. Außerdem sind spontane Umwege manchmal die besten Erinnerungen.
+ja: その通り。それに、自然発生的な寄り道が時には最高の思い出になる。
+ko: 맞아. 게다가 즉흥적인 우회가 때로는 최고의 추억이 돼.
+zh: 没错。另外，自发的绕道有时是最好的回忆。
+ru: Точно. Плюс спонтанные объезды иногда становятся лучшими воспоминаниями.
+hi: बिल्कुल। इसके अलावा, अचानक लिए गए मोड़ कभी-कभी सबसे अच्छी यादें होते हैं।
+it: Esatto. Inoltre, le deviazioni spontanee sono a volte i ricordi migliori.
+
+speaker: Chloe
+text: Agreed. And don't forget snapping pics to freeze moments.
+pt: Concordo. E não se esqueça de tirar fotos para congelar momentos.
+es: De acuerdo. Y no olvides tomar fotos para congelar momentos.
+fr: D'accord. Et n'oublie pas de prendre des photos pour figer les moments.
+de: Einverstanden. Und vergiss nicht, Fotos zu machen, um Momente einzufrieren.
+ja: 同感。そして瞬間を凍結するために写真を撮ることを忘れずに。
+ko: 동의해. 그리고 순간을 얼리기 위해 사진 찍는 걸 잊지 마.
+zh: 同意。别忘了拍照来定格瞬间。
+ru: Согласна. И не забывай делать снимки, чтобы заморозить моменты.
+hi: सहमत। और पलों को जमाने के लिए तस्वीरें लेना न भूलें।
+it: D'accordo. E non dimenticare di scattare foto per congelare i momenti.
+
+speaker: Jake
+text: Absolutely. Capturing the vibe for later.
+pt: Absolutamente. Capturar a vibe para depois.
+es: Absolutamente. Capturar la vibra para después.
+fr: Absolument. Capturer l'ambiance pour plus tard.
+de: Absolut. Die Stimmung für später einfangen.
+ja: 絶対に。後のために雰囲気を捉える。
+ko: 절대적으로. 나중을 위해 분위기를 포착하는 거야.
+zh: 绝对的。为以后捕捉氛围。
+ru: Абсолютно. Захватить атмосферу на потом.
+hi: बिल्कुल। बाद के लिए माहौल को कैप्चर करना।
+it: Assolutamente. Catturare l'atmosfera per dopo.
+
+speaker: Chloe
+text: Any favorite city so far?
+pt: Alguma cidade favorita até agora?
+es: ¿Alguna ciudad favorita hasta ahora?
+fr: Une ville préférée jusqu'à présent ?
+de: Irgendeine Lieblingsstadt bisher?
+ja: 今のところお気に入りの都市はある？
+ko: 지금까지 좋아하는 도시가 있어?
+zh: 到目前为止有最喜欢的城市吗？
+ru: Есть любимый город пока что?
+hi: अब तक कोई पसंदीदा शहर?
+it: Qualche città preferita finora?
+
+speaker: Jake
+text: Tokyo topped my list for energy and culture.
+pt: Tóquio encabeçou minha lista por energia e cultura.
+es: Tokio encabezó mi lista por energía y cultura.
+fr: Tokyo a dominé ma liste pour l'énergie et la culture.
+de: Tokio führte meine Liste für Energie und Kultur an.
+ja: 東京がエネルギーと文化で私のリストのトップに立った。
+ko: 도쿄가 에너지와 문화 면에서 내 리스트 1위야.
+zh: 东京因其活力和文化位居我的榜首。
+ru: Токио возглавил мой список по энергии и культуре.
+hi: टोक्यो ऊर्जा और संस्कृति के लिए मेरी सूची में सबसे ऊपर था।
+it: Tokyo ha dominato la mia lista per energia e cultura.
+
+speaker: Chloe
+text: Nice! Mine's Paris—food and art heaven.
+pt: Legal! A minha é Paris—paraíso da comida e da arte.
+es: ¡Genial! La mía es París—paraíso de la comida y el arte.
+fr: Sympa ! La mienne c'est Paris—paradis de la nourriture et de l'art.
+de: Schön! Meine ist Paris—Paradies für Essen und Kunst.
+ja: いいね！私のはパリ—食べ物とアートの天国。
+ko: 좋아! 내 건 파리야—음식과 예술의 천국.
+zh: 不错！我的是巴黎——美食和艺术的天堂。
+ru: Классно! Моя — Париж—рай еды и искусства.
+hi: बढ़िया! मेरा पेरिस है—खाना और कला का स्वर्ग।
+it: Bello! La mia è Parigi—paradiso del cibo e dell'arte.
+
+speaker: Jake
+text: Both classics. Ready for the next adventure?
+pt: Ambos clássicos. Pronto para a próxima aventura?
+es: Ambos clásicos. ¿Listo para la próxima aventura?
+fr: Tous les deux des classiques. Prêt pour la prochaine aventure ?
+de: Beide Klassiker. Bereit für das nächste Abenteuer?
+ja: どちらも古典的だ。次の冒険の準備はできてる？
+ko: 둘 다 클래식이야. 다음 모험 준비됐어?
+zh: 都是经典。准备好下一次冒险了吗？
+ru: Оба классика. Готов к следующему приключению?
+hi: दोनों क्लासिक। अगले साहसिक कार्य के लिए तैयार?
+it: Entrambi classici. Pronto per la prossima avventura?
+
+speaker: Chloe
+text: Always. Travel dreams never sleep.
+pt: Sempre. Sonhos de viagem nunca dormem.
+es: Siempre. Los sueños de viaje nunca duermen.
+fr: Toujours. Les rêves de voyage ne dorment jamais.
+de: Immer. Reiseträume schlafen nie.
+ja: いつでも。旅の夢は眠らない。
+ko: 항상. 여행 꿈은 잠들지 않아.
+zh: 总是。旅行梦想永不眠。
+ru: Всегда. Мечты о путешествиях никогда не спят.
+hi: हमेशा। यात्रा के सपने कभी नहीं सोते।
+it: Sempre. I sogni di viaggio non dormono mai.

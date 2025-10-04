@@ -1,0 +1,75 @@
+title: La Idea
+speaker: Diego
+text: Oye, Isabel, ¿tienes un momento? Necesito una opinión técnica sobre una idea que me está quitando el sueño.
+pt: Ei, Isabel, você tem um momento? Preciso de uma opinião técnica sobre uma ideia que está me tirando o sono.
+en: Hey, Isabel, do you have a moment? I need a technical opinion on an idea that's been keeping me up at night.
+
+speaker: Isabel
+text: ¡Claro, Diego! Para eso estamos. Siempre es el mejor momento para hablar de ideas nuevas. Cuéntame.
+pt: Claro, Diego! Para isso estamos. Sempre é o melhor momento para falar de ideias novas. Conte-me.
+en: Of course, Diego! That's what we're here for. It's always the best time to talk about new ideas. Tell me.
+
+speaker: Diego
+text: Verás, se me ocurrió crear una plataforma, un marketplace, pero muy especializado. Quiero conectar a artesanos locales, de verdad, esos que trabajan en sus pequeños talleres, con compradores que buscan productos únicos, con una historia detrás.
+pt: Veja bem, me ocorreu criar uma plataforma, um marketplace, mas muito especializado. Quero conectar artesãos locais, de verdade, aqueles que trabalham em suas pequenas oficinas, com compradores que buscam produtos únicos, com uma história por trás.
+en: You see, it occurred to me to create a platform, a marketplace, but a very specialized one. I want to connect local artisans, the real ones, those who work in their small workshops, with buyers looking for unique products with a story behind them.
+
+speaker: Isabel
+text: Me encanta el concepto de base. Tiene un componente social y cultural muy potente, muy necesario en esta era de producción masiva. ¿Has estructurado algo más? ¿O es solo una idea en el aire por ahora?
+pt: Adoro o conceito de base. Tem um componente social e cultural muito forte, muito necessário nesta era de produção em massa. Você estruturou algo mais? Ou é apenas uma ideia no ar por enquanto?
+en: I love the core concept. It has a very powerful social and cultural component, much needed in this era of mass production. Have you structured anything else? Or is it just an idea in the air for now?
+
+speaker: Diego
+text: He hecho algunas notas. Sé que la base sería un motor de búsqueda robusto, que permita filtrar por tipo de artesanía, ubicación, técnicas... Luego, obviamente, un sistema de pagos integrado y seguro es fundamental.
+pt: Fiz algumas anotações. Sei que a base seria um motor de busca robusto, que permita filtrar por tipo de artesanato, localização, técnicas... Depois, obviamente, um sistema de pagamento integrado e seguro é fundamental.
+en: I've made some notes. I know the foundation would be a robust search engine that allows filtering by type of craft, location, techniques... Then, obviously, an integrated and secure payment system is essential.
+
+speaker: Isabel
+text: Sin duda. La seguridad de las transacciones es lo primero que mirarán los usuarios. También pienso que un sistema de valoraciones y reseñas verificadas sería crucial para generar confianza.
+pt: Sem dúvida. A segurança das transações é a primeira coisa que os usuários vão olhar. Também acho que um sistema de avaliações e comentários verificados seria crucial para gerar confiança.
+en: Without a doubt. Transaction security is the first thing users will look at. I also think a system of verified ratings and reviews would be crucial to generate trust.
+
+speaker: Diego
+text: Exacto, eso lo anoto. Pero mi mayor duda es la viabilidad técnica de todo eso. Suena a que necesitaría un equipo enorme y una inversión que no tengo.
+pt: Exato, isso eu anoto. Mas minha maior dúvida é a viabilidade técnica de tudo isso. Soa como se eu precisasse de uma equipe enorme e um investimento que não tenho.
+en: Exactly, I'm noting that down. But my biggest doubt is the technical feasibility of all that. It sounds like I would need a huge team and an investment I don't have.
+
+speaker: Isabel
+text: Ahí es donde te equivocas. Podemos enfocarlo con una mentalidad de MVP, Producto Mínimo Viable. No necesitas la plataforma perfecta desde el día uno.
+pt: Aí é onde você se engana. Podemos abordar isso com uma mentalidade de MVP, Produto Mínimo Viável. Você não precisa da plataforma perfeita desde o primeiro dia.
+en: That's where you're wrong. We can approach it with an MVP mindset, Minimum Viable Product. You don't need the perfect platform from day one.
+
+speaker: Diego
+text: ¿Cómo lo ves entonces?
+pt: Como você vê isso então?
+en: How do you see it then?
+
+speaker: Isabel
+text: Podríamos empezar con una web sencilla, casi un catálogo, donde los artesanos suban sus productos y se contacten inicialmente por fuera de la plataforma para concretar la venta. Así validamos la idea sin complicarnos.
+pt: Poderíamos começar com um site simples, quase um catálogo, onde os artesãos enviem seus produtos e entrem em contato inicialmente fora da plataforma para concretizar a venda. Assim validamos a ideia sem nos complicarmos.
+en: We could start with a simple website, almost a catalog, where artisans upload their products and initially contact each other outside the platform to finalize the sale. This way we validate the idea without complicating things.
+
+speaker: Diego
+text: Eso suena muchísimo más manejable. ¿Y lo del motor de búsqueda inteligente?
+pt: Isso parece muito mais gerenciável. E o motor de busca inteligente?
+en: That sounds much more manageable. What about the smart search engine?
+
+speaker: Isabel
+text: Eso es para una fase dos o tres. Primero, lo básico que funcione. Luego, para las recomendaciones y el buscador avanzado, podríamos integrar un algoritmo de machine learning bastante estándar. No es tan descabellado como piensas.
+pt: Isso é para uma fase dois ou três. Primeiro, o básico que funcione. Depois, para as recomendações e a busca avançada, poderíamos integrar um algoritmo de aprendizado de máquina bastante padrão. Não é tão absurdo quanto você pensa.
+en: That's for a phase two or three. First, the basics that work. Then, for recommendations and the advanced search, we could integrate a fairly standard machine learning algorithm. It's not as far-fetched as you think.
+
+speaker: Diego
+text: Me estás quitando un peso de encima. Otra cosa, la geolocalización para encontrar artesanos cerca...
+pt: Você está tirando um peso dos meus ombros. Outra coisa, a geolocalização para encontrar artesãos próximos...
+en: You're taking a weight off my shoulders. Another thing, geolocation to find nearby artisans...
+
+speaker: Isabel
+text: Es una feature clave, pero también se puede implementar de forma sencilla al principio con tags de ciudad o barrio. No hace falta un mapa super complejo con geofencing. Diego, lo técnico lo podemos resolver por etapas. Lo importante es que la idea es brillante.
+pt: É um recurso chave, mas também pode ser implementado de forma simples no início com tags de cidade ou bairro. Não é necessário um mapa super complexo com geofencing. Diego, a parte técnica podemos resolver em etapas. O importante é que a ideia é brilhante.
+en: It's a key feature, but it can also be implemented simply at first with city or neighborhood tags. You don't need a super complex map with geofencing. Diego, the technical stuff we can solve in stages. The important thing is that the idea is brilliant.
+
+speaker: Diego
+text: Gracias, Isabel. En serio. Ahora me siento mucho más seguro para seguir desarrollando esto.
+pt: Obrigado, Isabel. Sério. Agora me sinto muito mais seguro para continuar desenvolvendo isso.
+en: Thank you, Isabel. Seriously. Now I feel much more confident to continue developing this.

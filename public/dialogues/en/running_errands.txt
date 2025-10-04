@@ -1,0 +1,234 @@
+title: Running Errands
+speaker: Chloe
+text: Ana, how do you tackle errands on crazy busy days?
+pt: Ana, como você lida com as tarefas em dias super ocupados?
+es: Ana, ¿cómo te enfrentas a los recados en los días locamente ocupados?
+fr: Ana, comment tu gères les courses lors des journées super chargées ?
+de: Ana, wie gehst du mit Besorgungen an verrückt geschäftigen Tagen um?
+ja: アナ、めちゃくちゃ忙しい日に用事をどうやってこなしてる？
+ko: 아나, 미친 듯이 바쁜 날에 심부름을 어떻게 처리해?
+zh: 安娜，在疯狂忙碌的日子里你是如何处理跑腿的？
+ru: Ана, как ты справляешься с делами в безумно загруженные дни?
+hi: अना, आप पागल व्यस्त दिनों में काम कैसे निपटाती हैं?
+it: Ana, come affronti le commissioni nelle giornate freneticamente impegnative?
+
+speaker: Ana
+text: I usually group them together—makes the whole process less stressful.
+pt: Eu geralmente os agrupo—isso torna todo o processo menos estressante.
+es: Suelo agruparlos—hace que todo el proceso sea menos estresante.
+fr: Je les regroupe généralement—ça rend tout le processus moins stressant.
+de: Ich gruppiere sie normalerweise zusammen—das macht den ganzen Prozess weniger stressig.
+ja: 普通はまとめてやるの—そうすると全体的にストレスが少なくなる。
+ko: 보통 함께 묶어서 해—전체 과정이 덜 스트레스받아.
+zh: 我通常把它们归类在一起—这让整个过程压力更小。
+ru: Я обычно группирую их вместе—это делает весь процесс менее стрессовым.
+hi: मैं आमतौर पर उन्हें एक साथ समूहित करती हूं—इससे पूरी प्रक्रिया कम तनावपूर्ण हो जाती है।
+it: Di solito li raggruppo insieme—rende tutto il processo meno stressante.
+
+speaker: Chloe
+text: Smart. I tend to forget something and end up making multiple trips.
+pt: Esperta. Eu costumo esquecer algo e acabo fazendo várias viagens.
+es: Inteligente. Suelo olvidar algo y termino haciendo múltiples viajes.
+fr: Intelligent. J'ai tendance à oublier quelque chose et je finis par faire plusieurs voyages.
+de: Klug. Ich vergesse oft etwas und mache am Ende mehrere Fahrten.
+ja: 賢いね。私は何かを忘れがちで、結局何度も往復することになる。
+ko: 똑똑해. 나는 뭔가를 잊어버리는 경향이 있어서 결국 여러 번 다녀와.
+zh: 聪明。我往往会忘记什么，最后要跑好几趟。
+ru: Умно. Я склонна что-то забывать и в итоге делаю несколько поездок.
+hi: स्मार्ट। मैं कुछ न कुछ भूल जाती हूं और कई बार जाना पड़ता है।
+it: Intelligente. Tendo a dimenticare qualcosa e finisco per fare più viaggi.
+
+speaker: Ana
+text: Been there! Lists saved my sanity more times than I can count.
+pt: Já passei por isso! Listas salvaram minha sanidade mais vezes do que posso contar.
+es: ¡He estado ahí! Las listas salvaron mi cordura más veces de las que puedo contar.
+fr: J'y suis passée ! Les listes ont sauvé ma sanité mentale plus de fois que je ne peux compter.
+de: Kenne ich! Listen haben meine geistige Gesundheit öfter gerettet, als ich zählen kann.
+ja: 分かる！リストは数え切れないほど私の正気を救ってくれた。
+ko: 그런 적 있어! 리스트가 셀 수 없을 만큼 많이 내 정신을 구해줬어.
+zh: 我也经历过！清单拯救了我的理智，次数多得数不清。
+ru: Бывало! Списки спасали мой рассудок больше раз, чем я могу сосчитать.
+hi: वहाँ रहा हूँ! सूचियों ने मेरी समझदारी को उससे कहीं ज्यादा बार बचाया है जितना मैं गिन सकती हूँ।
+it: Ci sono passata! Le liste hanno salvato la mia sanità mentale più volte di quante ne possa contare.
+
+speaker: Chloe
+text: Same! And using reminder apps helps me stay on track.
+pt: Idem! E usar aplicativos de lembrete me ajuda a me manter no caminho certo.
+es: ¡Igual! Y usar aplicaciones de recordatorio me ayuda a mantenerme en el camino.
+fr: Pareil ! Et utiliser des applications de rappel m'aide à rester sur la bonne voie.
+de: Genauso! Und Erinnerungs-Apps helfen mir, auf Kurs zu bleiben.
+ja: 同じく！リマインダーアプリを使うと軌道に乗り続けられる。
+ko: 똑같아! 그리고 리마인더 앱을 사용하면 계속 궤도에 머물 수 있어.
+zh: 一样！使用提醒应用程序帮助我保持正轨。
+ru: То же самое! И использование приложений-напоминаний помогает мне не сбиваться с пути.
+hi: वही! और रिमाइंडर ऐप्स का उपयोग करना मुझे ट्रैक पर बने रहने में मदद करता है।
+it: Uguale! E usare app di promemoria mi aiuta a rimanere in carreggiata.
+
+speaker: Ana
+text: Technology to the rescue, always.
+pt: Tecnologia para o resgate, sempre.
+es: La tecnología al rescate, siempre.
+fr: La technologie à la rescousse, toujours.
+de: Technologie zur Rettung, immer.
+ja: テクノロジーが救世主、いつも。
+ko: 기술이 구원해줘, 항상.
+zh: 科技总是来救援。
+ru: Технологии на помощь, всегда.
+hi: तकनीक बचाव के लिए, हमेशा।
+it: La tecnologia al soccorso, sempre.
+
+speaker: Chloe
+text: What's your least favorite errand?
+pt: Qual é a sua tarefa menos favorita?
+es: ¿Cuál es tu recado menos favorito?
+fr: Quelle est ta course la moins préférée ?
+de: Was ist deine am wenigsten bevorzugte Besorgung?
+ja: 一番嫌いな用事は何？
+ko: 가장 싫어하는 심부름이 뭐야?
+zh: 你最不喜欢的跑腿是什么？
+ru: Какое твое наименее любимое дело?
+hi: आपका सबसे कम पसंदीदा काम कौन सा है?
+it: Qual è la tua commissione meno preferita?
+
+speaker: Ana
+text: Probably the post office—long lines and slow service.
+pt: Provavelmente o correio—filas longas e serviço lento.
+es: Probablemente la oficina de correos—largas colas y servicio lento.
+fr: Probablement la poste—longues files d'attente et service lent.
+de: Wahrscheinlich die Post—lange Schlangen und langsamer Service.
+ja: たぶん郵便局—長い列と遅いサービス。
+ko: 아마 우체국—긴 줄과 느린 서비스.
+zh: 可能是邮局—排长队和服务慢。
+ru: Вероятно, почта—длинные очереди и медленное обслуживание.
+hi: शायद डाकघर—लंबी लाइनें और धीमी सेवा।
+it: Probabilmente l'ufficio postale—code lunghe e servizio lento.
+
+speaker: Chloe
+text: Ugh, yes. Waiting there feels like time standing still.
+pt: Ugh, sim. Esperar lá parece que o tempo para.
+es: Uf, sí. Esperar allí se siente como si el tiempo se detuviera.
+fr: Ugh, oui. Attendre là-bas, on dirait que le temps s'arrête.
+de: Ugh, ja. Dort zu warten fühlt sich an, als würde die Zeit stillstehen.
+ja: うっ、そうそう。そこで待つのは時が止まったような感じ。
+ko: 으, 맞아. 거기서 기다리는 건 시간이 멈춘 것 같은 느낌이야.
+zh: 呃，是的。在那里等待感觉时间静止了。
+ru: Ух, да. Ожидание там ощущается как остановка времени.
+hi: उफ़, हाँ। वहाँ इंतज़ार करना ऐसा लगता है जैसे समय रुक गया हो।
+it: Ugh, sì. Aspettare lì sembra che il tempo si fermi.
+
+speaker: Ana
+text: Definitely. How about grocery shopping on errand days?
+pt: Definitivamente. E quanto às compras de supermercado nos dias de tarefas?
+es: Definitivamente. ¿Y las compras de supermercado en los días de recados?
+fr: Définitivement. Et les courses alimentaires lors des journées de courses ?
+de: Definitiv. Wie ist es mit Lebensmitteleinkäufen an Besorgungstagen?
+ja: 確実に。用事の日の食料品の買い物はどう？
+ko: 확실히. 심부름하는 날 식료품 쇼핑은 어때?
+zh: 绝对是。跑腿日的杂货购物怎么样？
+ru: Определенно. А как насчет покупки продуктов в дни дел?
+hi: निश्चित रूप से। काम के दिनों में किराने की खरीदारी के बारे में क्या?
+it: Decisamente. Che ne dici della spesa nei giorni delle commissioni?
+
+speaker: Chloe
+text: I try to hit farmers markets to make it more enjoyable.
+pt: Eu tento ir a feiras livres para tornar isso mais agradável.
+es: Intento ir a los mercados de agricultores para hacerlo más agradable.
+fr: J'essaie d'aller aux marchés fermiers pour rendre ça plus agréable.
+de: Ich versuche, Bauernmärkte zu besuchen, um es angenehmer zu machen.
+ja: もっと楽しくするためにファーマーズマーケットに行くようにしてる。
+ko: 더 즐겁게 만들기 위해 파머스 마켓에 가려고 해.
+zh: 我尽量去农贸市场，让它更有趣。
+ru: Я стараюсь ходить на фермерские рынки, чтобы сделать это более приятным.
+hi: मैं इसे और मज़ेदार बनाने के लिए किसान बाज़ारों में जाने की कोशिश करती हूँ।
+it: Cerco di andare ai mercati contadini per renderlo più piacevole.
+
+speaker: Ana
+text: Good idea. Fresh produce makes it less like a chore.
+pt: Boa ideia. Produtos frescos fazem com que pareça menos uma tarefa doméstica.
+es: Buena idea. Los productos frescos hacen que sea menos una tarea.
+fr: Bonne idée. Les produits frais rendent ça moins corvée.
+de: Gute Idee. Frische Produkte machen es weniger wie eine lästige Pflicht.
+ja: いいアイデア。新鮮な農産物があると雑用っぽくなくなる。
+ko: 좋은 아이디어야. 신선한 농산물이 있으면 덜 일 같아.
+zh: 好主意。新鲜农产品让它不那么像家务活。
+ru: Хорошая идея. Свежие продукты делают это менее похожим на рутину.
+hi: अच्छा विचार। ताज़ी उपज इसे काम जैसा कम लगने देती है।
+it: Buona idea. I prodotti freschi lo rendono meno simile a una faccenda.
+
+speaker: Chloe
+text: And what about unexpected errands? They always pop up at the worst times.
+pt: E quanto às tarefas inesperadas? Elas sempre aparecem nas piores horas.
+es: ¿Y los recados inesperados? Siempre aparecen en los peores momentos.
+fr: Et les courses imprévues ? Elles surgissent toujours aux pires moments.
+de: Und was ist mit unerwarteten Besorgungen? Sie tauchen immer zu den schlechtesten Zeiten auf.
+ja: 予期しない用事はどう？いつも最悪のタイミングで出てくる。
+ko: 그리고 예상치 못한 심부름은? 항상 최악의 타이밍에 나타나.
+zh: 那意外的跑腿呢？它们总是在最糟糕的时候出现。
+ru: А как насчет неожиданных дел? Они всегда появляются в самое неподходящее время.
+hi: और अप्रत्याशित कामों के बारे में क्या? वे हमेशा सबसे बुरे समय पर आते हैं।
+it: E che dire delle commissioni inaspettate? Spuntano sempre nei momenti peggiori.
+
+speaker: Ana
+text: Life loves throwing curveballs, doesn't it?
+pt: A vida adora lançar surpresas, não é?
+es: La vida ama lanzarnos curvas, ¿verdad?
+fr: La vie adore nous lancer des balles courbes, n'est-ce pas ?
+de: Das Leben liebt es, uns Curveballs zuzuwerfen, nicht wahr?
+ja: 人生は変化球を投げるのが好きだよね？
+ko: 인생은 변화구 던지는 걸 좋아하지, 그렇지?
+zh: 生活喜欢投曲线球，不是吗？
+ru: Жизнь любит подбрасывать сюрпризы, не так ли?
+hi: ज़िंदगी कर्व बॉल फेंकना पसंद करती है, है न?
+it: La vita ama lanciare palle curve, vero?
+
+speaker: Chloe
+text: For sure. If only we could batch process life's errands like we do emails.
+pt: Com certeza. Se ao menos pudéssemos processar em lote as tarefas da vida como fazemos com os e-mails.
+es: Por supuesto. Si tan solo pudiéramos procesar por lotes los recados de la vida como hacemos con los correos electrónicos.
+fr: C'est sûr. Si seulement on pouvait traiter les courses de la vie par lots comme on fait avec les emails.
+de: Auf jeden Fall. Wenn wir nur die Besorgungen des Lebens stapelweise verarbeiten könnten wie E-Mails.
+ja: 確かに。人生の用事をメールみたいにバッチ処理できたらいいのに。
+ko: 확실해. 이메일처럼 인생의 심부름들을 일괄 처리할 수 있다면 좋을 텐데.
+zh: 当然。要是我们能像处理邮件一样批量处理生活中的跑腿就好了。
+ru: Точно. Если бы только мы могли обрабатывать жизненные дела пакетами, как мы делаем с электронными письмами.
+hi: बिल्कुल। काश हम जीवन के कामों को ईमेल की तरह बैच प्रोसेस कर सकते।
+it: Certo. Se solo potessimo elaborare in batch le commissioni della vita come facciamo con le email.
+
+speaker: Ana
+text: Ha! That'd be a game changer.
+pt: Ha! Isso mudaria o jogo.
+es: ¡Ja! Eso cambiaría las reglas del juego.
+fr: Ha ! Ça changerait la donne.
+de: Ha! Das wäre ein Wendepunkt.
+ja: ハ！それはゲームチェンジャーだね。
+ko: 하! 그건 게임 체인저가 될 거야.
+zh: 哈！那将改变游戏规则。
+ru: Ха! Это изменило бы все.
+hi: हा! वह गेम चेंजर होगा।
+it: Ah! Sarebbe un punto di svolta.
+
+speaker: Chloe
+text: Until then, it's all about planning and staying flexible.
+pt: Até lá, é tudo uma questão de planejamento e flexibilidade.
+es: Hasta entonces, se trata de planificar y mantenerse flexible.
+fr: En attendant, tout est question de planification et de rester flexible.
+de: Bis dahin geht es nur um Planung und flexibel zu bleiben.
+ja: それまでは、計画を立てて柔軟性を保つことがすべて。
+ko: 그때까지는 계획을 세우고 유연하게 있는 게 전부야.
+zh: 在那之前，一切都关乎规划和保持灵活性。
+ru: До тех пор все дело в планировании и сохранении гибкости.
+hi: तब तक, यह सब योजना बनाने और लचीला रहने के बारे में है।
+it: Fino ad allora, è tutto questione di pianificazione e rimanere flessibili.
+
+speaker: Ana
+text: Agreed. Errands are part of the hustle, but we've got this.
+pt: Concordo. Tarefas são parte do corre, mas a gente dá conta.
+es: De acuerdo. Los recados son parte del ajetreo, pero nosotras podemos con esto.
+fr: D'accord. Les courses font partie du rush, mais on gère ça.
+de: Einverstanden. Besorgungen sind Teil des Trubels, aber wir schaffen das.
+ja: 同感。用事は忙しさの一部だけど、私たちならできる。
+ko: 동감해. 심부름은 바쁜 일상의 일부지만, 우리가 해낼 수 있어.
+zh: 同意。跑腿是忙碌生活的一部分，但我们能搞定。
+ru: Согласна. Дела — часть суеты, но мы справимся.
+hi: सहमत। काम हलचल का हिस्सा हैं, लेकिन हमारे पास यह है।
+it: D'accordo. Le commissioni fanno parte del trambusto, ma ce la facciamo.

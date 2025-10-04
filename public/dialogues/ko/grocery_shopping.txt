@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: 정말 맞아. 이제 마트 가는 게 의무라기보다는 모험처럼 느껴져.
+

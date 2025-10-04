@@ -1,0 +1,7 @@
+TITLE: Eating Out
+Chloe: Sim! Vamos fazer isso logo.
+Waiter: Boa noite! Mesa para quantas pessoas?
+Chloe: Mesa para dois, por favor.
+Waiter: Perfeito! Sigam-me, por favor.
+Chloe: Obrigada! Este lugar é muito bonito.
+

@@ -1,0 +1,47 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="goldGradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B8860B;stop-opacity:1" />
+    </radialGradient>
+    <radialGradient id="darkGoldGradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#B8860B;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8B7355;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#654321;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#000000" stroke="url(#goldGradient)" stroke-width="2"/>
+  
+  <!-- Main Logo Circle -->
+  <circle cx="100" cy="100" r="45" fill="url(#goldGradient)" class="logo-circle"/>
+  
+  <!-- Diamond Pattern -->
+  <g class="diamond-pattern" transform="translate(100,100)">
+    <!-- Outer Diamond -->
+    <path d="M-25,-15 L-15,-25 L15,-25 L25,-15 L25,15 L15,25 L-15,25 L-25,15 Z" fill="#000000" stroke="url(#goldGradient)" stroke-width="2"/>
+    
+    <!-- Middle Diamond -->
+    <path d="M-18,-10 L-10,-18 L10,-18 L18,-10 L18,10 L10,18 L-10,18 L-18,10 Z" fill="#000000" stroke="url(#goldGradient)" stroke-width="2"/>
+    
+    <!-- Inner Diamond -->
+    <path d="M-12,-6 L-6,-12 L6,-12 L12,-6 L12,6 L6,12 L-6,12 L-12,6 Z" fill="url(#goldGradient)"/>
+    
+    <!-- Center Diamond -->
+    <path d="M-6,-3 L-3,-6 L3,-6 L6,-3 L6,3 L3,6 L-3,6 L-6,3 Z" fill="#000000"/>
+  </g>
+  
+  <!-- Left Laurel Branch -->
+  <g class="laurel-left" transform="translate(40,140)">
+    <path d="M0,0 Q-5,-10 -10,-5 Q-8,-2 -5,0 Q-10,5 -15,0 Q-12,-3 -8,-2 Q-15,8 -20,3 Q-17,0 -12,2 Q-20,12 -25,7 Q-22,4 -17,6" fill="url(#goldGradient)" stroke="url(#darkGoldGradient)" stroke-width="1"/>
+    <path d="M-5,2 Q-12,8 -18,5 Q-15,2 -10,4 Q-18,12 -24,9 Q-21,6 -16,8 Q-24,16 -30,13 Q-27,10 -22,12" fill="url(#goldGradient)" stroke="url(#darkGoldGradient)" stroke-width="1"/>
+  </g>
+  
+  <!-- Right Laurel Branch -->
+  <g class="laurel-right" transform="translate(160,140) scale(-1,1)">
+    <path d="M0,0 Q-5,-10 -10,-5 Q-8,-2 -5,0 Q-10,5 -15,0 Q-12,-3 -8,-2 Q-15,8 -20,3 Q-17,0 -12,2 Q-20,12 -25,7 Q-22,4 -17,6" fill="url(#goldGradient)" stroke="url(#darkGoldGradient)" stroke-width="1"/>
+    <path d="M-5,2 Q-12,8 -18,5 Q-15,2 -10,4 Q-18,12 -24,9 Q-21,6 -16,8 Q-24,16 -30,13 Q-27,10 -22,12" fill="url(#goldGradient)" stroke="url(#darkGoldGradient)" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,285 @@
+/* Estilos para os seletores de idioma com ícones */
+.language-icon-selector {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin: 0 0.5rem;
+    height: 40px;
+}
+
+.icon-tooltip {
+    display: flex;
+    align-items: center;
+    margin-right: 0.5rem;
+    color: var(--text-light);
+    font-size: 1.5rem;
+    height: 40px;
+    justify-content: center;
+}
+
+/* Novo design do seletor de idiomas */
+.language-selector-wrapper {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.language-selector {
+    position: relative;
+    cursor: pointer;
+}
+
+.selected-language {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    padding: 0.2rem;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    background: var(--bg-card, #ffffff);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.selected-language:hover {
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(67, 97, 238, 0.15), 0 0 0 3px rgba(67, 97, 238, 0.1);
+    transform: translateY(-1px);
+    background: var(--bg-card, #ffffff);
+}
+
+.selected-language img {
+    width: 28px;
+    height: 21px;
+    object-fit: cover;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+    margin: 0 auto;
+}
+
+.selected-language:hover img {
+    transform: scale(1.05);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.selected-language span {
+    font-weight: 500;
+    flex-grow: 1;
+    font-family: 'Poppins', sans-serif;
+    display: none;
+}
+
+.selected-language i {
+    display: none;
+}
+
+/* Ocultar ícone chevron quando selecionado */
+.language-selector.active .selected-language i {
+    display: none;
+}
+
+.language-options {
+    position: absolute;
+    top: 100%;
+    left: -10px;
+    width: 80px;
+    background: var(--bg-card, #ffffff);
+    border-radius: 12px;
+    border: 1px solid transparent;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.06);
+    margin-top: 0.5rem;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-15px) scale(0.95);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1000;
+    max-height: 320px;
+    overflow-y: auto;
+    backdrop-filter: blur(10px);
+}
+
+.language-selector.active .language-options {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+}
+
+.language-options li {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    padding: 0.4rem;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-family: 'Poppins', sans-serif;
+    border-radius: 6px;
+    justify-content: center;
+    margin: 0.1rem 0.2rem;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.language-options li:hover {
+    background: linear-gradient(135deg, rgba(67, 97, 238, 0.08) 0%, rgba(67, 97, 238, 0.12) 100%);
+    transform: translateX(4px);
+    box-shadow: 0 2px 8px rgba(67, 97, 238, 0.15);
+}
+
+.language-options li.selected {
+    background: linear-gradient(135deg, rgba(67, 97, 238, 0.12) 0%, rgba(67, 97, 238, 0.18) 100%);
+    font-weight: 600;
+    border-left: 3px solid var(--primary);
+    box-shadow: 0 2px 8px rgba(67, 97, 238, 0.2);
+}
+
+.language-options li.selected::before {
+    content: '✓';
+    position: absolute;
+    right: 0.5rem;
+    color: var(--primary);
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-left: 4px;
+}
+
+.language-options li img {
+    width: 28px;
+    height: 21px;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.language-options li:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.language-options li span {
+    display: inline-block;
+}
+
+/* Ocultar texto no combo Learning (Aprendendo) - mostrar apenas bandeiras */
+#learning-language-options li span {
+    display: none;
+}
+
+/* Ajustar padding quando não há texto */
+#learning-language-options li {
+    padding: 0.6rem 0.8rem;
+    gap: 0;
+    justify-content: center;
+}
+
+/* Manter texto visível no combo Meu Idioma */
+#user-language-options li span {
+    display: inline-block;
+}
+
+/* Tablet optimizations */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .language-options {
+        left: -10px;
+        width: 90px;
+        max-height: 300px;
+    }
+    
+    .selected-language i {
+        display: none;
+    }
+    
+    .language-selector.active .selected-language i {
+        display: none;
+    }
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+    .language-icon-selector {
+        margin: 0 0.2rem;
+        height: 36px;
+    }
+    
+    .icon-tooltip {
+        margin-right: 0.3rem;
+        font-size: 1.3rem;
+        height: 36px;
+        justify-content: center;
+    }
+    
+    .language-options {
+        left: -10px;
+        width: 90px;
+        max-height: 280px;
+    }
+    
+    .language-selector-wrapper {
+        position: relative;
+        width: 36px;
+        height: 36px;
+    }
+    
+    .selected-language {
+        padding: 0.15rem;
+        border-radius: 8px;
+        width: 36px;
+        height: 36px;
+        gap: 0;
+    }
+    
+    .selected-language img {
+        width: 24px;
+        height: 18px;
+        margin: 0 auto;
+    }
+    
+    .selected-language i {
+        display: none;
+    }
+    
+    .language-selector.active .selected-language i {
+        display: none;
+    }
+    
+    .language-options li {
+        padding: 0.6rem 0.8rem;
+        gap: 0.6rem;
+    }
+    
+    .language-options li img {
+        width: 22px;
+        height: 16px;
+    }
+}
+
+/* Extra small devices */
+@media (max-width: 480px) {
+    .language-options {
+        left: -10px;
+        width: 90px;
+        max-height: 250px;
+    }
+    
+    .selected-language i {
+        display: none;
+    }
+    
+    .language-selector.active .selected-language i {
+        display: none;
+    }
+    
+    .language-options li {
+        padding: 0.5rem 0.6rem;
+        gap: 0.4rem;
+    }
+}

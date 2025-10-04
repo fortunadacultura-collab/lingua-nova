@@ -1,0 +1,247 @@
+title: Hanging Out
+speaker: Ana
+text: Lucas, what's your ideal way to chill after a crazy week?
+pt: Lucas, qual é a sua maneira ideal de relaxar depois de uma semana louca?
+es: Lucas, ¿cuál es tu forma ideal de relajarte después de una semana loca?
+fr: Lucas, quelle est ta façon idéale de te détendre après une semaine folle ?
+de: Lucas, wie entspannst du dich am liebsten nach einer verrückten Woche?
+ja: ルーカス、忙しい一週間の後にリラックスする理想的な方法は何？
+ko: 루카스, 미친 한 주 후에 쉬는 이상적인 방법이 뭐야?
+zh: 卢卡斯，疯狂的一周后你理想的放松方式是什么？
+ru: Лукас, как ты предпочитаешь расслабляться после сумасшедшей недели?
+hi: लुकास, एक पागल सप्ताह के बाद आराम करने का आपका आदर्श तरीका क्या है?
+it: Lucas, qual è il tuo modo ideale per rilassarti dopo una settimana pazzesca?
+
+speaker: Lucas
+text: Honestly? Low-key hangouts with friends and some good food.
+pt: Sinceramente? Encontros descontraídos com amigos e uma boa comida.
+es: ¿Sinceramente? Reuniones tranquilas con amigos y buena comida.
+fr: Honnêtement ? Des sorties décontractées avec des amis et de la bonne nourriture.
+de: Ehrlich? Entspannte Treffen mit Freunden und gutem Essen.
+ja: 正直に？友達との気軽な集まりと美味しい食べ物。
+ko: 솔직히? 친구들과의 편안한 모임과 맛있는 음식.
+zh: 说实话？和朋友们低调聚会，吃点好吃的。
+ru: Честно? Непринужденные встречи с друзьями и хорошая еда.
+hi: ईमानदारी से? दोस्तों के साथ आराम से मिलना और अच्छा खाना।
+it: Onestamente? Ritrovi rilassati con gli amici e del buon cibo.
+
+speaker: Ana
+text: That's the best combo. I love spontaneous get-togethers that turn into all-night talks.
+pt: Essa é a melhor combinação. Adoro encontros espontâneos que viram conversas a noite toda.
+es: Esa es la mejor combinación. Me encantan los encuentros espontáneos que se convierten en charlas nocturnas.
+fr: C'est la meilleure combinaison. J'adore les rassemblements spontanés qui se transforment en discussions toute la nuit.
+de: Das ist die beste Kombination. Ich liebe spontane Treffen, die zu nächtlichen Gesprächen werden.
+ja: それが最高の組み合わせ。一晩中話し込む自然発生的な集まりが大好き。
+ko: 그게 최고의 조합이야. 밤새 이야기하게 되는 자연스러운 모임을 좋아해.
+zh: 这是最好的组合。我喜欢那种自然发生、聊到深夜的聚会。
+ru: Это лучшая комбинация. Я люблю спонтанные встречи, которые превращаются в разговоры до утра.
+hi: यह सबसे अच्छा संयोजन है। मुझे वे अचानक मिलना-जुलना पसंद है जो रात भर की बातचीत में बदल जाते हैं।
+it: È la combinazione migliore. Adoro gli incontri spontanei che si trasformano in chiacchierate notturne.
+
+speaker: Lucas
+text: Me too. Nothing beats cracking jokes and sharing stories with good people.
+pt: Eu também. Nada supera fazer piadas e compartilhar histórias com pessoas legais.
+es: Yo también. Nada supera hacer bromas y compartir historias con gente buena.
+fr: Moi aussi. Rien ne vaut faire des blagues et partager des histoires avec de bonnes personnes.
+de: Ich auch. Nichts geht über Witze machen und Geschichten mit guten Leuten teilen.
+ja: 僕も。良い人たちと冗談を言ったり話を共有したりすることに勝るものはない。
+ko: 나도. 좋은 사람들과 농담하고 이야기를 나누는 것만큼 좋은 건 없어.
+zh: 我也是。没有什么比和好人开玩笑、分享故事更棒的了。
+ru: Я тоже. Нет ничего лучше, чем шутить и делиться историями с хорошими людьми.
+hi: मैं भी। अच्छे लोगों के साथ मज़ाक करने और कहानियां साझा करने से बेहतर कुछ नहीं।
+it: Anch'io. Non c'è niente di meglio che scherzare e condividere storie con brave persone.
+
+speaker: Ana
+text: What about activities? Games, movies, or just chilling?
+pt: E as atividades? Jogos, filmes ou apenas relaxando?
+es: ¿Y las actividades? ¿Juegos, películas o simplemente relajarse?
+fr: Et les activités ? Jeux, films ou juste se détendre ?
+de: Was ist mit Aktivitäten? Spiele, Filme oder einfach nur chillen?
+ja: アクティビティはどう？ゲーム、映画、それともただのんびり？
+ko: 활동은 어때? 게임, 영화, 아니면 그냥 쉬는 거?
+zh: 活动呢？游戏、电影，还是只是放松？
+ru: А как насчет активностей? Игры, фильмы или просто отдых?
+hi: गतिविधियों के बारे में क्या? खेल, फिल्में, या बस आराम करना?
+it: E le attività? Giochi, film, o semplicemente rilassarsi?
+
+speaker: Lucas
+text: Depends on the mood. Sometimes board games get competitive real fast.
+pt: Depende do clima. Às vezes os jogos de tabuleiro ficam competitivos muito rápido.
+es: Depende del ambiente. A veces los juegos de mesa se vuelven competitivos muy rápido.
+fr: Ça dépend de l'humeur. Parfois les jeux de société deviennent compétitifs très vite.
+de: Kommt auf die Stimmung an. Manchmal werden Brettspiele sehr schnell kompetitiv.
+ja: 気分次第だね。時々ボードゲームはすぐに競争的になる。
+ko: 분위기에 따라 달라. 때때로 보드게임은 정말 빨리 경쟁적이 돼.
+zh: 看心情。有时桌游很快就变得很有竞争性。
+ru: Зависит от настроения. Иногда настольные игры очень быстро становятся соревновательными.
+hi: मूड पर निर्भर करता है। कभी-कभी बोर्ड गेम्स बहुत जल्दी प्रतिस्पर्धी हो जाते हैं।
+it: Dipende dall'umore. A volte i giochi da tavolo diventano competitivi molto velocemente.
+
+speaker: Ana
+text: Haha, I've witnessed those battles! Other times, a chill movie night is perfect.
+pt: Haha, eu testemunhei essas batalhas! Outras vezes, uma noite de cinema tranquila é perfeita.
+es: ¡Jaja, he sido testigo de esas batallas! Otras veces, una noche de película tranquila es perfecta.
+fr: Haha, j'ai été témoin de ces batailles ! D'autres fois, une soirée cinéma décontractée est parfaite.
+de: Haha, ich habe diese Kämpfe miterlebt! Manchmal ist ein entspannter Filmabend perfekt.
+ja: ハハ、そういう戦いを目撃したことがある！他の時は、のんびり映画鑑賞の夜が完璧。
+ko: 하하, 그런 전투를 목격한 적이 있어! 다른 때는 편안한 영화의 밤이 완벽해.
+zh: 哈哈，我见证过那些战斗！其他时候，悠闲的电影之夜就很完美。
+ru: Хаха, я был свидетелем таких битв! В другое время идеальным будет спокойный киновечер.
+hi: हाहा, मैंने उन लड़ाइयों को देखा है! दूसरी बार, एक शांत फिल्म की रात बिल्कुल सही होती है।
+it: Ahaha, ho assistito a quelle battaglie! Altre volte, una serata film rilassante è perfetta.
+
+speaker: Lucas
+text: For sure. And snacks—can't forget those.
+pt: Com certeza. E lanches—não pode esquecer deles.
+es: Por supuesto. Y los snacks—no pueden olvidarse.
+fr: Bien sûr. Et les collations—on ne peut pas les oublier.
+de: Auf jeden Fall. Und Snacks—die darf man nicht vergessen.
+ja: もちろん。そしてスナック—それらを忘れることはできない。
+ko: 물론이야. 그리고 간식들—그것들을 잊을 수 없어.
+zh: 当然。还有零食——不能忘记那些。
+ru: Конечно. И закуски—нельзя их забывать.
+hi: बिल्कुल। और स्नैक्स—उन्हें भूल नहीं सकते।
+it: Assolutamente. E gli snack—non possiamo dimenticarli.
+
+speaker: Ana
+text: Oreos and popcorn? Classic.
+pt: Oreos e pipoca? Clássico.
+es: ¿Oreos y palomitas de maíz? Clásico.
+fr: Oreos et pop-corn ? Classique.
+de: Oreos und Popcorn? Klassisch.
+ja: オレオとポップコーン？クラシック。
+ko: 오레오와 팝콘? 클래식이야.
+zh: 奥利奥和爆米花？经典。
+ru: Орео и попкорн? Классика.
+hi: ओरियो और पॉपकॉर्न? क्लासिक।
+it: Oreo e popcorn? Classico.
+
+speaker: Lucas
+text: Always. Do you ever plan ahead or just go with the flow?
+pt: Sempre. Você planeja com antecedência ou só vai na onda?
+es: Siempre. ¿Alguna vez planeas con anticipación o simplemente te dejas llevar por la corriente?
+fr: Toujours. Est-ce que tu planifies à l'avance ou tu te laisses porter ?
+de: Immer. Planst du im Voraus oder lässt du es einfach auf dich zukommen?
+ja: いつも。事前に計画する？それとも流れに任せる？
+ko: 항상. 미리 계획해? 아니면 그냥 흘러가는 대로 해?
+zh: 总是这样。你会提前计划还是顺其自然？
+ru: Всегда. Ты планируешь заранее или просто плывешь по течению?
+hi: हमेशा। क्या आप पहले से योजना बनाते हैं या बस प्रवाह के साथ चलते हैं?
+it: Sempre. Pianifichi mai in anticipo o vai semplicemente con il flusso?
+
+speaker: Ana
+text: I'm definitely more go with the flow. That's when the best memories happen.
+pt: Eu definitivamente sou mais de ir na onda. É quando as melhores memórias acontecem.
+es: Definitivamente me dejo llevar más por la corriente. Es cuando ocurren los mejores recuerdos.
+fr: Je me laisse définitivement plus porter. C'est là que naissent les meilleurs souvenirs.
+de: Ich lasse es definitiv mehr auf mich zukommen. Da entstehen die besten Erinnerungen.
+ja: 私は間違いなく流れに任せるタイプ。そういう時に最高の思い出ができる。
+ko: 나는 확실히 흘러가는 대로 하는 편이야. 그럴 때 최고의 추억이 생겨.
+zh: 我绝对更喜欢顺其自然。那时候会产生最美好的回忆。
+ru: Я определенно больше плыву по течению. Именно тогда случаются лучшие воспоминания.
+hi: मैं निश्चित रूप से अधिक प्रवाह के साथ चलती हूं। तभी सबसे अच्छी यादें बनती हैं।
+it: Vado decisamente più con il flusso. È allora che nascono i ricordi migliori.
+
+speaker: Lucas
+text: Agreed. Overplanning kills spontaneity.
+pt: Concordo. Planejar demais mata a espontaneidade.
+es: De acuerdo. Planificar en exceso mata la espontaneidad.
+fr: D'accord. Trop planifier tue la spontanéité.
+de: Einverstanden. Zu viel Planung tötet die Spontaneität.
+ja: 同感。計画しすぎると自然さが失われる。
+ko: 동감이야. 과도한 계획은 자연스러움을 죽여.
+zh: 同意。过度计划会扼杀自发性。
+ru: Согласен. Чрезмерное планирование убивает спонтанность.
+hi: सहमत। अधिक योजना बनाना सहजता को मार देता है।
+it: D'accordo. Pianificare troppo uccide la spontaneità.
+
+speaker: Ana
+text: True. How about outdoor hangs?
+pt: Verdade. Que tal rolês ao ar livre?
+es: Cierto. ¿Qué tal los encuentros al aire libre?
+fr: Vrai. Et les sorties en plein air ?
+de: Stimmt. Wie wäre es mit Outdoor-Treffen?
+ja: その通り。アウトドアでの集まりはどう？
+ko: 맞아. 야외 모임은 어때?
+zh: 没错。户外聚会怎么样？
+ru: Правда. А как насчет встреч на свежем воздухе?
+hi: सच। बाहरी मिलना-जुलना कैसा रहेगा?
+it: Vero. Che ne dici degli incontri all'aperto?
+
+speaker: Lucas
+text: Love that. Parks, bonfires, rooftop chill sessions—anything with a breeze.
+pt: Adoro isso. Parques, fogueiras, sessões de relax no terraço—qualquer coisa com uma brisa.
+es: Me encanta eso. Parques, fogatas, sesiones de relax en la azotea—cualquier cosa con brisa.
+fr: J'adore ça. Parcs, feux de camp, sessions détente sur le toit—tout ce qui a de la brise.
+de: Das liebe ich. Parks, Lagerfeuer, entspannte Dachterrassen-Sessions—alles mit einer Brise.
+ja: それが大好き。公園、焚き火、屋上でのリラックスセッション—風があるところなら何でも。
+ko: 그거 좋아해. 공원, 모닥불, 옥상에서의 편안한 시간—바람이 부는 곳이면 뭐든지.
+zh: 喜欢那样。公园、篝火、屋顶放松时光——任何有微风的地方。
+ru: Обожаю это. Парки, костры, расслабляющие посиделки на крыше—все, где есть ветерок.
+hi: यह पसंद है। पार्क, अलाव, छत पर आराम के सत्र—हवा के साथ कुछ भी।
+it: Adoro quello. Parchi, falò, sessioni relax sui tetti—qualsiasi cosa con una brezza.
+
+speaker: Ana
+text: Perfect for summer nights. Fresh air and laughter.
+pt: Perfeito para noites de verão. Ar fresco e risadas.
+es: Perfecto para las noches de verano. Aire fresco y risas.
+fr: Parfait pour les soirées d'été. Air frais et rires.
+de: Perfekt für Sommernächte. Frische Luft und Lachen.
+ja: 夏の夜にぴったり。新鮮な空気と笑い声。
+ko: 여름밤에 완벽해. 신선한 공기와 웃음.
+zh: 夏夜的完美选择。新鲜空气和笑声。
+ru: Идеально для летних вечеров. Свежий воздух и смех.
+hi: गर्मी की रातों के लिए बिल्कुल सही। ताज़ी हवा और हंसी।
+it: Perfetto per le notti estive. Aria fresca e risate.
+
+speaker: Lucas
+text: Couldn't ask for more.
+pt: Não poderia pedir mais.
+es: No podría pedir más.
+fr: On ne pourrait pas demander mieux.
+de: Mehr könnte man nicht verlangen.
+ja: これ以上は望めない。
+ko: 더 바랄 게 없어.
+zh: 再好不过了。
+ru: Лучше и не пожелаешь.
+hi: इससे अधिक कुछ नहीं मांग सकते।
+it: Non potrei chiedere di più.
+
+speaker: Ana
+text: Same here. It's all about connection, really.
+pt: Igual aqui. É tudo sobre conexão, né.
+es: Igual aquí. Se trata de la conexión, en realidad.
+fr: Pareil ici. Tout est question de connexion, vraiment.
+de: Genauso hier. Es geht wirklich um Verbindung.
+ja: 私も同じ。本当につながりがすべて。
+ko: 나도 마찬가지야. 정말 연결이 전부야.
+zh: 我也一样。真的就是关于联系。
+ru: То же самое. Все дело в связи, действительно.
+hi: यहाँ भी वही। यह वास्तव में कनेक्शन के बारे में है।
+it: Anch'io. Si tratta davvero di connessione.
+
+speaker: Lucas
+text: Hanging out is a therapy session in disguise.
+pt: Sair com os amigos é uma sessão de terapia disfarçada.
+es: Salir es una sesión de terapia disfrazada.
+fr: Traîner ensemble, c'est une séance de thérapie déguisée.
+de: Abhängen ist eine getarnte Therapiesitzung.
+ja: 友達と過ごすのは変装したセラピーセッション。
+ko: 어울리는 건 위장한 치료 세션이야.
+zh: 闲逛其实是伪装的治疗课程。
+ru: Тусовки—это замаскированные терапевтические сеансы.
+hi: दोस्तों के साथ घूमना एक छुपा हुआ थेरेपी सेशन है।
+it: Uscire con gli amici è una sessione di terapia travestita.
+
+speaker: Ana
+text: Well said. Let's make plans soon—more good vibes needed.
+pt: Bem dito. Vamos fazer planos logo—precisamos de mais boas vibes.
+es: Bien dicho. Hagamos planes pronto—se necesitan más buenas vibras.
+fr: Bien dit. Faisons des plans bientôt—on a besoin de plus de bonnes vibrations.
+de: Gut gesagt. Lass uns bald Pläne machen—mehr gute Vibes sind nötig.
+ja: よく言った。すぐに計画を立てよう—もっと良い雰囲気が必要。
+ko: 잘 말했어. 곧 계획을 세우자—더 좋은 분위기가 필요해.
+zh: 说得好。我们很快制定计划吧——需要更多好氛围。
+ru: Хорошо сказано. Давайте скоро составим планы—нужно больше хороших вибраций.
+hi: अच्छा कहा। जल्दी योजना बनाते हैं—और अच्छे वाइब्स की जरूरत है।
+it: Ben detto. Facciamo presto dei piani—servono più vibrazioni positive.

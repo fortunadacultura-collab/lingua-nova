@@ -1,0 +1,273 @@
+title: Airport Security
+speaker: Mike
+text: Emily, every time I go through airport security I feel like I'm in a reality show.
+pt: Emily, toda vez que passo pela segurança do aeroporto, me sinto num reality show.
+es: Emily, cada vez que paso por seguridad del aeropuerto, me siento como en un reality show.
+fr: Emily, chaque fois que je passe par la sécurité de l'aéroport, j'ai l'impression d'être dans une télé-réalité.
+de: Emily, jedes Mal wenn ich durch die Flughafensicherheit gehe, fühle ich mich wie in einer Reality-Show.
+ja: エミリー、空港のセキュリティを通るたびに、リアリティ番組にいるような気分になる。
+ko: 에밀리, 공항 보안검색대를 통과할 때마다 리얼리티 쇼에 나온 기분이야.
+zh: 艾米丽，每次我通过机场安检时，我感觉像在真人秀节目里。
+ru: Эмили, каждый раз, когда я прохожу через службу безопасности аэропорта, я чувствую себя как в реалити-шоу.
+hi: एमिली, जब भी मैं एयरपोर्ट सिक्योरिटी से गुजरता हूं तो मुझे लगता है जैसे मैं किसी रियलिटी शो में हूं।
+it: Emily, ogni volta che passo attraverso la sicurezza dell'aeroporto mi sento come se fossi in un reality show.
+
+speaker: Emily
+text: Same! It's like a race to get through but you never know what's gonna slow you down.
+pt: Exato! É tipo uma corrida pra passar, mas você nunca sabe o que vai te atrasar.
+es: ¡Exacto! Es como una carrera para pasar, pero nunca sabes qué te va a retrasar.
+fr: Pareil ! C'est comme une course pour passer, mais on ne sait jamais ce qui va nous ralentir.
+de: Genauso! Es ist wie ein Rennen durchzukommen, aber man weiß nie, was einen aufhalten wird.
+ja: 同じ！通り抜けるためのレースみたいだけど、何が足を引っ張るかわからない。
+ko: 똑같아! 통과하기 위한 경주 같은데 뭐가 발목을 잡을지 모르겠어.
+zh: 一样！就像一场通过的比赛，但你永远不知道什么会拖慢你。
+ru: То же самое! Это как гонка на прохождение, но никогда не знаешь, что тебя замедлит.
+hi: वही बात! यह पास होने की दौड़ की तरह है लेकिन आप कभी नहीं जानते कि क्या आपको धीमा कर देगा।
+it: Stesso qui! È come una gara per passare ma non sai mai cosa ti rallenterà.
+
+speaker: Mike
+text: Did you know removing shoes and belts is almost universal now?
+pt: Você sabia que tirar sapato e cinto virou padrão mundial agora?
+es: ¿Sabías que quitarse los zapatos y el cinturón ya es estándar mundial?
+fr: Tu savais qu'enlever les chaussures et la ceinture c'est presque universel maintenant ?
+de: Wusstest du, dass das Ausziehen von Schuhen und Gürteln jetzt fast universell ist?
+ja: 靴とベルトを脱ぐのが今やほぼ世界共通になったって知ってた？
+ko: 신발과 벨트를 벗는 게 이제 거의 세계 공통이 된 거 알아?
+zh: 你知道脱鞋脱腰带现在几乎是全球标准了吗？
+ru: Ты знал, что снимать обувь и ремни теперь почти универсально?
+hi: क्या तुम जानते हो कि जूते और बेल्ट उतारना अब लगभग सार्वभौमिक हो गया है?
+it: Sapevi che togliersi scarpe e cinture è ormai quasi universale?
+
+speaker: Emily
+text: Yep, and those bins fill up so fast, you gotta be on your toes.
+pt: Sim, e aquelas bandejas enchem super rápido, você tem que estar esperto.
+es: Sí, y esas bandejas se llenan súper rápido, tienes que estar pilas.
+fr: Ouais, et ces bacs se remplissent si vite, il faut être sur ses gardes.
+de: Ja, und diese Behälter füllen sich so schnell, man muss auf Zack sein.
+ja: そう、あのトレイはすごく早く埋まるから、機敏でいないといけない。
+ko: 맞아, 그 통들이 너무 빨리 차서 정신 바짝 차려야 해.
+zh: 是的，那些托盘装得太快了，你得保持警觉。
+ru: Да, и эти лотки заполняются так быстро, нужно быть начеку.
+hi: हां, और वे डिब्बे इतनी जल्दी भर जाते हैं, आपको सतर्क रहना पड़ता है।
+it: Sì, e quei contenitori si riempiono così velocemente, devi stare all'erta.
+
+speaker: Mike
+text: I try to pack my liquids carefully to avoid having to toss stuff.
+pt: Eu tento organizar meus líquidos direitinho pra não ter que jogar nada fora.
+es: Trato de organizar bien mis líquidos para no tener que botar nada.
+fr: J'essaie d'emballer mes liquides soigneusement pour éviter de devoir jeter des trucs.
+de: Ich versuche meine Flüssigkeiten sorgfältig zu packen, um nichts wegwerfen zu müssen.
+ja: 物を捨てなくて済むように、液体は慎重にパッキングするようにしてる。
+ko: 물건을 버리지 않아도 되도록 액체류를 조심스럽게 포장하려고 해.
+zh: 我尽量仔细打包液体，避免不得不扔掉东西。
+ru: Я стараюсь аккуратно упаковывать жидкости, чтобы не пришлось ничего выбрасывать.
+hi: मैं अपने तरल पदार्थों को सावधानी से पैक करने की कोशिश करता हूं ताकि कुछ फेंकना न पड़े।
+it: Cerco di imballare i miei liquidi con cura per evitare di dover buttare via qualcosa.
+
+speaker: Emily
+text: Me too, or you risk the whole bag getting searched.
+pt: Eu também, senão você corre o risco de revistar a bagagem toda.
+es: Yo también, o te arriesgas a que te revisen toda la maleta.
+fr: Moi aussi, sinon tu risques que tout le sac soit fouillé.
+de: Ich auch, sonst riskiert man, dass die ganze Tasche durchsucht wird.
+ja: 私も、そうしないとバッグ全体を検査される危険がある。
+ko: 나도, 안 그러면 가방 전체를 수색당할 위험이 있어.
+zh: 我也是，否则你就有整个包被搜查的风险。
+ru: Я тоже, иначе рискуешь, что обыщут всю сумку.
+hi: मैं भी, नहीं तो आप पूरे बैग की तलाशी का जोखिम उठाते हैं।
+it: Anch'io, altrimenti rischi che perquisiscano tutta la borsa.
+
+speaker: Mike
+text: Electronic devices have their own tray—makes separating my gear a hassle.
+pt: Eletrônicos têm bandeja própria—fica chato separar tudo.
+es: Los electrónicos tienen su propia bandeja—es un lío separar todo el equipo.
+fr: Les appareils électroniques ont leur propre bac—c'est galère de séparer tout mon matériel.
+de: Elektronische Geräte haben ihr eigenes Fach—macht das Trennen meiner Ausrüstung zum Ärger.
+ja: 電子機器は専用のトレイがある—機材を分けるのが面倒だ。
+ko: 전자기기는 전용 트레이가 있어서—장비를 분리하는 게 번거로워.
+zh: 电子设备有自己的托盘——分离我的设备很麻烦。
+ru: У электронных устройств есть свой лоток—разделять мою технику становится хлопотно.
+hi: इलेक्ट्रॉनिक डिवाइसेस की अपनी ट्रे होती है—अपने गियर को अलग करना परेशानी भरा होता है।
+it: I dispositivi elettronici hanno il loro vassoio—separare la mia attrezzatura è una seccatura.
+
+speaker: Emily
+text: On the plus side, TSA PreCheck and Global Entry make it a breeze when you have them.
+pt: Mas por outro lado, TSA PreCheck e Global Entry facilitam demais quando você tem.
+es: Pero por otro lado, TSA PreCheck y Global Entry lo hacen súper fácil cuando los tienes.
+fr: Du côté positif, TSA PreCheck et Global Entry rendent ça super facile quand tu les as.
+de: Auf der positiven Seite machen TSA PreCheck und Global Entry es zum Kinderspiel, wenn man sie hat.
+ja: 良い面では、TSA PreCheckとGlobal Entryがあると本当に楽になる。
+ko: 좋은 점은 TSA PreCheck와 Global Entry가 있으면 정말 쉬워진다는 거야.
+zh: 好的一面是，当你有TSA PreCheck和Global Entry时，它们让一切变得轻而易举。
+ru: С положительной стороны, TSA PreCheck и Global Entry делают это легким делом, когда они у тебя есть.
+hi: अच्छी बात यह है कि TSA PreCheck और Global Entry होने पर यह बहुत आसान हो जाता है।
+it: Il lato positivo è che TSA PreCheck e Global Entry rendono tutto un gioco da ragazzi quando li hai.
+
+speaker: Mike
+text: So worth the application process.
+pt: Vale super a pena todo o processo de inscrição.
+es: Vale totalmente la pena todo el proceso de solicitud.
+fr: Ça vaut tellement le coup tout le processus de candidature.
+de: Lohnt sich so sehr der ganze Bewerbungsprozess.
+ja: 申請プロセス全体に本当に価値がある。
+ko: 신청 과정이 정말 가치가 있어.
+zh: 申请过程非常值得。
+ru: Весь процесс подачи заявления того стоит.
+hi: आवेदन प्रक्रिया बिल्कुल इसके लायक है।
+it: Vale assolutamente la pena tutto il processo di richiesta.
+
+speaker: Emily
+text: Do you ever get randomly selected for extra screening?
+pt: Você já foi selecionado aleatoriamente pra revista extra?
+es: ¿Alguna vez te han seleccionado al azar para revisión adicional?
+fr: Est-ce que tu es déjà sélectionné au hasard pour un contrôle supplémentaire ?
+de: Wirst du jemals zufällig für zusätzliche Kontrollen ausgewählt?
+ja: ランダムに追加検査に選ばれたことある？
+ko: 무작위로 추가 검색에 선택된 적 있어?
+zh: 你有没有被随机选中进行额外安检？
+ru: Тебя когда-нибудь случайно выбирали для дополнительной проверки?
+hi: क्या आपको कभी अतिरिक्त जांच के लिए बेतरतीब ढंग से चुना गया है?
+it: Ti è mai capitato di essere selezionato casualmente per controlli aggiuntivi?
+
+speaker: Mike
+text: Probably too often. It's nerve-wracking but I try to stay calm.
+pt: Provavelmente com muita frequência. Deixa nervoso, mas tento ficar calmo.
+es: Probablemente muy seguido. Es estresante pero trato de mantenerme tranquilo.
+fr: Probablement trop souvent. C'est stressant mais j'essaie de rester calme.
+de: Wahrscheinlich zu oft. Es ist nervenaufreibend, aber ich versuche ruhig zu bleiben.
+ja: たぶん頻繁すぎる。神経をすり減らすけど、冷静でいるようにしてる。
+ko: 아마 너무 자주. 신경 쓰이지만 침착하려고 해.
+zh: 可能太频繁了。很紧张但我尽量保持冷静。
+ru: Наверное, слишком часто. Это нервирует, но я стараюсь сохранять спокойствие.
+hi: शायद बहुत बार। यह तनावपूर्ण है लेकिन मैं शांत रहने की कोशिश करता हूं।
+it: Probabilmente troppo spesso. È snervante ma cerco di rimanere calmo.
+
+speaker: Emily
+text: Staying cool is key—and smiling doesn't hurt.
+pt: Manter a calma é fundamental—e sorrir não custa nada.
+es: Mantener la calma es clave—y sonreír no cuesta nada.
+fr: Rester cool c'est la clé—et sourire ne fait pas de mal.
+de: Cool bleiben ist der Schlüssel—und lächeln schadet nicht.
+ja: 冷静でいることが鍵—そして笑顔は損にならない。
+ko: 침착한 게 핵심이야—그리고 미소 짓는 것도 나쁘지 않아.
+zh: 保持冷静是关键——微笑也无妨。
+ru: Сохранять хладнокровие — это ключ, и улыбка не помешает.
+hi: शांत रहना मुख्य बात है—और मुस्कराना नुकसान नहीं करता।
+it: Rimanere tranquilli è la chiave—e sorridere non guasta.
+
+speaker: Mike
+text: Especially when it means less hassle.
+pt: Especialmente quando significa menos complicação.
+es: Especialmente cuando significa menos problemas.
+fr: Surtout quand ça signifie moins de tracas.
+de: Besonders wenn es weniger Ärger bedeutet.
+ja: 特に面倒が少なくなるという意味では。
+ko: 특히 번거로움이 줄어든다는 뜻일 때는.
+zh: 特别是当这意味着更少的麻烦时。
+ru: Особенно когда это означает меньше хлопот.
+hi: खासकर जब इसका मतलब कम परेशानी हो।
+it: Soprattutto quando significa meno seccature.
+
+speaker: Emily
+text: How about packing chargers and laptops on top so you can grab easily?
+pt: Que tal deixar carregadores e laptops por cima pra pegar fácil?
+es: ¿Qué tal poner cargadores y laptops arriba para agarrarlos fácil?
+fr: Que dirais-tu de mettre les chargeurs et laptops au-dessus pour les attraper facilement ?
+de: Wie wäre es, Ladegeräte und Laptops oben zu packen, damit du sie leicht greifen kannst?
+ja: 充電器とラップトップを上に置いて簡単に取れるようにするのはどう？
+ko: 충전기와 노트북을 위에 놓아서 쉽게 꺼낼 수 있게 하는 건 어때?
+zh: 把充电器和笔记本电脑放在上面这样你就能轻松拿到怎么样？
+ru: Как насчет того, чтобы упаковать зарядки и ноутбуки сверху, чтобы их легко достать?
+hi: चार्जर और लैपटॉप को ऊपर रखने के बारे में क्या ख्याल है ताकि आसानी से पकड़ सकें?
+it: Che ne dici di mettere caricatori e laptop in cima così puoi prenderli facilmente?
+
+speaker: Mike
+text: All about efficiency. Never want to hold up the line.
+pt: É tudo questão de eficiência. Nunca quero atrasar a fila.
+es: Todo es cuestión de eficiencia. Nunca quiero atrasar la cola.
+fr: Tout est question d'efficacité. Je ne veux jamais retenir la file.
+de: Alles dreht sich um Effizienz. Ich will nie die Schlange aufhalten.
+ja: 効率性がすべて。列を遅らせたくない。
+ko: 효율성이 전부야. 줄을 늦추고 싶지 않아.
+zh: 一切都关乎效率。我从不想耽误队伍。
+ru: Все дело в эффективности. Никогда не хочу задерживать очередь.
+hi: सब कुछ दक्षता के बारे में है। मैं कभी लाइन को रोकना नहीं चाहता।
+it: È tutta una questione di efficienza. Non voglio mai rallentare la fila.
+
+speaker: Emily
+text: I've learned to dress simply—less metal, less popping alarms.
+pt: Aprendi a me vestir simples—menos metal, menos alarme disparando.
+es: He aprendido a vestirme sencillo—menos metal, menos alarmas sonando.
+fr: J'ai appris à m'habiller simplement—moins de métal, moins d'alarmes qui sonnent.
+de: Ich habe gelernt, mich einfach zu kleiden—weniger Metall, weniger Alarme.
+ja: シンプルに着ることを学んだ—金属が少なければ、アラームも鳴らない。
+ko: 간단하게 입는 법을 배웠어—금속이 적으면 알람도 적게 울려.
+zh: 我学会了穿得简单——少金属，少响警报。
+ru: Я научился одеваться просто—меньше металла, меньше сигналов тревоги.
+hi: मैंने सादा कपड़े पहनना सीखा है—कम धातु, कम अलार्म बजना।
+it: Ho imparato a vestirmi semplicemente—meno metallo, meno allarmi che suonano.
+
+speaker: Mike
+text: Same. Last time my belt set off the alarm... twice!
+pt: Igual. Da última vez meu cinto disparou o alarme... duas vezes!
+es: ¡La última vez mi cinturón activó la alarma... dos veces!
+fr: Pareil. La dernière fois ma ceinture a déclenché l'alarme... deux fois !
+de: Genauso. Letztes Mal hat mein Gürtel den Alarm ausgelöst... zweimal!
+ja: 同じ。前回僕のベルトがアラームを鳴らした...二回も！
+ko: 똑같아. 지난번에 내 벨트가 알람을 울렸어... 두 번이나!
+zh: 一样。上次我的腰带触发了警报...两次！
+ru: То же самое. В прошлый раз мой ремень сработал сигнализацию... дважды!
+hi: वही बात। पिछली बार मेरी बेल्ट ने अलार्म बजाया... दो बार!
+it: Uguale. L'ultima volta la mia cintura ha fatto scattare l'allarme... due volte!
+
+speaker: Emily
+text: Oh no! Time to retire that belt, maybe?
+pt: Ai não! Hora de aposentar esse cinto, né?
+es: ¡Ay no! ¿Hora de jubilar ese cinturón, tal vez?
+fr: Oh non ! Il est temps de mettre cette ceinture à la retraite, peut-être ?
+de: Oh nein! Zeit, diesen Gürtel in Rente zu schicken, vielleicht?
+ja: あらまあ！そのベルト、引退させる時かも？
+ko: 아 안돼! 그 벨트 은퇴시킬 때가 된 건 아닐까?
+zh: 哦不！也许是时候让那条腰带退休了？
+ru: О нет! Время отправить этот ремень на пенсию, может быть?
+hi: अरे नहीं! शायद उस बेल्ट को रिटायर करने का समय आ गया?
+it: Oh no! Forse è ora di mandare in pensione quella cintura?
+
+speaker: Mike
+text: Definitely. Airport security is like an obstacle course sometimes.
+pt: Com certeza. A segurança do aeroporto às vezes parece uma pista de obstáculos.
+es: Definitivamente. La seguridad del aeropuerto a veces parece una pista de obstáculos.
+fr: Définitivement. La sécurité de l'aéroport ressemble parfois à un parcours d'obstacles.
+de: Definitiv. Die Flughafensicherheit ist manchmal wie ein Hindernisparcours.
+ja: 絶対に。空港のセキュリティは時々障害物コースみたい。
+ko: 확실히. 공항 보안은 때때로 장애물 코스 같아.
+zh: 绝对的。机场安检有时就像障碍赛道。
+ru: Определенно. Безопасность аэропорта иногда похожа на полосу препятствий.
+hi: बिल्कुल। एयरपोर्ट सिक्योरिटी कभी-कभी बाधा दौड़ की तरह लगती है।
+it: Assolutamente. La sicurezza aeroportuale a volte sembra un percorso a ostacoli.
+
+speaker: Emily
+text: But better safe than sorry on flights.
+pt: Mas é melhor prevenir do que remediar nos voos.
+es: Pero es mejor prevenir que lamentar en los vuelos.
+fr: Mais mieux vaut prévenir que guérir sur les vols.
+de: Aber Vorsicht ist besser als Nachsicht bei Flügen.
+ja: でも飛行機では用心に越したことはない。
+ko: 하지만 비행기에서는 조심하는 게 나아.
+zh: 但在航班上安全总比后悔好。
+ru: Но лучше перестраховаться, чем потом сожалеть о полетах.
+hi: लेकिन उड़ानों में सुरक्षित रहना बेहतर है।
+it: Ma è meglio essere sicuri che dispiaciuti sui voli.
+
+speaker: Mike
+text: Couldn't agree more. Prep smart, fly easy.
+pt: Concordo totalmente. Se prepare bem, voe tranquilo.
+es: No podría estar más de acuerdo. Prepárate bien, vuela tranquilo.
+fr: Je ne pourrais pas être plus d'accord. Préparez-vous intelligemment, volez facilement.
+de: Dem kann ich nur zustimmen. Klug vorbereiten, entspannt fliegen.
+ja: 全く同感です。賢く準備して、楽に飛びましょう。
+ko: 완전히 동의해. 똑똑하게 준비하고, 편하게 날아.
+zh: 完全同意。聪明准备，轻松飞行。
+ru: Полностью согласен. Готовься умно, лети легко.
+hi: बिल्कुल सहमत हूं। स्मार्ट तैयारी करें, आसानी से उड़ें।
+it: Non potrei essere più d'accordo. Preparati bene, vola tranquillo.

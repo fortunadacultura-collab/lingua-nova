@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: Sehr wahr. Jetzt fühlen sich Supermarktbesuche weniger wie eine Pflicht und mehr wie ein Abenteuer an.
+

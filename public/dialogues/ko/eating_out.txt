@@ -1,0 +1,4 @@
+title: Eating Out
+speaker: Chloe
+text: 네! 곧 해보자.
+

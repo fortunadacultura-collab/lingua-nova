@@ -1,0 +1,260 @@
+title: Job Interviews
+speaker: Emily
+text: Mike, got any tips for staying calm during job interviews?
+pt: Mike, tem alguma dica para manter a calma durante entrevistas de emprego?
+es: Mike, ¿tienes algún consejo para mantener la calma durante las entrevistas de trabajo?
+fr: Mike, as-tu des conseils pour rester calme pendant les entretiens d'embauche ?
+de: Mike, hast du Tipps, um bei Vorstellungsgesprächen ruhig zu bleiben?
+ja: マイク、就職面接で落ち着いていられるコツはある？
+ko: 마이크, 취업 면접에서 침착함을 유지하는 팁이 있어?
+zh: 迈克，你有在求职面试中保持冷静的建议吗？
+ru: Майк, есть советы, как сохранять спокойствие на собеседованиях?
+hi: माइक, नौकरी के इंटरव्यू के दौरान शांत रहने के लिए कोई टिप्स हैं?
+it: Mike, hai qualche consiglio per rimanere calmo durante i colloqui di lavoro?
+
+speaker: Mike
+text: Definitely. Deep breathing helps before you walk in.
+pt: Com certeza. Respirar fundo ajuda antes de você entrar.
+es: Definitivamente. Respirar profundo ayuda antes de entrar.
+fr: Absolument. Respirer profondément aide avant d'entrer.
+de: Auf jeden Fall. Tiefes Atmen hilft, bevor man hineingeht.
+ja: 絶対に。入る前に深呼吸するといいよ。
+ko: 확실히. 들어가기 전에 심호흡하는 게 도움이 돼.
+zh: 当然。进去之前深呼吸会有帮助。
+ru: Определенно. Глубокое дыхание помогает перед входом.
+hi: बिल्कुल। अंदर जाने से पहले गहरी सांस लेना मदद करता है।
+it: Assolutamente. Respirare profondamente aiuta prima di entrare.
+
+speaker: Emily
+text: I try to prepare answers but sometimes get thrown off by surprise questions.
+pt: Eu tento preparar respostas, mas às vezes me surpreendo com perguntas inesperadas.
+es: Intento preparar respuestas pero a veces me desconciertan preguntas sorpresa.
+fr: J'essaie de préparer des réponses mais parfois je suis déstabilisée par des questions surprises.
+de: Ich versuche Antworten vorzubereiten, aber manchmal bringen mich Überraschungsfragen aus dem Konzept.
+ja: 答えを準備しようとするけど、時々予想外の質問に動揺しちゃう。
+ko: 답변을 준비하려고 하는데 가끔 예상치 못한 질문에 당황해.
+zh: 我试图准备答案，但有时会被突然的问题搞得措手不及。
+ru: Я стараюсь готовить ответы, но иногда неожиданные вопросы сбивают с толку.
+hi: मैं जवाब तैयार करने की कोशिश करती हूं लेकिन कभी-कभी अचानक के सवालों से परेशान हो जाती हूं।
+it: Cerco di preparare le risposte ma a volte vengo spiazzata da domande inaspettate.
+
+speaker: Mike
+text: That happens. It's okay to pause, take a breath, and think.
+pt: Isso acontece. É normal fazer uma pausa, respirar e pensar.
+es: Eso pasa. Está bien hacer una pausa, respirar y pensar.
+fr: Ça arrive. C'est normal de faire une pause, respirer et réfléchir.
+de: Das passiert. Es ist in Ordnung, eine Pause zu machen, zu atmen und nachzudenken.
+ja: そういうことはあるよ。一度止まって、息をして、考えるのは大丈夫。
+ko: 그런 일이 있어. 잠시 멈추고, 숨을 쉬고, 생각하는 건 괜찮아.
+zh: 这种情况会发生。暂停一下，深呼吸，然后思考是可以的。
+ru: Такое случается. Нормально сделать паузу, вдохнуть и подумать.
+hi: ऐसा होता है। रुकना, सांस लेना और सोचना ठीक है।
+it: Succede. Va bene fare una pausa, respirare e pensare.
+
+speaker: Emily
+text: Good point. I tend to rush and sound nervous.
+pt: Bom ponto. Eu costumo me apressar e parecer nervosa.
+es: Buen punto. Suelo apresurarme y sonar nerviosa.
+fr: Bon point. J'ai tendance à me précipiter et à paraître nerveuse.
+de: Guter Punkt. Ich neige dazu, mich zu beeilen und nervös zu klingen.
+ja: いいポイントね。私は急いで緊張して聞こえがちなの。
+ko: 좋은 지적이야. 나는 서두르고 긴장해서 들리는 경향이 있어.
+zh: 好观点。我倾向于匆忙行事，听起来很紧张。
+ru: Хорошая мысль. Я склонна торопиться и звучать нервно.
+hi: अच्छी बात। मैं जल्दबाजी करती हूं और घबराई हुई लगती हूं।
+it: Buon punto. Tendo ad affrettarmi e sembrare nervosa.
+
+speaker: Mike
+text: Practice makes perfect. Mock interviews can boost confidence.
+pt: A prática leva à perfeição. Entrevistas simuladas podem aumentar a confiança.
+es: La práctica hace al maestro. Las entrevistas simuladas pueden aumentar la confianza.
+fr: C'est en forgeant qu'on devient forgeron. Les entretiens fictifs peuvent renforcer la confiance.
+de: Übung macht den Meister. Probeinterviews können das Selbstvertrauen stärken.
+ja: 練習が完璧を作る。模擬面接は自信を高めることができるよ。
+ko: 연습이 완벽을 만들어. 모의 면접이 자신감을 높일 수 있어.
+zh: 熟能生巧。模拟面试可以增强信心。
+ru: Практика — путь к совершенству. Пробные интервью могут повысить уверенность.
+hi: अभ्यास से सिद्धि मिलती है। नकली इंटरव्यू आत्मविश्वास बढ़ा सकते हैं।
+it: La pratica rende perfetti. I colloqui finti possono aumentare la fiducia.
+
+speaker: Emily
+text: Have you ever had an interview go completely off script?
+pt: Você já teve uma entrevista que saiu completamente do script?
+es: ¿Alguna vez has tenido una entrevista que se salió completamente del guión?
+fr: As-tu déjà eu un entretien qui s'est complètement écarté du script ?
+de: Hattest du schon mal ein Vorstellungsgespräch, das völlig vom Skript abgewichen ist?
+ja: 完全に台本から外れた面接を受けたことはある？
+ko: 완전히 대본에서 벗어난 면접을 받아본 적이 있어?
+zh: 你有过完全偏离剧本的面试经历吗？
+ru: У тебя когда-нибудь было интервью, которое полностью отклонилось от сценария?
+hi: क्या आपका कभी कोई इंटरव्यू पूरी तरह से स्क्रिप्ट से हट गया है?
+it: Hai mai avuto un colloquio che è andato completamente fuori copione?
+
+speaker: Mike
+text: Oh yeah, once I was asked about a skill I barely had.
+pt: Ah sim, uma vez me perguntaram sobre uma habilidade que eu mal tinha.
+es: Oh sí, una vez me preguntaron sobre una habilidad que apenas tenía.
+fr: Oh oui, une fois on m'a demandé une compétence que j'avais à peine.
+de: Oh ja, einmal wurde ich nach einer Fähigkeit gefragt, die ich kaum hatte.
+ja: ああ、一度ほとんど持っていないスキルについて聞かれたことがあるよ。
+ko: 아, 그래, 한 번 거의 없는 기술에 대해 질문받은 적이 있어.
+zh: 哦，是的，有一次我被问到一个我几乎不具备的技能。
+ru: О да, однажды меня спросили о навыке, которым я едва владел.
+hi: हां, एक बार मुझसे एक ऐसे कौशल के बारे में पूछा गया जो मेरे पास बमुश्किल था।
+it: Oh sì, una volta mi hanno chiesto di una competenza che avevo a malapena.
+
+speaker: Emily
+text: How'd you handle that?
+pt: Como você lidou com isso?
+es: ¿Cómo manejaste eso?
+fr: Comment as-tu géré ça ?
+de: Wie bist du damit umgegangen?
+ja: それをどう対処したの？
+ko: 그걸 어떻게 처리했어?
+zh: 你是怎么处理的？
+ru: Как ты с этим справился?
+hi: आपने इसे कैसे संभाला?
+it: Come l'hai gestita?
+
+speaker: Mike
+text: Admitted honesty, then highlighted my eagerness to learn.
+pt: Admiti com honestidade, depois destaquei minha vontade de aprender.
+es: Admití con honestidad, luego resalté mi entusiasmo por aprender.
+fr: J'ai admis honnêtement, puis j'ai souligné mon désir d'apprendre.
+de: Ich habe ehrlich zugegeben und dann meine Lernbereitschaft hervorgehoben.
+ja: 正直に認めて、それから学ぶ意欲を強調したよ。
+ko: 솔직하게 인정하고, 그다음에 배우고 싶은 열정을 강조했어.
+zh: 我诚实地承认了，然后强调了我学习的渴望。
+ru: Честно признался, а затем подчеркнул свое желание учиться.
+hi: ईमानदारी से स्वीकार किया, फिर सीखने की अपनी उत्सुकता को उजागर किया।
+it: Ho ammesso onestamente, poi ho evidenziato la mia voglia di imparare.
+
+speaker: Emily
+text: Smart move. Interviewers appreciate that.
+pt: Jogada inteligente. Os entrevistadores apreciam isso.
+es: Jugada inteligente. Los entrevistadores aprecian eso.
+fr: Mouvement intelligent. Les recruteurs apprécient ça.
+de: Kluger Zug. Interviewer schätzen das.
+ja: 賢い動きね。面接官はそれを評価するわ。
+ko: 똑똑한 행동이야. 면접관들이 그걸 높이 평가해.
+zh: 聪明的举动。面试官很欣赏这一点。
+ru: Умный ход. Интервьюеры это ценят.
+hi: स्मार्ट चाल। इंटरव्यूअर इसकी सराहना करते हैं।
+it: Mossa intelligente. Gli intervistatori lo apprezzano.
+
+speaker: Mike
+text: Also, dress appropriately but comfortably.
+pt: Além disso, vista-se adequadamente, mas com conforto.
+es: Además, vístete apropiadamente pero cómodamente.
+fr: Aussi, habille-toi de manière appropriée mais confortablement.
+de: Außerdem, kleide dich angemessen aber bequem.
+ja: それから、適切だけど快適に服装を整えることも大切だよ。
+ko: 또한, 적절하지만 편안하게 옷을 입어.
+zh: 另外，穿着要得体但要舒适。
+ru: Также одевайся подходяще, но удобно.
+hi: साथ ही, उचित लेकिन आरामदायक कपड़े पहनें।
+it: Inoltre, vestiti in modo appropriato ma comodo.
+
+speaker: Emily
+text: Right. First impressions start with appearance.
+pt: Certo. As primeiras impressões começam com a aparência.
+es: Cierto. Las primeras impresiones comienzan con la apariencia.
+fr: C'est vrai. Les premières impressions commencent par l'apparence.
+de: Richtig. Erste Eindrücke beginnen mit dem Aussehen.
+ja: そうね。第一印象は外見から始まるわ。
+ko: 맞아. 첫인상은 외모에서 시작해.
+zh: 对。第一印象从外表开始。
+ru: Верно. Первые впечатления начинаются с внешнего вида.
+hi: सही है। पहली छाप दिखावट से शुरू होती है।
+it: Giusto. Le prime impressioni iniziano dall'aspetto.
+
+speaker: Mike
+text: Any questions you like to ask at the end?
+pt: Alguma pergunta que você goste de fazer no final?
+es: ¿Alguna pregunta que te guste hacer al final?
+fr: Des questions que tu aimes poser à la fin ?
+de: Gibt es Fragen, die du gerne am Ende stellst?
+ja: 最後に聞くのが好きな質問はある？
+ko: 마지막에 하고 싶은 질문이 있어?
+zh: 你喜欢在最后问什么问题吗？
+ru: Есть вопросы, которые ты любишь задавать в конце?
+hi: कोई सवाल है जो आप अंत में पूछना पसंद करती हैं?
+it: Ci sono domande che ti piace fare alla fine?
+
+speaker: Emily
+text: I usually ask about company culture and team dynamics.
+pt: Normalmente pergunto sobre a cultura da empresa e a dinâmica da equipe.
+es: Normalmente pregunto sobre la cultura de la empresa y la dinámica del equipo.
+fr: Je demande généralement sur la culture d'entreprise et la dynamique d'équipe.
+de: Ich frage normalerweise nach der Unternehmenskultur und Teamdynamik.
+ja: 普通は会社の文化とチームの力学について聞くわ。
+ko: 보통 회사 문화와 팀 역학에 대해 물어봐.
+zh: 我通常会问公司文化和团队动态。
+ru: Обычно я спрашиваю о корпоративной культуре и командной динамике.
+hi: मैं आमतौर पर कंपनी की संस्कृति और टीम की गतिशीलता के बारे में पूछती हूं।
+it: Di solito chiedo della cultura aziendale e delle dinamiche del team.
+
+speaker: Mike
+text: Great questions! Shows real interest.
+pt: Ótimas perguntas! Mostra interesse real.
+es: ¡Excelentes preguntas! Muestra interés real.
+fr: Excellentes questions ! Ça montre un vrai intérêt.
+de: Großartige Fragen! Zeigt echtes Interesse.
+ja: 素晴らしい質問だね！本当の関心を示してるよ。
+ko: 훌륭한 질문들이야! 진짜 관심을 보여줘.
+zh: 很好的问题！显示了真正的兴趣。
+ru: Отличные вопросы! Показывает настоящий интерес.
+hi: बेहतरीन सवाल! वास्तविक रुचि दिखाते हैं।
+it: Ottime domande! Mostrano interesse genuino.
+
+speaker: Emily
+text: I try to engage authentically rather than just tick boxes.
+pt: Eu tento me envolver autenticamente em vez de apenas marcar caixas.
+es: Intento participar auténticamente en lugar de solo marcar casillas.
+fr: J'essaie de m'engager authentiquement plutôt que de simplement cocher des cases.
+de: Ich versuche mich authentisch zu engagieren, anstatt nur Kästchen abzuhaken.
+ja: ただチェックボックスにチェックするのではなく、本物の関わりを持とうとしているの。
+ko: 그냥 체크박스를 체크하는 것보다는 진정성 있게 참여하려고 해.
+zh: 我试图真诚地参与，而不是仅仅打勾。
+ru: Я стараюсь участвовать искренне, а не просто ставить галочки.
+hi: मैं सिर्फ बॉक्स टिक करने के बजाय प्रामाणिक रूप से जुड़ने की कोशिश करती हूं।
+it: Cerco di impegnarmi autenticamente piuttosto che spuntare solo caselle.
+
+speaker: Mike
+text: Exactly. Interviews are two-way streets.
+pt: Exatamente. Entrevistas são mão dupla.
+es: Exactamente. Las entrevistas son de doble sentido.
+fr: Exactement. Les entretiens sont à double sens.
+de: Genau. Interviews sind zweiseitige Straßen.
+ja: その通り。面接は双方向の道だからね。
+ko: 정확해. 면접은 양방향 길이야.
+zh: 完全正确。面试是双向的。
+ru: Точно. Интервью — это дорога с двусторонним движением.
+hi: बिल्कुल। इंटरव्यू दो तरफा सड़कें हैं।
+it: Esatto. I colloqui sono strade a doppio senso.
+
+speaker: Emily
+text: Thanks, Mike. Feeling better about my next one!
+pt: Obrigada, Mike. Me sinto melhor sobre a minha próxima!
+es: Gracias, Mike. ¡Me siento mejor sobre mi próxima!
+fr: Merci, Mike. Je me sens mieux pour ma prochaine !
+de: Danke, Mike. Ich fühle mich besser für mein nächstes!
+ja: ありがとう、マイク。次の面接について気分が良くなったわ！
+ko: 고마워, 마이크. 다음 면접에 대해 기분이 좋아졌어!
+zh: 谢谢你，迈克。我对下一次面试感觉好多了！
+ru: Спасибо, Майк. Чувствую себя лучше перед следующим!
+hi: धन्यवाद, माइक। अपने अगले इंटरव्यू के बारे में बेहतर महसूस कर रही हूं!
+it: Grazie, Mike. Mi sento meglio riguardo al mio prossimo colloquio!
+
+speaker: Mike
+text: You'll nail it, Emily. Just be yourself.
+pt: Você vai arrasar, Emily. Apenas seja você mesma.
+es: Lo harás genial, Emily. Solo sé tú misma.
+fr: Tu vas réussir, Emily. Sois juste toi-même.
+de: Du wirst es schaffen, Emily. Sei einfach du selbst.
+ja: きっとうまくいくよ、エミリー。ありのままの自分でいればいいんだ。
+ko: 잘할 거야, 에밀리. 그냥 네 자신이면 돼.
+zh: 你会成功的，艾米丽。做你自己就好。
+ru: У тебя все получится, Эмили. Просто будь собой.
+hi: आप इसे कर लेंगी, एमिली। बस अपने आप बनी रहें।
+it: Ce la farai, Emily. Sii semplicemente te stessa.

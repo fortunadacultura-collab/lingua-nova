@@ -1,0 +1,324 @@
+title: The Last Ride of Paul Revere
+text: The chill of April seeped through the walls of the small Boston house, but it was the cold fear in his heart that kept Paul Revere awake.
+pt: O frio de abril infiltrou-se pelas paredes da pequena casa em Boston, mas era o medo gelado em seu coração que mantinha Paul Revere acordado.
+es: El frío de abril se filtró por las paredes de la pequeña casa de Boston, pero era el miedo frío en su corazón el que mantenía a Paul Revere despierto.
+fr: Le froid d'avril s'infiltrait à travers les murs de la petite maison de Boston, mais c'était la peur glacée dans son cœur qui gardait Paul Revere éveillé.
+de: Die Kälte des April sickerte durch die Wände des kleinen Hauses in Boston, aber es war die kalte Angst in seinem Herzen, die Paul Revere wach hielt.
+ja: 4月の寒さがボストンの小さな家の壁を通り抜けたが、ポール・リビアを眠らせなかったのは心の中の冷たい恐怖だった。
+ko: 4월의 추위가 보스턴의 작은 집 벽을 스며들었지만, 폴 리비어를 잠들지 못하게 한 것은 그의 마음속 차가운 두려움이었다.
+zh: 四月的寒意渗透了波士顿小屋的墙壁，但让保罗·里维尔无法入睡的是他心中的冰冷恐惧。
+ru: Апрельский холод проникал сквозь стены маленького дома в Бостоне, но именно холодный страх в его сердце не давал Полу Ревиру уснуть.
+hi: अप्रैल की ठंड बोस्टन के छोटे घर की दीवारों से रिस रही थी, लेकिन यह उसके दिल में ठंडा डर था जो पॉल रेवियर को जगाए रखे हुए था।
+it: Il freddo di aprile filtrava attraverso le pareti della piccola casa di Boston, ma era la paura gelida nel suo cuore che teneva sveglio Paul Revere.
+
+text: Outside, a sliver of a moon hung over a city holding its breath. The British Regulars were everywhere, their red coats a constant, bloody reminder of the occupation.
+pt: Lá fora, um fragmento de lua pairava sobre uma cidade que prendia a respiração. Os Regulares Britânicos estavam por toda parte, seus casacos vermelhos um lembrete constante e sangrento da ocupação.
+es: Afuera, un fragmento de luna colgaba sobre una ciudad que contenía la respiración. Los Regulares Británicos estaban por todas partes, sus casacas rojas un recordatorio constante y sangriento de la ocupación.
+fr: Dehors, un croissant de lune pendait au-dessus d'une ville qui retenait son souffle. Les Réguliers britanniques étaient partout, leurs manteaux rouges un rappel constant et sanglant de l'occupation.
+de: Draußen hing eine Mondsichel über einer Stadt, die den Atem anhielt. Die britischen Regulars waren überall, ihre roten Mäntel eine ständige, blutige Erinnerung an die Besatzung.
+ja: 外では、息を殺した街の上に三日月がかかっていた。イギリス正規軍はいたるところにいて、彼らの赤いコートは占領の絶え間ない血なまぐさい思い出させるものだった。
+ko: 밖에서는 숨을 죽인 도시 위에 초승달이 걸려 있었다. 영국 정규군들이 도처에 있었고, 그들의 빨간 코트는 점령의 끊임없고 피비린내 나는 상기시키는 것이었다.
+zh: 外面，一弯新月悬挂在屏息的城市上空。英国正规军到处都是，他们的红色外套是占领的持续而血腥的提醒。
+ru: Снаружи серп луны висел над городом, затаившим дыхание. Британские регулярные войска были повсюду, их красные мундиры — постоянное кровавое напоминание об оккупации.
+hi: बाहर, एक चांद का टुकड़ा एक शहर के ऊपर लटक रहा था जो अपनी सांस रोके हुए था। ब्रिटिश रेगुलर हर जगह थे, उनके लाल कोट कब्जे की निरंतर, खूनी याद दिलाते थे।
+it: Fuori, una falce di luna pendeva sopra una città che tratteneva il respiro. I Regolari britannici erano ovunque, le loro giubbe rosse un promemoria costante e sanguinoso dell'occupazione.
+
+text: Earlier that evening, his friend, Robert Newman, had risked everything to climb the steeple of the Old North Church. Two lanterns. Two. It was the signal they had agreed upon.
+pt: No início daquela noite, seu amigo, Robert Newman, arriscou tudo para escalar o campanário da Velha Igreja do Norte. Duas lanternas. Duas. Era o sinal que haviam combinado.
+es: Más temprano esa noche, su amigo, Robert Newman, había arriesgado todo para escalar el campanario de la Antigua Iglesia del Norte. Dos linternas. Dos. Era la señal que habían acordado.
+fr: Plus tôt ce soir-là, son ami Robert Newman avait tout risqué pour escalader le clocher de la Vieille Église du Nord. Deux lanternes. Deux. C'était le signal dont ils étaient convenus.
+de: Früher an diesem Abend hatte sein Freund Robert Newman alles riskiert, um den Kirchturm der Alten Nordkirche zu erklimmen. Zwei Laternen. Zwei. Das war das Signal, auf das sie sich geeinigt hatten.
+ja: その夜の早い時間に、彼の友人ロバート・ニューマンは、オールド・ノース教会の尖塔を登るためにすべてを賭けていた。二つのランタン。二つ。それは彼らが合意した信号だった。
+ko: 그날 밤 일찍, 그의 친구 로버트 뉴먼은 올드 노스 교회의 첨탑을 오르기 위해 모든 것을 걸었다. 두 개의 등불. 두 개. 그것이 그들이 합의한 신호였다.
+zh: 那天晚上早些时候，他的朋友罗伯特·纽曼冒着一切风险爬上了老北教堂的尖塔。两盏灯笼。两盏。这是他们约定的信号。
+ru: Ранее тем вечером его друг Роберт Ньюман рискнул всем, чтобы взобраться на шпиль Старой Северной церкви. Два фонаря. Два. Это был сигнал, о котором они договорились.
+hi: उस शाम पहले, उसके दोस्त रॉबर्ट न्यूमैन ने ओल्ड नॉर्थ चर्च के शिखर पर चढ़ने के लिए सब कुछ दांव पर लगाया था। दो लालटेन। दो। यह वह संकेत था जिस पर वे सहमत हुए थे।
+it: Prima quella sera, il suo amico Robert Newman aveva rischiato tutto per scalare il campanile della Vecchia Chiesa del Nord. Due lanterne. Due. Era il segnale su cui si erano accordati.
+
+text: Now, the silence was broken by a soft, urgent knock. Dr. Joseph Warren, his face grave in the candlelight, confirmed the news.
+pt: Agora, o silêncio foi quebrado por uma batida suave e urgente. O Dr. Joseph Warren, seu rosto grave à luz das velas, confirmou a notícia.
+es: Ahora, el silencio se rompió con un suave y urgente golpe. El Dr. Joseph Warren, su rostro grave a la luz de las velas, confirmó la noticia.
+fr: Maintenant, le silence fut brisé par un coup doux et urgent. Le Dr Joseph Warren, son visage grave à la lueur des bougies, confirma la nouvelle.
+de: Nun wurde die Stille von einem sanften, dringenden Klopfen unterbrochen. Dr. Joseph Warren, sein Gesicht ernst im Kerzenlicht, bestätigte die Nachricht.
+ja: 今、静寂は柔らかく緊急なノックによって破られた。ジョセフ・ウォーレン博士は、ろうそくの光の中で深刻な顔をして、そのニュースを確認した。
+ko: 이제 조용하고 급한 노크 소리로 침묵이 깨졌다. 조셉 워렌 박사는 촛불 아래에서 심각한 얼굴로 그 소식을 확인했다.
+zh: 现在，一阵轻柔而急迫的敲门声打破了寂静。约瑟夫·沃伦医生在烛光下神情严肃地确认了这个消息。
+ru: Теперь тишину нарушил тихий, настойчивый стук. Доктор Джозеф Уоррен, его лицо было серьезным в свете свечей, подтвердил новость.
+hi: अब, मौनता एक नरम और तत्काल दस्तक से टूट गई। डॉ. जोसेफ वारेन, मोमबत्ती की रोशनी में उनका चेहरा गंभीर था, ने खबर की पुष्टि की।
+it: Ora, il silenzio fu rotto da un bussare sommesso e urgente. Il Dr. Joseph Warren, il suo volto grave alla luce delle candele, confermò la notizia.
+
+text: "They're moving, Paul. They mean to seize the arms in Concord. And... they may also be looking for Sam Adams and John Hancock in Lexington. You must warn them."
+pt: "Eles estão se movendo, Paul. Eles pretendem apreender as armas em Concord. E... podem também estar procurando por Sam Adams e John Hancock em Lexington. Você deve avisá-los."
+es: "Se están moviendo, Paul. Intentan apoderarse de las armas en Concord. Y... también pueden estar buscando a Sam Adams y John Hancock en Lexington. Debes advertirles."
+fr: "Ils bougent, Paul. Ils ont l'intention de saisir les armes à Concord. Et... ils pourraient aussi chercher Sam Adams et John Hancock à Lexington. Tu dois les avertir."
+de: "Sie bewegen sich, Paul. Sie beabsichtigen, die Waffen in Concord zu beschlagnahmen. Und... sie könnten auch nach Sam Adams und John Hancock in Lexington suchen. Du musst sie warnen."
+ja: 「彼らは動いている、ポール。コンコードで武器を押収するつもりだ。そして...レキシントンでサム・アダムスとジョン・ハンコックも探しているかもしれない。君は彼らに警告しなければならない。」
+ko: "그들이 움직이고 있어, 폴. 콩코드에서 무기를 압수하려고 해. 그리고... 렉싱턴에서 샘 애덤스와 존 핸콕을 찾고 있을 수도 있어. 당신이 그들에게 경고해야 해."
+zh: "他们在行动，保罗。他们打算夺取康科德的武器。而且...他们可能也在列克星敦寻找萨姆·亚当斯和约翰·汉考克。你必须警告他们。"
+ru: "Они движутся, Пол. Они намерены захватить оружие в Конкорде. И... они также могут искать Сэма Адамса и Джона Хэнкока в Лексингтоне. Ты должен предупредить их."
+hi: "वे आगे बढ़ रहे हैं, पॉल। वे कॉनकॉर्ड में हथियारों को जब्त करने का इरादा रखते हैं। और... वे लेक्सिंगटन में सैम एडम्स और जॉन हैनकॉक की भी तलाश कर सकते हैं। आपको उन्हें चेतावनी देनी चाहिए।"
+it: "Si stanno muovendo, Paul. Intendono sequestrare le armi a Concord. E... potrebbero anche cercare Sam Adams e John Hancock a Lexington. Devi avvertirli."
+
+text: A friend slipped a bridle into Revere's hand. A fine, fast mare named Brown Beauty was waiting, her coat dark as the night itself.
+pt: Um amigo deslizou uma brida na mão de Revere. Uma égua fina e rápida chamada Brown Beauty esperava, seu casaco escuro como a própria noite.
+es: Un amigo deslizó un brida en la mano de Revere. Una yegua fina y rápida llamada Brown Beauty esperaba, su pelaje oscuro como la noche misma.
+fr: Un ami glissa une bride dans la main de Revere. Une jument fine et rapide nommée Brown Beauty attendait, son pelage sombre comme la nuit elle-même.
+de: Ein Freund schob Revere einen Zügel in die Hand. Eine feine, schnelle Stute namens Brown Beauty wartete, ihr Fell dunkel wie die Nacht selbst.
+ja: 友人がリビアの手に手綱を滑り込ませた。ブラウン・ビューティーという名の美しく速い雌馬が待っていて、その毛色は夜そのもののように暗かった。
+ko: 친구가 리비어의 손에 고삐를 미끄러뜨렸다. 브라운 뷰티라는 이름의 아름답고 빠른 암말이 기다리고 있었는데, 그 털색은 밤 자체만큼 어두웠다.
+zh: 一个朋友将缰绳塞进了里维尔的手中。一匹名叫棕色美人的优良快马在等待，她的毛色如夜晚般漆黑。
+ru: Друг сунул поводья в руку Ревира. Прекрасная быстрая кобыла по имени Браун Бьюти ждала, её шерсть была темна, как сама ночь.
+hi: एक दोस्त ने रेवियर के हाथ में लगाम फिसका दी। ब्राउन ब्यूटी नाम की एक सुंदर, तेज़ घोड़ी इंतज़ार कर रही थी, उसका कोट रात की तरह काला था।
+it: Un amico fece scivolare una briglia nella mano di Revere. Una cavalla fine e veloce di nome Brown Beauty aspettava, il suo mantello scuro come la notte stessa.
+
+text: He didn't take the main roads. Instead, he became a ghost, a shadow cutting through back alleys and familiar paths until he reached the Charlestown shore.
+pt: Ele não pegou as estradas principais. Em vez disso, tornou-se um fantasma, uma sombra cortando becos e caminhos familiares até chegar à costa de Charlestown.
+es: No tomó los caminos principales. En cambio, se convirtió en un fantasma, una sombra cortando por callejones y caminos familiares hasta llegar a la orilla de Charlestown.
+fr: Il ne prit pas les routes principales. Au lieu de cela, il devint un fantôme, une ombre traversant les ruelles et les chemins familiers jusqu'à atteindre le rivage de Charlestown.
+de: Er nahm nicht die Hauptstraßen. Stattdessen wurde er zu einem Geist, einem Schatten, der durch Gassen und vertraute Pfade schnitt, bis er das Ufer von Charlestown erreichte.
+ja: 彼は主要道路を取らなかった。代わりに、彼は幽霊となり、裏通りや馴染みの道を切り抜けてチャールズタウンの岸に到達するまでの影となった。
+ko: 그는 주요 도로를 택하지 않았다. 대신 그는 유령이 되어, 뒷골목과 익숙한 길들을 가로질러 찰스타운 해안에 도달할 때까지의 그림자가 되었다.
+zh: 他没有走主要道路。相反，他变成了一个幽灵，一个穿过后巷和熟悉小径的影子，直到到达查尔斯敦海岸。
+ru: Он не пошёл по главным дорогам. Вместо этого он стал призраком, тенью, пробирающейся через переулки и знакомые тропы, пока не достиг берега Чарлстауна.
+hi: उसने मुख्य सड़कें नहीं लीं। इसके बजाय, वह एक भूत बन गया, एक छाया जो गलियों और परिचित रास्तों से होकर चार्ल्सटाउन तट तक पहुंचने तक काटती रही।
+it: Non prese le strade principali. Invece, divenne un fantasma, un'ombra che tagliava attraverso vicoli e sentieri familiari fino a raggiungere la riva di Charlestown.
+
+text: Waiting friends rowed him silently across the black water, avoiding the mighty warship HMS Somerset that lay anchored, its guns a silent threat against the starlit sky.
+pt: Amigos esperando remaram-no silenciosamente através da água negra, evitando o poderoso navio de guerra HMS Somerset que estava ancorado, seus canhões uma ameaça silenciosa contra o céu estrelado.
+es: Amigos que esperaban lo remaron en silencio a través del agua negra, evitando el poderoso buque de guerra HMS Somerset que yacía anclado, sus cañones una amenaza silenciosa contra el cielo estrellado.
+fr: Des amis qui l'attendaient le ramèrent silencieusement à travers l'eau noire, évitant le puissant navire de guerre HMS Somerset qui était ancré, ses canons une menace silencieuse contre le ciel étoilé.
+de: Wartende Freunde ruderten ihn schweigend durch das schwarze Wasser und mieden das mächtige Kriegsschiff HMS Somerset, das vor Anker lag, seine Kanonen eine stumme Bedrohung gegen den sternenklaren Himmel.
+ja: 待っていた友人たちは彼を黒い水を通って静かに漕いで運び、停泊している強力な軍艦HMSサマセットを避けた。その大砲は星空に対する静かな脅威だった。
+ko: 기다리고 있던 친구들이 그를 검은 물을 가로질러 조용히 노를 저어 데려갔고, 정박해 있는 강력한 군함 HMS 서머셋을 피했다. 그 대포들은 별이 빛나는 하늘에 대한 조용한 위협이었다.
+zh: 等待的朋友们静静地划船载他穿过黑水，避开停泊的强大战舰HMS萨默塞特号，它的大炮在星空下构成无声的威胁。
+ru: Ожидавшие друзья молча перевезли его через чёрную воду, избегая могучего военного корабля HMS Somerset, стоявшего на якоре, его пушки — безмолвная угроза на фоне звёздного неба.
+hi: इंतज़ार कर रहे दोस्तों ने उसे काले पानी के पार चुपचाप नाव से ले गए, शक्तिशाली युद्धपोत HMS समरसेट से बचते हुए जो लंगर डाले हुए था, उसकी तोपें तारों भरे आकाश के खिलाफ एक मूक खतरा थीं।
+it: Gli amici in attesa lo trasportarono silenziosamente attraverso l'acqua nera, evitando la potente nave da guerra HMS Somerset che giaceva all'ancora, i suoi cannoni una minaccia silenziosa contro il cielo stellato.
+
+text: On the other side, a different horse was ready. This was it. The ride. He dug his heels in, and the world dissolved into a thunder of hooves and a stinging rush of wind.
+pt: Do outro lado, um cavalo diferente estava pronto. Esta era ela. A cavalgada. Ele enterrou os calcanhares, e o mundo dissolveu-se em um trovão de cascos e uma ardente rajada de vento.
+es: Al otro lado, un caballo diferente estaba listo. Esto era todo. El paseo. Clavó los talones, y el mundo se disolvió en un trueno de cascos y un aguijonazo de viento.
+fr: De l'autre côté, un cheval différent était prêt. C'était ça. La chevauchée. Il enfonça ses talons, et le monde se dissolut dans un tonnerre de sabots et une rafale cinglante de vent.
+de: Auf der anderen Seite war ein anderes Pferd bereit. Das war es. Der Ritt. Er grub seine Fersen ein, und die Welt löste sich in einem Donner von Hufen und einem stechenden Windstoß auf.
+ja: 向こう側では、別の馬が準備されていた。これがそれだった。騎行。彼はかかとを蹴り込み、世界は蹄の雷鳴と刺すような風の突風に溶けていった。
+ko: 반대편에는 다른 말이 준비되어 있었다. 이것이었다. 그 기행. 그는 발뒤꿈치를 박았고, 세상은 발굽의 천둥과 찌르는 바람의 돌풍으로 녹아들었다.
+zh: 在另一边，一匹不同的马已经准备好了。就是这个。这次骑行。他踢入脚跟，世界溶解成马蹄的雷鸣和刺骨的风暴。
+ru: На другой стороне другая лошадь была готова. Вот оно. Скачка. Он вонзил пятки, и мир растворился в громе копыт и жгучем порыве ветра.
+hi: दूसरी तरफ, एक अलग घोड़ा तैयार था। यही था। सवारी। उसने अपनी एड़ियां गाड़ीं, और दुनिया खुरों की गर्जना और हवा के तेज़ झोंके में घुल गई।
+it: Dall'altra parte, un cavallo diverso era pronto. Questo era tutto. La cavalcata. Affondò i talloni, e il mondo si dissolse in un tuono di zoccoli e una raffica pungente di vento.
+
+text: He began his desperate, famous cry, his voice cutting through the still New England night, reaching the clustered farmhouses and sleeping villages.
+pt: Ele começou seu grito desesperado e famoso, sua voz cortando a noite still da Nova Inglaterra, alcançando as fazendas agrupadas e villages adormecidas.
+es: Comenzó su grito desesperado y famoso, su voz cortando la quieta noche de Nueva Inglaterra, llegando a las granjas agrupadas y pueblos dormidos.
+fr: Il commença son cri désespéré et célèbre, sa voix perçant la nuit tranquille de la Nouvelle-Angleterre, atteignant les fermes groupées et les villages endormis.
+de: Er begann seinen verzweifelten, berühmten Ruf, seine Stimme durchschnitt die stille Neuengland-Nacht und erreichte die zusammengedrängten Bauernhöfe und schlafenden Dörfer.
+ja: 彼は絶望的で有名な叫びを始めた。彼の声は静かなニューイングランドの夜を切り裂き、群がる農家や眠っている村々に届いた。
+ko: 그는 절망적이고 유명한 외침을 시작했다. 그의 목소리는 조용한 뉴잉글랜드의 밤을 가르며 모여 있는 농가들과 잠든 마을들에 도달했다.
+zh: 他开始了绝望而著名的呐喊，他的声音穿透了宁静的新英格兰夜晚，传达到聚集的农舍和沉睡的村庄。
+ru: Он начал свой отчаянный, знаменитый крик, его голос прорезал тихую новоанглийскую ночь, достигая сгрудившихся ферм и спящих деревень.
+hi: उसने अपनी हताश, प्रसिद्ध चीख शुरू की, उसकी आवाज़ शांत न्यू इंग्लैंड की रात को काटती हुई, समूहबद्ध खेतों और सोते हुए गांवों तक पहुंची।
+it: Iniziò il suo grido disperato e famoso, la sua voce tagliando la quieta notte del New England, raggiungendo le fattorie raggruppate e i villaggi addormentati.
+
+text: "The Regulars are coming out!" he shouted, again and again. Doors cracked open. Lanterns were lit. Faces, pale and determined, appeared in windows.
+pt: "Os Regulares estão saindo!" ele gritou, again and again. Portas se abriram. Lanternas foram acesas. Rostos, pálidos e determinados, apareceram nas janelas.
+es: "¡Los Regulares salen!" gritó, una y otra vez. Las puertas se entreabrieron. Se encendieron linternas. Rostros, pálidos y determinados, aparecieron en las ventanas.
+fr: "Les Réguliers sortent !" cria-t-il, encore et encore. Les portes s'entrouvrirent. Des lanternes furent allumées. Des visages, pâles et déterminés, apparurent aux fenêtres.
+de: "Die Regulars kommen raus!" schrie er, immer wieder. Türen öffneten sich einen Spalt. Laternen wurden angezündet. Gesichter, blass und entschlossen, erschienen in den Fenstern.
+ja: 「正規軍が出てくる！」彼は何度も何度も叫んだ。ドアが少し開いた。ランタンが灯された。青白く決意に満ちた顔が窓に現れた。
+ko: "정규군이 나오고 있다!" 그는 계속해서 외쳤다. 문들이 살짝 열렸다. 등불들이 켜졌다. 창백하고 결연한 얼굴들이 창문에 나타났다.
+zh: "正规军出来了！"他一遍又一遍地喊道。门缝打开了。灯笼被点亮了。苍白而坚定的面孔出现在窗户里。
+ru: "Регулярные войска выходят!" кричал он снова и снова. Двери приоткрылись. Зажглись фонари. Бледные и решительные лица появились в окнах.
+hi: "रेगुलर बाहर आ रहे हैं!" वह बार-बार चिल्लाया। दरवाज़े थोड़े खुले। लालटेन जलाए गए। पीले और दृढ़ चेहरे खिड़कियों में दिखाई दिए।
+it: "I Regolari stanno uscendo!" gridò, ancora e ancora. Le porte si socchiusero. Le lanterne furono accese. Volti, pallidi e determinati, apparvero alle finestre.
+
+text: Minutemen, farmers and shopkeepers with muskets older than they were, were shaken from their beds. The message was a spark on dry tinder.
+pt: Minutemen, farmers e lojistas com mosquetes mais velhos que eles, foram sacudidos de suas camas. A mensagem era uma faísca em mecha seca.
+es: Minutemen, agricultores y tenderos con mosquetes más viejos que ellos, fueron sacudidos de sus camas. El mensaje era una chispa en yesca seca.
+fr: Les Minutemen, fermiers et commerçants avec des mousquets plus vieux qu'eux, furent secoués de leurs lits. Le message était une étincelle sur de l'amadou sec.
+de: Minutemen, Bauern und Ladenbesitzer mit Musketen, die älter waren als sie selbst, wurden aus ihren Betten geschüttelt. Die Nachricht war ein Funke auf trockenem Zunder.
+ja: 彼らより古いマスケット銃を持つミニットマン、農民、店主たちがベッドから揺り起こされた。そのメッセージは乾いた火口の上の火花だった。
+ko: 그들보다 오래된 머스킷을 가진 미닛맨들, 농부들, 상점주들이 침대에서 흔들려 깨어났다. 그 메시지는 마른 부싯깃 위의 불꽃이었다.
+zh: 民兵、农民和店主们拿着比他们年纪还大的火枪，从床上被摇醒。这个消息就像干燥火绒上的火花。
+ru: Минитмены, фермеры и лавочники с мушкетами старше их самих были потрясены в своих постелях. Сообщение было искрой на сухом труте.
+hi: मिनटमेन, किसान और दुकानदार जिनके पास उनसे भी पुराने मस्केट थे, अपने बिस्तरों से हिला दिए गए। संदेश सूखी तिनकी पर चिंगारी था।
+it: I Minutemen, contadini e negozianti con moschetti più vecchi di loro, furono scossi dai loro letti. Il messaggio era una scintilla su esca secca.
+
+text: Suddenly, out of the gloom, two figures on horseback materialized. British officers! One lunged, trying to block his path.
+pt: De repente, da escuridão, duas figuras a cavalo materializaram-se. Oficiais britânicos! Um investiu, tentando bloquear seu caminho.
+es: De repente, de la penumbra, dos figuras a caballo se materializaron. ¡Oficiales británicos! Uno se abalanzó, tratando de bloquear su camino.
+fr: Soudain, de la pénombre, deux silhouettes à cheval se matérialisèrent. Des officiers britanniques ! L'un se précipita, essayant de bloquer son chemin.
+de: Plötzlich materialisierten sich aus dem Zwielicht zwei Gestalten zu Pferd. Britische Offiziere! Einer stürzte vor, um seinen Weg zu blockieren.
+ja: 突然、薄暗がりから馬に乗った二つの人影が現れた。イギリス軍将校だ！一人が突進し、彼の道を塞ごうとした。
+ko: 갑자기 어둠 속에서 말을 탄 두 인물이 나타났다. 영국 장교들이었다! 한 명이 돌진하여 그의 길을 막으려 했다.
+zh: 突然，从昏暗中，两个骑马的身影出现了。英国军官！其中一个冲过来，试图阻挡他的道路。
+ru: Внезапно из сумрака материализовались две фигуры на лошадях. Британские офицеры! Один бросился вперёд, пытаясь заблокировать его путь.
+hi: अचानक, धुंधलके से, घोड़े पर सवार दो आकृतियां प्रकट हुईं। ब्रिटिश अधिकारी! एक ने झपट्टा मारा, उसका रास्ता रोकने की कोशिश करते हुए।
+it: Improvvisamente, dalla penombra, si materializzarono due figure a cavallo. Ufficiali britannici! Uno si lanciò, cercando di bloccare il suo cammino.
+
+text: Revere wheeled his horse, spurring it into a desperate gallop down a side road. For a few terrifying minutes, he was chased, the breath of the enemy hot on his neck.
+pt: Revere girou seu cavalo, esporeando-o em um galope desesperado por uma estrada lateral. Por alguns minutos aterrorizantes, ele foi perseguido, o bafo do inimigo quente em seu pescoço.
+es: Revere giró su caballo, espoleándolo en un galope desesperado por un camino lateral. Durante unos minutos aterradores, fue perseguido, el aliento del enemigo caliente en su cuello.
+fr: Revere fit tourner son cheval, l'éperonnant dans un galop désespéré sur une route secondaire. Pendant quelques minutes terrifiantes, il fut poursuivi, le souffle de l'ennemi chaud sur sa nuque.
+de: Revere wendete sein Pferd und spornte es zu einem verzweifelten Galopp auf einer Seitenstraße an. Für einige schreckliche Minuten wurde er verfolgt, der Atem des Feindes heiß in seinem Nacken.
+ja: リビアは馬を回転させ、脇道で絶望的なギャロップに拍車をかけた。数分間の恐ろしい時間、彼は追跡され、敵の息が首筋で熱かった。
+ko: 리비어는 말을 돌려 옆길로 절망적인 질주를 시작했다. 몇 분간의 무서운 시간 동안 그는 추격당했고, 적의 숨결이 목덜미에서 뜨거웠다.
+zh: 里维尔调转马头，策马沿着小路绝望地疾驰。在几分钟可怕的时间里，他被追赶着，敌人的呼吸在他脖子上很热。
+ru: Ревир повернул лошадь, пришпорив её к отчаянному галопу по боковой дороге. Несколько ужасающих минут его преследовали, дыхание врага горячо на его шее.
+hi: रेवियर ने अपने घोड़े को घुमाया, उसे एक साइड रोड पर हताश सरपट दौड़ाते हुए। कुछ डरावने मिनटों के लिए, उसका पीछा किया गया, दुश्मन की सांस उसकी गर्दन पर गर्म थी।
+it: Revere girò il suo cavallo, spronandolo in un galoppo disperato lungo una strada laterale. Per alcuni minuti terrificanti, fu inseguito, il respiro del nemico caldo sul suo collo.
+
+text: But he knew these lands, every ditch and trail. He lost them in the maze of darkness. He pushed on, driven by a purpose greater than his own fear.
+pt: Mas ele conhecia estas terras, cada vala e trilha. Ele os perdeu no labirinto da escuridão. Ele pressionou, impulsionado por um propósito maior que seu próprio medo.
+es: Pero conocía estas tierras, cada zanja y sendero. Los perdió en el laberinto de la oscuridad. Siguió adelante, impulsado por un propósito mayor que su propio miedo.
+fr: Mais il connaissait ces terres, chaque fossé et sentier. Il les perdit dans le labyrinthe de l'obscurité. Il continua, poussé par un but plus grand que sa propre peur.
+de: Aber er kannte diese Länder, jeden Graben und Pfad. Er verlor sie im Labyrinth der Dunkelheit. Er drängte weiter, getrieben von einem Zweck größer als seine eigene Angst.
+ja: しかし彼はこれらの土地を知っていた、すべての溝と小道を。彼は暗闇の迷路で彼らを見失った。彼は自分の恐怖よりも大きな目的に駆られて押し進んだ。
+ko: 하지만 그는 이 땅들을 알고 있었다, 모든 도랑과 길을. 그는 어둠의 미로에서 그들을 잃었다. 그는 자신의 두려움보다 큰 목적에 이끌려 계속 나아갔다.
+zh: 但他了解这些土地，每一条沟渠和小径。他在黑暗的迷宫中甩掉了他们。他继续前进，被比自己恐惧更大的目标驱动着。
+ru: Но он знал эти земли, каждую канаву и тропу. Он потерял их в лабиринте тьмы. Он продолжал, движимый целью большей, чем его собственный страх.
+hi: लेकिन वह इन भूमियों को जानता था, हर खाई और पगडंडी को। उसने उन्हें अंधेरे की भूलभुलैया में खो दिया। वह आगे बढ़ता रहा, अपने डर से बड़े उद्देश्य से प्रेरित होकर।
+it: Ma conosceva queste terre, ogni fossato e sentiero. Li perse nel labirinto dell'oscurità. Continuò avanti, spinto da uno scopo più grande della sua stessa paura.
+
+text: He reached Lexington just after midnight, his horse lathered and heaving. He raced to the house where Hancock and Adams were sleeping.
+pt: Ele chegou a Lexington logo após a meia-noite, seu cavalo suado e ofegante. Ele correu para a casa onde Hancock e Adams estavam dormindo.
+es: Llegó a Lexington justo después de la medianoche, su caballo sudoroso y jadeante. Corrió hacia la casa donde Hancock y Adams dormían.
+fr: Il atteignit Lexington juste après minuit, son cheval en sueur et haletant. Il courut vers la maison où Hancock et Adams dormaient.
+de: Er erreichte Lexington kurz nach Mitternacht, sein Pferd schweißgebadet und keuchend. Er rannte zu dem Haus, wo Hancock und Adams schliefen.
+ja: 彼は真夜中過ぎにレキシントンに到着し、彼の馬は汗をかいて息を切らしていた。彼はハンコックとアダムスが眠っている家に走った。
+ko: 그는 자정 직후에 렉싱턴에 도착했고, 그의 말은 땀에 젖어 헐떡거리고 있었다. 그는 핸콕과 애덤스가 잠들어 있는 집으로 달려갔다.
+zh: 他在午夜刚过后到达了列克星敦，他的马汗流浃背，气喘吁吁。他跑向汉考克和亚当斯睡觉的房子。
+ru: Он достиг Лексингтона сразу после полуночи, его лошадь была в мыле и тяжело дышала. Он побежал к дому, где спали Хэнкок и Адамс.
+hi: वह आधी रात के तुरंत बाद लेक्सिंगटन पहुंचा, उसका घोड़ा पसीने से तर और हांफ रहा था। वह उस घर की ओर दौड़ा जहां हैनकॉक और एडम्स सो रहे थे।
+it: Raggiunse Lexington poco dopo mezzanotte, il suo cavallo sudato e ansimante. Corse verso la casa dove dormivano Hancock e Adams.
+
+text: A nervous guard pointed a musket at him. "Stop! Don't make so much noise!" "Noise?" Revere shot back, his voice hoarse. "You'll have noise enough before long! The Regulars are coming!"
+pt: Um guarda nervoso apontou um mosquete para ele. "Pare! Não faça tanto barulho!" "Barulho?" Revere retrucou, sua voz rouca. "Você terá barulho suficiente em breve! Os Regulares estão chegando!"
+es: Un guardia nervioso le apuntó con un mosquete. "¡Alto! ¡No hagas tanto ruido!" "¿Ruido?" Revere respondió, su voz ronca. "¡Tendrás ruido suficiente pronto! ¡Los Regulares vienen!"
+fr: Un garde nerveux lui pointa un mousquet. "Arrêtez ! Ne faites pas tant de bruit !" "Du bruit ?" répondit Revere, sa voix rauque. "Vous aurez assez de bruit bientôt ! Les Réguliers arrivent !"
+de: Ein nervöser Wächter richtete eine Muskete auf ihn. "Halt! Machen Sie nicht so viel Lärm!" "Lärm?" antwortete Revere, seine Stimme heiser. "Sie werden bald genug Lärm haben! Die Regulars kommen!"
+ja: 神経質な警備員が彼にマスケット銃を向けた。「止まれ！そんなに騒ぐな！」「騒音？」リビアは答えた、彼の声はしわがれていた。「すぐに十分な騒音があるだろう！正規軍が来る！」
+ko: 긴장한 경비원이 그에게 머스킷을 겨누었다. "멈춰! 그렇게 시끄럽게 하지 마!" "시끄럽다고?" 리비어가 쉰 목소리로 대답했다. "곧 충분히 시끄러워질 거야! 정규군이 온다!"
+zh: 一个紧张的卫兵用火枪指着他。"站住！别弄出这么大声音！" "声音？"里维尔回答道，声音嘶哑。"你很快就会有足够的声音了！正规军来了！"
+ru: Нервный охранник направил на него мушкет. "Стой! Не шумите так!" "Шум?" ответил Ревир, его голос был хриплым. "У вас скоро будет достаточно шума! Регулярные войска идут!"
+hi: एक घबराए हुए गार्ड ने उस पर मस्केट तान दी। "रुको! इतना शोर मत करो!" "शोर?" रेवियर ने जवाब दिया, उसकी आवाज़ कर्कश थी। "तुम्हें जल्द ही काफी शोर मिलेगा! रेगुलर आ रहे हैं!"
+it: Una guardia nervosa gli puntò un moschetto. "Alt! Non fare tanto rumore!" "Rumore?" rispose Revere, la sua voce roca. "Avrai abbastanza rumore presto! I Regolari stanno arrivando!"
+
+text: He delivered his warning, saving the founding fathers. But his mission wasn't over. He mounted again with two others, William Dawes and Dr. Samuel Prescott, to ride for Concord.
+pt: Ele entregou seu aviso, salvando os pais fundadores. Mas sua missão não terminou. Ele montou novamente com outros dois, William Dawes e Dr. Samuel Prescott, para cavalgar para Concord.
+es: Entregó su advertencia, salvando a los padres fundadores. Pero su misión no había terminado. Montó nuevamente con otros dos, William Dawes y el Dr. Samuel Prescott, para cabalgar a Concord.
+fr: Il délivra son avertissement, sauvant les pères fondateurs. Mais sa mission n'était pas terminée. Il remonta à cheval avec deux autres, William Dawes et le Dr Samuel Prescott, pour chevaucher vers Concord.
+de: Er überbrachte seine Warnung und rettete die Gründerväter. Aber seine Mission war noch nicht beendet. Er stieg wieder auf mit zwei anderen, William Dawes und Dr. Samuel Prescott, um nach Concord zu reiten.
+ja: 彼は警告を伝え、建国の父たちを救った。しかし彼の使命は終わっていなかった。彼は他の二人、ウィリアム・ドーズとサミュエル・プレスコット博士と再び馬に乗り、コンコードに向かった。
+ko: 그는 경고를 전달하여 건국의 아버지들을 구했다. 하지만 그의 임무는 끝나지 않았다. 그는 다른 두 명, 윌리엄 도스와 사무엘 프레스콧 박사와 함께 다시 말에 올라 콩코드로 향했다.
+zh: 他传达了警告，拯救了开国元勋们。但他的使命还没有结束。他与另外两人威廉·道斯和塞缪尔·普雷斯科特博士再次骑马前往康科德。
+ru: Он передал своё предупреждение, спасая отцов-основателей. Но его миссия не была окончена. Он снова сел на коня с двумя другими, Уильямом Доузом и доктором Сэмюэлем Прескоттом, чтобы ехать в Конкорд.
+hi: उसने अपनी चेतावनी दी, संस्थापक पिताओं को बचाते हुए। लेकिन उसका मिशन खत्म नहीं हुआ था। वह दो अन्य लोगों, विलियम डावेस और डॉ. सैमुअल प्रेस्कॉट के साथ फिर से घोड़े पर सवार हुआ, कॉनकॉर्ड के लिए सवारी करने के लिए।
+it: Consegnò il suo avvertimento, salvando i padri fondatori. Ma la sua missione non era finita. Montò di nuovo con altri due, William Dawes e il Dr. Samuel Prescott, per cavalcare verso Concord.
+
+text: And then, the inevitable. In the small hours of the morning, a patrol of a dozen British officers surrounded them. Dawes escaped. Prescott leapt a stone wall and vanished into the night to complete the warning.
+pt: E então, o inevitável. Nas primeiras horas da manhã, uma patrulha de uma dúzia de oficiais britânicos os cercou. Dawes escapou. Prescott saltou um muro de pedra e desapareceu na noite para completar o aviso.
+es: Y entonces, lo inevitable. En las primeras horas de la mañana, una patrulla de una docena de oficiales británicos los rodeó. Dawes escapó. Prescott saltó un muro de piedra y desapareció en la noche para completar la advertencia.
+fr: Et puis, l'inévitable. Aux petites heures du matin, une patrouille d'une douzaine d'officiers britanniques les encercla. Dawes s'échappa. Prescott sauta un mur de pierre et disparut dans la nuit pour compléter l'avertissement.
+de: Und dann das Unvermeidliche. In den frühen Morgenstunden umzingelte sie eine Patrouille von einem Dutzend britischer Offiziere. Dawes entkam. Prescott sprang über eine Steinmauer und verschwand in der Nacht, um die Warnung zu vollenden.
+ja: そして、避けられないことが起こった。朝の早い時間に、十数人のイギリス軍将校の巡回隊が彼らを包囲した。ドーズは逃げた。プレスコットは石の壁を飛び越え、警告を完了するために夜に消えた。
+ko: 그리고 피할 수 없는 일이 일어났다. 이른 아침 시간에 십여 명의 영국 장교들로 구성된 순찰대가 그들을 포위했다. 도스는 탈출했다. 프레스콧은 돌담을 뛰어넘어 경고를 완수하기 위해 밤 속으로 사라졌다.
+zh: 然后，不可避免的事情发生了。在凌晨时分，一队十几名英国军官包围了他们。道斯逃脱了。普雷斯科特跳过石墙，消失在夜色中去完成警告。
+ru: А затем неизбежное. В предрассветные часы патруль из дюжины британских офицеров окружил их. Доуз сбежал. Прескотт перепрыгнул каменную стену и исчез в ночи, чтобы завершить предупреждение.
+hi: और फिर, अपरिहार्य। सुबह के शुरुआती घंटों में, एक दर्जन ब्रिटिश अधिकारियों की एक गश्त ने उन्हें घेर लिया। डावेस भाग गया। प्रेस्कॉट ने एक पत्थर की दीवार कूदी और चेतावनी पूरी करने के लिए रात में गायब हो गया।
+it: E poi, l'inevitabile. Nelle prime ore del mattino, una pattuglia di una dozzina di ufficiali britannici li circondò. Dawes fuggì. Prescott saltò un muro di pietra e svanì nella notte per completare l'avvertimento.
+
+text: But Revere was captured. Held at gunpoint, an officer put a pistol to his chest. "Where did you come from?" he demanded. "From Boston," Revere replied, his defiance unbroken.
+pt: Mas Revere foi capturado. Mantido sob mira de arma, um oficial colocou uma pistola em seu peito. "De onde você veio?" ele exigiu. "De Boston," Revere respondeu, sua desafio intacto.
+es: Pero Revere fue capturado. Sostenido a punta de pistola, un oficial puso una pistola en su pecho. "¿De dónde vienes?" exigió. "De Boston," respondió Revere, su desafío intacto.
+fr: Mais Revere fut capturé. Tenu sous la menace d'une arme, un officier mit un pistolet sur sa poitrine. "D'où venez-vous ?" exigea-t-il. "De Boston," répondit Revere, sa défiance intacte.
+de: Aber Revere wurde gefangen genommen. Unter Waffengewalt gehalten, hielt ihm ein Offizier eine Pistole an die Brust. "Wo kommen Sie her?" verlangte er. "Aus Boston," antwortete Revere, sein Trotz ungebrochen.
+ja: しかしリビアは捕らえられた。銃口を向けられ、将校が彼の胸にピストルを突きつけた。「どこから来た？」と要求した。「ボストンから」とリビアは答え、彼の反抗心は折れていなかった。
+ko: 하지만 리비어는 붙잡혔다. 총구를 겨누고 있는 상태에서 한 장교가 그의 가슴에 권총을 댔다. "어디서 왔나?" 그가 요구했다. "보스턴에서요," 리비어가 대답했고, 그의 반항심은 꺾이지 않았다.
+zh: 但里维尔被抓住了。在枪口威胁下，一名军官把手枪顶在他的胸前。"你从哪里来？"他要求道。"从波士顿，"里维尔回答，他的反抗精神未被打破。
+ru: Но Ревир был схвачен. Под дулом пистолета офицер приставил пистолет к его груди. "Откуда вы пришли?" потребовал он. "Из Бостона," ответил Ревир, его дерзость не сломлена.
+hi: लेकिन रेवियर को पकड़ लिया गया। बंदूक की नोक पर रखे गए, एक अधिकारी ने उसकी छाती पर पिस्तौल रखी। "तुम कहाँ से आए हो?" उसने मांग की। "बोस्टन से," रेवियर ने जवाब दिया, उसकी अवज्ञा अटूट थी।
+it: Ma Revere fu catturato. Tenuto sotto tiro, un ufficiale gli puntò una pistola al petto. "Da dove vieni?" chiese. "Da Boston," rispose Revere, la sua sfida intatta.
+
+text: "When did you leave?" "About ten o'clock." The man was stunned. No one could ride that fast. They interrogated him, but Revere hammered them with words instead of metal.
+pt: "Quando você partiu?" "Por volta das dez horas." O homem ficou pasmo. Ninguém poderia cavalgar tão rápido. Eles o interrogaram, mas Revere os martelou com palavras em vez de metal.
+es: "¿Cuándo saliste?" "Alrededor de las diez." El hombre estaba atónito. Nadie podía cabalgar tan rápido. Lo interrogaron, pero Revere los martilló con palabras en lugar de metal.
+fr: "Quand êtes-vous parti ?" "Vers dix heures." L'homme était stupéfait. Personne ne pouvait chevaucher si vite. Ils l'interrogèrent, mais Revere les martela avec des mots au lieu de métal.
+de: "Wann sind Sie aufgebrochen?" "Gegen zehn Uhr." Der Mann war verblüfft. Niemand konnte so schnell reiten. Sie verhörten ihn, aber Revere hämmerte sie mit Worten statt mit Metall.
+ja: 「いつ出発したのか？」「10時頃です。」その男は唖然とした。誰もそんなに速く騎乗できるはずがない。彼らは彼を尋問したが、リビアは金属の代わりに言葉で彼らを打ちのめした。
+ko: "언제 떠났나?" "10시쯤요." 그 남자는 경악했다. 아무도 그렇게 빨리 말을 탈 수 없었다. 그들은 그를 심문했지만, 리비어는 금속 대신 말로 그들을 두들겨 팼다.
+zh: "你什么时候离开的？" "大约十点钟。"那个人震惊了。没有人能骑得那么快。他们审问他，但里维尔用言语而不是金属锤击他们。
+ru: "Когда вы выехали?" "Около десяти." Человек был ошеломлён. Никто не мог ехать так быстро. Они допрашивали его, но Ревир молотил их словами вместо металла.
+hi: "तुम कब निकले?" "लगभग दस बजे।" वह आदमी हैरान था। कोई भी इतनी तेज़ी से सवारी नहीं कर सकता था। उन्होंने उससे पूछताछ की, लेकिन रेवियर ने धातु के बजाय शब्दों से उन्हें पीटा।
+it: "Quando sei partito?" "Verso le dieci." L'uomo era sbalordito. Nessuno poteva cavalcare così veloce. Lo interrogarono, ma Revere li martellò con le parole invece che con il metallo.
+
+text: He told them everything—about the signals, the mobilization of the militia, the thousands of men now gathering. He wasn't revealing secrets; he was issuing a warning.
+pt: Ele contou tudo a eles—sobre os sinais, a mobilização da milícia, os milhares de homens agora se reunindo. Ele não estava revelando segredos; ele estava emitindo um aviso.
+es: Les contó todo—sobre las señales, la movilización de la milicia, los miles de hombres que ahora se reunían. No revelaba secretos; emitía una advertencia.
+fr: Il leur dit tout—sur les signaux, la mobilisation de la milice, les milliers d'hommes qui se rassemblaient maintenant. Il ne révélait pas de secrets ; il émettait un avertissement.
+de: Er erzählte ihnen alles—über die Signale, die Mobilisierung der Miliz, die Tausende von Männern, die sich jetzt versammelten. Er verriet keine Geheimnisse; er gab eine Warnung aus.
+ja: 彼は彼らにすべてを話した—信号について、民兵の動員について、今集まっている何千人もの男たちについて。彼は秘密を明かしていたのではなく、警告を発していたのだ。
+ko: 그는 그들에게 모든 것을 말했다—신호에 대해, 민병대의 동원에 대해, 지금 모이고 있는 수천 명의 남자들에 대해. 그는 비밀을 폭로하는 것이 아니라 경고를 발하고 있었다.
+zh: 他告诉了他们一切—关于信号，关于民兵的动员，关于现在正在集结的数千名男子。他不是在泄露秘密；他是在发出警告。
+ru: Он рассказал им всё—о сигналах, о мобилизации ополчения, о тысячах людей, которые теперь собирались. Он не раскрывал секреты; он издавал предупреждение.
+hi: उसने उन्हें सब कुछ बताया—संकेतों के बारे में, मिलिशिया के जुटाव के बारे में, अब इकट्ठे हो रहे हजारों आदमियों के बारे में। वह रहस्य उजागर नहीं कर रहा था; वह एक चेतावनी जारी कर रहा था।
+it: Raccontò loro tutto—sui segnali, sulla mobilitazione della milizia, sulle migliaia di uomini che ora si stavano radunando. Non stava rivelando segreti; stava lanciando un avvertimento.
+
+text: As the first cracks of dawn appeared on the horizon, the distant sound of a gunshot echoed from Lexington Green. The first shot of the American Revolution.
+pt: Quando as primeiras rachaduras do amanhecer apareceram no horizonte, o som distante de um tiro ecoou de Lexington Green. O primeiro tiro da Revolução Americana.
+es: Cuando los primeros destellos del amanecer aparecieron en el horizonte, el sonido distante de un disparo resonó desde Lexington Green. El primer disparo de la Revolución Americana.
+fr: Quand les premières lueurs de l'aube apparurent à l'horizon, le son lointain d'un coup de feu résonna depuis Lexington Green. Le premier coup de feu de la Révolution américaine.
+de: Als die ersten Risse der Morgendämmerung am Horizont erschienen, hallte der ferne Klang eines Schusses von Lexington Green wider. Der erste Schuss der Amerikanischen Revolution.
+ja: 夜明けの最初の光が地平線に現れたとき、レキシントン・グリーンから遠くの銃声が響いた。アメリカ革命の最初の銃声だった。
+ko: 새벽의 첫 번째 빛이 지평선에 나타났을 때, 렉싱턴 그린에서 멀리 총성이 울려 퍼졌다. 미국 혁명의 첫 번째 총성이었다.
+zh: 当黎明的第一缕光芒出现在地平线上时，从列克星敦绿地传来了遥远的枪声。这是美国革命的第一声枪响。
+ru: Когда первые проблески рассвета появились на горизонте, далёкий звук выстрела эхом отозвался с Лексингтон Грин. Первый выстрел Американской революции.
+hi: जब भोर की पहली किरणें क्षितिज पर दिखाई दीं, तो लेक्सिंगटन ग्रीन से एक बंदूक की आवाज़ गूंजी। अमेरिकी क्रांति की पहली गोली।
+it: Quando le prime crepe dell'alba apparvero all'orizzonte, il suono distante di uno sparo echeggiò da Lexington Green. Il primo sparo della Rivoluzione Americana.
+
+text: The startled British released their famous prisoner, keeping his horse but letting him walk away into the breaking day.
+pt: Os britânicos surpresos liberaram seu famoso prisioneiro, mantendo seu cavalo, mas deixando-o caminhar para o dia que raiava.
+es: Los británicos sorprendidos liberaron a su famoso prisionero, conservando su caballo pero dejándolo caminar hacia el amanecer.
+fr: Les Britanniques surpris libérèrent leur célèbre prisonnier, gardant son cheval mais le laissant marcher vers l'aube.
+de: Die überraschten Briten ließen ihren berühmten Gefangenen frei, behielten sein Pferd, aber ließen ihn in die Morgendämmerung hineinlaufen.
+ja: 驚いたイギリス軍は有名な囚人を解放し、彼の馬を保持したが、彼を夜明けに向かって歩かせた。
+ko: 놀란 영국군은 그들의 유명한 포로를 풀어주었고, 그의 말은 가져갔지만 그가 새벽을 향해 걸어가도록 했다.
+zh: 惊讶的英国人释放了他们著名的囚犯，保留了他的马但让他走向黎明。
+ru: Удивлённые британцы освободили своего знаменитого пленника, оставив себе его лошадь, но позволив ему идти навстречу рассвету.
+hi: हैरान ब्रिटिशों ने अपने प्रसिद्ध कैदी को रिहा कर दिया, उसके घोड़े को रखते हुए लेकिन उसे भोर की ओर चलने दिया।
+it: I britannici sorpresi liberarono il loro famoso prigioniero, tenendo il suo cavallo ma lasciandolo camminare verso l'alba.
+
+text: He stood there, watching the redcoats march toward their destiny, a destiny he had helped forge. He was just a man. A silversmith. A rider.
+pt: Ele ficou lá, observando os casacas vermelhas marcharem em direção ao seu destino, um destino que ele ajudou a forjar. Ele era apenas um homem. Um ourives. Um cavaleiro.
+es: Se quedó allí, observando a los casacas rojas marchar hacia su destino, un destino que él había ayudado a forjar. Era solo un hombre. Un platero. Un jinete.
+fr: Il resta là, regardant les tuniques rouges marcher vers leur destin, un destin qu'il avait aidé à forger. Il n'était qu'un homme. Un orfèvre. Un cavalier.
+de: Er stand da und beobachtete, wie die Rotröcke zu ihrem Schicksal marschierten, einem Schicksal, das er mitgestaltet hatte. Er war nur ein Mann. Ein Silberschmied. Ein Reiter.
+ja: 彼はそこに立ち、赤い軍服の兵士たちが彼らの運命に向かって行進するのを見ていた。それは彼が形作るのを助けた運命だった。彼はただの男だった。銀細工師。騎手。
+ko: 그는 거기 서서 빨간 군복을 입은 병사들이 그들의 운명을 향해 행진하는 것을 지켜보았다. 그가 만드는 데 도움을 준 운명이었다. 그는 그저 한 사람이었다. 은세공사. 기수.
+zh: 他站在那里，看着红衣兵向他们的命运进军，一个他帮助锻造的命运。他只是一个人。一个银匠。一个骑手。
+ru: Он стоял там, наблюдая, как красные мундиры маршируют к своей судьбе, судьбе, которую он помог выковать. Он был всего лишь человеком. Серебряных дел мастером. Всадником.
+hi: वह वहीं खड़ा रहा, लाल कोट वालों को अपनी किस्मत की ओर मार्च करते देखते हुए, एक किस्मत जिसे बनाने में उसने मदद की थी। वह सिर्फ एक आदमी था। एक चांदी का कारीगर। एक सवार।
+it: Rimase lì, guardando le giubbe rosse marciare verso il loro destino, un destino che aveva contribuito a forgiare. Era solo un uomo. Un argentiere. Un cavaliere.
+
+text: But on this night, his voice had become the voice of a people, his ride the heartbeat of a revolution beginning to pound across the land.
+pt: Mas nesta noite, sua voz tornou-se a voz de um povo, sua cavalgada o batimento cardíaco de uma revolução começando a pulsar através da terra.
+es: Pero en esta noche, su voz se había convertido en la voz de un pueblo, su paseo el latido del corazón de una revolución comenzando a palpitar através de la tierra.
+fr: Mais en cette nuit, sa voix était devenue la voix d'un peuple, sa chevauchée le battement de cœur d'une révolution commençant à battre à travers la terre.
+de: Aber in dieser Nacht war seine Stimme zur Stimme eines Volkes geworden, sein Ritt der Herzschlag einer Revolution, die über das Land zu pochen begann.
+ja: しかしこの夜、彼の声は人々の声となり、彼の騎行は大地を駆け巡り始めた革命の鼓動となった。
+ko: 하지만 이 밤에 그의 목소리는 한 민족의 목소리가 되었고, 그의 기마행은 땅 전체에 고동치기 시작한 혁명의 심장박동이 되었다.
+zh: 但在这个夜晚，他的声音已经成为了一个民族的声音，他的骑行成为了开始在大地上跳动的革命心跳。
+ru: Но в эту ночь его голос стал голосом народа, его скачка — сердцебиением революции, начинающей биться по всей земле.
+hi: लेकिन इस रात, उसकी आवाज़ एक लोगों की आवाज़ बन गई थी, उसकी सवारी एक क्रांति की धड़कन बन गई थी जो भूमि पर धड़कना शुरू कर रही थी।
+it: Ma in questa notte, la sua voce era diventata la voce di un popolo, la sua cavalcata il battito del cuore di una rivoluzione che iniziava a pulsare attraverso la terra.
+
+text: He didn't fire a shot, but his warning had armed a nation.
+pt: Ele não disparou um tiro, mas seu aviso armou uma nação.
+es: No disparó un tiro, pero su advertencia armó a una nación.
+fr: Il ne tira pas un coup de feu, mais son avertissement arma une nation.
+de: Er feuerte keinen Schuss ab, aber seine Warnung bewaffnete eine Nation.
+ja: 彼は一発も撃たなかったが、彼の警告は国を武装させた。
+ko: 그는 총을 쏘지 않았지만, 그의 경고는 한 나라를 무장시켰다.
+zh: 他没有开一枪，但他的警告武装了一个国家。
+ru: Он не выстрелил ни разу, но его предупреждение вооружило нацию.
+hi: उसने एक गोली नहीं चलाई, लेकिन उसकी चेतावनी ने एक राष्ट्र को हथियार दिए।
+it: Non sparò un colpo, ma il suo avvertimento armò una nazione.

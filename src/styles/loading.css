@@ -1,0 +1,78 @@
+/* Loading Components Styles */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  font-size: 1.2rem;
+  color: var(--text-muted, #666);
+}
+
+.loading-container.full-height {
+  height: 100vh;
+}
+
+.loading-container.small {
+  height: 20vh;
+  font-size: 1rem;
+}
+
+/* Loading text animation */
+.loading-text {
+  position: relative;
+}
+
+.loading-text::after {
+  content: '...';
+  animation: loadingDots 1.5s infinite;
+}
+
+@keyframes loadingDots {
+  0%, 20% {
+    color: transparent;
+    text-shadow: 0.25em 0 0 transparent, 0.5em 0 0 transparent;
+  }
+  40% {
+    color: var(--text-muted, #666);
+    text-shadow: 0.25em 0 0 transparent, 0.5em 0 0 transparent;
+  }
+  60% {
+    text-shadow: 0.25em 0 0 var(--text-muted, #666), 0.5em 0 0 transparent;
+  }
+  80%, 100% {
+    text-shadow: 0.25em 0 0 var(--text-muted, #666), 0.5em 0 0 var(--text-muted, #666);
+  }
+}
+
+/* Loading spinner */
+.loading-spinner {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 3px solid var(--border-light, #f3f3f3);
+  border-top: 3px solid var(--text-muted, #666);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-right: 10px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Authentication loading specific styles */
+.auth-loading {
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(5px);
+  border-radius: 8px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.admin-loading {
+  background-color: rgba(67, 97, 238, 0.05);
+  border: 1px solid rgba(67, 97, 238, 0.1);
+  border-radius: 8px;
+  padding: 2rem;
+}

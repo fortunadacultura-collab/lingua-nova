@@ -1,0 +1,4 @@
+title: Morning Routine
+speaker: Mike
+text: 哈！一步一步来。准备好迎接挑战了吗？
+

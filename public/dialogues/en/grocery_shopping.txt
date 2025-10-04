@@ -1,0 +1,260 @@
+title: Grocery Shopping
+speaker: Lucas
+text: Ana, do you plan your grocery trips, or just wing it?
+pt: Ana, você planeja suas idas ao supermercado ou vai na loucura?
+es: Ana, ¿planeas tus idas al supermercado o vas sobre la marcha?
+fr: Ana, planifies-tu tes courses ou tu improvises ?
+de: Ana, planst du deine Einkäufe oder machst du es spontan?
+ja: アナ、食料品の買い物は計画する？それとも行き当たりばったり？
+ko: 아나, 장보기를 계획해서 가니 아니면 즉흥적으로 가니?
+zh: 安娜，你会计划购买杂货还是随意而为？
+ru: Ана, ты планируешь походы за продуктами или действуешь спонтанно?
+hi: अना, क्या आप अपनी किराने की खरीदारी की योजना बनाती हैं या बस यूं ही चली जाती हैं?
+it: Ana, pianifichi la spesa o vai semplicemente a vedere cosa ti serve?
+
+speaker: Ana
+text: I like to plan. It helps me stay on budget and avoid buying things I don't need.
+pt: Eu gosto de planejar. Me ajuda a não estourar o orçamento e evita que eu compre coisas desnecessárias.
+es: Me gusta planificar. Me ayuda a no pasarme del presupuesto y evita que compre cosas innecesarias.
+fr: J'aime planifier. Ça m'aide à respecter mon budget et éviter d'acheter des choses inutiles.
+de: Ich plane gerne. Das hilft mir, im Budget zu bleiben und unnötige Käufe zu vermeiden.
+ja: 計画するのが好き。予算内に収めて、不要なものを買わずに済むから。
+ko: 계획하는 걸 좋아해. 예산을 지키고 필요 없는 것들을 사지 않게 도와줘.
+zh: 我喜欢做计划。这帮助我控制预算，避免买不需要的东西。
+ru: Я люблю планировать. Это помогает мне не выходить за рамки бюджета и не покупать ненужные вещи.
+hi: मुझे योजना बनाना पसंद है। यह मुझे बजट में रहने और अनावश्यक चीजें खरीदने से बचने में मदद करता है।
+it: Mi piace pianificare. Mi aiuta a rimanere nel budget ed evitare di comprare cose di cui non ho bisogno.
+
+speaker: Lucas
+text: I'm more of a last-minute grabber—which is why I sometimes end up with random snacks.
+pt: Sou mais do tipo que compra de última hora—por isso às vezes acabo com uns lanches aleatórios.
+es: Soy más de comprar de último minuto, por eso a veces termino con snacks random.
+fr: Je suis plutôt du genre à acheter à la dernière minute—c'est pourquoi je me retrouve parfois avec des snacks au hasard.
+de: Ich bin eher der spontane Käufer—deshalb ende ich manchmal mit zufälligen Snacks.
+ja: 僕はどちらかというと最後の瞬間に買う派—だから時々変なスナックを買ってしまう。
+ko: 나는 막판에 집어드는 타입이야—그래서 가끔 이상한 간식들을 사게 돼.
+zh: 我更像是最后一刻才抓取的人——这就是为什么我有时会买一些随机零食。
+ru: Я скорее из тех, кто хватает в последний момент—поэтому иногда покупаю случайные снеки.
+hi: मैं अधिकतर अंतिम समय में पकड़ने वाला हूं—इसीलिए कभी-कभी मैं बेतरतीब स्नैक्स के साथ समाप्त हो जाता हूं।
+it: Sono più del tipo che prende all'ultimo minuto—ecco perché a volte finisco con snack casuali.
+
+speaker: Ana
+text: Guilty pleasure alert! But I get it, sometimes life's hectic.
+pt: Alerta de prazer culposo! Mas eu entendo, às vezes a vida tá corrida.
+es: ¡Alerta de placer culposo! Pero lo entiendo, a veces la vida está loca.
+fr: Alerte plaisir coupable ! Mais je comprends, parfois la vie est mouvementée.
+de: Alarm für schuldige Vergnügen! Aber ich verstehe es, manchmal ist das Leben hektisch.
+ja: 罪悪感のある楽しみ警報！でも分かるよ、時々人生は忙しいから。
+ko: 죄책감 있는 즐거움 경보! 하지만 이해해, 가끔 인생이 바쁘니까.
+zh: 罪恶快感警报！但我理解，有时生活很忙碌。
+ru: Тревога виноватых удовольствий! Но я понимаю, иногда жизнь суматошная.
+hi: दोषी खुशी की चेतावनी! लेकिन मैं समझती हूं, कभी-कभी जिंदगी व्यस्त होती है।
+it: Allarme piacere colpevole! Ma capisco, a volte la vita è frenetica.
+
+speaker: Lucas
+text: Do you shop online or prefer going to the store?
+pt: Você compra online ou prefere ir na loja?
+es: ¿Compras online o prefieres ir a la tienda?
+fr: Tu fais tes courses en ligne ou tu préfères aller au magasin ?
+de: Kaufst du online ein oder gehst du lieber in den Laden?
+ja: オンラインで買い物する？それとも店に行く方が好き？
+ko: 온라인으로 쇼핑해 아니면 매장 가는 걸 선호해?
+zh: 你在网上购物还是更喜欢去商店？
+ru: Ты покупаешь онлайн или предпочитаешь ходить в магазин?
+hi: क्या आप ऑनलाइन खरीदारी करती हैं या स्टोर जाना पसंद करती हैं?
+it: Fai la spesa online o preferisci andare al negozio?
+
+speaker: Ana
+text: Depends. I love browsing markets, but online saves so much time.
+pt: Depende. Adoro dar uma volta nos mercados, mas online economiza muito tempo.
+es: Depende. Me encanta recorrer mercados, pero online ahorra mucho tiempo.
+fr: Ça dépend. J'adore parcourir les marchés, mais en ligne ça fait gagner tellement de temps.
+de: Kommt darauf an. Ich liebe es, durch Märkte zu stöbern, aber online spart so viel Zeit.
+ja: 場合による。市場を見て回るのは好きだけど、オンラインは時間の節約になる。
+ko: 경우에 따라 달라. 시장 구경하는 건 좋아하지만, 온라인은 시간을 많이 절약해줘.
+zh: 看情况。我喜欢逛市场，但网购节省很多时间。
+ru: Зависит от ситуации. Я люблю бродить по рынкам, но онлайн экономит столько времени.
+hi: निर्भर करता है। मुझे बाज़ारों में घूमना पसंद है, लेकिन ऑनलाइन बहुत समय बचाता है।
+it: Dipende. Mi piace girare per i mercati, ma online fa risparmiare molto tempo.
+
+speaker: Lucas
+text: That makes sense. I'm still old-school—I like seeing what I'm buying.
+pt: Faz sentido. Eu ainda sou da velha escola—gosto de ver o que estou comprando.
+es: Tiene sentido. Yo sigo siendo de la vieja escuela: me gusta ver lo que estoy comprando.
+fr: C'est logique. Je suis encore de la vieille école—j'aime voir ce que j'achète.
+de: Das macht Sinn. Ich bin noch altmodisch—ich sehe gerne, was ich kaufe.
+ja: それは理にかなってる。僕はまだ古い学校派—買うものを見るのが好きなんだ。
+ko: 말이 되네. 나는 아직 구식이야—내가 사는 걸 보는 게 좋아.
+zh: 这很有道理。我还是老派的——我喜欢看到我在买什么。
+ru: Это имеет смысл. Я всё ещё старой школы—мне нравится видеть, что я покупаю.
+hi: यह समझ में आता है। मैं अभी भी पुराने स्कूल का हूं—मुझे यह देखना पसंद है कि मैं क्या खरीद रहा हूं।
+it: Ha senso. Sono ancora della vecchia scuola—mi piace vedere cosa sto comprando.
+
+speaker: Ana
+text: That's smart! I tend to get distracted but using a list keeps me focused.
+pt: Isso é esperto! Eu costumo me distrair, mas usar uma lista me mantém focada.
+es: ¡Eso es inteligente! Suelo distraerme pero usar una lista me mantiene enfocada.
+fr: C'est intelligent ! J'ai tendance à me laisser distraire mais utiliser une liste me garde concentrée.
+de: Das ist klug! Ich lasse mich gerne ablenken, aber eine Liste zu verwenden hält mich fokussiert.
+ja: それは賢いね！私は気が散りがちだけど、リストを使うと集中できる。
+ko: 그건 현명해! 나는 산만해지는 경향이 있는데 리스트를 사용하면 집중할 수 있어.
+zh: 这很聪明！我容易分心，但使用清单让我保持专注。
+ru: Это умно! Я склонна отвлекаться, но использование списка помогает мне сосредоточиться.
+hi: यह स्मार्ट है! मैं विचलित हो जाती हूं लेकिन सूची का उपयोग मुझे केंद्रित रखता है।
+it: È intelligente! Tendo a distrarmi ma usare una lista mi tiene concentrata.
+
+speaker: Lucas
+text: Lists save lives, for sure. I've learned the hard way many times.
+pt: Listas salvam vidas, com certeza. Já aprendi isso na marra várias vezes.
+es: Las listas salvan vidas, seguro. Lo he aprendido por las malas muchas veces.
+fr: Les listes sauvent des vies, c'est sûr. Je l'ai appris à mes dépens plusieurs fois.
+de: Listen retten Leben, ganz sicher. Ich habe es schon oft auf die harte Tour gelernt.
+ja: リストは命を救う、確実に。何度も痛い目に遭って学んだよ。
+ko: 리스트는 생명을 구해, 확실히. 여러 번 힘들게 배웠어.
+zh: 清单救命，肯定的。我已经吃过很多次亏了。
+ru: Списки спасают жизни, точно. Я много раз учился на собственных ошибках.
+hi: सूचियां जिंदगी बचाती हैं, निश्चित रूप से। मैंने कई बार कड़े तरीके से सीखा है।
+it: Le liste salvano vite, di sicuro. L'ho imparato a mie spese molte volte.
+
+speaker: Ana
+text: How about fresh produce? Do you stick to local and seasonal?
+pt: E quanto aos produtos frescos? Você prefere locais e da época?
+es: ¿Y los productos frescos? ¿Prefieres lo local y de temporada?
+fr: Et les produits frais ? Tu préfères le local et de saison ?
+de: Und frische Produkte? Bevorzugst du lokale und saisonale?
+ja: 新鮮な農産物はどう？地元の季節のものを選ぶ？
+ko: 신선한 농산물은 어때? 지역 제철 것을 선호해?
+zh: 新鲜农产品呢？你更喜欢本地和时令的吗？
+ru: А как насчёт свежих продуктов? Ты предпочитаешь местные и сезонные?
+hi: ताज़ी उपज के बारे में क्या? क्या आप स्थानीय और मौसमी को प्राथमिकता देती हैं?
+it: E i prodotti freschi? Preferisci quelli locali e di stagione?
+
+speaker: Lucas
+text: I try. Farmers markets are great for that vibe and fresh stuff.
+pt: Eu tento. Feiras livres são ótimas pra essa vibe e coisas frescas.
+es: Intento. Los mercados de agricultores son geniales para ese ambiente y cosas frescas.
+fr: J'essaie. Les marchés fermiers sont géniaux pour cette ambiance et les produits frais.
+de: Ich versuche es. Bauernmärkte sind großartig für diese Atmosphäre und frische Sachen.
+ja: 努力してる。ファーマーズマーケットはその雰囲気と新鮮なものに最高だよ。
+ko: 노력해. 농부 시장은 그런 분위기와 신선한 것들에 좋아.
+zh: 我在努力。农贸市场对于那种氛围和新鲜食材很棒。
+ru: Стараюсь. Фермерские рынки отлично подходят для такой атмосферы и свежих продуктов.
+hi: मैं कोशिश करता हूं। किसान बाज़ार उस माहौल और ताज़ी चीज़ों के लिए बेहतरीन हैं।
+it: Ci provo. I mercati contadini sono fantastici per quell'atmosfera e le cose fresche.
+
+speaker: Ana
+text: Absolutely. Plus, supporting local is a huge plus.
+pt: Com certeza. Além disso, apoiar o comércio local é uma grande vantagem.
+es: Por supuesto. Además, apoyar lo local es una gran ventaja.
+fr: Absolument. En plus, soutenir le local est un énorme avantage.
+de: Absolut. Außerdem ist die Unterstützung der lokalen Wirtschaft ein großer Vorteil.
+ja: もちろん。それに、地元を支援するのは大きなプラスだよね。
+ko: 물론이야. 게다가 지역을 지원하는 건 큰 장점이야.
+zh: 当然。而且，支持本地是一个巨大的优势。
+ru: Абсолютно. Плюс поддержка местных — это огромный плюс.
+hi: बिल्कुल। इसके अलावा, स्थानीय का समर्थन करना एक बड़ा फायदा है।
+it: Assolutamente. Inoltre, sostenere il locale è un grande vantaggio.
+
+speaker: Lucas
+text: And healthier, right? I notice the taste difference immediately.
+pt: E mais saudável, né? Percebo a diferença de sabor na hora.
+es: ¿Y más saludable, verdad? Noto la diferencia de sabor inmediatamente.
+fr: Et plus sain, non ? Je remarque la différence de goût immédiatement.
+de: Und gesünder, oder? Ich bemerke den Geschmacksunterschied sofort.
+ja: そしてより健康的だよね？味の違いがすぐにわかるよ。
+ko: 그리고 더 건강하지, 맞지? 맛의 차이를 바로 느껴.
+zh: 而且更健康，对吧？我立刻就能尝出味道的差别。
+ru: И более здоровые, правда? Я сразу замечаю разницу во вкусе.
+hi: और स्वस्थ भी, है ना? मैं तुरंत स्वाद का अंतर महसूस करता हूं।
+it: E più sano, vero? Noto subito la differenza di sapore.
+
+speaker: Ana
+text: Totally. Plus, I make meal prep weekends fun by trying new recipes.
+pt: Demais. Além disso, faço os fins de semana de meal prep divertidos experimentando receitas novas.
+es: Totalmente. Además, hago que los fines de semana de meal prep sean divertidos probando recetas nuevas.
+fr: Totalement. En plus, je rends les week-ends de meal prep amusants en essayant de nouvelles recettes.
+de: Völlig. Außerdem mache ich Meal-Prep-Wochenenden lustig, indem ich neue Rezepte ausprobiere.
+ja: 完全に。それに、新しいレシピを試すことで、ミールプレップの週末を楽しくしてるの。
+ko: 완전히. 게다가 새로운 레시피를 시도해서 밀프렙 주말을 재미있게 만들어.
+zh: 完全同意。而且，我通过尝试新食谱让meal prep周末变得有趣。
+ru: Полностью согласна. Плюс я делаю выходные meal prep веселыми, пробуя новые рецепты.
+hi: बिल्कुल। इसके अलावा, मैं नई रेसिपी आज़माकर मील प्रेप वीकेंड को मज़ेदार बनाती हूं।
+it: Assolutamente. Inoltre, rendo divertenti i weekend di meal prep provando nuove ricette.
+
+speaker: Lucas
+text: Nice! I need to do that more instead of eating out every night.
+pt: Legal! Preciso fazer mais isso em vez de comer fora toda noite.
+es: ¡Genial! Necesito hacer eso más en lugar de comer fuera todas las noches.
+fr: Génial ! J'ai besoin de faire ça plus au lieu de manger dehors tous les soirs.
+de: Toll! Ich muss das mehr machen, anstatt jeden Abend auswärts zu essen.
+ja: いいね！毎晩外食する代わりに、もっとそれをする必要があるよ。
+ko: 좋네! 매일 밤 외식하는 대신 그걸 더 해야겠어.
+zh: 太好了！我需要多做这个，而不是每晚都在外面吃。
+ru: Классно! Мне нужно делать это больше вместо того, чтобы есть вне дома каждый вечер.
+hi: बेहतरीन! मुझे हर रात बाहर खाने के बजाय यह अधिक करना चाहिए।
+it: Fantastico! Devo farlo di più invece di mangiare fuori tutte le sere.
+
+speaker: Ana
+text: Small changes make a big impact on health and budget.
+pt: Pequenas mudanças fazem uma grande diferença na saúde e no orçamento.
+es: Los pequeños cambios hacen una gran diferencia en la salud y el presupuesto.
+fr: Les petits changements font une grande différence sur la santé et le budget.
+de: Kleine Veränderungen machen einen großen Unterschied für Gesundheit und Budget.
+ja: 小さな変化が健康と予算に大きな違いをもたらすよね。
+ko: 작은 변화가 건강과 예산에 큰 차이를 만들어.
+zh: 小的改变对健康和预算产生很大影响。
+ru: Небольшие изменения сильно влияют на здоровье и бюджет.
+hi: छोटे बदलाव स्वास्थ्य और बजट पर बड़ा प्रभाव डालते हैं।
+it: I piccoli cambiamenti fanno una grande differenza sulla salute e sul budget.
+
+speaker: Lucas
+text: Speaking of budget, coupons and cashback apps have helped me save big.
+pt: Falando em orçamento, cupons e apps de cashback me ajudaram a economizar muito.
+es: Hablando de presupuesto, los cupones y las apps de cashback me han ayudado a ahorrar mucho.
+fr: En parlant de budget, les coupons et les apps de cashback m'ont aidé à économiser beaucoup.
+de: Apropos Budget, Gutscheine und Cashback-Apps haben mir geholfen, viel zu sparen.
+ja: 予算といえば、クーポンとキャッシュバックアプリで大幅に節約できてるよ。
+ko: 예산 얘기가 나왔으니, 쿠폰과 캐시백 앱이 많이 절약하는 데 도움이 됐어.
+zh: 说到预算，优惠券和返现应用帮我省了很多钱。
+ru: Говоря о бюджете, купоны и приложения кэшбэка помогли мне сэкономить много.
+hi: बजट की बात करें तो, कूपन और कैशबैक ऐप्स ने मुझे बहुत बचाने में मदद की है।
+it: Parlando di budget, i coupon e le app di cashback mi hanno aiutato a risparmiare molto.
+
+speaker: Ana
+text: Love those apps! Shopping smart doesn't have to be boring.
+pt: Adoro esses apps! Comprar com inteligência não precisa ser chato.
+es: ¡Me encantan esas apps! Comprar de forma inteligente no tiene que ser aburrido.
+fr: J'adore ces apps ! Faire ses courses intelligemment n'a pas besoin d'être ennuyeux.
+de: Ich liebe diese Apps! Intelligent einkaufen muss nicht langweilig sein.
+ja: そのアプリ大好き！スマートに買い物することは退屈である必要はないよね。
+ko: 그런 앱들 정말 좋아해! 똑똑하게 쇼핑하는 게 지루할 필요는 없어.
+zh: 我喜欢那些应用！聪明购物不一定要无聊。
+ru: Обожаю эти приложения! Умные покупки не обязательно должны быть скучными.
+hi: मुझे वे ऐप्स पसंद हैं! स्मार्ट शॉपिंग उबाऊ होने की जरूरत नहीं है।
+it: Adoro quelle app! Fare la spesa in modo intelligente non deve essere noioso.
+
+speaker: Lucas
+text: Exactly! It's about working with the plan, not against it.
+pt: Exato! É sobre trabalhar com o plano, não contra ele.
+es: ¡Exacto! Se trata de trabajar con el plan, no en contra.
+fr: Exactement ! Il s'agit de travailler avec le plan, pas contre.
+de: Genau! Es geht darum, mit dem Plan zu arbeiten, nicht dagegen.
+ja: その通り！計画と一緒に働くことであって、反対することじゃないんだ。
+ko: 정확해! 계획과 함께 일하는 거지, 반대로 하는 게 아니야.
+zh: 没错！关键是配合计划，而不是对抗它。
+ru: Точно! Дело в том, чтобы работать с планом, а не против него.
+hi: बिल्कुल! यह योजना के साथ काम करने के बारे में है, इसके खिलाफ नहीं।
+it: Esatto! Si tratta di lavorare con il piano, non contro di esso.
+
+speaker: Ana
+text: So true. Grocery trips feel less like a chore and more like an adventure now.
+pt: Muito verdade. As idas ao supermercado agora parecem menos uma obrigação e mais uma aventura.
+es: Muy cierto. Ahora las idas al supermercado se sienten menos como una obligación y más como una aventura.
+fr: Très vrai. Maintenant les courses se sentent moins comme une corvée et plus comme une aventure.
+de: Sehr wahr. Jetzt fühlen sich Supermarktbesuche weniger wie eine Pflicht und mehr wie ein Abenteuer an.
+ja: とても真実だね。今はスーパーに行くのが義務というより冒険のように感じるよ。
+ko: 정말 맞아. 이제 마트 가는 게 의무라기보다는 모험처럼 느껴져.
+zh: 非常对。现在去超市感觉不像是义务，更像是一次冒险。
+ru: Очень верно. Теперь походы в супермаркет ощущаются меньше как обязанность и больше как приключение.
+hi: बहुत सच। अब किराने की दुकान जाना कम दायित्व और अधिक रोमांच की तरह लगता है।
+it: Verissimo. Ora andare al supermercato sembra meno un obbligo e più un'avventura.

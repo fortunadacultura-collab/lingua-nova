@@ -1,0 +1,286 @@
+title: Commuting
+speaker: Chloe
+text: Emily, how do you usually get to work? Do you brave the traffic or have a secret route?
+pt: Emily, como você costuma ir pro trabalho? Enfrenta o trânsito ou tem alguma rota secreta?
+es: Emily, ¿cómo sueles ir al trabajo? ¿Te enfrentas al tráfico o tienes alguna ruta secreta?
+fr: Emily, comment vas-tu habituellement au travail ? Affrontes-tu la circulation ou as-tu un itinéraire secret ?
+de: Emily, wie kommst du normalerweise zur Arbeit? Stellst du dich dem Verkehr oder hast du eine geheime Route?
+ja: エミリー、普段どうやって仕事に行ってる？渋滞に勇敢に向き合ってる？それとも秘密のルートでもあるの？
+ko: 에밀리, 평소에 어떻게 출근해? 차량 통행을 견디고 다니니, 아니면 비밀 경로라도 있어?
+zh: 艾米丽，你通常怎么去上班？是勇敢面对交通拥堵，还是有一条秘密路线？
+ru: Эмили, как ты обычно добираешься до работы? Смело пробираешься через пробки или у тебя есть секретный маршрут?
+hi: एमिली, तुम आमतौर पर काम पर कैसे जाती हो? क्या तुम यातायात का सामना करती हो या कोई गुप्त मार्ग है?
+it: Emily, come vai di solito al lavoro? Affronti coraggiosamente il traffico o hai un percorso segreto?
+
+speaker: Emily
+text: I try to avoid traffic by taking the metro, but it's still packed during rush hour.
+pt: Eu tento evitar o trânsito pegando o metrô, mas ainda fica lotado no horário de pico.
+es: Trato de evitar el tráfico tomando el metro, pero igual va llenísimo en hora pico.
+fr: J'essaie d'éviter la circulation en prenant le métro, mais c'est quand même bondé aux heures de pointe.
+de: Ich versuche, den Verkehr zu vermeiden, indem ich die U-Bahn nehme, aber sie ist trotzdem während der Stoßzeit überfüllt.
+ja: 地下鉄を使って渋滞を避けようとしてるんだけど、ラッシュアワーはそれでもすごく混んでるよ。
+ko: 지하철을 타서 차량 통행을 피하려고 하는데, 러시아워에는 여전히 만원이야.
+zh: 我尽量乘地铁避免交通拥堵，但高峰时间仍然非常拥挤。
+ru: Я стараюсь избегать пробок, пользуясь метро, но в час пик там все равно битком.
+hi: मैं मेट्रो लेकर यातायात से बचने की कोशिश करती हूं, लेकिन रश आवर में वह अभी भी भरी रहती है।
+it: Cerco di evitare il traffico prendendo la metro, ma è comunque affollata durante l'ora di punta.
+
+speaker: Chloe
+text: That sounds rough. I've been biking more lately when the weather's good—feels like a mini workout.
+pt: Isso parece puxado. Tenho andado mais de bike ultimamente quando o tempo tá bom—é tipo um mini treino.
+es: Suena pesado. He andado más en bici últimamente cuando hace buen tiempo—se siente como un mini entrenamiento.
+fr: Ça a l'air difficile. Je fais plus de vélo lately quand il fait beau—on dirait un mini entraînement.
+de: Das klingt anstrengend. Ich fahre lately mehr Fahrrad, wenn das Wetter gut ist—fühlt sich wie ein Mini-Workout an.
+ja: 大変そうだね。最近天気がいい日はもっと自転車に乗ってるんだけど—ミニワークアウトみたいな感じだよ。
+ko: 힘들겠다. 날씨가 좋을 때最近 자전거를 더 타고 있어—미니 운동 같은 느낌이야.
+zh: 听起来很辛苦。我最近天气好的时候经常骑自行车——感觉像是一次小型锻炼。
+ru: Звучит непросто. Я lately чаще езжу на велосипеде, когда погода хорошая—это как мини-тренировка.
+hi: यह कठिन लगता है। मैं最近 अच्छे मौसम में ज्यादा बाइक चला रही हूं—यह एक छोटी वर्कआउट जैसा लगता है।
+it: Ultimamente vado più spesso in bicicletta quando il tempo è bello—sembra un mini allenamento.
+
+speaker: Emily
+text: I admire that! I wish I could bike, but my commute is just too long.
+pt: Eu admiro isso! Queria poder andar de bike, mas meu trajeto é longo demais.
+es: ¡Admiro eso! Ojalá pudiera andar en bici, pero mi recorrido es demasiado largo.
+fr: J'admire ça ! J'aimerais pouvoir faire du vélo, mais mon trajet est tout simplement trop long.
+de: Das bewundere ich! Ich wünschte, ich könnte Fahrrad fahren, aber mein Arbeitsweg ist einfach zu lang.
+ja: それ、すごくいいね！私も自転車に乗れたらいいんだけど、通勤距離が長すぎるんだ。
+ko: 그점 정말 좋네! 나도 자전거를 탈 수 있으면 좋겠는데, 통근 거리가 너무 길어.
+zh: 真佩服你！我也希望能骑自行车，但我通勤的路程太长了。
+ru: Я восхищаюсь этим! Хотелось бы и мне покататься, но мой путь на работу слишком длинный.
+hi: मैं उसकी प्रशंसा करती हूं! काश मैं बाइक चला पाती, लेकिन मेरा आवागमन बहुत लंबा है।
+it: Lo ammiro! Vorrei poter andare in bicicletta, ma il mio tragitto casa-lavoro è troppo lungo.
+
+speaker: Chloe
+text: Totally get it. Sometimes I catch a ride with Jake when the traffic's brutal.
+pt: Entendo totalmente. Às vezes pego carona com o Jake quando o trânsito tá terrível.
+es: Te entiendo completamente. A veces me voy con Jake cuando el tráfico está terrible.
+fr: Je comprends tout à fait. Parfois, je fais un tour avec Jake quand la circulation est brutale.
+de: Verstehe ich vollkommen. Manchmal fahre ich mit Jake mit, wenn der Verkehr brutal ist.
+ja: まったく同感だよ。渋滞がひどい時は、時々ジェイクの車に相乗りしてるよ。
+ko: 완전히 이해해. 차량 통행이 심할 때는 가끔 제이크 차에搭便车 타.
+zh: 完全理解。有时交通特别糟糕时，我会搭杰克的便车。
+ru: Полностью понимаю. Иногда, когда пробки жестокие, я подвожусь с Джейком.
+hi: पूरी तरह से समझ गया। कभी-कभी यातायात बहुत खराब होने पर मैं जेक के साथ सवारी कर लेती हूं।
+it: Capisco perfettamente. A volte quando il traffico è terribile, vado con Jake.
+
+speaker: Emily
+text: That's smart. Carpooling definitely cuts down on stress.
+pt: Isso é esperto. Dividir o carro com certeza reduz o estresse.
+es: Eso es inteligente. Compartir carro definitivamente reduce el estrés.
+fr: C'est intelligent. Le covoiturage réduit definitely le stress.
+de: Das ist schlau. Fahrgemeinschaften reduzieren definitely Stress.
+ja: それは賢いね。相乗りは確実にストレスを減らしてくれる。
+ko: 그거 현명한데。 카풀은 확실히 스트레스를 줄여줘.
+zh: 很聪明。拼车肯定能减轻压力。
+ru: Это умно. Совместные поездки определенно снижают стресс.
+hi: यह चतुराई है। कारपूलिंग निश्चित रूप से तनाव कम करती है।
+it: È intelligente. Il carpooling riduce sicuramente lo stress.
+
+speaker: Chloe
+text: Plus, it's better for the environment, so it feels good on all fronts.
+pt: Além disso, é melhor pro meio ambiente, então é bom em todos os aspectos.
+es: Además, es mejor para el medio ambiente, así que se siente bien en todos los aspectos.
+fr: De plus, c'est meilleur pour l'environnement, donc c'est bon sur tous les fronts.
+de: Außerdem ist es besser für die Umwelt, also fühlt es sich auf allen Ebenen gut an.
+ja: それに、環境にも優しいし、全ての面でいいこと尽くめだよ。
+ko: 게다가 환경에도 더 좋아서, 모든 면에서 좋네.
+zh: 而且对环境更好，所以在各方面都感觉很好。
+ru: Плюс, это лучше для окружающей среды, так что хорошо со всех сторон.
+hi: इसके अलावा, यह पर्यावरण के लिए भी बेहतर है, इसलिए हर मोर्चे पर अच्छा लगता है।
+it: Inoltre, è meglio per l'ambiente, quindi ci si sente bene su tutti i fronti.
+
+speaker: Emily
+text: Do you listen to music or podcasts while commuting? Helps pass the time?
+pt: Você ouve música ou podcasts no trajeto? Ajuda a passar o tempo?
+es: ¿Escuchas música o podcasts mientras te desplazas? ¿Ayuda a pasar el tiempo?
+fr: Écoutes-tu de la musique ou des podcasts pendant tes trajets ? Ça aide à passer le temps ?
+de: Hörst du Musik oder Podcasts während des Pendelns? Hilft das, die Zeit zu vertreiben?
+ja: 通勤中に音楽やポッドキャストを聴いてる？時間をつぶすのに役立つ？
+ko: 출퇴근할 때 음악이나 팟캐스트 들어? 시간 보내는 데 도움이 돼?
+zh: 通勤时你会听音乐或播客吗？有助于打发时间吗？
+ru: Ты слушаешь музыку или подкасты по дороге? Помогает скоротать время?
+hi: क्या तुम यात्रा के दौरान संगीत या पॉडकास्ट सुनती हो? क्या इससे समय बिताने में मदद मिलती है?
+it: Ascolti musica o podcast mentre vai al lavoro? Aiuta a far passare il tempo?
+
+speaker: Chloe
+text: I'm all about podcasts—learn new things and keep my mind occupied.
+pt: Eu sou viciada em podcasts—aprendo coisas novas e mantenho a mente ocupada.
+es: Yo soy fanática de los podcasts—aprendo cosas nuevas y mantengo la mente ocupada.
+fr: Je suis à fond sur les podcasts—j'apprends de nouvelles choses et je garde mon esprit occupé.
+de: Ich stehe total auf Podcasts—lerne neue Dinge und halte meinen Geist beschäftigt.
+ja: 私はポッドキャストに夢中だよ—新しいことを学べて、頭を忙しく保てるから。
+ko: 나는 팟캐스트에 푹 빠져 있어—새로운 것들을 배우고 마음을 바쁘게 유지할 수 있어.
+zh: 我非常喜欢播客——可以学到新东西，让我的大脑保持忙碌。
+ru: Я обожаю подкасты—узнаю новое и занимаю свой ум.
+hi: मैं पॉडकास्ट की बहुत बड़ी प्रशंसक हूं—नई चीजें सीखती हूं और अपने दिमाग को व्यस्त रखती हूं।
+it: Sono completamente presa dai podcast—imparo cose nuove e tengo la mente occupata.
+
+speaker: Emily
+text: Same here. Recently, I've been catching up on tech news podcasts; keeps me in the loop.
+pt: Idem aqui. Recentemente, tenho ouvido podcasts de notícias de tecnologia; me mantém informada.
+es: Igual yo. Últimamente, he estado escuchando podcasts de noticias tecnológicas; me mantiene al día.
+fr: Pareil pour moi. Récemment, j'ai écouté des podcasts sur l'actualité technologique ; ça me tient au courant.
+de: Bei mir genauso. In letzter Zeit habe ich Tech-News-Podcasts nachgeholt; hält mich auf dem Laufenden.
+ja: 私も同じ。最近はテックニュースのポッドキャストを聞いているよ。情報を得るのに役立ってる。
+ko: 나도 같아.最近 테크 뉴스 팟캐스트를 듣고 있어; 최신 정보를 알 수 있게 해줘.
+zh: 我也是。最近我一直在听科技新闻播客；让我保持信息灵通。
+ru: Я тоже. В последнее время я наверстываю упущенное в подкастах о tech-новостях; это помогает мне быть в курсе.
+hi: मैं भी वही।最近 मैं टेक न्यूज के पॉडकास्ट सुन रही हूं; इससे मैं अपडेट रहती हूं।
+it: Anch'io. Di recente ho recuperato i podcast di notizie tecnologiche; mi tiene aggiornata.
+
+speaker: Chloe
+text: That's cool. On bad days, I just zone out and play my favorite songs on repeat.
+pt: Que legal. Nos dias ruins, eu simplesmente desligo e toco minhas músicas favoritas em repeat.
+es: Qué bacán. En los malos días, simplemente me desconecto y pongo mis canciones favoritas en repeat.
+fr: C'est cool. Les mauvais jours, je me déconnecte juste et je joue mes chansons préférées en repeat.
+de: Das ist cool. An schlechten Tagen schalte ich einfach ab und spiele meine Lieblingssongs auf Repeat.
+ja: それいいね。調子の悪い日は、ただぼーっとしてお気に入りの曲をリピート再生してる。
+ko: 그거 멋지네. 기분이 안 좋은 날에는 그냥 멍때리면서 좋아하는 노래를 반복해서 들어.
+zh: 很酷。在糟糕的日子里，我就放空自己，单曲循环我最喜欢的歌。
+ru: Это круто. В плохие дни я просто отключаюсь и включаю свои любимые песни на repeat.
+hi: यह अच्छा है। बुरे दिनों में, मैं बस सुन्न हो जाती हूं और अपने पसंदीदा गानों को दोहराती हूं।
+it: È bello. Nei giorni brutti, mi spengo e metto le mie canzoni preferite in ripetizione.
+
+speaker: Emily
+text: Sometimes that's the best therapy: a good playlist and some deep breaths.
+pt: Às vezes essa é a melhor terapia: uma boa playlist e algumas respirações profundas.
+es: A veces esa es la mejor terapia: una buena playlist y unas respiraciones profundas.
+fr: Parfois, c'est la meilleure thérapie : une bonne playlist et quelques respirations profondes.
+de: Manchmal ist das die beste Therapie: eine gute Playlist und ein paar tiefe Atemzüge.
+ja: 時々、それが最高のセラピーになるよね：良いプレイリストと深い呼吸。
+ko: 가끔 그게 최고의 therapy야: 좋은 플레이리스트와 깊은 숨쉬기.
+zh: 有时这就是最好的疗法：一个好的播放列表和几次深呼吸。
+ru: Иногда это лучшая терапия: хороший плейлист и несколько глубоких вдохов.
+hi: कभी-कभी वह सबसे अच्छी therapy होती है: एक अच्छी प्लेलिस्ट और कुछ गहरी सांसें।
+it: A volte è la migliore terapia: una buona playlist e qualche respiro profondo.
+
+speaker: Chloe
+text: Have you ever tried working remotely to skip the commute altogether?
+pt: Você já tentou trabalhar remotamente para pular o trajeto completamente?
+es: ¿Has intentado trabajar remoto para saltarte el viaje completamente?
+fr: As-tu déjà essayé de travailler à distance pour éviter completely les trajets ?
+de: Hast du jemals versucht, remote zu arbeiten, um das Pendeln completely zu vermeiden?
+ja: 通勤を完全にスキップするためにリモートワークを試したことはある？
+ko: 출퇴근을 완전히 건너뛰기 위해 원격 근무를 해본 적 있어?
+zh: 你有没有试过远程工作来完全避开通勤？
+ru: Ты когда-нибудь пробовала работать удаленно, чтобы completely избежать поездок на работу?
+hi: क्या तुमने कभी commute को पूरी तरह से छोड़ने के लिए दूर से काम करने की कोशिश की है?
+it: Hai mai provato a lavorare da remoto per saltare completamente il tragitto casa-lavoro?
+
+speaker: Emily
+text: A few days a week, yes. It really helps balance work and life.
+pt: Alguns dias por semana, sim. Realmente ajuda a equilibrar trabalho e vida.
+es: Unos días a la semana, sí. Realmente ayuda a equilibrar trabajo y vida.
+fr: Quelques jours par semaine, oui. Ça aide vraiment à équilibrer travail et vie personnelle.
+de: Ein paar Tage die Woche, ja. Es hilft wirklich, Arbeit und Leben in Einklang zu bringen.
+ja: 週に数日あるよ。それは本当にワークライフバランスを保つのに役立つ。
+ko: 일주일에 며칠은 그래. 그게真的으로 work-life balance를 맞추는 데 도움이 돼.
+zh: 一周有几天是的。它确实有助于平衡工作与生活。
+ru: Несколько дней в неделю, да. Это действительно помогает平衡 работе и личной жизни.
+hi: हफ्ते में कुछ दिन, हां। इससे वास्तव में काम और जीवन का संतुलन बनाने में मदद मिलती है।
+it: Alcuni giorni a settimana, sì. Aiuta davvero a bilanciare lavoro e vita privata.
+
+speaker: Chloe
+text: For sure. Commuting less means more energy for yoga and cooking.
+pt: Com certeza. Comutar menos significa mais energia para yoga e cozinhar.
+es: Seguro. Viajar menos significa más energía para yoga y cocinar.
+fr: Bien sûr. Moins de trajet signifie plus d'énergie pour le yoga et la cuisine.
+de: Auf jeden Fall. Weniger Pendeln bedeutet mehr Energie für Yoga und Kochen.
+ja: 確かに。通勤が少ないということは、ヨガと料理に使えるエネルギーが増えるということだね。
+ko: 확실히. 출퇴근을 덜 하면 요가와 요리에 쓸 에너지가 더 생기지.
+zh: 当然。减少通勤意味着有更多精力做瑜伽和做饭。
+ru: Конечно. Меньше поездок означает больше энергии на йогу и готовку.
+hi: निश्चित रूप से। कम commute का मतलब है योग और खाना बनाने के लिए अधिक ऊर्जा।
+it: Di sicuro. Meno spostamenti significa più energia per yoga e cucina.
+
+speaker: Emily
+text: Exactly! And fewer headaches from traffic jams.
+pt: Exatamente! E menos dores de cabeça com engarrafamentos.
+es: ¡Exacto! Y menos dolores de cabeza por los tacos.
+fr: Exactement ! Et moins de maux de tête à cause des embouteillages.
+de: Genau! Und weniger Kopfschmerzen durch Staus.
+ja: その通り！それに渋滞による頭痛も減る。
+ko: 정확히! 그리고 교통 체증으로 인한 두통도 줄어들고.
+zh: 没错！而且交通拥堵带来的头痛也少了。
+ru: Именно! И меньше головной боли из-за пробок.
+hi: बिल्कुल! और ट्रैफिक जाम से होने वाले सिरदर्द भी कम होते हैं।
+it: Esatto! E meno mal di testa da ingorghi.
+
+speaker: Chloe
+text: Speaking of which, have you noticed how traffic seems worse than ever lately?
+pt: Falando nisso, você notou como o trânsito parece pior do que nunca ultimamente?
+es: Hablando de eso, ¿has notado cómo el tráfico parece peor que nunca últimamente?
+fr: En parlant de ça, as-tu remarqué que la circulation semble pire que jamais lately ?
+de: Apropos, ist dir aufgefallen, dass der Verkehr lately schlimmer zu sein scheint als je zuvor?
+ja: そういえば、最近渋滞が以前よりひどくなってるように感じない？
+ko: 그런 말이 나왔는데,最近 교통 체증이 어느 때보다 심해진 것 같다고 느껴?
+zh: 说到这个，你有没有注意到最近的交通似乎比以往更糟？
+ru: Кстати говоря, ты заметила, что lately пробки кажутся хуже, чем когда-либо?
+hi: इसी बात पर, क्या तुमने गौर किया है कि最近 यातायात पहले से कहीं ज्यादा खराब लगता है?
+it: A proposito, hai notato che ultimamente il traffico sembra peggiore che mai?
+
+speaker: Emily
+text: It's crazy. Makes me appreciate the slow-paced rides at home.
+pt: É uma loucura. Me faz apreciar os passeios mais lentos em casa.
+es: Es una locura. Me hace apreciar los viajes tranquilos en casa.
+fr: C'est fou. Ça me fait apprécier les trajets tranquilles à la maison.
+de: Es ist verrückt. Lässt mich die gemütlichen Fahrten zu Hause zu schätzen wissen.
+ja: 狂ってるよ。家でのんびりした移動のありがたみがわかるようになった。
+ko: 미친 것 같아. 집에서 느긋하게 이동하는 것의 소중함을 깨닫게 해.
+zh: 太疯狂了。这让我更珍惜在家里的慢节奏出行。
+ru: Это безумие. Заставляет ценить неторопливые поездки дома.
+hi: यह पागलपन है। इससे मुझे घर पर धीमी गति की सवारी की सराहना होती है।
+it: È pazzesco. Mi fa apprezzare i viaggi lenti a casa.
+
+speaker: Chloe
+text: Same. Honestly, the commute sets the tone for the whole day.
+pt: Idem. Honestamente, o trajeto define o tom do dia inteiro.
+es: Igual. Honestamente, el viaje marca el tono de todo el día.
+fr: Pareil. Honnêtement, le trajet donne le ton pour toute la journée.
+de: Genau. Ehrlich gesagt, das Pendeln setzt den Ton für den ganzen Tag.
+ja: 同感だよ。正直、通勤が一日全体のトーンを決めるんだ。
+ko: 나도 같아. 솔직히, 출퇴근이 하루 전체의 tone을 정해.
+zh: 一样。说实话，通勤为整个一天定下了基调。
+ru: Точно. Честно говоря, поездка на работу задает тон всему дню.
+hi: वही। सच कहूं, तो commute पूरे दिन का tone तय करता है।
+it: Uguale. Onestamente, il tragitto casa-lavoro dà il tono a tutta la giornata.
+
+speaker: Emily
+text: Couldn't agree more, Chloe. Here's to smoother days ahead!
+pt: Não poderia concordar mais, Chloe. Um brinde a dias mais tranquilos pela frente!
+es: No podría estar más de acuerdo, Chloe. ¡Brindemos por días más suaves por delante!
+fr: Je ne pourrais pas être plus d'accord, Chloe. À des jours plus smooth à venir !
+de: Könnte nicht mehr zustimmen, Chloe. Auf smoother Tage ahead!
+ja: それ以上に同意できないよ、クロエ。今後のよりスムーズな日々に乾杯！
+ko: 더 이상 동의할 수 없어, 클로이. 앞으로의 더 smooth한 날들을 위하여!
+zh: 再同意不过了，Chloe。为未来更顺畅的日子干杯！
+ru: Не могу не согласиться больше, Хлоя. За более smoothные дни впереди!
+hi: मैं पूरी तरह सहमत हूं, क्लोई। आगे के smoother दिनों के लिए!
+it: Non potrei essere più d'accordo, Chloe. Ecco a giorni più tranquilli in arrivo!
+
+speaker: Chloe
+text: May the traffic gods be kind!
+pt: Que os deuses do trânsito sejam gentis!
+es: ¡Que los dioses del tráfico sean benevolentes!
+fr: Puisse les dieux de la circulation être cléments !
+de: Mögen die Verkehrsgötter gnädig sein!
+ja: 交通の神々が親切でありますように！
+ko: 교통의 신들이 친절하시길!
+zh: 愿交通之神仁慈！
+ru: Да будут боги трафика добры!
+hi: यातायात के देवता दयालु हों!
+it: Che gli dei del traffico siano gentili!
+
+speaker: Emily
+text: Amen! Let's keep our fingers crossed.
+pt: Amém! Vamos cruzar os dedos.
+es: ¡Amén! Crucemos los dedos.
+fr: Amen ! Gardons les doigts croisés.
+de: Amen! Drücken wir die Daumen!
+ja: アーメン！指を交差して祈ろう。
+ko: 아멘! 우리 fingers crossed 하자.
+zh: 阿门！让我们祈祷吧。
+ru: Аминь! Будем надеяться.
+hi: आमीन! चलो उम्मीद करते हैं।
+it: Amen! Incrociamo le dita.

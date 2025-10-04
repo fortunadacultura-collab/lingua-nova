@@ -1,0 +1,1186 @@
+/* Study Pages Styles */
+
+/* Study Container */
+.study-container {
+  /* Alinhado com o container de Diálogos */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.study-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.study-title {
+  font-size: 2.2rem;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+}
+
+.study-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+/* Flashcard */
+.flashcard-container {
+  perspective: 1000px;
+  margin-bottom: 2rem;
+}
+
+.flashcard {
+  width: 100%;
+  height: 480px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+  cursor: pointer;
+}
+
+.flashcard.flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Alinhamento condicional */
+.flashcard-face.media-content { align-items: center; justify-content: center; flex-direction: column; }
+.flashcard-face.text-only { align-items: center; justify-content: center; flex-direction: column; }
+
+.flashcard-front {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+}
+
+.flashcard-back {
+  background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+  color: white;
+  transform: rotateY(180deg);
+}
+
+.flashcard-text {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.flashcard-text img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.5rem auto;
+}
+
+/* Controles dentro do card (parte inferior, centralizado) */
+.flashcard-controls {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  pointer-events: auto;
+}
+
+.flashcard-front .control-caption {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+@media (max-width: 480px) {
+  .flashcard-controls { bottom: 0.5rem; }
+  .flashcard-front .control-caption { font-size: 0.8rem; }
+}
+
+/* Study Controls */
+.study-controls {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.study-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--primary-color);
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.25rem;
+  border-radius: 999px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  min-height: 44px;
+  box-shadow: 0 6px 16px rgba(0, 176, 255, 0.18);
+}
+
+/* Icon-only variant for compact actions */
+.study-btn.icon-only {
+  justify-content: center;
+  width: 44px;
+  min-height: 44px;
+  padding: 0;
+}
+.study-btn.icon-only i {
+  font-size: 1.1rem;
+}
+
+.study-btn:hover {
+  background: var(--secondary-color);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 22px rgba(255, 0, 200, 0.2);
+}
+
+.study-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 176, 255, 0.25), 0 6px 16px rgba(0, 176, 255, 0.18);
+}
+
+.study-btn:disabled {
+  background: var(--border-color);
+  color: var(--text-secondary);
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.study-btn.secondary {
+  background: white;
+  color: var(--primary-color);
+  border: 2px solid var(--primary-color);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+.study-btn.secondary:hover {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.study-btn.danger {
+  background: var(--danger);
+  color: #fff;
+}
+
+.study-btn.danger:hover {
+  background: #c53030;
+}
+
+/* Rating colors (acessíveis) */
+.study-btn.rate-hard {
+  border-color: #ef4444;
+  color: #ef4444;
+}
+.study-btn.rate-hard:hover { background: #ef4444; color: #fff; }
+
+.study-btn.rate-medium {
+  border-color: #f59e0b;
+  color: #f59e0b;
+}
+.study-btn.rate-medium:hover { background: #f59e0b; color: #fff; }
+
+.study-btn.rate-easy {
+  background: #22c55e;
+  border-color: #22c55e;
+}
+.study-btn.rate-easy:hover { background: #16a34a; }
+
+/* Progress */
+.study-progress {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.progress-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.progress-stats {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.progress-bar-container {
+  width: 100%;
+  height: 8px;
+  background: rgba(128, 128, 128, 0.3) !important;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+  transition: width 0.5s ease;
+}
+
+/* Toolbar de sessão */
+.session-toolbar {
+  display: flex;
+  gap: 0.6rem;
+  justify-content: center;
+  margin: 0 1rem 0.75rem 1rem;
+}
+.session-toolbar .toolbar-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid var(--border-color);
+  color: var(--text-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.session-toolbar .toolbar-btn i { font-size: 1rem; margin-right: 0.05rem; }
+.session-toolbar .toolbar-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.10);
+}
+.session-toolbar .toolbar-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.25);
+}
+
+/* Variantes: prev, restart, next */
+.session-toolbar .toolbar-btn.prev {
+  border-color: var(--border-color);
+  background: #fff;
+  color: var(--text-color);
+}
+.session-toolbar .toolbar-btn.restart {
+  color: #b45309; /* amber-700 */
+  border-color: rgba(245, 158, 11, 0.6); /* amber */
+  background: rgba(245, 158, 11, 0.06);
+}
+.session-toolbar .toolbar-btn.restart:hover {
+  background: rgba(245, 158, 11, 0.12);
+}
+.session-toolbar .toolbar-btn.next {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: #fff;
+  border-color: transparent;
+}
+.session-toolbar .toolbar-btn.next:hover {
+  filter: brightness(0.97);
+}
+
+@media (max-width: 480px) {
+  .session-toolbar { gap: 0.5rem; }
+  .session-toolbar .toolbar-btn { padding: 0.45rem 0.8rem; }
+  .session-toolbar .toolbar-btn i { font-size: 0.95rem; }
+}
+
+/* Dica de atalhos - UX aprimorado */
+.hotkeys-hint {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.75rem;
+}
+
+.hotkeys-container {
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.4rem 0.6rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.hotkeys-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.hotkey-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.4rem;
+  border-radius: 999px;
+  background: rgba(67, 97, 238, 0.08);
+  border: 1px solid rgba(67, 97, 238, 0.15);
+  white-space: nowrap;
+}
+
+.hotkey-chip i {
+  color: var(--primary-color);
+  font-size: 0.85rem;
+}
+
+.kbd {
+  display: inline-block;
+  padding: 0.12rem 0.3rem;
+  border-radius: 6px;
+  background: #fff;
+  border: 1px solid var(--border-color);
+  color: var(--text-color);
+  font-weight: 600;
+  font-size: 0.75rem;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.05);
+}
+
+@media (max-width: 480px) {
+  .hotkeys-container { border-radius: 10px; }
+  .hotkeys-list { gap: 0.4rem; }
+  .hotkey-chip { padding: 0.3rem 0.5rem; }
+  .kbd { font-size: 0.78rem; }
+}
+
+/* Deck Management */
+.deck-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.deck-card {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 16px;
+  padding: 1.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative; /* permite posicionamento absoluto do menu */
+}
+
+.deck-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(67, 97, 238, 0.1);
+  background: rgba(67, 97, 238, 0.05);
+}
+
+.deck-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.deck-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  position: relative;
+  padding-bottom: 0.8rem;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.deck-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 2px;
+  background: var(--accent);
+}
+
+/* Força quebra de linha segura em títulos longos de decks */
+.deck-title { white-space: normal; }
+
+/* Garante quebra do título sobreposto no card de estudo */
+.dialogue-title-hint {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  max-width: calc(100% - 1rem);
+}
+
+.deck-count {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.deck-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  width: 100%;
+}
+
+.deck-action-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.deck-action-btn:hover {
+  background: var(--background-light);
+  color: var(--primary-color);
+}
+
+.deck-stats {
+  display: flex;
+  justify-content: flex-start; /* alinhar Vencidos/Total à esquerda */
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* Deck stat badges for New/Learn/Review */
+.stat-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 8px;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+}
+.stat-badge.new { color: #22c55e; border-color: rgba(34, 197, 94, 0.35); }
+.stat-badge.learn { color: #f59e0b; border-color: rgba(245, 158, 11, 0.35); }
+.stat-badge.review { color: #0ea5e9; border-color: rgba(14, 165, 233, 0.35); }
+
+/* Add/Edit Card Form */
+.card-form {
+  background: white;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-label {
+  display: block;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.form-input:focus,
+.form-textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+}
+
+.form-textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.form-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+}
+
+/* Statistics */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stat-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+/* Lista de decks (modo lista) */
+.deck-table {
+  display: block;
+  width: 100%;
+  overflow-x: hidden; /* evita scroll horizontal quando colunas já são compactadas */
+}
+
+.deck-table-header {
+  display: grid;
+  grid-template-columns: 1.6fr 2.4fr 70px 70px 210px;
+  gap: 0.5rem;
+  align-items: center;
+  font-weight: 600;
+  padding: 0; /* alinhamento visual consistente com as linhas */
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  unicode-bidi: isolate;
+}
+
+.deck-row {
+  display: grid;
+  grid-template-columns: 1.6fr 2.4fr 70px 70px 210px;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0; /* alinhamento visual consistente com o cabeçalho */
+  background: var(--card-bg, #fff);
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 8px;
+  margin-top: 0.5rem;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  unicode-bidi: isolate;
+  position: relative; /* permite posicionar o menu no topo direito também no desktop */
+}
+
+/* Padding interno consistente por célula */
+.deck-table-header > div,
+.deck-row > div {
+  padding: 0.6rem 0.75rem; /* reduz padding horizontal para caber sem scroll */
+}
+
+/* Alinhamento do cabeçalho da coluna de ações à direita */
+.deck-table-header > div:last-child {
+  justify-self: start;
+  text-align: left;
+}
+
+/* Alinhar cabeçalhos das colunas numéricas à direita */
+.deck-table-header > div:nth-child(3),
+.deck-table-header > div:nth-child(4) {
+  text-align: right;
+}
+
+.deck-row .row-title {
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.deck-row .row-desc {
+  color: var(--muted-text, #666);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.deck-row .row-actions {
+  display: flex;
+  justify-content: flex-start;
+  justify-self: start; /* coerente com cabeçalho */
+  padding-left: 0.5rem; /* reduz padding para caber os ícones */
+  padding-right: 0.5rem;
+}
+
+/* Compactar ícones apenas na lista para evitar overflow */
+.deck-row .row-actions > div {
+  gap: 0.25rem !important; /* ainda mais compacto */
+  flex-wrap: nowrap; /* manter todos os botões na mesma linha */
+}
+.deck-row .row-actions .study-btn.icon-only {
+  width: 32px;
+  min-height: 32px;
+  box-shadow: none; /* menos largura visual */
+}
+.deck-row .row-actions .study-btn.icon-only i {
+  font-size: 0.9rem;
+}
+
+/* Alinhar células numéricas à direita */
+.deck-row .row-due,
+.deck-row .row-total {
+  text-align: right;
+}
+
+/* Desktop (default): esconder o menu mobile na lista */
+.deck-row .row-actions .actions-mobile { display: none; }
+
+@media (max-width: 720px) {
+  .deck-table-header {
+    display: none;
+  }
+  .deck-row {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    position: relative; /* permite posicionar o menu no topo direito */
+    padding: 0.5rem;
+  }
+  .deck-row .row-desc,
+  .deck-row .row-due,
+  .deck-row .row-total,
+  .deck-row .row-actions {
+    display: block;
+  }
+
+  /* Labels à esquerda para cada informação */
+  .deck-row .row-title::before,
+  .deck-row .row-desc::before,
+  .deck-row .row-due::before,
+  .deck-row .row-total::before {
+    display: block;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.15rem;
+    letter-spacing: 0.3px;
+  }
+  .deck-row .row-title::before { content: 'Nome'; }
+  .deck-row .row-desc::before { content: 'Descrição'; }
+  .deck-row .row-due::before { content: 'Vencidos'; }
+  .deck-row .row-total::before { content: 'Total'; }
+
+  /* Texto: permitir múltiplas linhas no mobile para melhor leitura */
+  .deck-row .row-title,
+  .deck-row .row-desc {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+
+  /* Ações: esconder desktop e mostrar menu de três pontos */
+  .deck-row .row-actions { padding-left: 0; padding-right: 0; }
+  .deck-row .row-actions .actions-desktop { display: none !important; }
+  .deck-row .row-actions .actions-mobile { display: inline-flex !important; justify-content: flex-start; }
+  /* Posicionar o botão de menu no canto superior direito da linha */
+  .deck-row .row-actions .actions-mobile {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    width: auto !important; /* sobrescreve inline style width: 100% do JSX */
+  }
+
+  /* Botão do menu “Mais” (três pontinhos) */
+  .deck-row .row-actions .more-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 36px;
+    padding: 0.4rem 0.6rem;
+    border: 1px solid var(--border-color);
+    background: var(--bg-primary);
+    border-radius: 8px;
+  }
+  .deck-row .row-actions .more-btn i { font-size: 1rem; }
+
+  /* Conteúdo do menu */
+  .deck-row .row-actions .actions-menu {
+    position: relative;
+  }
+  .deck-row .row-actions .actions-menu .menu {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0; /* alinha dropdown ao botão no topo direito */
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+    padding: 0.5rem;
+    min-width: 210px;
+    z-index: 1000;
+  }
+  .deck-row .row-actions .actions-menu[open] .menu { display: block; }
+  .deck-row .row-actions .actions-menu .menu { display: none; }
+
+  /* Itens do menu de ações */
+  .deck-row .row-actions .actions-menu .menu .study-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    margin: 0.15rem 0;
+    padding: 0.5rem 0.6rem;
+    border-radius: 8px;
+    box-shadow: none;
+  }
+  .deck-row .row-actions .actions-menu .menu .study-btn.secondary { background: var(--bg-primary); }
+  .deck-row .row-actions .actions-menu .menu .study-btn.danger { background: #fee2e2; color: #dc2626; }
+  .deck-row .row-actions .actions-menu .menu .study-btn:hover { background: var(--bg-secondary); }
+  /* Alinhar números à esquerda no mobile */
+  .deck-row .row-due,
+  .deck-row .row-total {
+    text-align: left;
+  }
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Empty States */
+.empty-state {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--text-secondary);
+}
+
+.empty-state-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.empty-state-title {
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+}
+
+.empty-state-description {
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .study-container {
+    padding: 1rem;
+  }
+  
+  .study-title {
+    font-size: 1.8rem;
+  }
+  
+  .flashcard {
+    height: 360px; /* altura mínima; JS ajusta dinamicamente acima disso */
+  }
+  
+  .flashcard-text {
+    font-size: 1.2rem;
+  }
+  
+  .study-controls {
+    flex-wrap: wrap;
+  }
+  
+  .study-btn {
+    min-width: 100px;
+    padding: 0.6rem 1.2rem;
+  }
+  
+  .deck-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .progress-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Responsividade adicional para o grid de decks, seguindo Diálogos */
+@media (max-width: 900px) {
+  .deck-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .deck-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .flashcard {
+    height: 320px; /* altura mínima; JS ajusta dinamicamente acima disso */
+  }
+  
+  .flashcard-face {
+    padding: 1rem;
+  }
+  
+  .flashcard-text {
+    font-size: 1rem;
+  }
+  
+  .card-form {
+    padding: 1.5rem;
+  }
+  
+  .form-actions {
+    flex-direction: column;
+  }
+  
+  .study-btn {
+    width: 100%;
+  }
+  
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- Flashcards Modern UI Enhancements --- */
+.flashcards-hero {
+  background: var(--gradient-primary);
+  border-radius: 16px;
+  padding: 1.5rem 1.75rem;
+  color: #fff;
+  box-shadow: 0 10px 30px rgba(0, 176, 255, 0.15);
+  margin-bottom: 1.25rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.flashcards-hero::after {
+  content: "";
+  position: absolute;
+  right: -60px;
+  top: -60px;
+  width: 180px;
+  height: 180px;
+  background: rgba(255, 255, 255, 0.15);
+  filter: blur(30px);
+  border-radius: 50%;
+}
+
+.hero-content h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.hero-content p {
+  margin: 0 0 1rem 0;
+  font-size: 1rem;
+  opacity: 0.95;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.pill-tabs {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 0.75rem 0 1rem 0;
+}
+
+.pill-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.85rem;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: all 0.25s ease;
+}
+
+.pill-tab:hover {
+  transform: translateY(-1px);
+  border-color: var(--primary-color);
+}
+
+.pill-tab.active {
+  background: var(--gradient-primary);
+  color: #fff;
+  border-color: var(--primary-color);
+  box-shadow: 0 6px 16px rgba(0, 176, 255, 0.25);
+}
+
+.pill-tab i {
+  font-size: 0.95rem;
+}
+
+.pill-tab:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 176, 255, 0.25), 0 6px 16px rgba(0,0,0,0.06);
+}
+
+.toolbar {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.75rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.toolbar-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 10px;
+  background: var(--background-light);
+  color: var(--text-color);
+  text-decoration: none;
+  border: 1px solid var(--border-color);
+  transition: all 0.25s ease;
+}
+
+.toolbar-btn:hover {
+  background: #fff;
+  border-color: var(--primary-color);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
+
+.toolbar-btn.primary {
+  background: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+  box-shadow: 0 6px 16px rgba(0, 176, 255, 0.25);
+}
+
+.toolbar-btn.primary:hover {
+  background: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+.metrics-bar {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+.badge.soft {
+  background: var(--background-light);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+  .hero-content h2 {
+    font-size: 1.25rem;
+  }
+  .hero-content p {
+    font-size: 0.95rem;
+  }
+}
+
+/* --- Page Title (padronização com Diálogos) --- */
+.page-title-container {
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-align: center;
+  margin: 0;
+  position: relative;
+  padding-bottom: 0.35rem;
+}
+
+.page-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 3px;
+  background: var(--gradient);
+}
+
+@media (max-width: 768px) {
+  .page-title-container {
+    padding: 0.75rem 0;
+    margin-bottom: 0.75rem;
+  }
+  .page-title {
+    font-size: 1.6rem;
+    padding-bottom: 0.25rem;
+  }
+  .page-title::after {
+    width: 56px;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-title {
+    font-size: 1.35rem;
+  }
+}
+
+/* --- Study Finish Overlay --- */
+.study-finish-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  backdrop-filter: blur(3px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.finish-card {
+  background: #fff;
+  color: #222;
+  border-radius: 12px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.25);
+  padding: 1.25rem 1.5rem;
+  width: 90%;
+  max-width: 520px;
+  text-align: center;
+}
+
+.finish-card h2 {
+  font-size: 1.4rem;
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.finish-card p {
+  margin: 0 0 1rem 0;
+  color: #444;
+}
+
+.finish-actions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+/* Menu de três pontinhos no card (topo direito) */
+.deck-card .card-actions-menu {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  z-index: 2;
+}
+.deck-card .card-more-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  min-width: 32px;
+  padding: 0.35rem;
+  border: 1px solid var(--border-color);
+  background: var(--bg-primary);
+  border-radius: 8px;
+  box-shadow: none;
+  list-style: none;
+}
+.deck-card .card-more-btn i { font-size: 0.95rem; }
+.deck-card .card-actions-menu summary::-webkit-details-marker { display: none; }
+
+.deck-card .card-actions-menu .menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: #fff;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+  padding: 0.5rem;
+  min-width: 210px;
+  z-index: 1000;
+  display: none;
+}
+.deck-card .card-actions-menu[open] .menu { display: block; }
+.deck-card .card-actions-menu .menu .study-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  margin: 0.15rem 0;
+  padding: 0.5rem 0.6rem;
+  border-radius: 8px;
+  box-shadow: none;
+}
+.deck-card .card-actions-menu .menu .study-btn.secondary { background: var(--bg-primary); }
+.deck-card .card-actions-menu .menu .study-btn.danger { background: #fee2e2; color: #dc2626; }
+.deck-card .card-actions-menu .menu .study-btn:hover { background: var(--bg-secondary); }
+
+/* Controle de visibilidade do menu vs ícones nos cards */
+@media (min-width: 721px) {
+  /* Desktop: esconder menu de três pontinhos no card */
+  .deck-card .card-actions-menu { display: none; }
+}
+@media (max-width: 720px) {
+  /* Mobile: esconder ícones e manter menu de três pontinhos no card */
+  .deck-card .deck-actions { display: none; }
+}

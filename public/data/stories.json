@@ -1,0 +1,64 @@
+{
+  "stories": {
+    "the_last_ride": {
+      "title": "The Last Ride of Paul Revere",
+      "description": "A historical tale about Paul Revere's famous midnight ride during the American Revolution.",
+      "icon": "fas fa-horse",
+      "theme": "History",
+      "difficulty": "intermediate",
+      "duration": "8-10 minutes",
+      "languages": ["en"],
+      "audioPath": "/audio/stories/",
+      "textPath": "/stories/"
+    },
+    "the_trip": {
+      "title": "The Trip",
+      "description": "An adventure story about an unexpected journey.",
+      "icon": "fas fa-suitcase-rolling",
+      "theme": "Adventure",
+      "difficulty": "beginner",
+      "duration": "5-7 minutes",
+      "languages": ["en"],
+      "audioPath": "/audio/stories/",
+      "textPath": "/stories/"
+    }
+  },
+  "themes": [
+    {
+      "id": "history",
+      "name": "History",
+      "icon": "fas fa-landmark",
+      "color": "#8B4513"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "icon": "fas fa-mountain",
+      "color": "#228B22"
+    },
+    {
+      "id": "life",
+      "name": "Life",
+      "icon": "fas fa-heart",
+      "color": "#FF69B4"
+    },
+    {
+      "id": "mystery",
+      "name": "Mystery",
+      "icon": "fas fa-search",
+      "color": "#4B0082"
+    },
+    {
+      "id": "comedy",
+      "name": "Comedy",
+      "icon": "fas fa-laugh",
+      "color": "#FFD700"
+    },
+    {
+      "id": "friendship",
+      "name": "Friendship",
+      "icon": "fas fa-users",
+      "color": "#20B2AA"
+    }
+  ]
+}

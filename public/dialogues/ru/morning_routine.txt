@@ -1,0 +1,4 @@
+title: Morning Routine
+speaker: Mike
+text: Ха! По одному шагу за раз. Готов к вызову?
+

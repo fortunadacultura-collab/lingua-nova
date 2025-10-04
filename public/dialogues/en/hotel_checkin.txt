@@ -1,0 +1,287 @@
+title: Hotel Check-in
+speaker: Ana
+text: Chloe, do you prefer dropping your bags at the front desk or using mobile check-in?
+pt: Chloe, você prefere deixar suas malas na recepção ou usar o check-in pelo celular?
+es: Chloe, ¿prefieres dejar tus maletas en recepción o usar el check-in por móvil?
+fr: Chloe, tu préfères déposer tes bagages à la réception ou utiliser l'enregistrement mobile ?
+de: Chloe, lässt du deine Taschen lieber an der Rezeption oder nutzt du den mobilen Check-in?
+ja: クロエ、フロントデスクに荷物を預けるのと、モバイルチェックインを使うのとどちらが好み？
+ko: 클로이, 프론트 데스크에 가방을 맡기는 것과 모바일 체크인 사용하는 것 중 어느 걸 선호해?
+zh: 克洛伊，你更喜欢在前台寄存行李还是使用手机办理入住？
+ru: Хлоя, ты предпочитаешь оставлять сумки на стойке регистрации или использовать мобильную регистрацию?
+hi: क्लोई, क्या आप अपने बैग फ्रंट डेस्क पर छोड़ना पसंद करती हैं या मोबाइल चेक-इन का उपयोग करना?
+it: Chloe, preferisci lasciare le valigie alla reception o usare il check-in mobile?
+
+speaker: Chloe
+text: Mobile check-in is my go-to when available—it speeds things up big time.
+pt: O check-in pelo celular é minha primeira opção quando tem—acelera demais as coisas.
+es: El check-in por móvil es mi preferido cuando está disponible—acelera muchísimo las cosas.
+fr: L'enregistrement mobile est mon choix quand c'est disponible—ça accélère énormément les choses.
+de: Mobiler Check-in ist meine erste Wahl, wenn verfügbar—das beschleunigt die Sache enorm.
+ja: モバイルチェックインが利用できる時は私の第一選択—すごく時間短縮になる。
+ko: 모바일 체크인이 가능할 때는 그게 내 첫 번째 선택이야—정말 많이 빨라져.
+zh: 手机办理入住是我的首选，如果有的话——大大加快了速度。
+ru: Мобильная регистрация—мой выбор, когда доступна—это очень ускоряет процесс.
+hi: मोबाइल चेक-इन मेरी पहली पसंद है जब उपलब्ध हो—यह चीजों को बहुत तेज़ कर देता है।
+it: Il check-in mobile è la mia prima scelta quando disponibile—velocizza molto le cose.
+
+speaker: Ana
+text: I'm with you, but sometimes I like talking to staff for local tips.
+pt: Concordo com você, mas às vezes gosto de falar com a equipe pra pegar dicas locais.
+es: Estoy contigo, pero a veces me gusta hablar con el personal para conseguir consejos locales.
+fr: Je suis d'accord avec toi, mais parfois j'aime parler au personnel pour avoir des conseils locaux.
+de: Ich bin bei dir, aber manchmal spreche ich gerne mit dem Personal für lokale Tipps.
+ja: 同感だけど、時々スタッフと話して地元の情報を聞くのが好き。
+ko: 동감이야, 하지만 때때로 직원들과 이야기해서 현지 팁을 얻는 걸 좋아해.
+zh: 我同意你的看法，但有时我喜欢和工作人员聊天获取当地建议。
+ru: Я с тобой согласна, но иногда мне нравится говорить с персоналом за местными советами.
+hi: मैं आपसे सहमत हूं, लेकिन कभी-कभी मुझे स्थानीय सुझावों के लिए स्टाफ से बात करना पसंद है।
+it: Sono d'accordo con te, ma a volte mi piace parlare con lo staff per consigli locali.
+
+speaker: Chloe
+text: Good point. Personalized recommendations can make your stay special.
+pt: Bom ponto. Recomendações personalizadas podem tornar sua estadia especial.
+es: Buen punto. Las recomendaciones personalizadas pueden hacer tu estadía especial.
+fr: Bon point. Les recommandations personnalisées peuvent rendre votre séjour spécial.
+de: Guter Punkt. Personalisierte Empfehlungen können deinen Aufenthalt besonders machen.
+ja: いいポイントね。個人的なおすすめは滞在を特別なものにしてくれる。
+ko: 좋은 지적이야. 개인화된 추천은 당신의 숙박을 특별하게 만들 수 있어.
+zh: 说得好。个性化的推荐可以让你的住宿变得特别。
+ru: Хорошая мысль. Персонализированные рекомендации могут сделать твое пребывание особенным.
+hi: अच्छी बात। व्यक्तिगत सिफारिशें आपके प्रवास को विशेष बना सकती हैं।
+it: Buon punto. Le raccomandazioni personalizzate possono rendere speciale il tuo soggiorno.
+
+speaker: Ana
+text: Ever had a rough check-in experience?
+pt: Já teve alguma experiência ruim no check-in?
+es: ¿Alguna vez has tenido una mala experiencia en el check-in?
+fr: As-tu déjà eu une mauvaise expérience d'enregistrement ?
+de: Hattest du schon mal eine schlechte Check-in-Erfahrung?
+ja: チェックインで嫌な経験をしたことある？
+ko: 체크인에서 안 좋은 경험 해본 적 있어?
+zh: 你有过糟糕的入住体验吗？
+ru: У тебя когда-нибудь был плохой опыт регистрации?
+hi: क्या आपका कभी चेक-इन का बुरा अनुभव रहा है?
+it: Hai mai avuto una brutta esperienza di check-in?
+
+speaker: Chloe
+text: Once, they lost my reservation. Nightmare.
+pt: Uma vez eles perderam minha reserva. Pesadelo.
+es: Una vez perdieron mi reserva. Pesadilla.
+fr: Une fois, ils ont perdu ma réservation. Cauchemar.
+de: Einmal haben sie meine Reservierung verloren. Alptraum.
+ja: 一度、予約を紛失されたことがある。悪夢だった。
+ko: 한 번 내 예약을 잃어버렸어. 악몽이었어.
+zh: 有一次，他们弄丢了我的预订。噩梦。
+ru: Однажды они потеряли мою бронь. Кошмар.
+hi: एक बार उन्होंने मेरा आरक्षण खो दिया। दुःस्वप्न।
+it: Una volta hanno perso la mia prenotazione. Incubo.
+
+speaker: Ana
+text: Ugh, worst feeling. I always double-check confirmations these days.
+pt: Aff, pior sensação. Hoje em dia eu sempre verifico as confirmações duas vezes.
+es: Uf, la peor sensación. Hoy en día siempre verifico las confirmaciones dos veces.
+fr: Ugh, le pire sentiment. Je vérifie toujours les confirmations deux fois maintenant.
+de: Ugh, das schlimmste Gefühl. Ich überprüfe heutzutage immer die Bestätigungen doppelt.
+ja: うわ、最悪の気分。最近は確認を必ず二重チェックしてる。
+ko: 으, 최악의 기분이야. 요즘은 항상 확인서를 두 번 체크해.
+zh: 呃，最糟糕的感觉。现在我总是会双重检查确认信息。
+ru: Ух, худшее чувство. Теперь я всегда дважды проверяю подтверждения.
+hi: उफ़, सबसे बुरा एहसास। आजकल मैं हमेशा पुष्टि को दो बार जांचती हूं।
+it: Ugh, la sensazione peggiore. Ora controllo sempre le conferme due volte.
+
+speaker: Chloe
+text: Same. A quick email before arrival saves headaches.
+pt: Igual. Um email rapidinho antes de chegar evita dor de cabeça.
+es: Igual. Un email rápido antes de llegar evita dolores de cabeza.
+fr: Pareil. Un email rapide avant l'arrivée évite les maux de tête.
+de: Genauso. Eine schnelle E-Mail vor der Ankunft erspart Kopfschmerzen.
+ja: 同じく。到着前の簡単なメールで頭痛を避けられる。
+ko: 마찬가지야. 도착 전 간단한 이메일이 골치 아픈 일을 막아줘.
+zh: 同样。到达前发个快速邮件可以避免头疼。
+ru: То же самое. Быстрое письмо перед прибытием избавляет от головной боли.
+hi: वही। आने से पहले एक त्वरित ईमेल सिरदर्द बचाता है।
+it: Uguale. Una email veloce prima dell'arrivo evita mal di testa.
+
+speaker: Ana
+text: I appreciate when hotels upgrade room types unexpectedly. Nice surprise!
+pt: Eu gosto quando os hotéis fazem upgrade do quarto inesperadamente. Surpresa boa!
+es: Me gusta cuando los hoteles mejoran el tipo de habitación inesperadamente. ¡Buena sorpresa!
+fr: J'apprécie quand les hôtels améliorent le type de chambre de manière inattendue. Belle surprise !
+de: Ich schätze es, wenn Hotels unerwartet den Zimmertyp upgraden. Schöne Überraschung!
+ja: ホテルが予期せずに部屋のタイプをアップグレードしてくれる時は嬉しい。素敵なサプライズ！
+ko: 호텔에서 예상치 못하게 방 타입을 업그레이드해줄 때 고마워. 좋은 서프라이즈야!
+zh: 我很欣赏酒店意外升级房间类型。很好的惊喜！
+ru: Я ценю, когда отели неожиданно улучшают тип номера. Приятный сюрприз!
+hi: मुझे अच्छा लगता है जब होटल अप्रत्याशित रूप से कमरे के प्रकार को अपग्रेड करते हैं। अच्छा आश्चर्य!
+it: Apprezzo quando gli hotel fanno upgrade inaspettati del tipo di camera. Bella sorpresa!
+
+speaker: Chloe
+text: Yes! Free upgrades make the trip feel luxe.
+pt: Sim! Upgrades de graça fazem a viagem parecer luxuosa.
+es: ¡Sí! Las mejoras gratis hacen que el viaje se sienta lujoso.
+fr: Oui ! Les améliorations gratuites donnent une impression de luxe au voyage.
+de: Ja! Kostenlose Upgrades lassen die Reise luxuriös wirken.
+ja: そう！無料アップグレードで旅行が豪華に感じられる。
+ko: 맞아! 무료 업그레이드가 여행을 럭셔리하게 느끼게 해줘.
+zh: 是的！免费升级让旅行感觉很奢华。
+ru: Да! Бесплатные улучшения делают поездку роскошной.
+hi: हां! मुफ्त अपग्रेड यात्रा को शानदार महसूस कराते हैं।
+it: Sì! Gli upgrade gratuiti fanno sentire il viaggio lussuoso.
+
+speaker: Ana
+text: What about early check-in?
+pt: E quanto ao check-in antecipado?
+es: ¿Y qué tal el check-in temprano?
+fr: Et l'enregistrement anticipé ?
+de: Was ist mit dem frühen Check-in?
+ja: 早めのチェックインはどう？
+ko: 일찍 체크인하는 건 어때?
+zh: 提前入住怎么样？
+ru: А как насчет раннего заселения?
+hi: जल्दी चेक-इन के बारे में क्या?
+it: E il check-in anticipato?
+
+speaker: Chloe
+text: Useful but not always guaranteed. I always ask politely.
+pt: Útil, mas nem sempre garantido. Eu sempre pergunto com educação.
+es: Útil pero no siempre garantizado. Siempre pregunto con educación.
+fr: Utile mais pas toujours garanti. Je demande toujours poliment.
+de: Nützlich, aber nicht immer garantiert. Ich frage immer höflich.
+ja: 便利だけど必ずしも保証されない。いつも丁寧にお願いする。
+ko: 유용하지만 항상 보장되는 건 아니야. 나는 항상 정중하게 물어봐.
+zh: 有用但不总是有保证。我总是礼貌地询问。
+ru: Полезно, но не всегда гарантировано. Я всегда вежливо спрашиваю.
+hi: उपयोगी लेकिन हमेशा गारंटीशुदा नहीं। मैं हमेशा विनम्रता से पूछती हूं।
+it: Utile ma non sempre garantito. Chiedo sempre educatamente.
+
+speaker: Ana
+text: You gotta be charming! Sometimes they help if rooms are ready.
+pt: Você tem que ser charmosa! Às vezes eles ajudam se os quartos estão prontos.
+es: ¡Tienes que ser encantadora! A veces ayudan si las habitaciones están listas.
+fr: Il faut être charmante ! Parfois ils aident si les chambres sont prêtes.
+de: Du musst charmant sein! Manchmal helfen sie, wenn die Zimmer bereit sind.
+ja: 魅力的でなければ！部屋の準備ができていれば時々助けてくれる。
+ko: 매력적이어야 해! 방이 준비되어 있으면 때때로 도와줘.
+zh: 你得有魅力！如果房间准备好了，他们有时会帮忙。
+ru: Нужно быть обаятельной! Иногда они помогают, если номера готовы.
+hi: आपको आकर्षक होना चाहिए! कभी-कभी वे मदद करते हैं यदि कमरे तैयार हैं।
+it: Devi essere affascinante! A volte aiutano se le camere sono pronte.
+
+speaker: Chloe
+text: Totally. Also, loyalty programs have perks like late check-out or free breakfast.
+pt: Totalmente. Além disso, programas de fidelidade têm vantagens como check-out tardio ou café da manhã grátis.
+es: Totalmente. Además, los programas de fidelidad tienen beneficios como check-out tardío o desayuno gratis.
+fr: Totalement. De plus, les programmes de fidélité ont des avantages comme le départ tardif ou le petit-déjeuner gratuit.
+de: Absolut. Außerdem haben Treueprogramme Vorteile wie späten Check-out oder kostenloses Frühstück.
+ja: 完全に。それに、ロイヤルティプログラムにはレイトチェックアウトや無料朝食などの特典がある。
+ko: 완전히. 또한 로열티 프로그램에는 늦은 체크아웃이나 무료 아침식사 같은 혜택이 있어.
+zh: 完全正确。此外，忠诚度计划有延迟退房或免费早餐等福利。
+ru: Полностью. Кроме того, программы лояльности имеют преимущества, такие как поздний выезд или бесплатный завтрак.
+hi: बिल्कुल। इसके अलावा, लॉयल्टी प्रोग्राम में देर से चेक-आउट या मुफ्त नाश्ते जैसे फायदे होते हैं।
+it: Assolutamente. Inoltre, i programmi fedeltà hanno vantaggi come check-out tardivo o colazione gratuita.
+
+speaker: Ana
+text: I'm all for loyalty points. Used mine for a spa day last weekend!
+pt: Eu adoro pontos de fidelidade. Usei os meus pra um dia de spa no fim de semana passado!
+es: Me encantan los puntos de fidelidad. ¡Usé los míos para un día de spa el fin de semana pasado!
+fr: Je suis à fond pour les points de fidélité. J'ai utilisé les miens pour une journée spa le week-end dernier !
+de: Ich bin ganz für Treuepunkte. Habe meine letztes Wochenende für einen Spa-Tag verwendet!
+ja: ロイヤルティポイント大賛成。先週末スパの日に使った！
+ko: 로열티 포인트 완전 찬성이야. 지난 주말에 스파 데이로 사용했어!
+zh: 我完全支持忠诚度积分。上周末用我的积分享受了水疗日！
+ru: Я полностью за баллы лояльности. Использовала свои на спа-день на прошлых выходных!
+hi: मैं लॉयल्टी पॉइंट्स के बिल्कुल पक्ष में हूं। पिछले सप्ताहांत में अपने पॉइंट्स स्पा डे के लिए इस्तेमाल किए!
+it: Sono completamente a favore dei punti fedeltà. Ho usato i miei per una giornata spa lo scorso weekend!
+
+speaker: Chloe
+text: Nice! Speaking of extras, do you tip bellhops and housekeeping?
+pt: Legal! Falando em extras, você dá gorjeta pros carregadores e pessoal da limpeza?
+es: ¡Genial! Hablando de extras, ¿das propina a los botones y al personal de limpieza?
+fr: Super ! En parlant d'extras, tu donnes des pourboires aux grooms et au personnel de ménage ?
+de: Schön! Apropos Extras, gibst du Trinkgeld an Gepäckträger und Reinigungspersonal?
+ja: いいね！エキストラといえば、ベルボーイやハウスキーピングにチップあげる？
+ko: 좋네! 추가 서비스 얘기가 나온 김에, 벨보이나 하우스키핑에게 팁 줘?
+zh: 不错！说到额外服务，你会给行李员和客房服务员小费吗？
+ru: Классно! Кстати об дополнительных услугах, ты даешь чаевые носильщикам и горничным?
+hi: बढ़िया! अतिरिक्त सेवाओं की बात करते हुए, क्या आप बेलहॉप और हाउसकीपिंग को टिप देती हैं?
+it: Fantastico! Parlando di extra, dai la mancia ai facchini e alle pulizie?
+
+speaker: Ana
+text: Always. Small gestures go a long way.
+pt: Sempre. Pequenos gestos fazem toda diferença.
+es: Siempre. Los pequeños gestos van muy lejos.
+fr: Toujours. Les petits gestes font beaucoup.
+de: Immer. Kleine Gesten bewirken viel.
+ja: いつも。小さな心遣いが大きな違いを生む。
+ko: 항상. 작은 제스처가 큰 도움이 돼.
+zh: 总是这样。小小的举动意义重大。
+ru: Всегда. Маленькие жесты имеют большое значение.
+hi: हमेशा। छोटे इशारे बहुत काम आते हैं।
+it: Sempre. I piccoli gesti fanno molto.
+
+speaker: Chloe
+text: Absolutely. Service industry folks appreciate it.
+pt: Com certeza. O pessoal da área de serviços aprecia.
+es: Por supuesto. La gente del sector servicios lo aprecia.
+fr: Absolument. Les gens du secteur des services l'apprécient.
+de: Absolut. Leute aus der Dienstleistungsbranche schätzen das.
+ja: 絶対に。サービス業の人たちはそれを感謝してる。
+ko: 절대적으로. 서비스업 사람들이 고마워해.
+zh: 绝对的。服务行业的人很感激这一点。
+ru: Абсолютно. Люди из сферы услуг это ценят.
+hi: बिल्कुल। सेवा उद्योग के लोग इसकी सराहना करते हैं।
+it: Assolutamente. Le persone del settore servizi lo apprezzano.
+
+speaker: Ana
+text: Especially if they help with unexpected requests like late luggage drop-offs.
+pt: Especialmente se eles ajudam com pedidos inesperados tipo deixar bagagem tarde.
+es: Especialmente si ayudan con pedidos inesperados como dejar equipaje tarde.
+fr: Surtout s'ils aident avec des demandes inattendues comme déposer les bagages tard.
+de: Besonders wenn sie bei unerwarteten Anfragen wie späten Gepäckabgaben helfen.
+ja: 特に遅い荷物預けなどの予期しないリクエストを手伝ってくれる場合。
+ko: 특히 늦은 짐 맡기기 같은 예상치 못한 요청을 도와줄 때.
+zh: 特别是当他们帮助处理意外请求，比如晚间寄存行李时。
+ru: Особенно если они помогают с неожиданными просьбами, такими как поздняя сдача багажа.
+hi: खासकर यदि वे देर से सामान छोड़ने जैसे अप्रत्याशित अनुरोधों में मदद करते हैं।
+it: Specialmente se aiutano con richieste inaspettate come lasciare i bagagli tardi.
+
+speaker: Chloe
+text: Hotels can make or break your trip. Good check-in sets the tone.
+pt: Hotéis podem fazer ou estragar sua viagem. Um bom check-in define o clima.
+es: Los hoteles pueden hacer o arruinar tu viaje. Un buen check-in marca el tono.
+fr: Les hôtels peuvent faire ou défaire votre voyage. Un bon enregistrement donne le ton.
+de: Hotels können deine Reise machen oder ruinieren. Ein guter Check-in gibt den Ton vor.
+ja: ホテルは旅行を成功させることも台無しにすることもできる。良いチェックインが雰囲気を決める。
+ko: 호텔은 여행을 성공시키거나 망칠 수 있어. 좋은 체크인이 분위기를 결정해.
+zh: 酒店可以成就或毁掉你的旅行。良好的入住体验奠定基调。
+ru: Отели могут сделать или испортить твою поездку. Хорошая регистрация задает тон.
+hi: होटल आपकी यात्रा बना या बिगाड़ सकते हैं। अच्छा चेक-इन माहौल तय करता है।
+it: Gli hotel possono fare o rovinare il tuo viaggio. Un buon check-in dà il tono.
+
+speaker: Ana
+text: Couldn't agree more. Hotel vibes matter.
+pt: Não poderia concordar mais. O clima do hotel importa.
+es: No podría estar más de acuerdo. El ambiente del hotel importa.
+fr: Je ne pourrais pas être plus d'accord. L'ambiance de l'hôtel compte.
+de: Könnte nicht mehr zustimmen. Hotel-Vibes sind wichtig.
+ja: これ以上同感できない。ホテルの雰囲気は重要。
+ko: 더 동감할 수 없어. 호텔 분위기가 중요해.
+zh: 再同意不过了。酒店的氛围很重要。
+ru: Не могу больше согласиться. Атмосфера отеля имеет значение.
+hi: इससे अधिक सहमत नहीं हो सकती। होटल का माहौल मायने रखता है।
+it: Non potrei essere più d'accordo. L'atmosfera dell'hotel è fondamentale.
+
+speaker: Chloe
+text: Time for me to book my next stay!
+pt: Hora de reservar minha próxima hospedagem!
+es: ¡Hora de reservar mi próxima estadía!
+fr: Il est temps pour moi de réserver mon prochain séjour !
+de: Zeit für mich, meinen nächsten Aufenthalt zu buchen!
+ja: 次の滞在を予約する時間だ！
+ko: 다음 숙박을 예약할 시간이야!
+zh: 是时候预订我的下次住宿了！
+ru: Время мне забронировать следующее пребывание!
+hi: मेरे लिए अगली रुकावट बुक करने का समय है!
+it: È ora di prenotare il mio prossimo soggiorno!
+```

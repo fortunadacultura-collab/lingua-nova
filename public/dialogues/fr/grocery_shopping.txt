@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: Très vrai. Maintenant les courses se sentent moins comme une corvée et plus comme une aventure.
+

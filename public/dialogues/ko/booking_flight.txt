@@ -1,0 +1,4 @@
+title: Booking Flights
+speaker: Lucas
+text: 더 이상 동감할 수 없어. 카운트다운을 시작하자!
+

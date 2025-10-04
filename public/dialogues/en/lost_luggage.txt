@@ -1,0 +1,273 @@
+title: Lost Luggage
+speaker: Lucas
+text: Emily, ever had your luggage lost on a trip?
+pt: Emily, você já perdeu sua bagagem em uma viagem?
+es: Emily, ¿alguna vez has perdido tu equipaje en un viaje?
+fr: Emily, as-tu déjà perdu tes bagages lors d'un voyage ?
+de: Emily, hast du schon mal dein Gepäck auf einer Reise verloren?
+ja: エミリー、旅行で荷物を失くしたことはある？
+ko: 에밀리, 여행에서 짐을 잃어본 적 있어?
+zh: 艾米丽，你在旅行中丢过行李吗？
+ru: Эмили, ты когда-нибудь теряла багаж в поездке?
+hi: एमिली, क्या आपका कभी यात्रा में सामान खो गया है?
+it: Emily, hai mai perso i bagagli durante un viaggio?
+
+speaker: Emily
+text: Sadly, yes. Twice. Both times I had to improvise big time.
+pt: Infelizmente, sim. Duas vezes. Nas duas vezes tive que improvisar muito.
+es: Lamentablemente, sí. Dos veces. En ambas tuve que improvisar mucho.
+fr: Malheureusement, oui. Deux fois. Les deux fois j'ai dû beaucoup improviser.
+de: Leider ja. Zweimal. Beide Male musste ich stark improvisieren.
+ja: 残念ながら、はい。2回。両方とも大いに即興で対応しなければならなかった。
+ko: 안타깝게도, 그래. 두 번. 두 번 다 크게 즉흥적으로 해결해야 했어.
+zh: 很遗憾，是的。两次。两次我都不得不大量即兴发挥。
+ru: К сожалению, да. Дважды. Оба раза мне пришлось сильно импровизировать.
+hi: दुख की बात है, हां। दो बार। दोनों बार मुझे बहुत सुधार करना पड़ा।
+it: Purtroppo, sì. Due volte. Entrambe le volte ho dovuto improvvisare molto.
+
+speaker: Lucas
+text: That's the nightmare! How'd you cope?
+pt: Esse é o pesadelo! Como você lidou?
+es: ¡Esa es la pesadilla! ¿Cómo lo manejaste?
+fr: C'est le cauchemar ! Comment tu as géré ça ?
+de: Das ist der Albtraum! Wie bist du damit umgegangen?
+ja: それは悪夢だ！どうやって対処したの？
+ko: 그건 악몽이야! 어떻게 대처했어?
+zh: 那真是噩梦！你是怎么应对的？
+ru: Это кошмар! Как ты справлялась?
+hi: यह दुःस्वप्न है! आपने इसका सामना कैसे किया?
+it: È un incubo! Come hai fatto a gestirlo?
+
+speaker: Emily
+text: Bought essentials locally and kept calm. Patience is key.
+pt: Comprei itens essenciais localmente e mantive a calma. Paciência é fundamental.
+es: Compré artículos esenciales localmente y me mantuve calmada. La paciencia es clave.
+fr: J'ai acheté l'essentiel localement et je suis restée calme. La patience est la clé.
+de: Ich kaufte das Nötigste vor Ort und blieb ruhig. Geduld ist der Schlüssel.
+ja: 現地で必需品を買って冷静を保った。忍耐が鍵よ。
+ko: 현지에서 필수품을 사고 침착함을 유지했어. 인내가 핵심이야.
+zh: 我在当地买了必需品并保持冷静。耐心是关键。
+ru: Купила необходимое на месте и сохраняла спокойствие. Терпение — это ключ.
+hi: मैंने स्थानीय रूप से आवश्यक चीजें खरीदीं और शांत रही। धैर्य मुख्य है।
+it: Ho comprato l'essenziale localmente e sono rimasta calma. La pazienza è fondamentale.
+
+speaker: Lucas
+text: Easier said than done sometimes.
+pt: Mais fácil dizer do que fazer às vezes.
+es: Más fácil decirlo que hacerlo a veces.
+fr: Plus facile à dire qu'à faire parfois.
+de: Manchmal leichter gesagt als getan.
+ja: 時には言うは易く行うは難しだね。
+ko: 가끔은 말하기는 쉽지만 실행하기는 어려워.
+zh: 有时说起来容易做起来难。
+ru: Иногда легче сказать, чем сделать.
+hi: कभी-कभी कहना करने से आसान होता है।
+it: A volte è più facile a dirsi che a farsi.
+
+speaker: Emily
+text: For sure, but losing it only lasts a few days. The trip goes on.
+pt: Com certeza, mas perder dura apenas alguns dias. A viagem continua.
+es: Por seguro, pero perderlo solo dura unos días. El viaje continúa.
+fr: C'est sûr, mais la perte ne dure que quelques jours. Le voyage continue.
+de: Sicher, aber der Verlust dauert nur ein paar Tage. Die Reise geht weiter.
+ja: 確かに、でも失くすのは数日だけ。旅行は続くのよ。
+ko: 확실해, 하지만 잃는 건 며칠뿐이야. 여행은 계속돼.
+zh: 当然，但丢失只持续几天。旅行还在继续。
+ru: Конечно, но потеря длится всего несколько дней. Поездка продолжается.
+hi: निश्चित रूप से, लेकिन खोना केवल कुछ दिनों तक रहता है। यात्रा जारी रहती है।
+it: Sicuramente, ma perdere dura solo pochi giorni. Il viaggio continua.
+
+speaker: Lucas
+text: True. Did you make insurance claims?
+pt: Verdade. Você fez reclamações ao seguro?
+es: Cierto. ¿Hiciste reclamos al seguro?
+fr: C'est vrai. As-tu fait des réclamations d'assurance ?
+de: Stimmt. Hast du Versicherungsansprüche geltend gemacht?
+ja: 本当だね。保険請求はした？
+ko: 맞아. 보험 청구는 했어?
+zh: 没错。你申请保险理赔了吗？
+ru: Верно. Ты подавала страховые претензии?
+hi: सही बात है। क्या आपने बीमा दावे किए?
+it: Vero. Hai fatto richieste di risarcimento all'assicurazione?
+
+speaker: Emily
+text: Always. It helps with the financial hit.
+pt: Sempre. Isso ajuda com o prejuízo financeiro.
+es: Siempre. Ayuda con el golpe financiero.
+fr: Toujours. Ça aide avec le coup financier.
+de: Immer. Es hilft bei dem finanziellen Schlag.
+ja: いつも。経済的な打撃を和らげてくれる。
+ko: 항상. 경제적 타격에 도움이 돼.
+zh: 总是。这有助于减轻经济损失。
+ru: Всегда. Это помогает с финансовым ударом.
+hi: हमेशा। यह वित्तीय नुकसान में मदद करता है।
+it: Sempre. Aiuta con il colpo finanziario.
+
+speaker: Lucas
+text: What about packing strategies to avoid disaster?
+pt: E as estratégias de empacotamento para evitar desastres?
+es: ¿Y las estrategias de empaque para evitar desastres?
+fr: Et les stratégies d'emballage pour éviter les catastrophes ?
+de: Und die Packstrategien, um Katastrophen zu vermeiden?
+ja: 災害を避けるためのパッキング戦略は？
+ko: 재해를 피하기 위한 포장 전략은?
+zh: 那么避免灾难的打包策略呢？
+ru: А как насчет стратегий упаковки, чтобы избежать катастрофы?
+hi: आपदा से बचने के लिए पैकिंग रणनीतियों के बारे में क्या?
+it: E le strategie di imballaggio per evitare disastri?
+
+speaker: Emily
+text: I pack a change of clothes and basics in carry-on now.
+pt: Agora eu coloco uma muda de roupa e itens básicos na bagagem de mão.
+es: Ahora empaco una muda de ropa y artículos básicos en el equipaje de mano.
+fr: Maintenant j'emballe un change de vêtements et des articles de base dans le bagage à main.
+de: Jetzt packe ich Wechselkleidung und Grundausstattung ins Handgepäck.
+ja: 今は着替えと基本的なものを機内持ち込みに入れてる。
+ko: 이제 갈아입을 옷과 기본 용품을 기내 반입 가방에 넣어.
+zh: 现在我在随身行李中放一套换洗衣物和基本用品。
+ru: Теперь я упаковываю сменную одежду и основные вещи в ручную кладь.
+hi: अब मैं हैंड लगेज में कपड़े बदलने और बुनियादी चीजें पैक करती हूं।
+it: Ora metto un cambio di vestiti e articoli di base nel bagaglio a mano.
+
+speaker: Lucas
+text: Smart move. Do you track your bags?
+pt: Jogada inteligente. Você rastreia suas malas?
+es: Jugada inteligente. ¿Rastreas tus maletas?
+fr: Mouvement intelligent. Tu traces tes sacs ?
+de: Kluger Zug. Verfolgst du deine Taschen?
+ja: 賢い動きだね。バッグを追跡してる？
+ko: 똑똑한 움직임이야. 가방을 추적해?
+zh: 聪明的举动。你追踪你的行李吗？
+ru: Умный ход. Ты отслеживаешь свои сумки?
+hi: स्मार्ट चाल। क्या आप अपने बैग को ट्रैक करते हैं?
+it: Mossa intelligente. Tracci le tue valigie?
+
+speaker: Emily
+text: Yep, with apps and always tagging them clearly.
+pt: Sim, com aplicativos e sempre etiquetando-as claramente.
+es: Sí, con aplicaciones y siempre etiquetándolas claramente.
+fr: Oui, avec des applications et en les étiquetant toujours clairement.
+de: Ja, mit Apps und immer klar etikettiert.
+ja: はい、アプリで、そしていつも明確にタグ付けしてる。
+ko: 네, 앱으로, 그리고 항상 명확하게 태그를 달아.
+zh: 是的，用应用程序，并且总是清楚地标记它们。
+ru: Да, с приложениями и всегда четко маркирую их.
+hi: हां, ऐप्स के साथ और हमेशा उन्हें स्पष्ट रूप से टैग करना।
+it: Sì, con le app e sempre etichettandole chiaramente.
+
+speaker: Lucas
+text: Have you ever volunteered to watch luggage for strangers?
+pt: Você já se voluntariou para cuidar da bagagem de estranhos?
+es: ¿Alguna vez te has ofrecido a vigilar el equipaje de extraños?
+fr: As-tu déjà proposé de surveiller les bagages d'étrangers ?
+de: Hast du dich schon mal angeboten, das Gepäck von Fremden zu bewachen?
+ja: 見知らぬ人の荷物を見張ることを申し出たことはある？
+ko: 낯선 사람의 짐을 봐주겠다고 제안한 적 있어?
+zh: 你有没有主动提出为陌生人看管行李？
+ru: Ты когда-нибудь предлагала присмотреть за багажом незнакомцев?
+hi: क्या आपने कभी अजनबियों के सामान की निगरानी करने की पेशकश की है?
+it: Hai mai offerto di sorvegliare i bagagli di sconosciuti?
+
+speaker: Emily
+text: Haha, no, too risky! But I help friends with theirs.
+pt: Haha, não, muito arriscado! Mas ajudo amigos com as deles.
+es: Jaja, no, ¡demasiado arriesgado! Pero ayudo a amigos con los suyos.
+fr: Haha, non, trop risqué ! Mais j'aide les amis avec les leurs.
+de: Haha, nein, zu riskant! Aber ich helfe Freunden mit ihren.
+ja: ハハ、いや、リスクが高すぎる！でも友達のは手伝うよ。
+ko: 하하, 아니야, 너무 위험해! 하지만 친구들 것은 도와줘.
+zh: 哈哈，不，太冒险了！但我帮朋友看他们的。
+ru: Хаха, нет, слишком рискованно! Но я помогаю друзьям с их багажом.
+hi: हाहा, नहीं, बहुत जोखिम भरा! लेकिन मैं दोस्तों की उनके साथ मदद करती हूं।
+it: Ahah, no, troppo rischioso! Ma aiuto gli amici con i loro.
+
+speaker: Lucas
+text: Same. Sharing is caring.
+pt: Idem. Compartilhar é se importar.
+es: Igual. Compartir es demostrar interés.
+fr: Pareil. Partager, c'est se soucier.
+de: Genauso. Teilen bedeutet sich kümmern.
+ja: 同じく。分かち合うことは思いやりだ。
+ko: 마찬가지야. 나누는 것이 배려하는 것이야.
+zh: 一样。分享就是关心。
+ru: То же самое. Делиться — значит заботиться.
+hi: वही बात। साझा करना देखभाल करना है।
+it: Uguale. Condividere è prendersi cura.
+
+speaker: Emily
+text: Lost luggage builds character... and patience.
+pt: Bagagem perdida fortalece o caráter... e a paciência.
+es: El equipaje perdido fortalece el carácter... y la paciencia.
+fr: Les bagages perdus renforcent le caractère... et la patience.
+de: Verlorenes Gepäck stärkt den Charakter... und die Geduld.
+ja: 失くした荷物は性格を鍛える...そして忍耐力も。
+ko: 잃어버린 짐은 성격을 단련시켜... 그리고 인내심도.
+zh: 丢失的行李锻炼性格...和耐心。
+ru: Потерянный багаж укрепляет характер... и терпение.
+hi: खोया हुआ सामान चरित्र को मजबूत बनाता है... और धैर्य।
+it: I bagagli persi rafforzano il carattere... e la pazienza.
+
+speaker: Lucas
+text: That it does. Lesson learned the hard way.
+pt: Realmente. Lição aprendida da maneira difícil.
+es: Eso sí que lo hace. Lección aprendida por las malas.
+fr: C'est vrai. Leçon apprise à la dure.
+de: Das tut es. Lektion auf die harte Tour gelernt.
+ja: その通りだ。苦労して学んだ教訓だね。
+ko: 그렇지. 힘든 방법으로 배운 교훈이야.
+zh: 确实如此。艰难地学到了教训。
+ru: Это так. Урок, выученный трудным путем.
+hi: यह करता है। कड़ी मेहनत से सीखा गया सबक।
+it: È proprio così. Lezione imparata nel modo più difficile.
+
+speaker: Emily
+text: Next trip, I'm ready for anything.
+pt: Próxima viagem, estou pronta para qualquer coisa.
+es: Próximo viaje, estoy lista para lo que sea.
+fr: Prochain voyage, je suis prête à tout.
+de: Nächste Reise, ich bin bereit für alles.
+ja: 次の旅行では、何でも準備万端よ。
+ko: 다음 여행에서는 뭐든지 준비됐어.
+zh: 下次旅行，我准备好应对任何事情。
+ru: В следующей поездке я готова ко всему.
+hi: अगली यात्रा में, मैं किसी भी चीज़ के लिए तैयार हूं।
+it: Prossimo viaggio, sono pronta a tutto.
+
+speaker: Lucas
+text: Me too. We just roll with the punches.
+pt: Eu também. Nós apenas nos adaptamos aos imprevistos.
+es: Yo también. Simplemente nos adaptamos a los imprevistos.
+fr: Moi aussi. On encaisse les coups.
+de: Ich auch. Wir nehmen die Schläge hin.
+ja: 僕もだ。僕らはただ流れに身を任せるんだ。
+ko: 나도. 우리는 그냥 상황에 맞춰 적응해.
+zh: 我也是。我们只是随机应变。
+ru: Я тоже. Мы просто приспосабливаемся к ударам.
+hi: मैं भी। हम बस मुक्कों के साथ लुढ़कते हैं।
+it: Anch'io. Ci adattiamo semplicemente ai colpi.
+
+speaker: Emily
+text: Exactly. Travel comes with surprises. We adapt.
+pt: Exatamente. Viajar vem com surpresas. Nós nos adaptamos.
+es: Exactamente. Viajar viene con sorpresas. Nos adaptamos.
+fr: Exactement. Voyager apporte des surprises. On s'adapte.
+de: Genau. Reisen bringt Überraschungen mit sich. Wir passen uns an.
+ja: その通り。旅行には驚きがつきもの。私たちは適応するの。
+ko: 정확해. 여행에는 놀라운 일들이 따라와. 우리는 적응해.
+zh: 没错。旅行总是充满惊喜。我们适应。
+ru: Точно. Путешествия приносят сюрпризы. Мы адаптируемся.
+hi: बिल्कुल। यात्रा में आश्चर्य होते हैं। हम अनुकूलित होते हैं।
+it: Esattamente. Viaggiare porta sorprese. Ci adattiamo.
+
+speaker: Lucas
+text: That's what makes it memorable.
+pt: É isso que torna memorável.
+es: Eso es lo que lo hace memorable.
+fr: C'est ce qui le rend mémorable.
+de: Das macht es unvergesslich.
+ja: それが思い出深くするんだ。
+ko: 그게 기억에 남게 만드는 거야.
+zh: 这就是让它难忘的原因。
+ru: Это делает его запоминающимся.
+hi: यही इसे यादगार बनाता है।
+it: È questo che lo rende memorabile.

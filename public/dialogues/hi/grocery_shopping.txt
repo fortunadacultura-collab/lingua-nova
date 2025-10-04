@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: बहुत सच। अब किराने की दुकान जाना कम दायित्व और अधिक रोमांच की तरह लगता है।
+

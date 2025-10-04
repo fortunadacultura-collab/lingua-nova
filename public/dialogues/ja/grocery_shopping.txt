@@ -1,0 +1,4 @@
+title: Grocery Shopping
+speaker: Ana
+text: とても真実だね。今はスーパーに行くのが義務というより冒険のように感じるよ。
+

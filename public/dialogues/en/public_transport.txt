@@ -1,0 +1,260 @@
+title: Public Transport
+speaker: Mike
+text: Ana, how's your experience with public transport abroad?
+pt: Ana, como é sua experiência com transporte público no exterior?
+es: Ana, ¿cómo es tu experiencia con el transporte público en el extranjero?
+fr: Ana, comment est votre expérience avec les transports en commun à l'étranger ?
+de: Ana, wie sind deine Erfahrungen mit öffentlichen Verkehrsmitteln im Ausland?
+ja: アナ、海外での公共交通機関の経験はどう？
+ko: 아나, 해외에서 대중교통 경험은 어때?
+zh: 安娜，你在国外使用公共交通的经验如何？
+ru: Ана, каков твой опыт использования общественного транспорта за границей?
+hi: अना, विदेश में सार्वजनिक परिवहन के साथ आपका अनुभव कैसा है?
+it: Ana, com'è la tua esperienza con i trasporti pubblici all'estero?
+
+speaker: Ana
+text: Mixed bag! Some cities have stellar systems, others... not so much.
+pt: Resultados mistos! Algumas cidades têm sistemas excelentes, outras... nem tanto.
+es: ¡Resultados mixtos! Algunas ciudades tienen sistemas estelares, otras... no tanto.
+fr: Résultats mitigés ! Certaines villes ont des systèmes stellaires, d'autres... pas tellement.
+de: Gemischte Ergebnisse! Manche Städte haben hervorragende Systeme, andere... nicht so sehr.
+ja: まちまちだね！素晴らしいシステムの都市もあれば、そうでもない都市も...
+ko: 엇갈려! 어떤 도시들은 훌륭한 시스템을 가지고 있고, 다른 곳들은... 그렇지 않아.
+zh: 参差不齐！有些城市有出色的系统，其他的...就不那么好了。
+ru: Смешанные результаты! В некоторых городах отличные системы, в других... не очень.
+hi: मिश्रित परिणाम! कुछ शहरों में शानदार सिस्टम हैं, अन्य में... इतने अच्छे नहीं।
+it: Risultati misti! Alcune città hanno sistemi stellari, altre... non tanto.
+
+speaker: Mike
+text: I remember Istanbul's metro was efficient but insanely crowded.
+pt: Lembro que o metrô de Istambul era eficiente, mas insanamente lotado.
+es: Recuerdo que el metro de Estambul era eficiente pero increíblemente lleno.
+fr: Je me souviens que le métro d'Istanbul était efficace mais incroyablement bondé.
+de: Ich erinnere mich, dass Istanbuls Metro effizient, aber wahnsinnig überfüllt war.
+ja: イスタンブールの地下鉄は効率的だったけど、めちゃくちゃ混雑していたのを覚えている。
+ko: 이스탄불의 지하철이 효율적이었지만 미친 듯이 붐볐던 걸 기억해.
+zh: 我记得伊斯坦布尔的地铁很高效，但人多得疯狂。
+ru: Помню, метро в Стамбуле было эффективным, но безумно переполненным.
+hi: मुझे याद है कि इस्तांबुल की मेट्रो कुशल थी लेकिन पागलों की तरह भीड़भाड़ थी।
+it: Ricordo che la metro di Istanbul era efficiente ma incredibilmente affollata.
+
+speaker: Ana
+text: Yep, rush hour there was like sardines in a can.
+pt: Sim, a hora do rush lá era como sardinhas enlatadas.
+es: Sí, la hora pico allí era como sardinas en lata.
+fr: Oui, l'heure de pointe là-bas c'était comme des sardines en boîte.
+de: Ja, die Stoßzeit dort war wie Sardinen in der Dose.
+ja: そう、そこのラッシュアワーは缶詰のイワシみたいだった。
+ko: 맞아, 거기 러시아워는 통조림 정어리 같았어.
+zh: 是的，那里的高峰时间就像罐头里的沙丁鱼。
+ru: Да, час пик там был как сардины в банке.
+hi: हाँ, वहाँ रश ऑवर डिब्बे में सार्डिन मछली की तरह था।
+it: Sì, l'ora di punta lì era come sardine in scatola.
+
+speaker: Mike
+text: Ever gotten lost on public transport?
+pt: Já se perdeu no transporte público?
+es: ¿Alguna vez te has perdido en el transporte público?
+fr: Vous êtes-vous déjà perdu dans les transports en commun ?
+de: Hast du dich schon mal in öffentlichen Verkehrsmitteln verirrt?
+ja: 公共交通機関で迷子になったことある？
+ko: 대중교통에서 길을 잃은 적 있어?
+zh: 你在公共交通上迷过路吗？
+ru: Ты когда-нибудь терялся в общественном транспорте?
+hi: क्या आप कभी सार्वजनिक परिवहन में खो गए हैं?
+it: Ti sei mai perso sui trasporti pubblici?
+
+speaker: Ana
+text: More than once! But it's part of the adventure, right?
+pt: Mais de uma vez! Mas faz parte da aventura, certo?
+es: ¡Más de una vez! Pero es parte de la aventura, ¿verdad?
+fr: Plus d'une fois ! Mais ça fait partie de l'aventure, non ?
+de: Mehr als einmal! Aber das gehört zum Abenteuer dazu, oder?
+ja: 何度も！でもそれも冒険の一部でしょ？
+ko: 한 번 이상! 하지만 그것도 모험의 일부잖아, 그렇지?
+zh: 不止一次！但这是冒险的一部分，对吧？
+ru: Не раз! Но это часть приключения, верно?
+hi: एक से अधिक बार! लेकिन यह रोमांच का हिस्सा है, है ना?
+it: Più di una volta! Ma fa parte dell'avventura, vero?
+
+speaker: Mike
+text: True. And great way to meet locals and observe daily life.
+pt: Verdade. E uma ótima maneira de conhecer locais e observar a vida cotidiana.
+es: Cierto. Y una gran manera de conocer locales y observar la vida diaria.
+fr: Vrai. Et c'est un excellent moyen de rencontrer les habitants et d'observer la vie quotidienne.
+de: Stimmt. Und eine großartige Möglichkeit, Einheimische zu treffen und das tägliche Leben zu beobachten.
+ja: その通り。そして地元の人に会って日常生活を観察する素晴らしい方法だ。
+ko: 맞아. 그리고 현지인들을 만나고 일상생활을 관찰하는 좋은 방법이야.
+zh: 没错。这是结识当地人和观察日常生活的好方法。
+ru: Верно. И отличный способ познакомиться с местными жителями и понаблюдать за повседневной жизнью.
+hi: सच है। और स्थानीय लोगों से मिलने और दैनिक जीवन का अवलोकन करने का शानदार तरीका।
+it: Vero. E un ottimo modo per incontrare la gente del posto e osservare la vita quotidiana.
+
+speaker: Ana
+text: Absolutely. I always try local transport for authenticity.
+pt: Absolutamente. Eu sempre experimento o transporte local para autenticidade.
+es: Absolutamente. Siempre pruebo el transporte local para autenticidad.
+fr: Absolument. J'essaie toujours les transports locaux pour l'authenticité.
+de: Absolut. Ich probiere immer lokale Verkehrsmittel für Authentizität aus.
+ja: 絶対に。私はいつも本物の体験のために地元の交通機関を試す。
+ko: 절대적으로. 나는 항상 진정성을 위해 현지 교통수단을 이용해.
+zh: 绝对的。我总是尝试当地交通以获得真实性。
+ru: Абсолютно. Я всегда пробую местный транспорт для подлинности.
+hi: बिल्कुल। मैं हमेशा प्रामाणिकता के लिए स्थानीय परिवहन आज़माती हूं।
+it: Assolutamente. Provo sempre i trasporti locali per autenticità.
+
+speaker: Mike
+text: Any hacks for navigating confusing transport networks?
+pt: Algum truque para navegar em redes de transporte confusas?
+es: ¿Algún truco para navegar por redes de transporte confusas?
+fr: Des astuces pour naviguer dans les réseaux de transport déroutants ?
+de: Irgendwelche Tricks für die Navigation in verwirrenden Verkehrsnetzen?
+ja: 複雑な交通網をナビゲートするコツはある？
+ko: 복잡한 교통망을 탐색하는 요령이 있어?
+zh: 有什么技巧可以在令人困惑的交通网络中导航吗？
+ru: Есть ли хитрости для навигации в запутанных транспортных сетях?
+hi: भ्रमित करने वाले परिवहन नेटवर्क में नेविगेट करने के लिए कोई हैक्स?
+it: Qualche trucco per navigare nelle reti di trasporto confuse?
+
+speaker: Ana
+text: Offline maps and always having a backup app. Plus, asking friendly locals.
+pt: Mapas offline e sempre ter um aplicativo de backup. Além disso, perguntar a locais simpáticos.
+es: Mapas sin conexión y siempre tener una aplicación de respaldo. Además, preguntar a locales amables.
+fr: Cartes hors ligne et toujours avoir une application de secours. De plus, demander aux habitants sympathiques.
+de: Offline-Karten und immer eine Backup-App haben. Außerdem freundliche Einheimische fragen.
+ja: オフラインマップと常にバックアップアプリを持つこと。それに、親切な地元の人に聞くこと。
+ko: 오프라인 지도와 항상 백업 앱을 가지고 있기. 그리고 친절한 현지인들에게 물어보기.
+zh: 离线地图，总是有备用应用程序。另外，询问友好的当地人。
+ru: Офлайн-карты и всегда иметь резервное приложение. Плюс, спрашивать дружелюбных местных жителей.
+hi: ऑफलाइन मैप्स और हमेशा एक बैकअप ऐप रखना। साथ ही, मित्रवत स्थानीय लोगों से पूछना।
+it: Mappe offline e avere sempre un'app di backup. Inoltre, chiedere alla gente del posto amichevole.
+
+speaker: Mike
+text: Locals know best! Do you prefer buses, trains, or trams?
+pt: Os locais sabem melhor! Você prefere ônibus, trens ou bondes?
+es: ¡Los locales saben mejor! ¿Prefieres autobuses, trenes o tranvías?
+fr: Les habitants savent mieux ! Préférez-vous les bus, les trains ou les tramways ?
+de: Einheimische wissen es am besten! Bevorzugst du Busse, Züge oder Straßenbahnen?
+ja: 地元の人が一番よく知ってる！バス、電車、トラムのどれが好み？
+ko: 현지인들이 가장 잘 알아! 버스, 기차, 트램 중에 뭘 선호해?
+zh: 当地人最了解！你更喜欢公交车、火车还是电车？
+ru: Местные знают лучше! Вы предпочитаете автобусы, поезда или трамваи?
+hi: स्थानीय लोग सबसे अच्छा जानते हैं! आप बसें, ट्रेनें या ट्राम पसंद करते हैं?
+it: La gente del posto sa meglio! Preferisci autobus, treni o tram?
+
+speaker: Ana
+text: Trams have a charm, but subways are speedy.
+pt: Bondes têm um charme, mas os metrôs são rápidos.
+es: Los tranvías tienen un encanto, pero los metros son rápidos.
+fr: Les tramways ont du charme, mais les métros sont rapides.
+de: Straßenbahnen haben Charme, aber U-Bahnen sind schnell.
+ja: トラムには魅力があるけど、地下鉄は速い。
+ko: 트램은 매력이 있지만, 지하철이 빨라.
+zh: 电车有魅力，但地铁速度快。
+ru: Трамваи обаятельны, но метро быстрое.
+hi: ट्राम में आकर्षण है, लेकिन सबवे तेज़ हैं।
+it: I tram hanno fascino, ma le metropolitane sono veloci.
+
+speaker: Mike
+text: I agree. And avoiding peak hours helps sanity.
+pt: Concordo. E evitar horários de pico ajuda a manter a sanidade.
+es: Estoy de acuerdo. Y evitar las horas pico ayuda a mantener la cordura.
+fr: Je suis d'accord. Et éviter les heures de pointe aide à garder sa sanité mentale.
+de: Ich stimme zu. Und Stoßzeiten zu vermeiden hilft der geistigen Gesundheit.
+ja: 同感。そしてラッシュアワーを避けることは正気を保つのに役立つ。
+ko: 동의해. 그리고 러시아워를 피하는 것이 정신건강에 도움이 돼.
+zh: 我同意。避开高峰时间有助于保持理智。
+ru: Согласен. И избегание часов пик помогает сохранить рассудок.
+hi: मैं सहमत हूं। और पीक ऑवर्स से बचना मानसिक स्वास्थ्य के लिए अच्छा है।
+it: Sono d'accordo. Ed evitare le ore di punta aiuta la sanità mentale.
+
+speaker: Ana
+text: Definitely. Public transport can be chaotic but rewarding.
+pt: Definitivamente. O transporte público pode ser caótico, mas recompensador.
+es: Definitivamente. El transporte público puede ser caótico pero gratificante.
+fr: Définitivement. Les transports en commun peuvent être chaotiques mais gratifiants.
+de: Definitiv. Öffentliche Verkehrsmittel können chaotisch, aber lohnend sein.
+ja: 確実に。公共交通機関は混沌としているけれど、やりがいがある。
+ko: 확실히. 대중교통은 혼란스러울 수 있지만 보람이 있어.
+zh: 绝对的。公共交通可能很混乱，但很有意义。
+ru: Определенно. Общественный транспорт может быть хаотичным, но полезным.
+hi: निश्चित रूप से। सार्वजनिक परिवहन अराजक हो सकता है लेकिन फायदेमंद है।
+it: Decisamente. I trasporti pubblici possono essere caotici ma gratificanti.
+
+speaker: Mike
+text: Plus, it's more eco-friendly than taxis or rideshares.
+pt: Além disso, é mais ecológico do que táxis ou rideshares.
+es: Además, es más ecológico que taxis o viajes compartidos.
+fr: De plus, c'est plus écologique que les taxis ou les covoiturages.
+de: Außerdem ist es umweltfreundlicher als Taxis oder Mitfahrgelegenheiten.
+ja: それに、タクシーやライドシェアより環境に優しい。
+ko: 게다가, 택시나 라이드셰어보다 환경친화적이야.
+zh: 而且，比出租车或拼车更环保。
+ru: Плюс, это более экологично, чем такси или каршеринг.
+hi: इसके अलावा, यह टैक्सी या राइडशेयर से अधिक पर्यावरण-अनुकूल है।
+it: Inoltre, è più ecologico di taxi o rideshare.
+
+speaker: Ana
+text: Winning on the environment front.
+pt: Ganhando na frente ambiental.
+es: Ganando en el frente ambiental.
+fr: Gagnant sur le front environnemental.
+de: Gewinnend an der Umweltfront.
+ja: 環境面で勝利している。
+ko: 환경 면에서 승리하고 있어.
+zh: 在环境方面获胜。
+ru: Побеждая на экологическом фронте.
+hi: पर्यावरण के मोर्चे पर जीत रहे हैं।
+it: Vincendo sul fronte ambientale.
+
+speaker: Mike
+text: What's your must-have when riding transit?
+pt: O que é indispensável para você ao usar o transporte?
+es: ¿Qué es imprescindible para ti al usar el transporte?
+fr: Qu'est-ce qui est indispensable pour vous lors de l'utilisation des transports ?
+de: Was ist für dich unverzichtbar beim Fahren mit öffentlichen Verkehrsmitteln?
+ja: 交通機関を利用する時の必需品は何？
+ko: 대중교통을 이용할 때 꼭 필요한 것은 뭐야?
+zh: 乘坐公共交通时你的必需品是什么？
+ru: Что для вас обязательно при поездке на общественном транспорте?
+hi: ट्रांजिट की सवारी करते समय आपकी जरूरी चीज़ क्या है?
+it: Qual è il tuo must-have quando usi i trasporti?
+
+speaker: Ana
+text: Noise-canceling headphones and a good playlist.
+pt: Fones de ouvido com cancelamento de ruído e uma boa playlist.
+es: Auriculares con cancelación de ruido y una buena lista de reproducción.
+fr: Casque antibruit et une bonne playlist.
+de: Geräuschunterdrückende Kopfhörer und eine gute Playlist.
+ja: ノイズキャンセリングヘッドフォンと良いプレイリスト。
+ko: 노이즈 캔슬링 헤드폰과 좋은 플레이리스트.
+zh: 降噪耳机和好的播放列表。
+ru: Наушники с шумоподавлением и хороший плейлист.
+hi: नॉइज़-कैंसलिंग हेडफ़ोन और एक अच्छी प्लेलिस्ट।
+it: Cuffie con cancellazione del rumore e una buona playlist.
+
+speaker: Mike
+text: Same here. Makes those commutes much more enjoyable.
+pt: Idem aqui. Torna esses deslocamentos muito mais agradáveis.
+es: Igual aquí. Hace esos viajes mucho más agradables.
+fr: Pareil ici. Cela rend ces trajets beaucoup plus agréables.
+de: Genauso hier. Macht diese Fahrten viel angenehmer.
+ja: 同じく。通勤がずっと楽しくなる。
+ko: 나도 마찬가지. 그런 통근을 훨씬 더 즐겁게 만들어.
+zh: 我也一样。让那些通勤变得更加愉快。
+ru: То же самое. Делает эти поездки намного приятнее.
+hi: यहाँ भी वही। उन यात्राओं को बहुत अधिक आनंददायक बनाता है।
+it: Anch'io. Rende quei viaggi molto più piacevoli.
+
+speaker: Ana
+text: Public transport isn't just travel; it's an experience.
+pt: Transporte público não é apenas viagem; é uma experiência.
+es: El transporte público no es solo viajar; es una experiencia.
+fr: Les transports en commun ne sont pas seulement un voyage ; c'est une expérience.
+de: Öffentliche Verkehrsmittel sind nicht nur Reisen; es ist eine Erfahrung.
+ja: 公共交通機関は単なる移動ではない；それは体験だ。
+ko: 대중교통은 단순한 이동이 아니야; 그것은 경험이야.
+zh: 公共交通不仅仅是旅行；它是一种体验。
+ru: Общественный транспорт — это не просто поездка; это опыт.
+hi: सार्वजनिक परिवहन केवल यात्रा नहीं है; यह एक अनुभव है।
+it: I trasporti pubblici non sono solo viaggi; è un'esperienza.

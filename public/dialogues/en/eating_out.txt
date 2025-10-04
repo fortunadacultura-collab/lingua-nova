@@ -1,0 +1,273 @@
+title: Eating Out
+speaker: Chloe
+text: Ana, have you tried the new Italian place downtown yet?
+pt: Ana, você já foi no novo restaurante italiano do centro?
+es: Ana, ¿ya fuiste al nuevo restaurante italiano del centro?
+fr: Ana, as-tu déjà essayé le nouveau restaurant italien du centre-ville ?
+de: Ana, warst du schon mal in dem neuen italienischen Restaurant in der Innenstadt?
+ja: アナ、ダウンタウンの新しいイタリアンレストランはもう試した？
+ko: 아나, 시내에 있는 새로운 이탈리안 레스토랑 가봤어?
+zh: 安娜，你试过市中心那家新的意大利餐厅了吗？
+ru: Ана, ты уже пробовала новый итальянский ресторан в центре?
+hi: अना, क्या आपने डाउनटाउन की नई इतालवी जगह को आजमाया है?
+it: Ana, hai già provato il nuovo posto italiano in centro?
+
+speaker: Ana
+text: I have! Their homemade pasta was heavenly.
+pt: Fui sim! A massa caseira deles estava divina.
+es: ¡Sí fui! Su pasta casera estaba divina.
+fr: Oui ! Leurs pâtes maison étaient divines.
+de: Ja! Ihre hausgemachten Nudeln waren himmlisch.
+ja: 行ったよ！手作りパスタが絶品だった。
+ko: 갔어! 그들의 수제 파스타가 정말 환상적이었어.
+zh: 去过了！他们的自制意大利面太棒了。
+ru: Да! Их домашняя паста была божественной.
+hi: हां गई हूं! उनका घर का बना पास्ता स्वर्गीय था।
+it: Ci sono andata! La loro pasta fatta in casa era divina.
+
+speaker: Chloe
+text: I'm dying to go but haven't found the right occasion.
+pt: Tô morrendo de vontade de ir, mas não achei a ocasião certa.
+es: Me muero de ganas de ir pero no he encontrado la ocasión perfecta.
+fr: J'ai hâte d'y aller mais je n'ai pas trouvé la bonne occasion.
+de: Ich brenne darauf hinzugehen, aber habe noch nicht den richtigen Anlass gefunden.
+ja: すごく行きたいんだけど、適切な機会が見つからない。
+ko: 정말 가고 싶은데 적절한 기회를 찾지 못했어.
+zh: 我很想去，但还没找到合适的机会。
+ru: Я очень хочу пойти, но не нашла подходящего случая.
+hi: मैं जाने के लिए बेताब हूं लेकिन सही अवसर नहीं मिला है।
+it: Non vedo l'ora di andarci ma non ho trovato l'occasione giusta.
+
+speaker: Ana
+text: Sometimes you just need to treat yourself without excuses!
+pt: Às vezes você só precisa se dar um presente sem desculpas!
+es: ¡A veces solo necesitas darte un gusto sin excusas!
+fr: Parfois il faut juste se faire plaisir sans excuses !
+de: Manchmal muss man sich einfach ohne Ausreden etwas gönnen!
+ja: 時には言い訳なしに自分にご褒美をあげる必要がある！
+ko: 때로는 변명 없이 자신을 위해 뭔가 해줘야 해!
+zh: 有时你只需要毫无借口地犒赏自己！
+ru: Иногда нужно просто побаловать себя без оправданий!
+hi: कभी-कभी आपको बिना बहाने के खुद को ट्रीट करना चाहिए!
+it: A volte devi solo concederti qualcosa senza scuse!
+
+speaker: Chloe
+text: True! I usually pick spots with great vegetarian options.
+pt: Verdade! Geralmente escolho lugares com ótimas opções vegetarianas.
+es: ¡Es cierto! Suelo elegir lugares con buenas opciones vegetarianas.
+fr: C'est vrai ! Je choisis généralement des endroits avec de bonnes options végétariennes.
+de: Stimmt! Ich wähle normalerweise Orte mit tollen vegetarischen Optionen.
+ja: その通り！いつも素晴らしいベジタリアンオプションがある場所を選ぶ。
+ko: 맞아! 보통 좋은 채식 옵션이 있는 곳을 골라.
+zh: 没错！我通常选择有很好素食选择的地方。
+ru: Верно! Я обычно выбираю места с отличными вегетарианскими вариантами.
+hi: सच है! मैं आमतौर पर बेहतरीन शाकाहारी विकल्पों वाली जगहें चुनती हूं।
+it: È vero! Di solito scelgo posti con ottime opzioni vegetariane.
+
+speaker: Ana
+text: Same. The menu diversity can make or break a restaurant for me.
+pt: Igual. A variedade do cardápio pode fazer ou estragar um restaurante pra mim.
+es: Igual. La variedad del menú puede hacer o arruinar un restaurante para mí.
+fr: Pareil. La diversité du menu peut faire ou défaire un restaurant pour moi.
+de: Genauso. Die Menüvielfalt kann ein Restaurant für mich machen oder brechen.
+ja: 同じく。メニューの多様性がレストランの良し悪しを決める。
+ko: 마찬가지야. 메뉴의 다양성이 레스토랑의 성패를 좌우해.
+zh: 同样。菜单的多样性可以成就或毁掉一家餐厅。
+ru: То же самое. Разнообразие меню может сделать или сломать ресторан для меня.
+hi: वही बात। मेन्यू की विविधता मेरे लिए किसी रेस्टोरेंट को बना या बिगाड़ सकती है।
+it: Stesso discorso. La diversità del menu può fare o rovinare un ristorante per me.
+
+speaker: Chloe
+text: What's your go-to for casual hangouts?
+pt: Qual é seu lugar favorito pra sair casualmente?
+es: ¿Cuál es tu lugar favorito para salidas casuales?
+fr: Quel est ton endroit de prédilection pour les sorties décontractées ?
+de: Was ist dein Lieblingsort für lockere Treffen?
+ja: カジュアルな集まりの時はどこに行くの？
+ko: 캐주얼한 만남에는 주로 어디 가?
+zh: 你平时随便聚会都去哪里？
+ru: Куда ты обычно ходишь для неформальных встреч?
+hi: कैजुअल हैंगआउट्स के लिए आपकी पसंदीदा जगह कौन सी है?
+it: Qual è il tuo posto preferito per uscite informali?
+
+speaker: Ana
+text: Love cozy cafes where you can chat for hours.
+pt: Adoro cafés aconchegantes onde dá pra conversar por horas.
+es: Me encantan los cafés acogedores donde puedes platicar por horas.
+fr: J'adore les cafés confortables où on peut discuter pendant des heures.
+de: Ich liebe gemütliche Cafés, wo man stundenlang plaudern kann.
+ja: 何時間でもおしゃべりできる居心地の良いカフェが大好き。
+ko: 몇 시간이고 수다 떨 수 있는 아늑한 카페를 좋아해.
+zh: 我喜欢可以聊几个小时的舒适咖啡厅。
+ru: Обожаю уютные кафе, где можно болтать часами.
+hi: मुझे आरामदायक कैफे पसंद हैं जहां आप घंटों बात कर सकते हैं।
+it: Adoro i caffè accoglienti dove puoi chiacchierare per ore.
+
+speaker: Chloe
+text: Perfect for brunch dates!
+pt: Perfeito pra encontros de brunch!
+es: ¡Perfecto para citas de brunch!
+fr: Parfait pour les rendez-vous brunch !
+de: Perfekt für Brunch-Dates!
+ja: ブランチデートにぴったり！
+ko: 브런치 데이트에 완벽해!
+zh: 非常适合早午餐约会！
+ru: Идеально для свиданий за бранчем!
+hi: ब्रंच डेट्स के लिए परफेक्ट!
+it: Perfetto per gli appuntamenti a brunch!
+
+speaker: Ana
+text: Exactly. Oh, and have you checked out food trucks around the city?
+pt: Exato. Ah, e você já foi nos food trucks pela cidade?
+es: Exacto. Ah, ¿y has probado los food trucks por la ciudad?
+fr: Exactement. Oh, et as-tu testé les food trucks dans la ville ?
+de: Genau. Oh, und hast du die Food Trucks in der Stadt ausprobiert?
+ja: その通り。あ、それと市内のフードトラックは試した？
+ko: 정확해. 아, 그리고 시내 푸드트럭들 가봤어?
+zh: 没错。哦，你试过城里的餐车吗？
+ru: Точно. О, а ты пробовала фуд-траки по городу?
+hi: बिल्कुल। अरे हां, क्या आपने शहर भर में फूड ट्रक्स देखे हैं?
+it: Esatto. Oh, e hai mai provato i food truck in giro per la città?
+
+speaker: Chloe
+text: Totally, they're amazing for variety and quick bites.
+pt: Demais, eles são incríveis pra variedade e lanches rápidos.
+es: Totalmente, son increíbles para variedad y comida rápida.
+fr: Totalement, ils sont incroyables pour la variété et les en-cas rapides.
+de: Absolut, sie sind fantastisch für Vielfalt und schnelle Häppchen.
+ja: 完全に、バラエティと軽食には最高だよね。
+ko: 완전히, 다양성과 간단한 음식에는 정말 좋아.
+zh: 完全同意，它们在品种和快餐方面很棒。
+ru: Полностью согласна, они потрясающие для разнообразия и быстрых перекусов.
+hi: बिल्कुल, वे विविधता और त्वरित नाश्ते के लिए अद्भुत हैं।
+it: Assolutamente, sono fantastici per la varietà e gli spuntini veloci.
+
+speaker: Ana
+text: Plus, usually more environmentally friendly than big chains.
+pt: Além disso, geralmente são mais ecológicos que as grandes redes.
+es: Además, suelen ser más ecológicos que las grandes cadenas.
+fr: En plus, généralement plus respectueux de l'environnement que les grandes chaînes.
+de: Außerdem sind sie normalerweise umweltfreundlicher als große Ketten.
+ja: それに、大手チェーンより環境に優しいことが多い。
+ko: 게다가, 보통 대형 체인점보다 환경 친화적이야.
+zh: 而且，通常比大型连锁店更环保。
+ru: Плюс, обычно более экологичны, чем большие сети.
+hi: इसके अलावा, आमतौर पर बड़ी चेन्स से अधिक पर्यावरण-अनुकूल होते हैं।
+it: Inoltre, di solito sono più ecologici delle grandi catene.
+
+speaker: Chloe
+text: Love supporting local businesses and unique flavors.
+pt: Adoro apoiar negócios locais e sabores únicos.
+es: Me encanta apoyar negocios locales y sabores únicos.
+fr: J'adore soutenir les entreprises locales et les saveurs uniques.
+de: Ich liebe es, lokale Unternehmen und einzigartige Geschmäcker zu unterstützen.
+ja: 地元のビジネスとユニークな味をサポートするのが大好き。
+ko: 지역 비즈니스와 독특한 맛을 지원하는 걸 좋아해.
+zh: 我喜欢支持当地企业和独特的口味。
+ru: Обожаю поддерживать местный бизнес и уникальные вкусы.
+hi: मुझे स्थानीय व्यवसायों और अनोखे स्वादों का समर्थन करना पसंद है।
+it: Adoro sostenere le attività locali e i sapori unici.
+
+speaker: Ana
+text: Me too! Food is such a huge part of culture and connection.
+pt: Eu também! A comida é uma parte tão importante da cultura e conexão.
+es: ¡Yo también! La comida es una parte tan importante de la cultura y la conexión.
+fr: Moi aussi ! La nourriture est une si grande partie de la culture et de la connexion.
+de: Ich auch! Essen ist so ein großer Teil von Kultur und Verbindung.
+ja: 私も！食べ物は文化とつながりの大きな部分だよね。
+ko: 나도! 음식은 문화와 연결의 아주 큰 부분이야.
+zh: 我也是！食物是文化和联系的重要组成部分。
+ru: Я тоже! Еда — это такая огромная часть культуры и связи.
+hi: मैं भी! खाना संस्कृति और कनेक्शन का इतना बड़ा हिस्सा है।
+it: Anch'io! Il cibo è una parte così importante della cultura e della connessione.
+
+speaker: Chloe
+text: Agreed. Eating out is about more than food—it's the experience.
+pt: Concordo. Comer fora é mais que comida—é a experiência.
+es: De acuerdo. Comer fuera es más que comida—es la experiencia.
+fr: D'accord. Manger dehors, c'est plus que la nourriture—c'est l'expérience.
+de: Einverstanden. Auswärts essen ist mehr als nur Essen—es ist das Erlebnis.
+ja: 同感。外食は食べ物以上のもの—それは体験だ。
+ko: 동의해. 외식은 음식 그 이상이야—경험이지.
+zh: 同意。外出就餐不仅仅是食物——而是体验。
+ru: Согласна. Поход в ресторан — это больше, чем еда — это опыт.
+hi: सहमत हूं। बाहर खाना सिर्फ खाने से कहीं ज्यादा है—यह अनुभव है।
+it: Sono d'accordo. Mangiare fuori è molto più del cibo—è l'esperienza.
+
+speaker: Ana
+text: Couldn't have said it better. Good food, good company, good vibes.
+pt: Não poderia ter dito melhor. Boa comida, boa companhia, bom clima.
+es: No podría haberlo dicho mejor. Buena comida, buena compañía, buen ambiente.
+fr: Je n'aurais pas pu mieux le dire. Bonne nourriture, bonne compagnie, bonnes vibrations.
+de: Hätte es nicht besser sagen können. Gutes Essen, gute Gesellschaft, gute Stimmung.
+ja: これ以上うまく言えない。美味しい食べ物、良い仲間、良い雰囲気。
+ko: 더 잘 말할 수 없었을 거야. 좋은 음식, 좋은 동반자, 좋은 분위기.
+zh: 说得再好不过了。好食物，好伙伴，好氛围。
+ru: Лучше не скажешь. Хорошая еда, хорошая компания, хорошие вибрации.
+hi: इससे बेहतर नहीं कह सकती थी। अच्छा खाना, अच्छी संगति, अच्छे वाइब्स।
+it: Non avrei potuto dirlo meglio. Buon cibo, buona compagnia, belle vibrazioni.
+
+speaker: Chloe
+text: And sometimes a little adventure, trying unfamiliar dishes.
+pt: E às vezes um pouco de aventura, experimentando pratos novos.
+es: Y a veces un poco de aventura, probando platos nuevos.
+fr: Et parfois un peu d'aventure, en essayant des plats inconnus.
+de: Und manchmal ein kleines Abenteuer, unbekannte Gerichte ausprobieren.
+ja: そして時には少しの冒険、馴染みのない料理を試すこと。
+ko: 그리고 때로는 약간의 모험, 낯선 요리를 시도하는 것.
+zh: 有时还有一点冒险，尝试不熟悉的菜肴。
+ru: И иногда немного приключений, пробуя незнакомые блюда.
+hi: और कभी-कभी थोड़ा सा एडवेंचर, अपरिचित व्यंजनों को आजमाना।
+it: E a volte un po' di avventura, provando piatti sconosciuti.
+
+speaker: Ana
+text: That's the best way to expand your palette—and your world.
+pt: Essa é a melhor forma de expandir seu paladar—e seu mundo.
+es: Esa es la mejor forma de expandir tu paladar—y tu mundo.
+fr: C'est la meilleure façon d'élargir votre palette—et votre monde.
+de: Das ist der beste Weg, um Ihren Gaumen—und Ihre Welt—zu erweitern.
+ja: それが味覚を広げる最良の方法—そして世界も。
+ko: 그게 당신의 입맛을 넓히는 최고의 방법이야—그리고 당신의 세계도.
+zh: 这是扩展你的味觉——和你的世界——的最佳方式。
+ru: Это лучший способ расширить ваш вкус — и ваш мир.
+hi: यह आपके स्वाद—और आपकी दुनिया—को बढ़ाने का सबसे अच्छा तरीका है।
+it: È il modo migliore per espandere il tuo palato—e il tuo mondo.
+
+speaker: Chloe
+text: Totally. Food memories stick longer than most.
+pt: Demais. As memórias de comida duram mais que a maioria.
+es: Totalmente. Los recuerdos de comida duran más que la mayoría.
+fr: Totalement. Les souvenirs de nourriture restent plus longtemps que la plupart.
+de: Absolut. Essenserinnerungen bleiben länger als die meisten.
+ja: 完全に。食べ物の記憶は他のものより長く残る。
+ko: 완전히. 음식 기억은 대부분보다 오래 남아.
+zh: 完全同意。食物记忆比大多数记忆更持久。
+ru: Полностью согласна. Воспоминания о еде остаются дольше большинства.
+hi: बिल्कुल। खाने की यादें ज्यादातर से अधिक समय तक चिपकी रहती हैं।
+it: Assolutamente. I ricordi del cibo durano più a lungo della maggior parte.
+
+speaker: Ana
+text: Now I'm craving Italian again. Let's make a plan!
+pt: Agora tô com vontade de italiano de novo. Vamos fazer um plano!
+es: Ahora se me antoja italiano otra vez. ¡Hagamos un plan!
+fr: Maintenant j'ai encore envie d'italien. Faisons un plan !
+de: Jetzt habe ich wieder Lust auf Italienisch. Lass uns einen Plan machen!
+ja: また今イタリアンが食べたくなった。計画を立てよう！
+ko: 이제 다시 이탈리안이 먹고 싶어. 계획을 세우자!
+zh: 现在我又想吃意大利菜了。我们制定个计划吧！
+ru: Теперь мне снова хочется итальянской кухни. Давайте составим план!
+hi: अब मुझे फिर से इतालवी खाने की इच्छा हो रही है। चलो एक प्लान बनाते हैं!
+it: Ora ho di nuovo voglia di cibo italiano. Facciamo un piano!
+
+speaker: Chloe
+text: Yes! Let's do it soon.
+pt: Sim! Vamos fazer isso logo.
+es: ¡Sí! Hagámoslo pronto.
+fr: Oui ! Faisons-le bientôt.
+de: Ja! Lass es uns bald machen.
+ja: はい！すぐにやりましょう。
+ko: 네! 곧 해보자.
+zh: 好的！我们很快就去吧。
+ru: Да! Давайте сделаем это скоро.
+hi: हां! चलो जल्दी करते हैं।
+it: Sì! Facciamolo presto.

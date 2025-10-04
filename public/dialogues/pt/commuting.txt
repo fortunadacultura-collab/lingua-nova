@@ -1,0 +1,16 @@
+TITLE: Commuting to Work
+
+Ana: Bom dia! Você sempre pega o metrô para o trabalho?
+Carlos: Bom dia! Sim, é mais rápido que o ônibus. E você?
+Ana: Eu vou de carro, mas o trânsito está terrível hoje.
+Carlos: Imagino! Por isso prefiro o transporte público.
+Ana: Quanto tempo você leva para chegar?
+Carlos: Cerca de 30 minutos. E você?
+Ana: Normalmente 25 minutos, mas hoje já são 45!
+Carlos: Que situação! Já pensou em tentar o metrô?
+Ana: Estou considerando. É confiável?
+Carlos: Muito! Raramente atrasa.
+Ana: Vou pesquisar as rotas então.
+Carlos: Boa ideia! Posso te ajudar se precisar.
+Ana: Obrigada! Vou aceitar a ajuda.
+Carlos: Sem problemas! Nos falamos depois.

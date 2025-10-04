@@ -1,0 +1,286 @@
+title: Travel Tips
+speaker: Lucas
+text: Chloe, what's your top travel tip for first-timers?
+pt: Chloe, qual é sua principal dica de viagem para iniciantes?
+es: Chloe, ¿cuál es tu principal consejo de viaje para principiantes?
+fr: Chloe, quel est ton meilleur conseil de voyage pour les débutants ?
+de: Chloe, was ist dein bester Reisetipp für Erstbesucher?
+ja: クロエ、初心者への一番の旅行のアドバイスは何？
+ko: 클로이, 초보자를 위한 최고의 여행 팁이 뭐야?
+zh: 克洛伊，你给初次旅行者的最佳建议是什么？
+ru: Хлоя, какой твой лучший совет для начинающих путешественников?
+hi: क्लोई, पहली बार यात्रा करने वालों के लिए आपकी सबसे अच्छी सलाह क्या है?
+it: Chloe, qual è il tuo miglior consiglio di viaggio per i principianti?
+
+speaker: Chloe
+text: Always pack a travel-sized first aid kit—never underestimate minor emergencies.
+pt: Sempre leve um kit de primeiros socorros de viagem—nunca subestime emergências menores.
+es: Siempre empaca un botiquín de primeros auxilios de viaje—nunca subestimes emergencias menores.
+fr: Emporte toujours une trousse de premiers secours de voyage—ne sous-estime jamais les urgences mineures.
+de: Pack immer ein Reise-Erste-Hilfe-Set ein—unterschätze niemals kleinere Notfälle.
+ja: 旅行用の救急セットは必ず持参して—小さな緊急事態を甘く見てはダメ。
+ko: 항상 여행용 구급상자를 챙겨—작은 응급상황을 과소평가하지 마.
+zh: 总是带上旅行急救包—永远不要低估小的紧急情况。
+ru: Всегда бери дорожную аптечку—никогда не недооценивай мелкие чрезвычайные ситуации.
+hi: हमेशा यात्रा के लिए प्राथमिक चिकित्सा किट रखें—छोटी आपातकालीन स्थितियों को कम न समझें।
+it: Porta sempre un kit di pronto soccorso da viaggio—non sottovalutare mai le piccole emergenze.
+
+speaker: Lucas
+text: Good one. I'd add keeping digital copies of important documents.
+pt: Boa. Eu acrescentaria manter cópias digitais de documentos importantes.
+es: Buena. Yo añadiría mantener copias digitales de documentos importantes.
+fr: Bonne idée. J'ajouterais de garder des copies numériques des documents importants.
+de: Gute Idee. Ich würde hinzufügen, digitale Kopien wichtiger Dokumente zu behalten.
+ja: いいね。重要な書類のデジタルコピーを保管することを追加するよ。
+ko: 좋은 생각이야. 중요한 서류의 디지털 사본을 보관하는 것을 추가하겠어.
+zh: 好主意。我会补充保留重要文件的数字副本。
+ru: Хорошая идея. Я бы добавил хранение цифровых копий важных документов.
+hi: अच्छा विचार। मैं महत्वपूर्ण दस्तावेजों की डिजिटल प्रतियां रखने की सलाह दूंगा।
+it: Buona idea. Aggiungerei di tenere copie digitali dei documenti importanti.
+
+speaker: Chloe
+text: Definitely. Also, learning a few phrases in the local language goes a long way.
+pt: Definitivamente. Além disso, aprender algumas frases no idioma local ajuda muito.
+es: Definitivamente. Además, aprender algunas frases en el idioma local ayuda mucho.
+fr: Absolument. Aussi, apprendre quelques phrases dans la langue locale aide beaucoup.
+de: Definitiv. Außerdem hilft es sehr, ein paar Phrasen in der Landessprache zu lernen.
+ja: 絶対に。それに、現地の言葉をいくつか覚えるのはとても役立つ。
+ko: 확실히. 그리고 현지 언어로 몇 가지 문구를 배우는 것도 큰 도움이 돼.
+zh: 绝对的。另外，学几句当地语言会很有帮助。
+ru: Определенно. Также изучение нескольких фраз на местном языке очень помогает.
+hi: बिल्कुल। साथ ही, स्थानीय भाषा में कुछ वाक्य सीखना बहुत मददगार होता है।
+it: Assolutamente. Inoltre, imparare alcune frasi nella lingua locale aiuta molto.
+
+speaker: Lucas
+text: Tech apps help but locals appreciate the effort to speak their language.
+pt: Aplicativos tecnológicos ajudam, mas os locais apreciam o esforço de falar a língua deles.
+es: Las aplicaciones tecnológicas ayudan, pero los locales aprecian el esfuerzo de hablar su idioma.
+fr: Les applications technologiques aident mais les locaux apprécient l'effort de parler leur langue.
+de: Tech-Apps helfen, aber Einheimische schätzen die Bemühung, ihre Sprache zu sprechen.
+ja: 技術アプリは役立つけど、現地の人は彼らの言語を話そうとする努力を評価してくれる。
+ko: 기술 앱이 도움이 되지만 현지인들은 그들의 언어를 말하려는 노력을 고마워해.
+zh: 科技应用程序有帮助，但当地人欣赏说他们语言的努力。
+ru: Технологические приложения помогают, но местные ценят усилия говорить на их языке.
+hi: तकनीकी ऐप्स मदद करते हैं लेकिन स्थानीय लोग उनकी भाषा बोलने की कोशिश की सराहना करते हैं।
+it: Le app tecnologiche aiutano ma i locali apprezzano lo sforzo di parlare la loro lingua.
+
+speaker: Chloe
+text: Another is to dress smart but comfortably—layers are lifesavers.
+pt: Outra é vestir-se de forma inteligente, mas confortável—camadas são salva-vidas.
+es: Otra es vestirse de manera inteligente pero cómoda—las capas son salvavidas.
+fr: Une autre est de s'habiller intelligemment mais confortablement—les couches sauvent la vie.
+de: Ein anderer ist, sich klug aber bequem zu kleiden—Schichten sind Lebensretter.
+ja: もう一つは、スマートだけど快適に着ること—重ね着は命の恩人。
+ko: 또 다른 건 스마트하지만 편안하게 입는 것—레이어링이 생명의 은인이야.
+zh: 另一个是穿得聪明但舒适—分层穿衣是救星。
+ru: Еще один совет—одеваться стильно, но удобно—слои одежды спасают жизнь.
+hi: एक और सलाह है कि स्मार्ट लेकिन आरामदायक कपड़े पहनें—परतें जीवनरक्षक हैं।
+it: Un altro è vestirsi in modo elegante ma comodo—gli strati sono salvavita.
+
+speaker: Lucas
+text: Smart packing is an art! I try roll instead of fold clothes.
+pt: Fazer malas inteligentes é uma arte! Eu tento enrolar em vez de dobrar roupas.
+es: ¡Hacer el equipaje inteligente es un arte! Intento enrollar en lugar de doblar la ropa.
+fr: Faire ses bagages intelligemment est un art ! J'essaie de rouler au lieu de plier les vêtements.
+de: Intelligentes Packen ist eine Kunst! Ich versuche Kleidung zu rollen statt zu falten.
+ja: スマートなパッキングは芸術だ！服は畳むのではなく丸めるようにしている。
+ko: 스마트한 짐싸기는 예술이야! 옷을 접는 대신 말려서 넣으려고 해.
+zh: 聪明打包是一门艺术！我尝试卷衣服而不是折叠。
+ru: Умная упаковка—это искусство! Я стараюсь скручивать одежду вместо складывания.
+hi: स्मार्ट पैकिंग एक कला है! मैं कपड़ों को मोड़ने के बजाय रोल करने की कोशिश करता हूं।
+it: Il packing intelligente è un'arte! Cerco di arrotolare invece di piegare i vestiti.
+
+speaker: Chloe
+text: Saves space and prevents wrinkles.
+pt: Economiza espaço e evita rugas.
+es: Ahorra espacio y evita arrugas.
+fr: Économise l'espace et évite les plis.
+de: Spart Platz und verhindert Falten.
+ja: スペースを節約してシワを防ぐ。
+ko: 공간을 절약하고 주름을 방지해.
+zh: 节省空间并防止皱纹。
+ru: Экономит место и предотвращает складки.
+hi: जगह बचाता है और झुर्रियों को रोकता है।
+it: Risparmia spazio e previene le pieghe.
+
+speaker: Lucas
+text: I also research local customs and etiquette before going.
+pt: Eu também pesquiso costumes e etiqueta locais antes de ir.
+es: También investigo las costumbres y etiqueta locales antes de ir.
+fr: Je recherche aussi les coutumes et l'étiquette locales avant de partir.
+de: Ich erforsche auch lokale Bräuche und Etikette vor der Abreise.
+ja: 行く前に現地の習慣とエチケットも調べる。
+ko: 가기 전에 현지 관습과 예의도 조사해.
+zh: 我也会在出发前研究当地的习俗和礼仪。
+ru: Я также изучаю местные обычаи и этикет перед поездкой.
+hi: मैं जाने से पहले स्थानीय रीति-रिवाजों और शिष्टाचार पर भी शोध करता हूं।
+it: Ricerco anche le usanze locali e l'etichetta prima di partire.
+
+speaker: Chloe
+text: Prevents awkward moments and shows respect.
+pt: Evita momentos constrangedores e mostra respeito.
+es: Evita momentos incómodos y muestra respeto.
+fr: Évite les moments gênants et montre du respect.
+de: Verhindert peinliche Momente und zeigt Respekt.
+ja: 気まずい瞬間を防いで敬意を示す。
+ko: 어색한 순간을 방지하고 존중을 보여줘.
+zh: 防止尴尬时刻并表示尊重。
+ru: Предотвращает неловкие моменты и показывает уважение.
+hi: अजीब क्षणों को रोकता है और सम्मान दिखाता है।
+it: Previene momenti imbarazzanti e mostra rispetto.
+
+speaker: Lucas
+text: Mixing planned activities with spontaneous exploration works best.
+pt: Misturar atividades planejadas com exploração espontânea funciona melhor.
+es: Mezclar actividades planificadas con exploración espontánea funciona mejor.
+fr: Mélanger activités planifiées et exploration spontanée fonctionne le mieux.
+de: Geplante Aktivitäten mit spontaner Erkundung zu mischen funktioniert am besten.
+ja: 計画された活動と自発的な探索を混ぜるのが一番うまくいく。
+ko: 계획된 활동과 자발적인 탐험을 섞는 것이 가장 좋아.
+zh: 将计划活动与自发探索相结合效果最好。
+ru: Смешивание запланированных мероприятий со спонтанным исследованием работает лучше всего.
+hi: नियोजित गतिविधियों को सहज अन्वेषण के साथ मिलाना सबसे अच्छा काम करता है।
+it: Mescolare attività pianificate con esplorazione spontanea funziona meglio.
+
+speaker: Chloe
+text: Bingo. Don't overbook, leave room for serendipity.
+pt: Bingo. Não agende demais, deixe espaço para a serendipidade.
+es: Bingo. No reserves demasiado, deja espacio para la serendipia.
+fr: Bingo. Ne surbookez pas, laissez de la place pour la sérendipité.
+de: Bingo. Überbuche nicht, lass Raum für Zufälle.
+ja: ビンゴ。予定を詰め込みすぎず、偶然の発見の余地を残して。
+ko: 빙고. 너무 많이 예약하지 말고, 우연한 발견을 위한 여유를 남겨둬.
+zh: 宾果。不要预订过满，为意外惊喜留出空间。
+ru: Бинго. Не перегружайте расписание, оставьте место для случайных открытий.
+hi: बिंगो। ज्यादा बुकिंग न करें, संयोग के लिए जगह छोड़ें।
+it: Bingo. Non prenotare troppo, lascia spazio alla serendipità.
+
+speaker: Lucas
+text: And travel insurance—always worth it.
+pt: E seguro de viagem—sempre vale a pena.
+es: Y seguro de viaje—siempre vale la pena.
+fr: Et l'assurance voyage—ça vaut toujours le coup.
+de: Und Reiseversicherung—lohnt sich immer.
+ja: そして旅行保険—いつでも価値がある。
+ko: 그리고 여행보험—항상 가치가 있어.
+zh: 还有旅行保险—总是值得的。
+ru: И страховка путешествий—всегда стоит того.
+hi: और यात्रा बीमा—हमेशा इसके लायक होता है।
+it: E l'assicurazione di viaggio—ne vale sempre la pena.
+
+speaker: Chloe
+text: Safety nets are crucial.
+pt: Redes de segurança são cruciais.
+es: Las redes de seguridad son cruciales.
+fr: Les filets de sécurité sont cruciaux.
+de: Sicherheitsnetze sind entscheidend.
+ja: セーフティネットは重要。
+ko: 안전망이 중요해.
+zh: 安全网至关重要。
+ru: Страховочные сети крайне важны.
+hi: सुरक्षा जाल महत्वपूर्ण हैं।
+it: Le reti di sicurezza sono cruciali.
+
+speaker: Lucas
+text: What about money? Cards or cash?
+pt: E sobre dinheiro? Cartões ou dinheiro?
+es: ¿Y sobre el dinero? ¿Tarjetas o efectivo?
+fr: Et pour l'argent ? Cartes ou espèces ?
+de: Was ist mit Geld? Karten oder Bargeld?
+ja: お金はどう？カードか現金か？
+ko: 돈은 어때? 카드 아니면 현금?
+zh: 钱呢？卡还是现金？
+ru: А как насчет денег? Карты или наличные?
+hi: पैसे के बारे में क्या? कार्ड या नकद?
+it: E i soldi? Carte o contanti?
+
+speaker: Chloe
+text: A mix. Some cash for markets, cards for security and perks.
+pt: Uma mistura. Um pouco de dinheiro para mercados, cartões para segurança e vantagens.
+es: Una mezcla. Algo de efectivo para mercados, tarjetas para seguridad y beneficios.
+fr: Un mélange. Un peu d'espèces pour les marchés, des cartes pour la sécurité et les avantages.
+de: Eine Mischung. Etwas Bargeld für Märkte, Karten für Sicherheit und Vorteile.
+ja: 混合で。市場用に現金を少し、セキュリティと特典のためにカード。
+ko: 섞어서. 시장용으로는 현금을 좀, 보안과 혜택을 위해서는 카드를.
+zh: 混合使用。一些现金用于市场，卡片用于安全和优惠。
+ru: Смешанно. Немного наличных для рынков, карты для безопасности и льгот.
+hi: मिश्रण। बाजारों के लिए कुछ नकद, सुरक्षा और लाभों के लिए कार्ड।
+it: Un mix. Un po' di contanti per i mercati, carte per sicurezza e vantaggi.
+
+speaker: Lucas
+text: Charging devices and backup power banks are essential too.
+pt: Dispositivos de carregamento e power banks de reserva também são essenciais.
+es: Dispositivos de carga y power banks de respaldo también son esenciales.
+fr: Les chargeurs et les batteries de secours sont essentiels aussi.
+de: Ladegeräte und Backup-Powerbanks sind auch unerlässlich.
+ja: 充電器と予備のパワーバンクも必須。
+ko: 충전 기기와 백업 파워뱅크도 필수야.
+zh: 充电设备和备用充电宝也很重要。
+ru: Зарядные устройства и резервные power bank тоже необходимы.
+hi: चार्जिंग डिवाइस और बैकअप पावर बैंक भी जरूरी हैं।
+it: Anche i dispositivi di ricarica e i power bank di backup sono essenziali.
+
+speaker: Chloe
+text: Never get caught with a dead phone in a new place.
+pt: Nunca seja pego com um telefone descarregado em um lugar novo.
+es: Nunca te pillen con un teléfono descargado en un lugar nuevo.
+fr: Ne jamais se retrouver avec un téléphone mort dans un nouvel endroit.
+de: Niemals mit einem leeren Telefon an einem neuen Ort erwischt werden.
+ja: 新しい場所で携帯の電池が切れた状態になってはダメ。
+ko: 새로운 곳에서 휴대폰 배터리가 다 떨어진 상태로 있으면 안 돼.
+zh: 永远不要在新地方手机没电。
+ru: Никогда не попадайтесь с разряженным телефоном в новом месте.
+hi: नई जगह पर कभी भी मृत फोन के साथ न फंसें।
+it: Non farti mai beccare con un telefono scarico in un posto nuovo.
+
+speaker: Lucas
+text: Those simple tips truly transform a trip.
+pt: Essas dicas simples realmente transformam uma viagem.
+es: Esos consejos simples realmente transforman un viaje.
+fr: Ces conseils simples transforment vraiment un voyage.
+de: Diese einfachen Tipps verwandeln wirklich eine Reise.
+ja: そういうシンプルなコツが本当に旅を変える。
+ko: 그런 간단한 팁들이 정말로 여행을 바꿔.
+zh: 这些简单的建议真的能改变一次旅行。
+ru: Эти простые советы действительно преображают поездку.
+hi: वे सरल सुझाव वास्तव में यात्रा को बदल देते हैं।
+it: Quei semplici consigli trasformano davvero un viaggio.
+
+speaker: Chloe
+text: Travel smart, travel happy.
+pt: Viaje com inteligência, viaje feliz.
+es: Viaja inteligente, viaja feliz.
+fr: Voyagez intelligent, voyagez heureux.
+de: Reise klug, reise glücklich.
+ja: スマートに旅して、ハッピーに旅する。
+ko: 스마트하게 여행하고, 행복하게 여행해.
+zh: 聪明旅行，快乐旅行。
+ru: Путешествуй умно, путешествуй счастливо.
+hi: स्मार्ट यात्रा करें, खुश यात्रा करें।
+it: Viaggia intelligente, viaggia felice.
+
+speaker: Lucas
+text: Amen to that. Ready for the next adventure?
+pt: Amém a isso. Pronto para a próxima aventura?
+es: Amén a eso. ¿Listo para la próxima aventura?
+fr: Amen à ça. Prêt pour la prochaine aventure ?
+de: Amen dazu. Bereit für das nächste Abenteuer?
+ja: その通りだ。次の冒険の準備はできた？
+ko: 맞는 말이야. 다음 모험 준비됐어?
+zh: 阿门。准备好下一次冒险了吗？
+ru: Аминь этому. Готов к следующему приключению?
+hi: इस बात पर आमीन। अगले साहसिक कार्य के लिए तैयार?
+it: Amen a questo. Pronto per la prossima avventura?
+
+speaker: Chloe
+text: Always!
+pt: Sempre!
+es: ¡Siempre!
+fr: Toujours !
+de: Immer!
+ja: いつでも！
+ko: 언제나!
+zh: 总是！
+ru: Всегда!
+hi: हमेशा!
+it: Sempre!

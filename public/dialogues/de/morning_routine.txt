@@ -1,0 +1,4 @@
+title: Morning Routine
+speaker: Mike
+text: Ha! Ein Schritt nach dem anderen. Bereit für die Herausforderung?
+

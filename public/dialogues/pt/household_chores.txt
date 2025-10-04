@@ -1,0 +1,16 @@
+TITLE: Household Chores
+
+Maria: Preciso organizar as tarefas de casa hoje.
+João: O que você tem para fazer?
+Maria: Lavar roupa, limpar a cozinha e aspirar a sala.
+João: Posso te ajudar! Que tal eu cuidar da sala?
+Maria: Seria ótimo! Obrigada pela ajuda.
+João: E depois podemos lavar a louça juntos.
+Maria: Perfeito! Assim terminamos mais rápido.
+João: Você já separou a roupa?
+Maria: Sim, já está na máquina. Vai ficar pronta em uma hora.
+João: Então vou começar com o aspirador.
+Maria: Certo! Eu vou limpar os banheiros.
+João: Que tal colocarmos uma música para animar?
+Maria: Boa ideia! Assim fica mais divertido.
+João: Vamos fazer isso virar uma festa de limpeza!

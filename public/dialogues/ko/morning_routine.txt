@@ -1,0 +1,4 @@
+title: Morning Routine
+speaker: Mike
+text: 하! 한 번에 한 걸음씩. 도전할 준비됐어?
+

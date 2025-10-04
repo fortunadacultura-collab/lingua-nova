@@ -1,0 +1,273 @@
+title: Weather Chat
+speaker: Chloe
+text: Can you believe this heatwave? It's like summer cranked the thermostat to max.
+pt: Você acredita nesta onda de calor? É como se o verão tivesse aumentado o termostato ao máximo.
+es: ¿Puedes creer esta ola de calor? Es como si el verano hubiera subido el termostato al máximo.
+fr: Tu peux croire cette canicule ? C'est comme si l'été avait poussé le thermostat au maximum.
+de: Kannst du diese Hitzewelle glauben? Es ist, als hätte der Sommer das Thermostat auf Maximum gedreht.
+ja: この熱波信じられる？夏がサーモスタットを最大まで上げたみたい。
+ko: 이 폭염 믿을 수 있어? 여름이 온도 조절기를 최대로 올린 것 같아.
+zh: 你能相信这次热浪吗？就像夏天把恒温器调到了最大。
+ru: Можешь поверить в эту жару? Как будто лето выкрутило термостат на максимум.
+hi: क्या आप इस गर्मी की लहर पर विश्वास कर सकते हैं? यह ऐसा है जैसे गर्मियों ने थर्मोस्टेट को अधिकतम पर कर दिया हो।
+it: Riesci a credere a questa ondata di calore? È come se l'estate avesse alzato il termostato al massimo.
+
+speaker: Emily
+text: I know! Walking outside feels like stepping into an oven.
+pt: Eu sei! Caminhar lá fora parece entrar em um forno.
+es: ¡Lo sé! Salir a caminar se siente como entrar en un horno.
+fr: Je sais ! Marcher dehors, c'est comme entrer dans un four.
+de: Ich weiß! Draußen zu gehen fühlt sich an, als würde man in einen Ofen treten.
+ja: 分かる！外を歩くのはオーブンに入るみたい。
+ko: 알아! 밖에 나가는 게 오븐에 들어가는 것 같아.
+zh: 我知道！在外面走路感觉就像走进烤箱一样。
+ru: Знаю! Выходить на улицу — как заходить в духовку.
+hi: मुझे पता है! बाहर चलना ऐसा लगता है जैसे ओवन में कदम रख रहे हों।
+it: Lo so! Camminare fuori è come entrare in un forno.
+
+speaker: Chloe
+text: Perfect excuse for iced coffee runs all day long.
+pt: A desculpa perfeita para tomar café gelado o dia todo.
+es: La excusa perfecta para tomar café helado todo el día.
+fr: L'excuse parfaite pour boire du café glacé toute la journée.
+de: Die perfekte Ausrede für Eiskaffee-Läufe den ganzen Tag.
+ja: 一日中アイスコーヒーを飲む完璧な言い訳ね。
+ko: 하루 종일 아이스 커피를 마실 완벽한 핑계야.
+zh: 整天喝冰咖啡的完美借口。
+ru: Идеальный повод пить холодный кофе весь день.
+hi: पूरे दिन आइस कॉफी पीने का सही बहाना।
+it: La scusa perfetta per bere caffè freddo tutto il giorno.
+
+speaker: Emily
+text: Speaking of which, any favorite spots you recommend?
+pt: Falando nisso, algum lugar favorito que você recomenda?
+es: Hablando de eso, ¿algún lugar favorito que recomiendes?
+fr: En parlant de ça, des endroits favoris que tu recommandes ?
+de: Apropos, irgendwelche Lieblingsorte, die du empfiehlst?
+ja: そういえば、おすすめのお気に入りの場所はある？
+ko: 그런데, 추천할 만한 좋아하는 곳이 있어?
+zh: 说到这个，有什么喜欢的地方推荐吗？
+ru: Кстати, есть любимые места, которые ты рекомендуешь?
+hi: इस बात को लेकर, कोई पसंदीदा जगह है जिसकी आप सिफारिश करते हैं?
+it: A proposito, qualche posto preferito che consigli?
+
+speaker: Chloe
+text: There's a little café down the block that makes the best cold brew.
+pt: Tem um cafezinho naquela quadra que faz o melhor cold brew.
+es: Hay un pequeño café en la cuadra que hace el mejor cold brew.
+fr: Il y a un petit café dans le pâté de maisons qui fait le meilleur cold brew.
+de: Es gibt ein kleines Café in der Straße, das den besten Cold Brew macht.
+ja: その通りに最高のコールドブリューを作る小さなカフェがあるの。
+ko: 그 블록에 최고의 콜드브루를 만드는 작은 카페가 있어.
+zh: 那个街区有一家小咖啡店，做最好的冷萃咖啡。
+ru: Есть маленькое кафе в квартале, которое делает лучший холодный кофе.
+hi: उस ब्लॉक में एक छोटा कैफे है जो सबसे अच्छी कोल्ड ब्रू बनाता है।
+it: C'è un piccolo caffè in fondo al quartiere che fa il miglior cold brew.
+
+speaker: Emily
+text: I'm sold. What about weekends? Any plans to beat the heat?
+pt: Estou convencida. E os fins de semana? Algum plano para escapar do calor?
+es: Me convenciste. ¿Y los fines de semana? ¿Algún plan para combatir el calor?
+fr: Je suis convaincue. Et les week-ends ? Des plans pour échapper à la chaleur ?
+de: Ich bin überzeugt. Und die Wochenenden? Irgendwelche Pläne, um der Hitze zu entkommen?
+ja: 納得した。週末は？暑さから逃れる計画はある？
+ko: 확신해. 그리고 주말은? 더위를 피할 계획이 있어?
+zh: 我被说服了。周末呢？有什么计划来躲避炎热吗？
+ru: Я убеждена. А выходные? Есть планы спастись от жары?
+hi: मैं आश्वस्त हूं। और सप्ताहांत? गर्मी से बचने की कोई योजना?
+it: Sono convinta. E i weekend? Qualche piano per sfuggire al caldo?
+
+speaker: Chloe
+text: Pool party at my place. You in?
+pt: Festa na piscina na minha casa. Topa?
+es: Fiesta en la piscina en mi casa. ¿Te apuntas?
+fr: Fête à la piscine chez moi. Tu viens ?
+de: Pool-Party bei mir zu Hause. Bist du dabei?
+ja: うちでプールパーティー。参加する？
+ko: 우리 집에서 풀 파티. 올래?
+zh: 在我家举办泳池派对。你来吗？
+ru: Вечеринка у бассейна у меня дома. Присоединишься?
+hi: मेरे घर पूल पार्टी। आओगे?
+it: Festa in piscina a casa mia. Ci stai?
+
+speaker: Emily
+text: Absolutely! Water and good vibes are the antidote to summer sweat.
+pt: Com certeza! Água e boas vibrações são o antídoto para o suor do verão.
+es: ¡Absolutamente! El agua y las buenas vibras son el antídoto para el sudor del verano.
+fr: Absolument ! L'eau et les bonnes vibrations sont l'antidote à la sueur d'été.
+de: Absolut! Wasser und gute Stimmung sind das Gegenmittel gegen Sommerschweiß.
+ja: 絶対に！水といい雰囲気は夏の汗の解毒剤よ。
+ko: 절대적으로! 물과 좋은 분위기는 여름 땀의 해독제야.
+zh: 绝对的！水和好心情是夏日汗水的解药。
+ru: Абсолютно! Вода и хорошие вибрации — противоядие от летнего пота.
+hi: बिल्कुल! पानी और अच्छे वाइब्स गर्मियों के पसीने का इलाज हैं।
+it: Assolutamente! L'acqua e le buone vibrazioni sono l'antidoto al sudore estivo.
+
+speaker: Chloe
+text: Couldn't agree more. Have you switched up your skincare for the sun?
+pt: Não poderia concordar mais. Você mudou sua skincare para o sol?
+es: No podría estar más de acuerdo. ¿Has cambiado tu cuidado de la piel para el sol?
+fr: Je ne pourrais pas être plus d'accord. As-tu changé tes soins de peau pour le soleil ?
+de: Könnte nicht mehr zustimmen. Hast du deine Hautpflege für die Sonne umgestellt?
+ja: これ以上同感できない。日差し用にスキンケアを変えた？
+ko: 더 동의할 수 없어. 햇빛 때문에 스킨케어를 바꿨어?
+zh: 不能再同意了。你为了阳光改变了护肤程序吗？
+ru: Не могу больше согласиться. Ты изменила уход за кожей для солнца?
+hi: इससे ज्यादा सहमत नहीं हो सकता। क्या आपने धूप के लिए अपनी स्किनकेयर बदली है?
+it: Non potrei essere più d'accordo. Hai cambiato la tua skincare per il sole?
+
+speaker: Emily
+text: Trying! Sunscreen and aloe gel have become my new best friends.
+pt: Tentando! Protetor solar e gel de aloe vera se tornaram meus novos melhores amigos.
+es: ¡Intentando! El protector solar y el gel de aloe vera se han convertido en mis nuevos mejores amigos.
+fr: J'essaie ! La crème solaire et le gel d'aloe vera sont devenus mes nouveaux meilleurs amis.
+de: Ich versuche es! Sonnencreme und Aloe-Gel sind meine neuen besten Freunde geworden.
+ja: 頑張ってる！日焼け止めとアロエジェルが新しい親友になったの。
+ko: 노력하고 있어! 선크림과 알로에 젤이 내 새로운 베스트 프렌드가 됐어.
+zh: 在努力！防晒霜和芦荟胶成了我新的最好朋友。
+ru: Стараюсь! Солнцезащитный крем и гель алоэ стали моими новыми лучшими друзьями.
+hi: कोशिश कर रहा हूं! सनस्क्रीन और एलो जेल मेरे नए सबसे अच्छे दोस्त बन गए हैं।
+it: Ci sto provando! La crema solare e il gel di aloe sono diventati i miei nuovi migliori amici.
+
+speaker: Chloe
+text: Smart move. Heat's rough on skin and mood.
+pt: Jogada inteligente. O calor é difícil para a pele e o humor.
+es: Movimiento inteligente. El calor es duro para la piel y el estado de ánimo.
+fr: Mouvement intelligent. La chaleur est dure pour la peau et l'humeur.
+de: Kluger Zug. Hitze ist hart für Haut und Stimmung.
+ja: 賢い判断。暑さは肌と気分に厳しいからね。
+ko: 똑똑한 선택이야. 더위는 피부와 기분에 힘들어.
+zh: 明智的选择。炎热对皮肤和情绪都很难受。
+ru: Умный ход. Жара тяжела для кожи и настроения.
+hi: स्मार्ट चाल। गर्मी त्वचा और मूड के लिए कठिन है।
+it: Mossa intelligente. Il caldo è duro per la pelle e l'umore.
+
+speaker: Emily
+text: True. Hot weather always makes me crave lighter meals too.
+pt: Verdade. O tempo quente sempre me faz desejar refeições mais leves também.
+es: Cierto. El clima caluroso siempre me hace desear comidas más ligeras también.
+fr: C'est vrai. Le temps chaud me donne toujours envie de repas plus légers aussi.
+de: Stimmt. Heißes Wetter lässt mich auch immer nach leichteren Mahlzeiten verlangen.
+ja: その通り。暑い天気はいつも軽い食事が欲しくなるの。
+ko: 맞아. 더운 날씨는 항상 가벼운 식사를 원하게 만들어.
+zh: 没错。炎热的天气总是让我也想要更清淡的食物。
+ru: Верно. Жаркая погода всегда заставляет меня хотеть более легкую еду.
+hi: सच है। गर्म मौसम हमेशा मुझे हल्का खाना चाहने पर मजबूर करता है।
+it: Vero. Il tempo caldo mi fa sempre desiderare pasti più leggeri.
+
+speaker: Chloe
+text: Salads and smoothies on repeat.
+pt: Saladas e smoothies em repetição.
+es: Ensaladas y smoothies en repetición.
+fr: Salades et smoothies en boucle.
+de: Salate und Smoothies auf Wiederholung.
+ja: サラダとスムージーのリピート。
+ko: 샐러드와 스무디 반복.
+zh: 沙拉和奶昔重复循环。
+ru: Салаты и смузи на повторе.
+hi: सलाद और स्मूदी रिपीट पर।
+it: Insalate e smoothie in ripetizione.
+
+speaker: Emily
+text: What's your go-to weather app? Mine keeps surprising me with sudden storms.
+pt: Qual é o seu aplicativo de clima de confiança? O meu fica me surpreendendo com tempestades repentinas.
+es: ¿Cuál es tu aplicación meteorológica de confianza? La mía me sigue sorprendiendo con tormentas repentinas.
+fr: Quelle est ton application météo de confiance ? La mienne continue de me surprendre avec des orages soudains.
+de: Was ist deine vertrauenswürdige Wetter-App? Meine überrascht mich immer noch mit plötzlichen Stürmen.
+ja: 信頼できる天気アプリは何？私のは突然の嵐で驚かせ続けるの。
+ko: 믿을 만한 날씨 앱이 뭐야? 내 것은 갑작스러운 폭풍으로 계속 놀라게 해.
+zh: 你信赖的天气应用是什么？我的总是用突然的暴风雨让我惊讶。
+ru: Какое твое надежное погодное приложение? Мое продолжает удивлять меня внезапными штормами.
+hi: आपका भरोसेमंद मौसम ऐप कौन सा है? मेरा अचानक तूफानों से मुझे चौंकाता रहता है।
+it: Qual è la tua app meteo di fiducia? La mia continua a sorprendermi con temporali improvvisi.
+
+speaker: Chloe
+text: I rely on one that sends hourly updates—no more getting caught in the rain unexpectedly.
+pt: Eu confio em um que envia atualizações horárias—não sou mais pega pela chuva inesperadamente.
+es: Confío en uno que envía actualizaciones por hora—ya no me sorprende la lluvia inesperadamente.
+fr: Je fais confiance à une qui envoie des mises à jour horaires—je ne suis plus prise par la pluie de manière inattendue.
+de: Ich vertraue auf eine, die stündliche Updates sendet—ich werde nicht mehr unerwartet vom Regen überrascht.
+ja: 時間ごとの更新を送ってくれるものを信頼してる—もう予期せず雨に降られることはない。
+ko: 시간별 업데이트를 보내주는 것을 믿어—더 이상 예상치 못하게 비에 맞지 않아.
+zh: 我信任一个发送每小时更新的应用—不再意外地被雨淋到了。
+ru: Я доверяю тому, которое присылает почасовые обновления—меня больше не застает дождь врасплох.
+hi: मैं एक ऐसे पर भरोसा करता हूं जो घंटे भर अपडेट भेजता है—अब मैं अप्रत्याशित रूप से बारिश में नहीं फंसता।
+it: Mi affido a una che invia aggiornamenti orari—non vengo più colta di sorpresa dalla pioggia.
+
+speaker: Emily
+text: Lifesaver for sure. Nothing ruins plans faster than a surprise downpour.
+pt: Salva-vidas, com certeza. Nada estraga planos mais rápido do que um aguaceiro surpresa.
+es: Un salvavidas seguro. Nada arruina los planes más rápido que un aguacero sorpresa.
+fr: Un sauveur à coup sûr. Rien ne gâche les plans plus vite qu'une averse surprise.
+de: Ein Lebensretter sicher. Nichts ruiniert Pläne schneller als ein überraschender Regenschauer.
+ja: 確実に命の恩人ね。突然の大雨ほど計画を台無しにするものはない。
+ko: 확실히 생명의 은인이야. 갑작스러운 소나기만큼 계획을 망치는 건 없어.
+zh: 确实是救星。没有什么比突然的暴雨更快地破坏计划了。
+ru: Спасение точно. Ничто не портит планы быстрее внезапного ливня.
+hi: निश्चित रूप से जीवनरक्षक। अचानक बारिश से तेज़ कुछ भी योजनाओं को बर्बाद नहीं करता।
+it: Un salvavita di sicuro. Niente rovina i piani più velocemente di un acquazzone a sorpresa.
+
+speaker: Chloe
+text: Exactly. Speaking of, how's your AC holding up?
+pt: Exatamente. Falando nisso, como está o seu ar-condicionado?
+es: Exactamente. Hablando de eso, ¿cómo está tu aire acondicionado?
+fr: Exactement. En parlant de ça, comment va ton climatiseur ?
+de: Genau. Apropos, wie läuft deine Klimaanlage?
+ja: その通り。そういえば、エアコンの調子はどう？
+ko: 정확히. 그런데, 에어컨은 어때?
+zh: 没错。说到这个，你的空调怎么样？
+ru: Точно. Кстати, как дела с твоим кондиционером?
+hi: बिल्कुल। इस बात को लेकर, आपका एयर कंडीशनर कैसा है?
+it: Esatto. A proposito, come va il tuo condizionatore?
+
+speaker: Emily
+text: Works like a charm, thank god. Essential in this heat.
+pt: Funciona perfeitamente, graças a Deus. Essencial neste calor.
+es: Funciona a la perfección, gracias a Dios. Esencial en este calor.
+fr: Fonctionne à merveille, Dieu merci. Essentiel par cette chaleur.
+de: Funktioniert wie ein Zauber, Gott sei Dank. Unverzichtbar bei dieser Hitze.
+ja: 完璧に動いてる、神に感謝。この暑さには必須よ。
+ko: 완벽하게 작동해, 신에게 감사해. 이 더위에는 필수야.
+zh: 运行得很好，感谢上帝。在这种炎热中是必需的。
+ru: Работает как часы, слава богу. Необходим в такую жару.
+hi: बहुत अच्छा काम करता है, भगवान का शुक्र है। इस गर्मी में जरूरी है।
+it: Funziona a meraviglia, grazie a Dio. Essenziale con questo caldo.
+
+speaker: Chloe
+text: Couldn't live without mine.
+pt: Não viveria sem o meu.
+es: No podría vivir sin el mío.
+fr: Je ne pourrais pas vivre sans le mien.
+de: Könnte nicht ohne meinen leben.
+ja: 私のなしでは生きられない。
+ko: 내 것 없이는 살 수 없어.
+zh: 没有我的就活不下去。
+ru: Не смог бы жить без своего.
+hi: अपने बिना नहीं रह सकता।
+it: Non potrei vivere senza il mio.
+
+speaker: Emily
+text: Same here. Let's hope the cool breeze kicks in soon.
+pt: Idem. Vamos torcer para que a brisa fresca chegue logo.
+es: Igual. Esperemos que la brisa fresca llegue pronto.
+fr: Pareil ici. Espérons que la brise fraîche arrive bientôt.
+de: Genauso hier. Hoffen wir, dass die kühle Brise bald kommt.
+ja: 同じく。涼しい風が早く来ることを願おう。
+ko: 나도 마찬가지야. 시원한 바람이 빨리 왔으면 좋겠어.
+zh: 我也一样。希望凉爽的微风很快到来。
+ru: То же самое. Надеемся, что прохладный ветерок скоро подует.
+hi: यहाँ भी वही। आशा करते हैं कि ठंडी हवा जल्दी आ जाए।
+it: Anch'io. Speriamo che la brezza fresca arrivi presto.
+
+speaker: Chloe
+text: Fingers crossed! Meanwhile, keep those iced drinks coming.
+pt: Dedos cruzados! Enquanto isso, continue tomando aquelas bebidas geladas.
+es: ¡Dedos cruzados! Mientras tanto, sigue tomando esas bebidas heladas.
+fr: Les doigts croisés ! En attendant, continue à boire ces boissons glacées.
+de: Daumen drücken! In der Zwischenzeit, trink weiter diese eiskalten Getränke.
+ja: 指を交差させて！その間、その冷たい飲み物を飲み続けて。
+ko: 행운을 빌어! 그동안 그 차가운 음료를 계속 마셔.
+zh: 祈祷好运！与此同时，继续喝那些冰镇饮料。
+ru: Скрещиваем пальцы! Тем временем, продолжай пить эти ледяные напитки.
+hi: उंगलियां क्रॉस की गईं! इस बीच, उन ठंडे पेय पदार्थों को पीते रहें।
+it: Incrociamo le dita! Nel frattempo, continua a bere quelle bevande ghiacciate.

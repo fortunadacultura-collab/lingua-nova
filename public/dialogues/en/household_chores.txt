@@ -1,0 +1,260 @@
+title: Household Chores
+speaker: Mike
+text: Jake, how do you keep up with chores without losing your mind?
+pt: Jake, como você dá conta das tarefas domésticas sem enlouquecer?
+es: Jake, ¿cómo te mantienes al día con las tareas domésticas sin volverte loco?
+fr: Jake, comment tu arrives à suivre les tâches ménagères sans perdre la tête ?
+de: Jake, wie schaffst du es, mit den Hausarbeiten Schritt zu halten, ohne verrückt zu werden?
+ja: ジェイク、どうやって家事をこなして正気を保ってるの？
+ko: 제이크, 어떻게 집안일을 따라잡으면서 미치지 않고 지내?
+zh: 杰克，你怎么跟上家务而不发疯？
+ru: Джейк, как ты справляешься с домашними делами, не сходя с ума?
+hi: जेक, तुम घरेलू काम कैसे करते हो बिना पागल हुए?
+it: Jake, come fai a stare al passo con le faccende domestiche senza impazzire?
+
+speaker: Jake
+text: Man, I break them into bite-sized tasks. Makes it less overwhelming.
+pt: Cara, eu divido em tarefas pequenas. Fica menos pesado.
+es: Hombre, las divido en tareas manejables. Hace que sea menos abrumador.
+fr: Mec, je les divise en petites tâches. Ça rend ça moins accablant.
+de: Mann, ich teile sie in kleine Aufgaben auf. Das macht es weniger überwältigend.
+ja: おい、小さなタスクに分けるんだ。そうすると圧倒されにくくなる。
+ko: 야, 나는 그것들을 작은 작업으로 나눠. 그러면 덜 부담스러워.
+zh: 兄弟，我把它们分解成小任务。这样就不那么令人不知所措了。
+ru: Чувак, я разбиваю их на небольшие задачи. Так менее подавляюще.
+hi: यार, मैं उन्हें छोटे कामों में बांटता हूं। इससे कम भारी लगता है।
+it: Amico, le divido in compiti piccoli. Le rende meno opprimenti.
+
+speaker: Mike
+text: Good call. I tend to procrastinate until the mess becomes unbearable.
+pt: Boa ideia. Eu costumo procrastinar até a bagunça se tornar insuportável.
+es: Buena idea. Suelo procrastinar hasta que el desorden se vuelve insoportable.
+fr: Bonne idée. J'ai tendance à procrastiner jusqu'à ce que le désordre devienne insupportable.
+de: Guter Punkt. Ich neige dazu zu prokrastinieren, bis das Chaos unerträglich wird.
+ja: いいアイデアだ。散らかりが耐えられなくなるまで先延ばしにしがちなんだ。
+ko: 좋은 생각이야. 나는 엉망이 참을 수 없을 때까지 미루는 경향이 있어.
+zh: 好主意。我倾向于拖延，直到混乱变得无法忍受。
+ru: Хорошая мысль. Я склонен откладывать, пока беспорядок не станет невыносимым.
+hi: अच्छा विचार। मैं तब तक टालता रहता हूं जब तक गंदगी असहनीय नहीं हो जाती।
+it: Buona idea. Tendo a procrastinare finché il disordine non diventa insopportabile.
+
+speaker: Jake
+text: Guilty. I use playlists to keep energy high while cleaning.
+pt: Culpado. Eu uso playlists pra manter o pique alto na limpeza.
+es: Culpable. Uso playlists para mantener la energía alta mientras limpio.
+fr: Coupable. J'utilise des playlists pour garder l'énergie haute pendant le ménage.
+de: Schuldig. Ich benutze Playlists, um die Energie beim Putzen hoch zu halten.
+ja: 有罪だ。掃除中はプレイリストを使ってエネルギーを高く保ってる。
+ko: 유죄야. 청소하면서 에너지를 높게 유지하기 위해 플레이리스트를 사용해.
+zh: 有罪。我用播放列表在清洁时保持高能量。
+ru: Виновен. Я использую плейлисты, чтобы поддерживать энергию во время уборки.
+hi: दोषी हूं। मैं सफाई करते समय ऊर्जा बनाए रखने के लिए प्लेलिस्ट का उपयोग करता हूं।
+it: Colpevole. Uso le playlist per mantenere alta l'energia mentre pulisco.
+
+speaker: Mike
+text: Music is a lifesaver! Makes folding laundry way less boring.
+pt: Música é uma salvação! Deixa dobrar roupa muito menos chato.
+es: ¡La música es un salvavidas! Hace doblar la ropa mucho menos aburrido.
+fr: La musique sauve la vie ! Ça rend plier le linge beaucoup moins ennuyeux.
+de: Musik ist ein Lebensretter! Macht das Wäsche falten viel weniger langweilig.
+ja: 音楽は命の恩人だ！洗濯物を畳むのがずっと退屈じゃなくなる。
+ko: 음악은 생명의 은인이야! 빨래 개는 걸 훨씬 덜 지루하게 만들어.
+zh: 音乐是救星！让叠衣服变得不那么无聊。
+ru: Музыка спасает жизнь! Делает складывание белья намного менее скучным.
+hi: संगीत जीवनरक्षक है! कपड़े तह करना बहुत कम उबाऊ बनाता है।
+it: La musica è una salvezza! Rende piegare il bucato molto meno noioso.
+
+speaker: Jake
+text: Totally. And setting a timer turns boring tasks into a game.
+pt: Demais. E colocar um timer transforma tarefas chatas num jogo.
+es: Totalmente. Y poner un timer convierte las tareas aburridas en un juego.
+fr: Totalement. Et mettre un minuteur transforme les tâches ennuyeuses en jeu.
+de: Absolut. Und einen Timer zu stellen macht langweilige Aufgaben zu einem Spiel.
+ja: 完全にそうだ。タイマーをセットすると退屈なタスクがゲームになる。
+ko: 완전히 그래. 그리고 타이머를 설정하면 지루한 작업이 게임이 돼.
+zh: 完全正确。设置计时器把无聊的任务变成游戏。
+ru: Полностью согласен. А установка таймера превращает скучные задачи в игру.
+hi: बिल्कुल। और टाइमर सेट करना उबाऊ कामों को खेल में बदल देता है।
+it: Assolutamente. E impostare un timer trasforma i compiti noiosi in un gioco.
+
+speaker: Mike
+text: I like that! I also multitask—laundry while cooking, for example.
+pt: Gosto disso! Também faço várias coisas ao mesmo tempo—lavar roupa enquanto cozinho, por exemplo.
+es: ¡Me gusta eso! También hago multitareas—lavar la ropa mientras cocino, por ejemplo.
+fr: J'aime ça ! Je fais aussi du multitâche—la lessive en cuisinant, par exemple.
+de: Das gefällt mir! Ich mache auch Multitasking—Wäsche waschen während des Kochens, zum Beispiel.
+ja: それいいね！僕もマルチタスクをするよ—例えば料理しながら洗濯とか。
+ko: 그거 좋아! 나도 멀티태스킹을 해—예를 들어 요리하면서 빨래하기.
+zh: 我喜欢那样！我也会多任务处理——比如一边做饭一边洗衣服。
+ru: Мне это нравится! Я тоже занимаюсь многозадачностью—стирка во время готовки, например.
+hi: मुझे यह पसंद है! मैं भी मल्टीटास्किंग करता हूं—उदाहरण के लिए खाना बनाते समय कपड़े धोना।
+it: Mi piace! Anch'io faccio multitasking—bucato mentre cucino, per esempio.
+
+speaker: Jake
+text: Smart move. At my place, chores are shared, which cuts the workload in half.
+pt: Jogada inteligente. Na minha casa, as tarefas são divididas, o que corta a carga de trabalho pela metade.
+es: Movimiento inteligente. En mi casa, las tareas se comparten, lo que reduce la carga de trabajo a la mitad.
+fr: Mouvement intelligent. Chez moi, les tâches sont partagées, ce qui réduit la charge de travail de moitié.
+de: Kluger Zug. Bei mir werden die Hausarbeiten geteilt, was die Arbeitsbelastung halbiert.
+ja: 賢い手だ。僕の家では家事を分担してるから、作業量が半分になる。
+ko: 똑똑한 움직임이야. 우리 집에서는 집안일을 나눠서 해서 작업량이 절반으로 줄어.
+zh: 聪明的举动。在我家，家务是共同分担的，这把工作量减少了一半。
+ru: Умный ход. У меня дома обязанности разделены, что сокращает рабочую нагрузку вдвое.
+hi: स्मार्ट चाल। मेरे घर में, काम बांटे जाते हैं, जो काम का बोझ आधा कर देता है।
+it: Mossa intelligente. A casa mia, le faccende sono condivise, il che dimezza il carico di lavoro.
+
+speaker: Mike
+text: I need to suggest that to my roommate!
+pt: Preciso sugerir isso ao meu companheiro de casa!
+es: ¡Necesito sugerir eso a mi compañero de piso!
+fr: Je dois suggérer ça à mon colocataire !
+de: Das muss ich meinem Mitbewohner vorschlagen!
+ja: それをルームメイトに提案しなきゃ！
+ko: 그걸 룸메이트에게 제안해야겠어!
+zh: 我需要向我的室友建议这个！
+ru: Мне нужно предложить это моему соседу по комнате!
+hi: मुझे अपने रूममेट को यह सुझाना चाहिए!
+it: Devo suggerirlo al mio coinquilino!
+
+speaker: Jake
+text: It changes the vibe, less like a chore and more teamwork.
+pt: Isso muda a vibe, menos como obrigação e mais como trabalho em equipe.
+es: Cambia la vibra, menos como una obligación y más como trabajo en equipo.
+fr: Ça change l'ambiance, moins comme une corvée et plus comme du travail d'équipe.
+de: Das verändert die Stimmung, weniger wie eine lästige Pflicht und mehr wie Teamwork.
+ja: 雰囲気が変わるんだ、雑用というより チームワークって感じになる。
+ko: 분위기가 바뀌어, 집안일이라기보다는 팀워크 같은 느낌이야.
+zh: 这改变了氛围，不像是家务而更像是团队合作。
+ru: Это меняет атмосферу, меньше как рутина и больше как командная работа.
+hi: यह माहौल बदल देता है, कम काम की तरह और ज्यादा टीमवर्क की तरह।
+it: Cambia l'atmosfera, meno come una faccenda e più come lavoro di squadra.
+
+speaker: Mike
+text: How about deep cleaning? Do you schedule that or wing it?
+pt: E a faxina pesada? Você agenda ou improvisa?
+es: ¿Y la limpieza profunda? ¿La programas o improvisas?
+fr: Et le nettoyage en profondeur ? Tu le programmes ou tu improvises ?
+de: Und die Tiefenreinigung? Planst du sie oder improvisierst du?
+ja: 大掃除はどう？計画的にやる？それとも行き当たりばったり？
+ko: 그리고 대청소는? 계획을 세워서 해 아니면 즉흥적으로 해?
+zh: 深度清洁呢？你会安排还是即兴发挥？
+ru: А как насчет генеральной уборки? Ты планируешь её или импровизируешь?
+hi: और गहरी सफाई के बारे में क्या? क्या आप इसे शेड्यूल करते हैं या तुरंत करते हैं?
+it: E le pulizie profonde? Le programmi o improvvisi?
+
+speaker: Jake
+text: Scheduled. Quarterly blitz sessions—makes bit-by-bit manageable.
+pt: Agendada. Sessões intensivas trimestrais—torna tudo mais gerenciável aos poucos.
+es: Programada. Sesiones intensivas trimestrales—hace que sea manejable poco a poco.
+fr: Programmé. Des sessions intensives trimestrielles—ça rend ça gérable petit à petit.
+de: Geplant. Vierteljährliche intensive Sessions—macht es Stück für Stück handhabbar.
+ja: 計画的に。四半期ごとの集中セッション—少しずつ管理しやすくなる。
+ko: 계획적으로. 분기별 집중 세션—조금씩 관리하기 쉽게 만들어.
+zh: 有计划的。季度性的集中清洁——让一点一点变得可管理。
+ru: По плану. Квартальные интенсивные сессии—делает это управляемым по частям.
+hi: निर्धारित। त्रैमासिक गहन सत्र—इसे थोड़ा-थोड़ा करके प्रबंधनीय बनाता है।
+it: Programmata. Sessioni intensive trimestrali—rende tutto gestibile poco alla volta.
+
+speaker: Mike
+text: That sounds doable. I might actually stick to that plan.
+pt: Isso parece factível. Talvez eu realmente consiga seguir esse plano.
+es: Eso suena factible. Podría realmente seguir ese plan.
+fr: Ça sonne faisable. Je pourrais vraiment suivre ce plan.
+de: Das klingt machbar. Ich könnte diesem Plan wirklich folgen.
+ja: それは実現可能に聞こえる。実際にその計画に従えるかも。
+ko: 그거 실현 가능하게 들려. 정말 그 계획을 따를 수 있을 것 같아.
+zh: 听起来可行。我可能真的会坚持那个计划。
+ru: Звучит выполнимо. Я мог бы действительно придерживаться этого плана.
+hi: यह व्यवहार्य लगता है। मैं वास्तव में उस योजना का पालन कर सकता हूं।
+it: Sembra fattibile. Potrei davvero seguire quel piano.
+
+speaker: Jake
+text: Maintenance tasks like checking smoke alarms shouldn't be skipped either.
+pt: Tarefas de manutenção, como verificar alarmes de fumaça, também não devem ser ignoradas.
+es: Las tareas de mantenimiento como revisar las alarmas de humo tampoco deben saltarse.
+fr: Les tâches de maintenance comme vérifier les détecteurs de fumée ne doivent pas être négligées non plus.
+de: Wartungsaufgaben wie das Überprüfen von Rauchmeldern sollten auch nicht übersprungen werden.
+ja: 煙探知機のチェックなどのメンテナンス作業も飛ばしちゃダメだ。
+ko: 화재 경보기 점검 같은 유지보수 작업도 건너뛰면 안 돼.
+zh: 像检查烟雾报警器这样的维护任务也不应该跳过。
+ru: Задачи по обслуживанию, такие как проверка пожарных сигнализаций, тоже нельзя пропускать.
+hi: धुआं अलार्म की जांच जैसे रखरखाव के काम भी छोड़े नहीं जाने चाहिए।
+it: Anche i compiti di manutenzione come controllare gli allarmi antifumo non dovrebbero essere saltati.
+
+speaker: Mike
+text: Adulting level: next.
+pt: Nível de adulto: próximo.
+es: Nivel de adulto: siguiente.
+fr: Niveau d'adulte : suivant.
+de: Erwachsenen-Level: nächstes.
+ja: 大人レベル：次。
+ko: 어른 레벨: 다음.
+zh: 成人级别：下一个。
+ru: Уровень взрослого: следующий.
+hi: वयस्क स्तर: अगला।
+it: Livello adulto: prossimo.
+
+speaker: Jake
+text: Ha! But chores teach responsibility and calm, believe it or not.
+pt: Ha! Mas as tarefas domésticas ensinam responsabilidade e calma, acredite ou não.
+es: ¡Ja! Pero las tareas enseñan responsabilidad y calma, créelo o no.
+fr: Ha ! Mais les tâches enseignent la responsabilité et le calme, crois-le ou non.
+de: Ha! Aber Hausarbeiten lehren Verantwortung und Ruhe, glaub es oder nicht.
+ja: ハ！でも家事は責任感と落ち着きを教えてくれるんだ、信じるか信じないかは君次第だけど。
+ko: 하! 하지만 집안일은 책임감과 평온함을 가르쳐줘, 믿든 안 믿든.
+zh: 哈！但家务教会责任和平静，信不信由你。
+ru: Ха! Но домашние дела учат ответственности и спокойствию, верь или не верь.
+hi: हा! लेकिन काम जिम्मेदारी और शांति सिखाते हैं, मानो या न मानो।
+it: Ah! Ma le faccende insegnano responsabilità e calma, che tu ci creda o no.
+
+speaker: Mike
+text: I can see that. They're a form of mindful self-care if you let them be.
+pt: Consigo ver isso. São uma forma de autocuidado consciente, se você deixar.
+es: Puedo ver eso. Son una forma de autocuidado consciente si lo permites.
+fr: Je peux voir ça. C'est une forme de soin de soi conscient si tu le permets.
+de: Das kann ich sehen. Sie sind eine Form bewusster Selbstfürsorge, wenn du es zulässt.
+ja: それは分かる。許可すれば、意識的なセルフケアの一形態だ。
+ko: 그걸 알 수 있어. 허용한다면 의식적인 자기 관리의 한 형태야.
+zh: 我能看出来。如果你允许的话，它们是一种有意识的自我照顾形式。
+ru: Я это вижу. Это форма осознанной заботы о себе, если ты это позволяешь.
+hi: मैं यह देख सकता हूं। यदि आप इसकी अनुमति दें तो ये सचेत आत्म-देखभाल का एक रूप हैं।
+it: Posso vederlo. Sono una forma di cura di sé consapevole se glielo permetti.
+
+speaker: Jake
+text: Exactly. Plus, a clean space = cleaner mind.
+pt: Exatamente. Além disso, um espaço limpo = mente mais limpa.
+es: Exactamente. Además, un espacio limpio = mente más clara.
+fr: Exactement. De plus, un espace propre = un esprit plus clair.
+de: Genau. Außerdem, sauberer Raum = klarerer Geist.
+ja: その通り。それに、きれいな空間＝より明晰な心。
+ko: 정확해. 게다가, 깨끗한 공간 = 더 맑은 마음.
+zh: 完全正确。另外，干净的空间=更清晰的头脑。
+ru: Точно. Плюс, чистое пространство = более ясный ум.
+hi: बिल्कुल। इसके अलावा, साफ जगह = साफ दिमाग।
+it: Esattamente. Inoltre, spazio pulito = mente più chiara.
+
+speaker: Mike
+text: I'll buy into that—starting with the dishes tonight.
+pt: Vou comprar essa ideia—começando com a louça hoje à noite.
+es: Compraré esa idea—empezando con los platos esta noche.
+fr: J'achète cette idée—en commençant par la vaisselle ce soir.
+de: Ich kaufe diese Idee—angefangen mit dem Geschirr heute Abend.
+ja: その考えを買うよ—今夜は皿洗いから始めよう。
+ko: 그 아이디어를 받아들일게—오늘 밤 설거지부터 시작해서.
+zh: 我接受这个想法——今晚从洗碗开始。
+ru: Я покупаю эту идею—начиная с посуды сегодня вечером.
+hi: मैं उस विचार को मानूंगा—आज रात बर्तनों से शुरुआत करके।
+it: Accetto quell'idea—iniziando con i piatti stasera.
+
+speaker: Jake
+text: Baby steps, my friend. Baby steps.
+pt: Devagar, meu amigo. Devagar.
+es: Paso a paso, mi amigo. Paso a paso.
+fr: Petit à petit, mon ami. Petit à petit.
+de: Schritt für Schritt, mein Freund. Schritt für Schritt.
+ja: 一歩ずつ、友よ。一歩ずつ。
+ko: 한 걸음씩, 친구야. 한 걸음씩.
+zh: 一步一步，我的朋友。一步一步。
+ru: Шаг за шагом, мой друг. Шаг за шагом.
+hi: धीरे-धीरे, मेरे दोस्त। धीरे-धीरे।
+it: Passo dopo passo, amico mio. Passo dopo passo.

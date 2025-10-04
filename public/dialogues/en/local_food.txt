@@ -1,0 +1,247 @@
+title: Local Cuisine
+speaker: Ana
+text: Mike, tried any local dishes worth remembering lately?
+pt: Mike, experimentou algum prato local que valha a pena lembrar ultimamente?
+es: Mike, ¿has probado algún plato local que valga la pena recordar últimamente?
+fr: Mike, as-tu goûté des plats locaux mémorables récemment ?
+de: Mike, hast du in letzter Zeit lokale Gerichte probiert, die es wert sind, sich daran zu erinnern?
+ja: マイク、最近記憶に残る地元料理を試した？
+ko: 마이크, 최근에 기억할 만한 현지 요리를 먹어봤어?
+zh: 迈克，最近尝试过什么值得记住的当地菜吗？
+ru: Майк, пробовал ли ты недавно местные блюда, которые стоит запомнить?
+hi: माइक, हाल ही में कोई स्थानीय व्यंजन आजमाया है जो याद रखने योग्य हो?
+it: Mike, hai provato qualche piatto locale che valga la pena ricordare ultimamente?
+
+speaker: Mike
+text: Actually, yes! That spicy seafood stew in New Orleans blew my mind.
+pt: Na verdade, sim! Aquele ensopado de frutos do mar picante em Nova Orleans me surpreendeu muito.
+es: ¡En realidad, sí! Ese guiso de mariscos picantes en Nueva Orleans me voló la mente.
+fr: En fait, oui ! Ce ragoût de fruits de mer épicé à la Nouvelle-Orléans m'a époustouflé.
+de: Tatsächlich, ja! Dieser würzige Meeresfrüchte-Eintopf in New Orleans hat mich umgehauen.
+ja: 実は、そうなんだ！ニューオーリンズのスパイシーなシーフードシチューは本当に驚いた。
+ko: 사실, 그래! 뉴올리언스의 그 매운 해산물 스튜는 정말 놀라웠어.
+zh: 实际上，是的！新奥尔良的那道辣海鲜炖菜让我印象深刻。
+ru: На самом деле, да! То острое рагу из морепродуктов в Новом Орлеане просто поразило меня.
+hi: वास्तव में, हां! न्यू ऑर्लियन्स में वह मसालेदार सीफूड स्टू ने मेरा दिमाग उड़ा दिया।
+it: In realtà, sì! Quello stufato di frutti di mare piccante a New Orleans mi ha fatto impazzire.
+
+speaker: Ana
+text: Yum! I've been diving into street food around Manila—it's a flavor explosion.
+pt: Hum! Tenho me aprofundado na comida de rua em Manila—é uma explosão de sabores.
+es: ¡Mm! He estado explorando la comida callejera en Manila—es una explosión de sabores.
+fr: Miam ! Je me suis plongée dans la street food autour de Manille—c'est une explosion de saveurs.
+de: Lecker! Ich habe mich in das Straßenessen rund um Manila vertieft—es ist eine Geschmacksexplosion.
+ja: おいしそう！マニラ周辺のストリートフードに夢中になってるの—味の爆発よ。
+ko: 맛있겠다! 마닐라 주변의 길거리 음식에 빠져있어—맛의 폭발이야.
+zh: 好吃！我一直在探索马尼拉周围的街头食物——这是一场味觉爆炸。
+ru: Вкусно! Я погрузилась в уличную еду вокруг Манилы—это взрыв вкусов.
+hi: यम! मैं मनीला के आसपास स्ट्रीट फूड में डूबी हुई हूं—यह स्वाद का विस्फोट है।
+it: Che buono! Mi sono immersa nello street food intorno a Manila—è un'esplosione di sapori.
+
+speaker: Mike
+text: Street food is where real culture shines.
+pt: A comida de rua é onde a cultura real brilha.
+es: La comida callejera es donde brilla la cultura real.
+fr: La street food, c'est là où la vraie culture brille.
+de: Straßenessen ist dort, wo echte Kultur glänzt.
+ja: ストリートフードこそ本当の文化が輝く場所だ。
+ko: 길거리 음식이야말로 진짜 문화가 빛나는 곳이야.
+zh: 街头食物是真正文化闪耀的地方。
+ru: Уличная еда — это то место, где сияет настоящая культура.
+hi: स्ट्रीट फूड वह जगह है जहां असली संस्कृति चमकती है।
+it: Lo street food è dove brilla la vera cultura.
+
+speaker: Ana
+text: Exactly. Have you picked up any cooking tips?
+pt: Exatamente. Você aprendeu alguma dica de culinária?
+es: Exactamente. ¿Has aprendido algún consejo de cocina?
+fr: Exactement. As-tu appris des astuces de cuisine ?
+de: Genau. Hast du irgendwelche Kochtipps aufgeschnappt?
+ja: その通り。何か料理のコツを覚えた？
+ko: 정확해. 요리 팁을 배운 게 있어?
+zh: 没错。你学到什么烹饪技巧了吗？
+ru: Точно. Ты подхватил какие-нибудь кулинарные советы?
+hi: बिल्कुल। क्या आपने कोई खाना पकाने की टिप्स सीखी हैं?
+it: Esatto. Hai imparato qualche consiglio di cucina?
+
+speaker: Mike
+text: Yeah, a few recipes from market vendors and family cooks.
+pt: Sim, algumas receitas de vendedores do mercado e cozinheiros familiares.
+es: Sí, algunas recetas de vendedores del mercado y cocineros familiares.
+fr: Ouais, quelques recettes de vendeurs du marché et de cuisiniers familiaux.
+de: Ja, ein paar Rezepte von Marktverkäufern und Familienköchen.
+ja: うん、市場の売り手や家庭料理人からいくつかレシピを。
+ko: 응, 시장 상인들과 가정 요리사들로부터 몇 가지 레시피를.
+zh: 是的，从市场摊贩和家庭厨师那里学了一些食谱。
+ru: Да, несколько рецептов от торговцев на рынке и семейных поваров.
+hi: हां, बाजार के विक्रेताओं और पारिवारिक रसोइयों से कुछ व्यंजन।
+it: Sì, alcune ricette da venditori del mercato e cuochi di famiglia.
+
+speaker: Ana
+text: I love learning through food. It’s like tasting history.
+pt: Adoro aprender através da comida. É como saborear a história.
+es: Me encanta aprender a través de la comida. Es como saborear la historia.
+fr: J'adore apprendre à travers la nourriture. C'est comme goûter l'histoire.
+de: Ich liebe es, durch Essen zu lernen. Es ist wie Geschichte zu schmecken.
+ja: 食べ物を通して学ぶのが大好き。歴史を味わうようなもの。
+ko: 음식을 통해 배우는 걸 좋아해. 역사를 맛보는 것 같아.
+zh: 我喜欢通过食物学习。就像品尝历史一样。
+ru: Я люблю учиться через еду. Это как пробовать историю на вкус.
+hi: मुझे खाने के माध्यम से सीखना पसंद है। यह इतिहास का स्वाद लेने जैसा है।
+it: Adoro imparare attraverso il cibo. È come assaggiare la storia.
+
+speaker: Mike
+text: So true. Ingredients tell stories.
+pt: Muito verdade. Ingredientes contam histórias.
+es: Muy cierto. Los ingredientes cuentan historias.
+fr: Très vrai. Les ingrédients racontent des histoires.
+de: So wahr. Zutaten erzählen Geschichten.
+ja: その通り。材料は物語を語る。
+ko: 정말 그래. 재료들이 이야기를 들려줘.
+zh: 非常正确。食材会讲故事。
+ru: Очень верно. Ингредиенты рассказывают истории.
+hi: बहुत सच। सामग्री कहानियां कहती है।
+it: Verissimo. Gli ingredienti raccontano storie.
+
+speaker: Ana
+text: Have you had any food fails on your trips?
+pt: Você teve algum fracasso alimentar em suas viagens?
+es: ¿Has tenido algún fracaso alimenticio en tus viajes?
+fr: As-tu eu des échecs alimentaires lors de tes voyages ?
+de: Hattest du schon mal Essensmisserfolge auf deinen Reisen?
+ja: 旅行で食べ物の失敗をしたことはある？
+ko: 여행에서 음식 실패를 한 적이 있어?
+zh: 你在旅行中有过食物失败的经历吗？
+ru: Были ли у тебя пищевые неудачи в путешествиях?
+hi: क्या आपकी यात्राओं में कोई खाना खराब हुआ है?
+it: Hai mai avuto fallimenti culinari nei tuoi viaggi?
+
+speaker: Mike
+text: Once tried something that turned out too spicy to handle!
+pt: Uma vez tentei algo que acabou sendo picante demais para aguentar!
+es: ¡Una vez probé algo que resultó demasiado picante para soportar!
+fr: Une fois j'ai goûté quelque chose qui s'est avéré trop épicé à supporter !
+de: Einmal habe ich etwas probiert, das zu scharf war, um es zu ertragen!
+ja: 一度、耐えられないほど辛いものを試したことがある！
+ko: 한 번 너무 매워서 견딜 수 없는 걸 먹어본 적이 있어!
+zh: 有一次我尝试了一些太辣而无法忍受的东西！
+ru: Однажды я попробовал что-то, что оказалось слишком острым, чтобы выдержать!
+hi: एक बार मैंने कुछ ऐसा आजमाया जो सहन करने के लिए बहुत मसालेदार निकला!
+it: Una volta ho provato qualcosa che si è rivelato troppo piccante da sopportare!
+
+speaker: Ana
+text: Haha, been there. How about adventuring into vegan local dishes?
+pt: Haha, já passei por isso. Que tal se aventurar em pratos locais veganos?
+es: Jaja, he estado allí. ¿Qué tal aventurarse en platos locales veganos?
+fr: Haha, j'y suis passée. Que dirais-tu de t'aventurer dans les plats locaux végétaliens ?
+de: Haha, da war ich auch schon. Wie wäre es mit einem Abenteuer in lokale vegane Gerichte?
+ja: ハハ、そういう経験ある。地元のビーガン料理に挑戦するのはどう？
+ko: 하하, 나도 그런 적 있어. 현지 비건 요리에 도전해보는 건 어때?
+zh: 哈哈，我也经历过。尝试当地素食菜肴怎么样？
+ru: Хаха, я тоже через это проходила. Как насчет приключения с местными веганскими блюдами?
+hi: हाहा, मैं वहां गई हूं। स्थानीय शाकाहारी व्यंजनों में रोमांच के बारे में क्या ख्याल है?
+it: Ahah, ci sono passata. Che ne dici di avventurarti nei piatti locali vegani?
+
+speaker: Mike
+text: Tough in some places but rewarding when you find them.
+pt: Difícil em alguns lugares, mas recompensador quando você os encontra.
+es: Difícil en algunos lugares pero gratificante cuando los encuentras.
+fr: Difficile dans certains endroits mais gratifiant quand on les trouve.
+de: Schwierig an manchen Orten, aber lohnend, wenn man sie findet.
+ja: 場所によっては難しいけど、見つけたときは報われる。
+ko: 어떤 곳에서는 어렵지만 찾았을 때는 보람이 있어.
+zh: 在某些地方很困难，但找到时很有收获。
+ru: Сложно в некоторых местах, но вознаграждающе, когда находишь их.
+hi: कुछ जगहों पर कठिन लेकिन जब आप उन्हें पाते हैं तो फायदेमंद।
+it: Difficile in alcuni posti ma gratificante quando li trovi.
+
+speaker: Ana
+text: It pushes your palate and senses.
+pt: Isso expande seu paladar e sentidos.
+es: Empuja tu paladar y sentidos.
+fr: Ça pousse ton palais et tes sens.
+de: Es fordert deinen Gaumen und deine Sinne heraus.
+ja: 味覚と感覚を押し広げる。
+ko: 미각과 감각을 밀어붙여.
+zh: 推动你的味觉和感官。
+ru: Это расширяет твой вкус и чувства.
+hi: यह आपके स्वाद और इंद्रियों को धक्का देता है।
+it: Spinge il tuo palato e i tuoi sensi.
+
+speaker: Mike
+text: Have you tried fusion foods combining local and international flavors?
+pt: Você já experimentou comidas de fusão que combinam sabores locais e internacionais?
+es: ¿Has probado comidas de fusión que combinan sabores locales e internacionales?
+fr: As-tu essayé des cuisines fusion qui combinent des saveurs locales et internationales ?
+de: Hast du schon mal Fusionsküche probiert, die lokale und internationale Aromen kombiniert?
+ja: 地元と国際的な味を組み合わせたフュージョン料理を試したことはある？
+ko: 현지와 국제적인 맛을 결합한 퓨전 음식을 먹어본 적 있어?
+zh: 你试过结合当地和国际风味的融合菜吗？
+ru: Ты пробовал фьюжн-кухню, которая сочетает местные и международные вкусы?
+hi: क्या आपने फ्यूजन खाना आजमाया है जो स्थानीय और अंतर्राष्ट्रीय स्वादों को मिलाता है?
+it: Hai mai provato cibi fusion che combinano sapori locali e internazionali?
+
+speaker: Ana
+text: Love them! They’re a delicious mashup of cultures.
+pt: Adoro! São uma mistura deliciosa de culturas.
+es: ¡Me encantan! Son una mezcla deliciosa de culturas.
+fr: Je les adore ! C'est un délicieux mélange de cultures.
+de: Ich liebe sie! Sie sind eine köstliche Mischung aus Kulturen.
+ja: 大好き！文化の美味しいミックスよ。
+ko: 좋아해! 문화의 맛있는 혼합이야.
+zh: 我喜欢它们！它们是文化的美味混合。
+ru: Обожаю их! Это вкусная смесь культур.
+hi: मुझे वे पसंद हैं! वे संस्कृतियों का स्वादिष्ट मिश्रण हैं।
+it: Li adoro! Sono un delizioso mix di culture.
+
+speaker: Mike
+text: Food unites us like nothing else.
+pt: A comida nos une como nada mais.
+es: La comida nos une como nada más.
+fr: La nourriture nous unit comme rien d'autre.
+de: Essen verbindet uns wie nichts anderes.
+ja: 食べ物は他の何よりも私たちを結びつける。
+ko: 음식은 다른 어떤 것보다 우리를 하나로 만들어.
+zh: 食物像其他任何东西一样将我们团结在一起。
+ru: Еда объединяет нас как ничто другое.
+hi: खाना हमें किसी और चीज़ की तरह एकजुट करता है।
+it: Il cibo ci unisce come nient'altro.
+
+speaker: Ana
+text: Couldn’t agree more. Planning your next culinary adventure?
+pt: Não poderia concordar mais. Planejando sua próxima aventura culinária?
+es: No podría estar más de acuerdo. ¿Planeando tu próxima aventura culinaria?
+fr: Je ne pourrais pas être plus d'accord. Tu planifies ta prochaine aventure culinaire ?
+de: Ich könnte nicht mehr zustimmen. Planst du dein nächstes kulinarisches Abenteuer?
+ja: これ以上同感できない。次の料理の冒険を計画してる？
+ko: 더 동감할 수 없어. 다음 요리 모험을 계획하고 있어?
+zh: 我完全同意。在计划你的下一次美食冒险吗？
+ru: Не могу больше согласиться. Планируешь свое следующее кулинарное приключение?
+hi: मैं और अधिक सहमत नहीं हो सकता। अपने अगले पाक साहसिक कार्य की योजना बना रहे हैं?
+it: Non potrei essere più d'accordo. Stai pianificando la tua prossima avventura culinaria?
+
+speaker: Mike
+text: Definitely. Maybe Thailand for those street-side noodles.
+pt: Definitivamente. Talvez Tailândia por aqueles noodles de rua.
+es: Definitivamente. Tal vez Tailandia por esos fideos callejeros.
+fr: Définitivement. Peut-être la Thaïlande pour ces nouilles de rue.
+de: Definitiv. Vielleicht Thailand für diese Straßennudeln.
+ja: 絶対に。あのストリートヌードルのためにタイかも。
+ko: 확실히. 그 길거리 국수 때문에 태국일지도.
+zh: 绝对的。也许是泰国，为了那些街边面条。
+ru: Определенно. Может быть, Таиланд ради той уличной лапши.
+hi: निश्चित रूप से। शायद उन स्ट्रीट-साइड नूडल्स के लिए थाईलैंड।
+it: Assolutamente. Forse la Thailandia per quei noodles di strada.
+
+speaker: Ana
+text: Count me in! Foodie trips rock.
+pt: Me inclua! Viagens gastronômicas são incríveis.
+es: ¡Cuenta conmigo! Los viajes gastronómicos son geniales.
+fr: Compte sur moi ! Les voyages gastronomiques sont géniaux.
+de: Zähl mich dazu! Kulinarische Reisen sind großartig.
+ja: 私も入れて！グルメ旅行は最高。
+ko: 나도 포함시켜! 미식 여행은 최고야.
+zh: 算我一个！美食之旅太棒了。
+ru: Считай меня! Гастрономические путешествия потрясающие.
+hi: मुझे गिनती में शामिल करें! खाना यात्राएं बहुत बढ़िया हैं।
+it: Conta su di me! I viaggi gastronomici sono fantastici.

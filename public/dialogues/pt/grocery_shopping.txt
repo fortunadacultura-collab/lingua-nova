@@ -1,0 +1,7 @@
+TITLE: Grocery Shopping
+Ana: Muito verdade. As idas ao supermercado agora parecem menos uma obrigação e mais uma aventura.
+Carlos: Exato! E ainda economizamos dinheiro comprando ingredientes frescos.
+Ana: Preciso pegar leite, pão e algumas frutas.
+Carlos: Vou buscar os vegetais. Nos encontramos no caixa?
+Ana: Perfeito! Até já.
+

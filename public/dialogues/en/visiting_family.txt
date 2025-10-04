@@ -1,0 +1,234 @@
+title: Visiting Family
+speaker: Mike
+text: Jake, do you visit your family often or are you more of a holiday-only type?
+pt: Jake, você visita sua família com frequência ou é mais do tipo que só vai nas festas?
+es: Jake, ¿visitas a tu familia a menudo o eres más de solo ir en las fiestas?
+fr: Jake, tu rends visite à ta famille souvent ou tu es plutôt du genre à n'y aller que pendant les vacances ?
+de: Jake, besuchst du deine Familie oft oder bist du eher der Typ, der nur an Feiertagen kommt?
+ja: ジェイク、家族をよく訪ねる？それとも休日だけのタイプ？
+ko: 제이크, 가족을 자주 방문해? 아니면 휴일에만 가는 타입이야?
+zh: 杰克，你经常拜访家人吗，还是只在假期才去的那种类型？
+ru: Джейк, ты часто навещаешь семью или ты из тех, кто приезжает только на праздники?
+hi: जेक, क्या आप अपने परिवार से अक्सर मिलते हैं या आप केवल छुट्टियों में जाने वाले प्रकार के हैं?
+it: Jake, visiti spesso la tua famiglia o sei più del tipo che va solo durante le feste?
+
+speaker: Jake
+text: I try to visit at least once a month—family time keeps me grounded.
+pt: Eu tento visitar pelo menos uma vez por mês—o tempo em família me mantém centrado.
+es: Intento visitar al menos una vez al mes—el tiempo en familia me mantiene con los pies en la tierra.
+fr: J'essaie de rendre visite au moins une fois par mois—le temps en famille me garde les pieds sur terre.
+de: Ich versuche mindestens einmal im Monat zu besuchen—Familienzeit hält mich geerdet.
+ja: 月に少なくとも一度は訪ねるようにしてる—家族との時間が僕を地に足をつけさせてくれる。
+ko: 적어도 한 달에 한 번은 방문하려고 해—가족과의 시간이 나를 현실적으로 만들어줘.
+zh: 我尽量每月至少拜访一次——家庭时光让我保持脚踏实地。
+ru: Стараюсь навещать хотя бы раз в месяц—семейное время держит меня в тонусе.
+hi: मैं कम से कम महीने में एक बार मिलने की कोशिश करता हूं—पारिवारिक समय मुझे जमीन से जुड़ा रखता है।
+it: Cerco di visitare almeno una volta al mese—il tempo in famiglia mi tiene con i piedi per terra.
+
+speaker: Mike
+text: I get that. For me, it tends to be packed around holidays due to crazy schedules.
+pt: Eu entendo isso. Para mim, tende a ser concentrado em torno dos feriados devido a agendas malucas.
+es: Lo entiendo. Para mí, tiende a estar concentrado alrededor de las fiestas debido a horarios locos.
+fr: Je comprends ça. Pour moi, ça tend à être concentré autour des vacances à cause d'horaires de fou.
+de: Das verstehe ich. Bei mir konzentriert es sich meist auf die Feiertage wegen verrückter Zeitpläne.
+ja: それは分かる。僕の場合、忙しいスケジュールのせいで休日の周りに集中しがちなんだ。
+ko: 그거 이해해. 나는 미친 스케줄 때문에 휴일 주변에 몰리는 경향이 있어.
+zh: 我理解。对我来说，由于疯狂的日程安排，往往集中在假期前后。
+ru: Понимаю. У меня это обычно концентрируется вокруг праздников из-за сумасшедшего расписания.
+hi: मैं समझता हूं। मेरे लिए, पागल शेड्यूल के कारण यह छुट्टियों के आसपास केंद्रित होता है।
+it: Capisco. Per me, tende a concentrarsi intorno alle feste a causa di orari folli.
+
+speaker: Jake
+text: It can get hectic, but those moments are precious.
+pt: Pode ficar caótico, mas esses momentos são preciosos.
+es: Puede volverse agitado, pero esos momentos son preciosos.
+fr: Ça peut devenir mouvementé, mais ces moments sont précieux.
+de: Es kann hektisch werden, aber diese Momente sind kostbar.
+ja: 忙しくなることもあるけど、そういう瞬間は貴重だ。
+ko: 바쁠 수 있지만, 그런 순간들은 소중해.
+zh: 可能会变得忙乱，但那些时刻是珍贵的。
+ru: Может быть суматошно, но эти моменты драгоценны.
+hi: यह व्यस्त हो सकता है, लेकिन वे पल कीमती हैं।
+it: Può diventare frenetico, ma quei momenti sono preziosi.
+
+speaker: Mike
+text: Totally. My mom always cooks family favorites that bring everyone together.
+pt: Totalmente. Minha mãe sempre cozinha os favoritos da família que reúnem todos.
+es: Totalmente. Mi mamá siempre cocina los favoritos de la familia que reúnen a todos.
+fr: Totalement. Ma mère cuisine toujours les plats préférés de la famille qui rassemblent tout le monde.
+de: Absolut. Meine Mutter kocht immer die Lieblingsspeisen der Familie, die alle zusammenbringen.
+ja: その通り。母はいつも家族のお気に入りを作って、みんなを集めてくれる。
+ko: 완전히. 우리 엄마는 항상 모든 사람을 모이게 하는 가족이 좋아하는 음식을 요리해.
+zh: 完全同意。我妈妈总是做家庭最爱的菜，把大家聚在一起。
+ru: Полностью согласен. Моя мама всегда готовит семейные любимые блюда, которые объединяют всех.
+hi: बिल्कुल। मेरी मां हमेशा परिवार के पसंदीदा व्यंजन बनाती है जो सभी को एक साथ लाते हैं।
+it: Assolutamente. Mia madre cucina sempre i piatti preferiti della famiglia che riuniscono tutti.
+
+speaker: Jake
+text: Nothing beats home-cooked meals from mom's kitchen.
+pt: Nada supera as refeições caseiras da cozinha da mãe.
+es: Nada supera las comidas caseras de la cocina de mamá.
+fr: Rien ne vaut les repas faits maison de la cuisine de maman.
+de: Nichts geht über hausgemachte Mahlzeiten aus Mamas Küche.
+ja: お母さんの手料理に勝るものはない。
+ko: 엄마 부엌에서 나오는 집밥만한 게 없어.
+zh: 没有什么能比得上妈妈厨房里的家常菜。
+ru: Ничто не сравнится с домашней едой из маминой кухни.
+hi: मां की रसोई के घर के बने खाने से बेहतर कुछ नहीं।
+it: Niente batte i pasti fatti in casa dalla cucina della mamma.
+
+speaker: Mike
+text: Anyone tough to deal with at family gatherings?
+pt: Alguém difícil de lidar nas reuniões de família?
+es: ¿Alguien difícil de tratar en las reuniones familiares?
+fr: Quelqu'un de difficile à gérer lors des réunions de famille ?
+de: Jemand, der bei Familientreffen schwer zu handhaben ist?
+ja: 家族の集まりで扱いにくい人はいる？
+ko: 가족 모임에서 다루기 어려운 사람이 있어?
+zh: 家庭聚会上有难相处的人吗？
+ru: Есть ли кто-то, с кем трудно иметь дело на семейных собраниях?
+hi: पारिवारिक सभाओं में कोई कठिन व्यक्ति है?
+it: Qualcuno difficile da gestire nelle riunioni di famiglia?
+
+speaker: Jake
+text: Oh yeah, always a few characters. But hey, that's what makes it interesting.
+pt: Ah sim, sempre alguns personagens. Mas ei, é isso que torna interessante.
+es: Oh sí, siempre algunos personajes. Pero oye, eso es lo que lo hace interesante.
+fr: Oh oui, toujours quelques personnages. Mais bon, c'est ce qui rend les choses intéressantes.
+de: Oh ja, immer ein paar Charaktere. Aber hey, das macht es interessant.
+ja: ああ、いつも何人かキャラクターがいるよ。でも、それが面白くしてるんだ。
+ko: 아 그래, 항상 몇 명의 캐릭터들이 있어. 하지만 그게 흥미롭게 만드는 거야.
+zh: 哦是的，总有一些有趣的人物。但嘿，这就是让它变得有趣的原因。
+ru: О да, всегда есть несколько персонажей. Но эй, это то, что делает всё интересным.
+hi: हां, हमेशा कुछ किरदार होते हैं। लेकिन अरे, यही तो इसे दिलचस्प बनाता है।
+it: Oh sì, sempre qualche personaggio. Ma ehi, è quello che lo rende interessante.
+
+speaker: Mike
+text: True. Family dynamics can be complex but full of love.
+pt: Verdade. A dinâmica familiar pode ser complexa, mas cheia de amor.
+es: Cierto. La dinámica familiar puede ser compleja pero llena de amor.
+fr: C'est vrai. La dynamique familiale peut être complexe mais pleine d'amour.
+de: Stimmt. Die Familiendynamik kann komplex sein, aber voller Liebe.
+ja: その通り。家族の力学は複雑だけど、愛に満ちている。
+ko: 맞아. 가족 역학은 복잡할 수 있지만 사랑으로 가득해.
+zh: 没错。家庭动态可能很复杂，但充满了爱。
+ru: Верно. Семейная динамика может быть сложной, но полной любви.
+hi: सच है। पारिवारिक गतिशीलता जटिल हो सकती है लेकिन प्रेम से भरी होती है।
+it: Vero. Le dinamiche familiari possono essere complesse ma piene d'amore.
+
+speaker: Jake
+text: Exactly. How's your family doing lately?
+pt: Exatamente. Como está sua família ultimamente?
+es: Exactamente. ¿Cómo está tu familia últimamente?
+fr: Exactement. Comment va ta famille ces derniers temps ?
+de: Genau. Wie geht es deiner Familie in letzter Zeit?
+ja: その通り。最近家族はどう？
+ko: 정확히. 최근에 가족은 어때?
+zh: 没错。你的家人最近怎么样？
+ru: Точно. Как дела у твоей семьи в последнее время?
+hi: बिल्कुल। आजकल आपका परिवार कैसा है?
+it: Esatto. Come sta la tua famiglia ultimamente?
+
+speaker: Mike
+text: Good, thanks. Big birthday coming up for my sister, planning a surprise bash.
+pt: Bem, obrigado. Um grande aniversário chegando para minha irmã, planejando uma festa surpresa.
+es: Bien, gracias. Se acerca un gran cumpleaños para mi hermana, planeando una fiesta sorpresa.
+fr: Bien, merci. Un grand anniversaire arrive pour ma sœur, je planifie une fête surprise.
+de: Gut, danke. Ein großer Geburtstag steht für meine Schwester an, ich plane eine Überraschungsparty.
+ja: 元気だよ、ありがとう。妹の大きな誕生日が来るから、サプライズパーティーを計画してるんだ。
+ko: 잘 지내, 고마워. 내 여동생의 큰 생일이 다가와서 깜짝 파티를 계획하고 있어.
+zh: 很好，谢谢。我妹妹的大生日要到了，正在计划一个惊喜派对。
+ru: Хорошо, спасибо. У моей сестры скоро большой день рождения, планирую вечеринку-сюрприз.
+hi: अच्छा है, धन्यवाद। मेरी बहन का बड़ा जन्मदिन आ रहा है, एक सरप्राइज पार्टी की योजना बना रहा हूं।
+it: Bene, grazie. Si avvicina un grande compleanno per mia sorella, sto pianificando una festa a sorpresa.
+
+speaker: Jake
+text: Nice! Those events create lifelong memories.
+pt: Legal! Esses eventos criam memórias para a vida toda.
+es: ¡Qué bien! Esos eventos crean recuerdos para toda la vida.
+fr: Super ! Ces événements créent des souvenirs pour la vie.
+de: Toll! Diese Ereignisse schaffen lebenslange Erinnerungen.
+ja: いいね！そういうイベントは一生の思い出を作るよ。
+ko: 좋네! 그런 이벤트들은 평생 기억을 만들어.
+zh: 太好了！这些活动创造终生的回忆。
+ru: Здорово! Такие события создают воспоминания на всю жизнь.
+hi: बहुत बढ़िया! ये घटनाएं जीवन भर की यादें बनाती हैं।
+it: Fantastico! Questi eventi creano ricordi per tutta la vita.
+
+speaker: Mike
+text: They sure do. Visiting family is a nice reminder of where I come from.
+pt: Eles realmente criam. Visitar a família é um bom lembrete de onde eu venho.
+es: Sí que lo hacen. Visitar a la familia es un buen recordatorio de de dónde vengo.
+fr: Ils le font vraiment. Rendre visite à la famille est un bon rappel d'où je viens.
+de: Das tun sie wirklich. Die Familie zu besuchen ist eine gute Erinnerung daran, woher ich komme.
+ja: 本当にそうだね。家族を訪ねることは、自分がどこから来たかを思い出させてくれる。
+ko: 정말 그래. 가족을 방문하는 것은 내가 어디서 왔는지 좋은 상기시켜줘.
+zh: 确实如此。拜访家人是很好的提醒，让我记住自己来自哪里。
+ru: Они действительно создают. Навещать семью — это хорошее напоминание о том, откуда я родом.
+hi: वे वास्तव में बनाती हैं। परिवार से मिलना इस बात की अच्छी याद दिलाता है कि मैं कहां से आया हूं।
+it: Lo fanno davvero. Visitare la famiglia è un buon promemoria di dove vengo.
+
+speaker: Jake
+text: And the perfect way to recharge emotionally.
+pt: E a maneira perfeita de recarregar as energias emocionalmente.
+es: Y la forma perfecta de recargarse emocionalmente.
+fr: Et la façon parfaite de se ressourcer émotionnellement.
+de: Und der perfekte Weg, sich emotional aufzuladen.
+ja: そして感情的にリチャージする完璧な方法だ。
+ko: 그리고 감정적으로 재충전하는 완벽한 방법이야.
+zh: 也是情感上充电的完美方式。
+ru: И идеальный способ эмоционально перезарядиться.
+hi: और भावनात्मक रूप से रिचार्ज करने का सही तरीका।
+it: E il modo perfetto per ricaricarsi emotivamente.
+
+speaker: Mike
+text: Couldn't have said it better myself.
+pt: Não poderia ter dito melhor.
+es: No podría haberlo dicho mejor yo mismo.
+fr: Je n'aurais pas pu mieux le dire moi-même.
+de: Hätte es nicht besser sagen können.
+ja: 自分でもそれ以上うまく言えなかっただろう。
+ko: 나도 그보다 더 잘 말할 수 없었을 거야.
+zh: 我自己也说不出更好的了。
+ru: Я бы сам не смог сказать лучше.
+hi: मैं खुद इससे बेहतर नहीं कह सकता था।
+it: Non avrei potuto dirlo meglio io stesso.
+
+speaker: Jake
+text: When's your next visit?
+pt: Quando é sua próxima visita?
+es: ¿Cuándo es tu próxima visita?
+fr: Quand est ta prochaine visite ?
+de: Wann ist dein nächster Besuch?
+ja: 次の訪問はいつ？
+ko: 다음 방문은 언제야?
+zh: 你下次什么时候去？
+ru: Когда твой следующий визит?
+hi: आपकी अगली यात्रा कब है?
+it: Quando è la tua prossima visita?
+
+speaker: Mike
+text: Planning for next weekend—can't wait.
+pt: Planejando para o próximo fim de semana—mal posso esperar.
+es: Planeando para el próximo fin de semana—no puedo esperar.
+fr: Je planifie pour le week-end prochain—j'ai hâte.
+de: Plane für nächstes Wochenende—kann es kaum erwarten.
+ja: 来週末を計画してる—待ちきれないよ。
+ko: 다음 주말로 계획하고 있어—기다릴 수가 없어.
+zh: 计划下个周末去—等不及了。
+ru: Планирую на следующие выходные—не могу дождаться.
+hi: अगले सप्ताहांत की योजना बना रहा हूं—इंतजार नहीं कर सकता।
+it: Sto pianificando per il prossimo weekend—non vedo l'ora.
+
+speaker: Jake
+text: Sounds like a plan. Family first, always.
+pt: Parece um plano. Família em primeiro lugar, sempre.
+es: Suena como un plan. La familia primero, siempre.
+fr: Ça sonne comme un plan. La famille d'abord, toujours.
+de: Klingt nach einem Plan. Familie geht vor, immer.
+ja: いい計画だね。家族が第一、いつでも。
+ko: 좋은 계획 같아. 가족이 우선, 항상.
+zh: 听起来是个好计划。家庭第一，永远如此。
+ru: Звучит как план. Семья прежде всего, всегда.
+hi: एक अच्छी योजना लगती है। परिवार पहले, हमेशा।
+it: Sembra un buon piano. La famiglia prima di tutto, sempre.
